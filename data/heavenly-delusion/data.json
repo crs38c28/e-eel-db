@@ -1,0 +1,235 @@
+{
+  "lastModifiedDate": "2023-06-04",
+  "detail": {
+    "slug": "heavenly-delusion",
+    "series": {
+      "tongli": "2ea5fbc1-3030-e911-8d3a-00155d020a17",
+      "kobo": "gQTPAhWBTVGCr4nwPtCYGw",
+      "readmoo": 8299,
+      "bw": 13001,
+      "books": "A00000056353"
+    },
+    "title": "天國大魔境",
+    "originalTitle": "",
+    "authors": [
+      "石黑正數"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "冒險",
+      "懸疑解謎"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572626528",
+      "cover": "/heavenly-delusion/heavenly-delusion-1.webp",
+      "pages": 226,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "許多孩子們都生活在一個井井有條，四周被高牆環繞，內部綠意盎然卻有著莫名神秘感的環境下。他們被灌輸外界是個充滿怪物像是地獄的地方。另一方面，小丸跟貴留子這一對有著雇傭關係，看起來像是姊弟的搭檔，在成了廢墟的日本四處尋找一個人稱「天國」的地方。高牆裡的男孩‧時男某天接受到「你想到外面的外面去嗎？」的訊息，使得他開始想像外面究竟是什麼樣的世界，又將會給其他孩子們帶來什麼樣的影響呢？",
+      "platform": {
+        "tongli": {
+          "id": "5e4598c8-159b-479a-04af-08d7daa79500",
+          "date": "2020-04-14"
+        },
+        "kobo": {
+          "id": "0w4g_4k8pT-t1fTkdCZSsA",
+          "date": "2020-05-06"
+        },
+        "bw": {
+          "id": 87899,
+          "date": "2020-05-07"
+        },
+        "readmoo": {
+          "id": "210150135000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050147322",
+          "date": "2022-11-17",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-11",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572626535",
+      "cover": "/heavenly-delusion/heavenly-delusion-2.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小丸跟貴留子想要前往「番茄天國」而造訪草壁農園。但是，那裡並不是他們的目的地。小丸離開農園搭上渡輪，在船上知道貴留子的過去。時男聽到玖玖提起在學園出現沒有臉的小嬰兒。學園裡的大人們究竟隱瞞了什麼？未來的日本又發生了什麼事？這世界的謎團越來越啟人疑竇！",
+      "platform": {
+        "tongli": {
+          "id": "a97f8501-38e3-43b1-d911-08d80208f4f0",
+          "date": "2020-06-18"
+        },
+        "kobo": {
+          "id": "i4yvyWhCtD2JMcO7-IbBMA",
+          "date": "2020-07-01"
+        },
+        "bw": {
+          "id": 91287,
+          "date": "2020-07-02"
+        },
+        "readmoo": {
+          "id": "210150136000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050147323",
+          "date": "2022-11-17",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-11",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572644133",
+      "cover": "/heavenly-delusion/heavenly-delusion-3.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小丸跟貴留子回到東京，在一處有著許多帳棚的鎮上進行補給跟情報收集。他們在那裡得到關於不滅教團這個奇怪團體的情報。聽說那個教團有醫生，於是貴留子他們決定了目的地。多羅雄在學園陷入病危。孩子們唱歌跳舞祈禱多羅雄能夠恢復健康。而且，時男的身上也出現異狀，他躺在床上看見了亞思拉的幽靈。學園裡逐漸充滿了不安跟恐懼，另一方面小丸跟貴留子的戰鬥也變得越加激烈。",
+      "platform": {
+        "tongli": {
+          "id": "4dbe1199-39e6-4463-4652-08d9aaff89aa",
+          "date": "2021-11-22"
+        },
+        "kobo": {
+          "id": "60eVZ3TxdjaqdcozBdcWqw",
+          "date": "2021-12-16"
+        },
+        "bw": {
+          "id": 129026,
+          "date": "2021-12-16"
+        },
+        "readmoo": {
+          "id": "210210375000101",
+          "date": "2021-12-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050147324",
+          "date": "2022-11-17",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-11-19",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572653340",
+      "cover": "/heavenly-delusion/heavenly-delusion-4.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小丸跟貴留子一路追查能夠讓人們獲得永生的醫生傳聞，後來潛入不滅教團。在一棟「地下室飼養著食人者」的龐大建築物，2人陷入進退不得的窘境。在學園，時男的身體出現不明原因的狀況。加上自殺的學生‧阿斯拉的事，學園的過去逐漸明朗。外面世界與學園產生同步，謎團隨之解開，然而卻又出現了全新的謎團！",
+      "platform": {
+        "tongli": {
+          "id": "cd696d67-b004-4ed3-a144-08daa4e15a17",
+          "date": "2022-10-24"
+        },
+        "kobo": {
+          "id": "VrRpmAMJ5zOIXM8PvWGBrQ",
+          "date": "2022-11-17"
+        },
+        "bw": {
+          "id": 151612,
+          "date": "2022-11-17"
+        },
+        "readmoo": {
+          "id": "210255082000101",
+          "date": "2022-11-16",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050147325",
+          "date": "2022-11-17",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-18",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-04",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

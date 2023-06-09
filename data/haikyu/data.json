@@ -1,0 +1,2732 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "haikyu",
+    "series": {
+      "tongli": "922c132c-6a96-e811-a947-00155d020a17",
+      "kobo": "MjcjLoDHA1epBEVgKe3zTg",
+      "readmoo": 1868,
+      "bw": 1346,
+      "books": "A00000040443",
+      "pubu": {
+        "store": 4538213,
+        "id": "排球少年"
+      }
+    },
+    "title": "排球少年",
+    "originalTitle": "",
+    "authors": [
+      "古館春一"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "運動",
+      "校園",
+      "青春",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789863245346",
+      "cover": "/haikyu/haikyu-1.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向翔陽看了電視轉播後，被排球的魅力所吸引，參加了國中第一場也是最後一場的正式比賽。然而，他徹底地敗在別名「球場上的王者」的天才選手‧影山的手下。日向發誓報仇，考進烏野高中並加入排球社，看到國中的宿敵影山竟然考進同一所高中，遂向他挑戰。結果雖然展現一點才能，可是兩人的不和引發風波，惹惱了隊長！",
+      "platform": {
+        "tongli": {
+          "id": "cb4a366c-a6ee-428d-4f5f-08d601bfd2d1",
+          "date": "2015-07-27"
+        },
+        "kobo": {
+          "id": "D74xF5d9vDGI_lHSjPr8tw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10391,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121805000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102803",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340040,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789863245353",
+      "cover": "/haikyu/haikyu-2.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向和影山挑戰社內３對３的排球比賽！為了破解月島的身高優勢，兩人用快攻的搭擋攻擊來找尋勝利機會。影山為了把日向的能力做最大的利用，在最恰當的時機舉球給日向。兩人的力量產生相加效果時，名搭檔就此誕生!!",
+      "platform": {
+        "tongli": {
+          "id": "ebf86fe1-08c9-4fac-4f60-08d601bfd2d1",
+          "date": "2015-08-24"
+        },
+        "kobo": {
+          "id": "tf0nK43jMzOaCp4kbvVYNw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10392,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121806000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102804",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340041,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789863245360",
+      "cover": "/haikyu/haikyu-3.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "２年級的自由球員‧西谷的社團禁足期間結束，回到社團。但他說如果主攻手旭不歸隊，他也不回來。對主攻手懷有憧憬的日向，和影山一起去找旭…此時，烏野確定要與宿敵打一場練習賽？",
+      "platform": {
+        "tongli": {
+          "id": "ae04685e-8e7b-4105-4f61-08d601bfd2d1",
+          "date": "2015-09-09"
+        },
+        "kobo": {
+          "id": "IPaf2fuXKj2_8BLjkhVhGA",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10393,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121807000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102805",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340042,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789863248798",
+      "cover": "/haikyu/haikyu-4.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中排球社集訓最後一天，與宿敵音駒高中的練習賽開打！音駒緊迫盯人的接球技術和舉球員．孤爪的觀察力發威，令日向和影山的快攻遇到阻撓，終於被攔網了…!?",
+      "platform": {
+        "tongli": {
+          "id": "903e1f75-2a32-43c7-4f62-08d601bfd2d1",
+          "date": "2015-09-16"
+        },
+        "kobo": {
+          "id": "rzLckvlzzjCHFCRLmy87VA",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10394,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121808000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102806",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340043,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 175
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789863322290",
+      "cover": "/haikyu/haikyu-5.webp",
+      "pages": 208,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向等人拚命練習，準備參加高中盃預選！然而在賽程之中，同組的還有青葉城西和宿敵“鐵壁”伊達工業！不管對手是誰，都要打贏眼前的這一戰。新生的烏野排球社上戰場了！",
+      "platform": {
+        "tongli": {
+          "id": "e6c4a81f-38ba-40e9-4f63-08d601bfd2d1",
+          "date": "2015-09-23"
+        },
+        "kobo": {
+          "id": "Cw75C-110zuGucTUjg9ysQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10395,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121809000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102807",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340044,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 181
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789863325659",
+      "cover": "/haikyu/haikyu-6.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "面對以鐵壁般攔網為武器的伊達工，日向的“怪咖快攻”奏效，烏野高中先拿下一盤。可是，在具威脅性的攔網員‧青根的緊迫盯人的發威下，伊達工的防禦更加堅固！經過一番攻防，烏野終於來到決勝分!?",
+      "platform": {
+        "tongli": {
+          "id": "78c77eaf-f4f4-40c2-4f64-08d601bfd2d1",
+          "date": "2015-10-02"
+        },
+        "kobo": {
+          "id": "68s7m4WcZT2psXooHhN-3A",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10396,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121810000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102808",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340045,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789863371977",
+      "cover": "/haikyu/haikyu-7.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中的第三場比賽對上青葉城西。烏野高中陷入苦戰，派出菅原代替影山擔任舉球員。在場邊觀察球隊的時間比任何人都久的菅原，慢慢地主導局勢！可是，面對對手的王牌及川的發球，仍找不到克服的線索!?",
+      "platform": {
+        "tongli": {
+          "id": "f310227c-9f67-4b26-4f65-08d601bfd2d1",
+          "date": "2015-10-16"
+        },
+        "kobo": {
+          "id": "e5Z8TUYpUzq_0FyOxc845A",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10397,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121811000101",
+          "date": "2019-12-12",
+          "version": "2.002"
+        },
+        "books": {
+          "id": "E050102809",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340046,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863376781",
+      "cover": "/haikyu/haikyu-8.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中對青葉城西的比賽，在最後一盤仍然比得不相上下。想要改變局勢的烏野陣營，派一年級的板凳球員山口上場？在效果出乎預料的秘策之下，為比賽添加變數。“眼前的這一球就等於全部”，日向等人的信念，化為不讓球落地的力量！在激戰中佔上風，抓住勝利的是哪一方呢？",
+      "platform": {
+        "tongli": {
+          "id": "dc751ff7-c109-4b13-4f66-08d601bfd2d1",
+          "date": "2015-11-04"
+        },
+        "kobo": {
+          "id": "k47HEOtaTTqrY50m-dp9hQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10398,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121812000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102810",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340047,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863482291",
+      "cover": "/haikyu/haikyu-9.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中排球社把輸給青葉城西的不甘心化為動力，樹立新的目標，開始前進。遠征東京之行定案，眾人興高采烈之時，在前面等待的是期末考？分數不及格，就無法去遠征……極可能不及格的日向、影山、田中、西谷的命運如何？",
+      "platform": {
+        "tongli": {
+          "id": "5e4d0ec1-c05b-4611-4f67-08d601bfd2d1",
+          "date": "2015-11-25"
+        },
+        "kobo": {
+          "id": "fqcMNp9bjjKzw896lvL58g",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10399,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121813000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102811",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340048,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 156
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-05",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789863488675",
+      "cover": "/haikyu/haikyu-10.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向宣稱自己做怪人快攻時，不會再閉眼睛。然而影山一口駁回他的提議，與追求進化的日向之間，產生了裂縫。在遠征東京之行中，烏野目睹了強隊的實力，他們能否更加進步呢？",
+      "platform": {
+        "tongli": {
+          "id": "cc5bf132-a1c4-463d-4f68-08d601bfd2d1",
+          "date": "2015-12-21"
+        },
+        "kobo": {
+          "id": "Bqp0Nxu4-DS9RVFEFsD4pQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10400,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121814000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102812",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340049,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 153
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-05",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789863652120",
+      "cover": "/haikyu/haikyu-11.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "遠征東京之行進入中盤，烏野的練習成果一點一點地開始表現出來。但是日向跟影山的新快攻練得不順利，日向感到焦躁…。追求空中戰力的日向，加入強校的主攻手‧木兔等人的自主練習，進行特訓…",
+      "platform": {
+        "tongli": {
+          "id": "06194a0d-02a7-41c4-4f69-08d601bfd2d1",
+          "date": "2016-01-04"
+        },
+        "kobo": {
+          "id": "EwwAn2gzPTa_Rsgi2hQgyw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10401,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121815000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102813",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340050,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789863657156",
+      "cover": "/haikyu/haikyu-12.webp",
+      "pages": 208,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "經歷了與強校球隊一同進行的東京宿營，烏野的每一位選手都有所進步，日向和影山的新快攻也漸漸成形，春高預選的日子終於到來！<br>把累積了一段時間的失敗不甘換成力量，初戰開始！！",
+      "platform": {
+        "tongli": {
+          "id": "21ee7407-4cc5-46f0-4f6a-08d601bfd2d1",
+          "date": "2016-02-02"
+        },
+        "kobo": {
+          "id": "0SNmZVOINjqCLumjbUd2UQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10402,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121816000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102814",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340051,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 170
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789863821243",
+      "cover": "/haikyu/haikyu-13.webp",
+      "pages": 216,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中通過春高一次預選，打進代表決定戰。第一場比賽對上以「玩耍」為打球座右銘的「祭典」隊．条善寺高中！！面對這群臨場反應快，攻擊方式無法歸類的對手，日向等人陷入苦戰···！？",
+      "platform": {
+        "tongli": {
+          "id": "ea549f45-5bb6-4c29-4f6b-08d601bfd2d1",
+          "date": "2016-03-07"
+        },
+        "kobo": {
+          "id": "erxTsSosDzimm_vFFME7tg",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10403,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121817000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102815",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340052,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 184
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789863824466",
+      "cover": "/haikyu/haikyu-14.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在代表決定戰半準決賽的時候，主將澤村受傷！只好離開球場。失去了球隊的壓陣大將的烏野高中，派出緣下來代替！？本書還收錄排球少年與「偽戀」的奇蹟合作漫畫「偽球！！」",
+      "platform": {
+        "tongli": {
+          "id": "474695c9-2036-4f63-4f6c-08d601bfd2d1",
+          "date": "2016-03-14"
+        },
+        "kobo": {
+          "id": "hVidExB9nzq-5M8ZN2Ke9g",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10404,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121818000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102816",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340053,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789864310982",
+      "cover": "/haikyu/haikyu-15.webp",
+      "pages": 216,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在緣下等人大顯身手之下，烏野高中打敗和久谷南高中，晉級代表決定戰準決賽。下個對手將是青葉城西與伊達工業之戰的勝出者！縣內第一舉球員‧及川率領的青城，與築起新鐵壁的伊達工，展開互不相讓的戰鬥。哪一方會獲勝呢？",
+      "platform": {
+        "tongli": {
+          "id": "956c30b6-e38f-44cb-4f6d-08d601bfd2d1",
+          "date": "2016-03-21"
+        },
+        "kobo": {
+          "id": "aF2uTvDpyTGZBY6RsDXJeA",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10405,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121819000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102817",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340054,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 186
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789864315109",
+      "cover": "/haikyu/haikyu-16.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野與青葉城西的代表決定戰準決賽的第２局，在青城領先的局面中，烏野派山口上場擔任關鍵發球員！上次比賽出過錯的山口，能否一掃失敗的記憶，扳回局勢呢？",
+      "platform": {
+        "tongli": {
+          "id": "5af153e5-9654-4152-4f6e-08d601bfd2d1",
+          "date": "2016-04-06"
+        },
+        "kobo": {
+          "id": "GF2RWAC_Kjmbx1J30H6KCA",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10406,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121820000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102818",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340055,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 171
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789864620609",
+      "cover": "/haikyu/haikyu-17.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "縣代表決定戰準決賽的第３局，青葉城西來到了賽末點。在失掉１分，比賽就結束的困境中，烏野以所有的實力面對最後一局。與宿敵再戰終於分出輸贏！本書還收錄頁數豐富的新畫內容！",
+      "platform": {
+        "tongli": {
+          "id": "e6628856-58aa-45b9-4f6f-08d601bfd2d1",
+          "date": "2016-04-13"
+        },
+        "kobo": {
+          "id": "EEYlynBU3DWy6EtHxMwGRw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10407,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121821000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102819",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340056,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789864623853",
+      "cover": "/haikyu/haikyu-18.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野高中打敗了宿敵青葉城西，與王者‧白鳥澤展開縣代表決定戰的決賽！面對超高中級主攻手‧牛島的絕對優勢，烏野一度苦戰，但以西谷的接扣球為契機，開始把握回攻的機會。他們能否因此對白鳥澤還以顏色呢？",
+      "platform": {
+        "tongli": {
+          "id": "e7ba46a8-ad47-4171-4f70-08d601bfd2d1",
+          "date": "2016-04-20"
+        },
+        "kobo": {
+          "id": "LMON-nHKjzeoSqlXG4Ynuw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10408,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121822000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102820",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340057,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789864627783",
+      "cover": "/haikyu/haikyu-19.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "縣代表決定戰決賽第２局。烏野推出以月島和西谷為中心的ｔｏｔａｌ　ｄｅｆｅｎｃｅ奏效，慢慢地追上王者‧白鳥澤！在互不相讓的攻防過程中，破壞僵持狀態的那１分，是誰拿下的呢？",
+      "platform": {
+        "tongli": {
+          "id": "5b1b64fd-c81c-4058-4f71-08d601bfd2d1",
+          "date": "2016-04-20"
+        },
+        "kobo": {
+          "id": "AmWLy9pyRz2vJC9gyzR9bw",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10409,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121823000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102821",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340058,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 183
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-15",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789863657927",
+      "cover": "/haikyu/haikyu-20.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "戰情告急的縣代表決定戰決賽第４局。沒有後路的烏野高中，繼月島之後，日向也在守備方面表現亮眼，與白鳥澤的猛攻激烈較勁。可是此時，影山的動作不太對勁！？烏野能否將無路可退的狀況加以翻盤呢？",
+      "platform": {
+        "tongli": {
+          "id": "01d9e29e-1be1-48b5-4f72-08d601bfd2d1",
+          "date": "2016-06-16"
+        },
+        "kobo": {
+          "id": "DlCPVW6-uzmdNa1evHCDyQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10410,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121824000101",
+          "date": "2019-12-12",
+          "version": "2.002"
+        },
+        "books": {
+          "id": "E050102822",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340059,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789864704026",
+      "cover": "/haikyu/haikyu-21.webp",
+      "pages": 216,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "縣代表決定戰的決賽，烏野對上白鳥澤，一共要比５局。烏野高中一度因為月島受傷，而少了守備的支柱，但其他人憑著對得分的堅持，拚命把比數拉近！超越極限，精疲力盡的激鬥，終於打到最後階段。縣代表決定戰的贏家是誰？",
+      "platform": {
+        "tongli": {
+          "id": "09bf8d74-0718-4074-4f73-08d601bfd2d1",
+          "date": "2016-08-16"
+        },
+        "kobo": {
+          "id": "aX-zIIKAKT62xJmUjE3HMg",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10411,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121825000101",
+          "date": "2019-12-12",
+          "version": "2.002"
+        },
+        "books": {
+          "id": "E050102823",
+          "date": "2021-09-02",
+          "version": "V001.0004"
+        },
+        "pubu": {
+          "id": 340060,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 189
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789864706716",
+      "cover": "/haikyu/haikyu-22.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "四校爭奪春高出場權的東京都代表決定戰開幕了！獲勝就確定打進全國。在準決賽交手的是音駒高中和梟谷學園。面對狀況絕佳的木兔，音駒高中派出夜久迎擊，由研磨擬定對策！能不能打倒木兔呢？",
+      "platform": {
+        "tongli": {
+          "id": "60f9fd1e-08eb-4ae1-4f74-08d601bfd2d1",
+          "date": "2016-10-05"
+        },
+        "kobo": {
+          "id": "0U_yrLd6GjaMMdz7G8BGEQ",
+          "date": "2017-03-31"
+        },
+        "bw": {
+          "id": 10412,
+          "date": "2017-04-07"
+        },
+        "readmoo": {
+          "id": "210121826000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102824",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340061,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789864821396",
+      "cover": "/haikyu/haikyu-23.webp",
+      "pages": 184,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "由於防守王牌‧夜久受傷，音駒一度陷入苦戰…相對於緊抓對手的守備漏洞一再出招的戶美學園，音駒的主將黑尾，認為有勝算，展現氣勢！拿到東京都代表最後一個名額的球隊是「貓」還是「蛇」呢？",
+      "platform": {
+        "tongli": {
+          "id": "2e54e8d8-b33c-4bf0-4f75-08d601bfd2d1",
+          "date": "2017-03-15"
+        },
+        "kobo": {
+          "id": "qnw2c_HqMDu_X258b4oiQw",
+          "date": "2017-07-24"
+        },
+        "bw": {
+          "id": 14244,
+          "date": "2017-07-20"
+        },
+        "readmoo": {
+          "id": "210121827000101",
+          "date": "2019-12-12",
+          "version": "2.002"
+        },
+        "books": {
+          "id": "E050102825",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340062,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 152
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789864824908",
+      "cover": "/haikyu/haikyu-24.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "即將參加春高的烏野排球社接到了一個消息，相關單位邀請影山參加全日本青年代表隊的強化集訓！相對於以選手身份領先在前的影山，一心求進步的日向，不請自來，出現在宮城縣的１年選拔強化集訓！？<br>",
+      "platform": {
+        "tongli": {
+          "id": "07dbc7d4-13f5-499e-4f76-08d601bfd2d1",
+          "date": "2017-08-16"
+        },
+        "kobo": {
+          "id": "CoTt7xvCOjGFsF9YQ5RBvQ",
+          "date": "2017-09-11"
+        },
+        "bw": {
+          "id": 16094,
+          "date": "2017-09-12"
+        },
+        "readmoo": {
+          "id": "210121828000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102826",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340063,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789864860722",
+      "cover": "/haikyu/haikyu-25.webp",
+      "pages": 182,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在宮城縣１年級選拔強化集訓中，日向雖然無法參加練習，但求知若渴地找機會學習!!另一方面，參加全日本青年代表隊強化集訓的影山，開始煩惱如何與集訓成員相處!?春高前的總驗收是與伊達工一戰，還收錄大篇幅的加畫…!!",
+      "platform": {
+        "tongli": {
+          "id": "320a0339-b01c-410f-4f77-08d601bfd2d1",
+          "date": "2017-09-05"
+        },
+        "kobo": {
+          "id": "dUlAsr5-CzeUwo4qxB46OQ",
+          "date": "2017-09-11"
+        },
+        "bw": {
+          "id": 16095,
+          "date": "2017-09-12"
+        },
+        "readmoo": {
+          "id": "210121829000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102827",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340064,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789864862887",
+      "cover": "/haikyu/haikyu-26.webp",
+      "pages": 188,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在與伊達工打練習賽時，影山與日向等人在磨合中仍然試圖改變。烏野的新武器，能否突破連超快攻都無法穿透的鐵壁呢!?過完新年，春季高中排球全國大會終於開幕──！",
+      "platform": {
+        "tongli": {
+          "id": "701a4901-16b2-4738-4f78-08d601bfd2d1",
+          "date": "2017-10-16"
+        },
+        "kobo": {
+          "id": "VTjY7SCdDzaqo03opQ1Oyg",
+          "date": "2017-11-13"
+        },
+        "bw": {
+          "id": 19781,
+          "date": "2017-11-14"
+        },
+        "readmoo": {
+          "id": "210121830000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102828",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340065,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789864867264",
+      "cover": "/haikyu/haikyu-27.webp",
+      "pages": 190,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "春季高中排球全國大會第一戰！對手是連續２年參賽的椿原學園。烏野不適應巨大的會場，一度陷入苦戰，後來影山適應了空間，用日向的怪人快攻令全場歡聲雷動！！可是椿原有一項出人意料的「秘密武器」！？",
+      "platform": {
+        "tongli": {
+          "id": "62432fec-1d3b-41eb-4f79-08d601bfd2d1",
+          "date": "2018-02-16"
+        },
+        "kobo": {
+          "id": "L7a5S8x-ozqIjBakCmulBw",
+          "date": "2018-03-12"
+        },
+        "bw": {
+          "id": 38170,
+          "date": "2018-03-13"
+        },
+        "readmoo": {
+          "id": "210121831000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102829",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340066,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789579652483",
+      "cover": "/haikyu/haikyu-28.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "烏野排球社在春季高中排球全國大會第一戰獲勝了！日向觀看音駒、梟谷的比賽，認識了國家代表隊候補選手‧鷗台高中的星海。看到有「小巨人」之稱的星海的場上表現，日向有何感想？種子校參賽，風波迭起的大會第二天開始！",
+      "platform": {
+        "tongli": {
+          "id": "b98fd1f3-fdb5-49f4-4f7a-08d601bfd2d1",
+          "date": "2018-03-05"
+        },
+        "kobo": {
+          "id": "ao3aTKspzDWd31AcSNsbLA",
+          "date": "2018-04-11"
+        },
+        "bw": {
+          "id": 39243,
+          "date": "2018-04-12"
+        },
+        "readmoo": {
+          "id": "210121832000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102830",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340067,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 156
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "第29集",
+      "isbn": "9789572603857",
+      "cover": "/haikyu/haikyu-29.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "冴子姊前來加油，烏野對稻荷崎之戰愈來愈精彩！<br>有高中第一舉球員之稱的宮侑用發球折磨西谷，不僅如此，侑還與雙胞胎兄弟‧治施展「怪人快攻」，凌駕日向等人之上！有沒有辦法超越高中盃亞軍「最強的挑戰者」呢？",
+      "platform": {
+        "tongli": {
+          "id": "5cc91cd1-489a-44c8-4f7b-08d601bfd2d1",
+          "date": "2018-05-09"
+        },
+        "kobo": {
+          "id": "c1RQ563hfTu2HW1ZiqacRw",
+          "date": "2018-06-13"
+        },
+        "bw": {
+          "id": 41562,
+          "date": "2018-06-14"
+        },
+        "readmoo": {
+          "id": "210121833000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102831",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340068,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 163
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "第30集",
+      "isbn": "9789572607497",
+      "cover": "/haikyu/haikyu-30.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "面對「最強的挑戰者」稻荷崎，烏野奮戰不懈！雖然打破僵局，拿到第１局的局末點，可是隊上唯一狀況欠佳的田中，成為對手的打擊目標！面對角名威力再增的攔網，田中的焦躁感愈來愈強烈，陷入前所未有的苦境…",
+      "platform": {
+        "tongli": {
+          "id": "3cdc1284-278b-4e62-a11c-08d67c2d39cc",
+          "date": "2019-01-15"
+        },
+        "kobo": {
+          "id": "vrv65R8J_Tat7aZ4m7Q1Vg",
+          "date": "2018-01-30"
+        },
+        "bw": {
+          "id": 55752,
+          "date": "2019-01-31"
+        },
+        "readmoo": {
+          "id": "210121834000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102832",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340069,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "第31集",
+      "isbn": "9789572611289",
+      "cover": "/haikyu/haikyu-31.webp",
+      "pages": 190,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "被宮侑的發球盯上，西谷一再接球失誤…！進入第２局，稻荷崎展開強烈攻勢，分數差距拉開，但烏野慢慢地削弱稻荷崎佔上風的局勢，然而…？能否掌握扳回一城的機會呢？西谷受到考驗的時刻！",
+      "platform": {
+        "tongli": {
+          "id": "08e5c01e-1937-409c-a11d-08d67c2d39cc",
+          "date": "2019-01-15"
+        },
+        "kobo": {
+          "id": "nhQQcKX2GTGKIqTckxV3hQ",
+          "date": "2018-01-30"
+        },
+        "bw": {
+          "id": 55753,
+          "date": "2019-01-31"
+        },
+        "readmoo": {
+          "id": "210121835000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102833",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340070,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 156
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "第32集",
+      "isbn": "9789572616680",
+      "cover": "/haikyu/haikyu-32.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "看到宮侑為球隊盡心盡力地舉球，稻荷崎高中大受鼓舞而找回氣勢！<br>最後一局後半，宮氏兄弟對處於劣勢的烏野展開更激烈的追擊，但是始料未及的一球阻止了他們…!?不斷重覆的學習與實踐，即將交出成果！",
+      "platform": {
+        "tongli": {
+          "id": "d4740dad-4fcc-4857-a11e-08d67c2d39cc",
+          "date": "2019-01-15"
+        },
+        "kobo": {
+          "id": "Yvga_jdZ3j2ePm9xwEUOKw",
+          "date": "2018-01-30"
+        },
+        "bw": {
+          "id": 55754,
+          "date": "2019-01-31"
+        },
+        "readmoo": {
+          "id": "210121836000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102834",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340071,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "第33集",
+      "isbn": "9789572617144",
+      "cover": "/haikyu/haikyu-33.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向與月島合作，再度成功擋下了稻荷崎高中的攻擊！只剩１分就分出勝負，滴水不漏的攻防在緊張氣氛中持續，就在雙方都想打出決定性的一球而加快攻擊的節奏時…！？考驗與躍進的對稻荷崎戰──　勝負終於分曉！！",
+      "platform": {
+        "tongli": {
+          "id": "f4c67932-c9f6-40a6-94e2-08d6b1bb67b4",
+          "date": "2019-01-15"
+        },
+        "kobo": {
+          "id": "dVmQ5YMDLTalSJ3jeryjYw",
+          "date": "2018-01-30"
+        },
+        "bw": {
+          "id": 55755,
+          "date": "2019-01-31"
+        },
+        "readmoo": {
+          "id": "210121837000101",
+          "date": "2019-12-12",
+          "version": "2.002"
+        },
+        "books": {
+          "id": "E050102835",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340072,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "第34集",
+      "isbn": "9789572620441",
+      "cover": "/haikyu/haikyu-34.webp",
+      "pages": 198,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "期盼多年的「垃圾場的決戰」終於實現！比賽一開始，「守備的音駒」就發動同步攻擊…！另一方面，月島看到攔網師父黑尾完全攔阻烏野的猛攻，心中暗自燃起鬥志，說不打算靠「自己一個人」的力量贏過黑尾！？",
+      "platform": {
+        "tongli": {
+          "id": "46afcf0f-5bdf-476c-c0a5-08d6bc268863",
+          "date": "2019-03-05"
+        },
+        "kobo": {
+          "id": "rF9rAsFGVD6BqPQKhFlC3A",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58213,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210121838000101",
+          "date": "2019-12-12",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050102836",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340073,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 35,
+      "volName": "第35集",
+      "isbn": "9789572623503",
+      "cover": "/haikyu/haikyu-35.webp",
+      "pages": 190,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "第１局因為隊友互看而沒接球，而由音駒拿下，春高第３戰，戰況如大浪般起伏！音駒用守備纏鬥，烏野用攻擊纏鬥，撐過了漫長的連續來回擊球，烏野暫時領先。但是在孤爪的計策下，日向的行動慢慢地受到限制……！？",
+      "platform": {
+        "tongli": {
+          "id": "3c25b8dd-156c-4ff2-1bff-08d6c932f2c8",
+          "date": "2019-05-01"
+        },
+        "kobo": {
+          "id": "1WRYKlhHeDeUnnI5Rwn6ag",
+          "date": "2019-05-22"
+        },
+        "bw": {
+          "id": 61846,
+          "date": "2019-05-23"
+        },
+        "readmoo": {
+          "id": "210121839000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102837",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340074,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 163
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 36,
+      "volName": "第36集",
+      "isbn": "9789572628898",
+      "cover": "/haikyu/haikyu-36.webp",
+      "pages": 184,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "孤爪設法限制日向的行動，而日向和影山用長攻將其擊破！\r\n音駒派出犬岡、利耶夫這對１年級搭檔，迎戰以高度為武器的日向！\r\n春高３回戰也即將進入高潮…日向對上孤爪，勝負如何進展！？",
+      "platform": {
+        "tongli": {
+          "id": "9afe25fe-0480-4b9a-5d05-08d7069c9c70",
+          "date": "2019-07-26"
+        },
+        "kobo": {
+          "id": "8M4WNpvz9z6mIK67CN7n1A",
+          "date": "2019-08-14"
+        },
+        "bw": {
+          "id": 68262,
+          "date": "2019-08-15"
+        },
+        "readmoo": {
+          "id": "210132058000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102838",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340075,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-07-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 37,
+      "volName": "第37集",
+      "isbn": "9789572632253",
+      "cover": "/haikyu/haikyu-37.webp",
+      "pages": 190,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "孤爪一面祈禱「比賽還不要結束」，一面追最後一球…！烏野與音駒多年來的夢‧「垃圾場的決戰」結果如何？另一方面，看了日向等人的比賽而士氣高昂的木兔，即將跟全國三大主攻手之一‧桐生同場較勁！",
+      "platform": {
+        "tongli": {
+          "id": "167694ff-5086-4370-e258-08d73280953a",
+          "date": "2019-09-10"
+        },
+        "kobo": {
+          "id": "kinA98Lb1j6QKmYcO3dKVA",
+          "date": "2019-10-02"
+        },
+        "bw": {
+          "id": 75365,
+          "date": "2019-10-03"
+        },
+        "readmoo": {
+          "id": "210132059000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102839",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340076,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-09-05",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 38,
+      "volName": "第38集",
+      "isbn": "9789572636657",
+      "cover": "/haikyu/haikyu-38.webp",
+      "pages": 192,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "木兔和桐生這兩位全國數一數二的主攻手，在春高半準決賽，激烈交手！木兔順勢搶攻，狀況極佳，但赤葦受對手影響而失誤，狀況不佳被換下場！！另一方面，即將上場比賽的日向，見到了始料未及的人物！？",
+      "platform": {
+        "tongli": {
+          "id": "5910fe32-c0d2-4c0b-5f1e-08d768e7a74a",
+          "date": "2019-11-19"
+        },
+        "kobo": {
+          "id": "8YKKVilorD-9fSB4U5EYvQ",
+          "date": "2019-12-04"
+        },
+        "bw": {
+          "id": 79468,
+          "date": "2019-12-05"
+        },
+        "readmoo": {
+          "id": "210132060000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102840",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340077,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-11-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 39,
+      "volName": "第39集",
+      "isbn": "9789572641385",
+      "cover": "/haikyu/haikyu-39.webp",
+      "pages": 198,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "春高半準決賽，身材最小的扣球手──日向和星海，從比賽一開始就激烈過招！鷗台高中使出以昼神當指揮塔，用合作無間的攔網阻止日向，烏野高中則有月島用冷靜的判斷阻止星海！比賽演變成攻守較勁，熾熱的競爭…！？",
+      "platform": {
+        "tongli": {
+          "id": "7120e254-f83a-4325-04ce-08d7daa79500",
+          "date": "2020-04-17"
+        },
+        "kobo": {
+          "id": "t2jWvoumNz2S4QHpXrYK8g",
+          "date": "2020-05-06"
+        },
+        "bw": {
+          "id": 87913,
+          "date": "2020-05-07"
+        },
+        "readmoo": {
+          "id": "210149785000101",
+          "date": "2020-06-25",
+          "version": "1.005"
+        },
+        "books": {
+          "id": "E050102841",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340078,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-14",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 40,
+      "volName": "第40集",
+      "isbn": "9789572644799",
+      "cover": "/haikyu/haikyu-40.webp",
+      "pages": 182,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在你來我往的比賽中，東峰被鷗台高中盯上，無法突破封鎖，受到失分的罪惡感的苛責。昼神克服壓力，以平常心發揮攔網實力，怎麼做才能擊敗他呢──烏野的主砲／主攻手即將靜靜地甦醒…！",
+      "platform": {
+        "tongli": {
+          "id": "3175bcdd-2951-4638-0331-08d7ea955e5c",
+          "date": "2020-05-12"
+        },
+        "kobo": {
+          "id": "ig94Yl1ysjW3lQ1UWEiYFg",
+          "date": "2020-06-03"
+        },
+        "bw": {
+          "id": 89660,
+          "date": "2020-06-04"
+        },
+        "readmoo": {
+          "id": "210149786000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050102842",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340079,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-08",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 41,
+      "volName": "第41集",
+      "isbn": "9789572647547",
+      "cover": "/haikyu/haikyu-41.webp",
+      "pages": 184,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "最辛苦的春高第３天第２戰，命運的最後一局！雖然被烏野拿下第２局，鷗台高中的攔網仍然憑著強韌的精神力，表現穩定！日向繼續尋找克服攔網的方法──用小小的身體掙扎，持續挑戰的結果是…！？",
+      "platform": {
+        "tongli": {
+          "id": "955b2664-d758-4f02-dc77-08d81bdc4f53",
+          "date": "2020-07-20"
+        },
+        "kobo": {
+          "id": "bxD89R-15D2R7eTFeRdm6g",
+          "date": "2020-08-19"
+        },
+        "bw": {
+          "id": 94721,
+          "date": "2020-08-20"
+        },
+        "readmoo": {
+          "id": "210156507000101",
+          "date": "2020-09-09",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050102843",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340080,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 163
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-07-03",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 42,
+      "volName": "第42集",
+      "isbn": "9789572650516",
+      "cover": "/haikyu/haikyu-42.webp",
+      "pages": 200,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向因身體狀況不佳而離場，烏野高中排球社在少一名主力的狀況下，與鷗台一較高下───帶著強烈的不甘心，凝視著轉播畫面中的球場，日向發現了什麼呢…春高排球篇完結！",
+      "platform": {
+        "tongli": {
+          "id": "bc86dee8-60a7-456c-f5f4-08d87417e82e",
+          "date": "2020-11-02"
+        },
+        "kobo": {
+          "id": "5-pcvFgD9zamgeerfEXJPQ",
+          "date": "2020-11-18"
+        },
+        "bw": {
+          "id": 101750,
+          "date": "2020-11-19"
+        },
+        "readmoo": {
+          "id": "210165207000101",
+          "date": "2020-12-20",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050102844",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340081,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-10-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 43,
+      "volName": "第43集",
+      "isbn": "9789572653197",
+      "cover": "/haikyu/haikyu-43.webp",
+      "pages": 206,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了用沙灘排球修行，日向在畢業後前往巴西。他能否克服多變不安定的「砂」和「風」，與艾特爾一同在競技會過關斬將呢！？還有，在日本等著日向，過去的夥伴和勁敵們，現在過得如何？",
+      "platform": {
+        "tongli": {
+          "id": "cf8c27b4-abcf-43b9-6f9a-08d8966ad9f7",
+          "date": "2020-12-07"
+        },
+        "kobo": {
+          "id": "T0ycckUEwzyDFuEbysIY3Q",
+          "date": "2021-01-06"
+        },
+        "bw": {
+          "id": 105689,
+          "date": "2021-01-07"
+        },
+        "readmoo": {
+          "id": "210167151000101",
+          "date": "2021-01-07",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050102845",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340082,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 183
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 44,
+      "volName": "第44集",
+      "isbn": "9789572656952",
+      "cover": "/haikyu/haikyu-44.webp",
+      "pages": 190,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日向和影山在Ｖ聯盟終於重逢。即使在ＢＪ對ＡＤ的高水準過招之中，日向仍然用變化豐富的球技，展現存在感！看到日向再度變成對手現身眼前，心情亢奮的影山腦裡浮現的是──！",
+      "platform": {
+        "tongli": {
+          "id": "1c13ff56-6b8b-41fa-be74-08d8b7ad0da0",
+          "date": "2021-02-01"
+        },
+        "kobo": {
+          "id": "wFaFjhB3SDOb9DIIFiGtug",
+          "date": "2021-02-17"
+        },
+        "bw": {
+          "id": 108899,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210173426000101",
+          "date": "2021-02-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050102846",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340083,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 134
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-01-20",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 45,
+      "volName": "第45集",
+      "isbn": "9789572661086",
+      "cover": "/haikyu/haikyu-45.webp",
+      "pages": 225,
+      "authors": [
+        "古館春一"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "各自背負著信念，將長期培養的實力完全投入，互相較勁的選手們…！\r\nＢＪ對ＡＤ之戰終於分出勝負！日向能否擋下牛島的重扣？日向與影山之間的競爭結果是？排球漫畫的金字塔頂端鉅作，就此完結！",
+      "platform": {
+        "tongli": {
+          "id": "239462d6-fe21-4507-5bb6-08d8fa56ecf7",
+          "date": "2021-04-12"
+        },
+        "kobo": {
+          "id": "SX_oAqwNKDGi-QiUptyrzg",
+          "date": "2021-05-05"
+        },
+        "bw": {
+          "id": 112933,
+          "date": "2021-05-06"
+        },
+        "readmoo": {
+          "id": "210179354000101",
+          "date": "2021-05-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102847",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340084,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 194
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-04-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-04-07",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

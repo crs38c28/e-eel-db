@@ -1,0 +1,387 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "namiyo",
+    "series": {
+      "tongli": "2a37132c-6a96-e811-a947-00155d020a17",
+      "kobo": "xBMIHyZDtVKipHeFJX8fkg",
+      "readmoo": 6074,
+      "bw": 12898
+    },
+    "title": "聽我的電波吧",
+    "originalTitle": "",
+    "authors": [
+      "沙村廣明"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "熱血",
+      "動畫化",
+      "真人化",
+      "職業"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864628537",
+      "cover": "/namiyo/namiyo-1.webp",
+      "pages": 194,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "歡迎來到廣播界—\r\n舞台是北海道札幌，女性．２５歲．大笨蛋的咖哩店店員鼓田美奈玲跑去酒吧喝醉酒纏著剛認識的大叔發牢騷，結果居然莫名其妙地開始出道當ＤＪ！？以此為契機，美奈玲開始產生劇烈變化。繼無限住人之後，天才漫畫家．沙村広明最新力作，札幌電波系（！）戀歌。所謂人生，總是會如此莫名其妙地改變方向——！！",
+      "platform": {
+        "tongli": {
+          "id": "45288398-53c9-4736-0ae6-08d7d4731ef7",
+          "date": "2020-04-01"
+        },
+        "kobo": {
+          "id": "HUi1d-MfzzWv5y0gX3ELkw",
+          "date": "2020-04-15"
+        },
+        "bw": {
+          "id": 86232,
+          "date": "2020-04-16"
+        },
+        "readmoo": {
+          "id": "210142757000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-03-31",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-26",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864628544",
+      "cover": "/namiyo/namiyo-2.webp",
+      "pages": 194,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "美奈玲終於一時衝動殺人了！？這不是不會死人的廣播電台故事嗎？無論講多少甜言蜜語都是不用錢的！把女人當搖錢樹看待的小白臉終於遭報應了！？而來抓美奈玲的居然是外星人！？美奈玲的犯罪告白將會掀起一陣大風浪…",
+      "platform": {
+        "tongli": {
+          "id": "327237e7-5207-4b18-0309-08d7ea955e5c",
+          "date": "2020-05-08"
+        },
+        "kobo": {
+          "id": "1CiIn51yZTub6S_qByg1MQ",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88716,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210150122000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-05",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789864823338",
+      "cover": "/namiyo/namiyo-3.webp",
+      "pages": 176,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "這裡是北海道札幌。由於一次廣播意外地受到好評，美奈玲因而開始主持自己專屬的冠名節目。第１回播送的內容｜殺害將自己拋棄的前男友的「虛構現場直播」頗受好評。緊接而來的第２回內容則是廣播劇「深夜的埋葬劇」──\r\n",
+      "platform": {
+        "tongli": {
+          "id": "40a3fef4-856b-468b-d89a-08d80208f4f0",
+          "date": "2020-06-02"
+        },
+        "kobo": {
+          "id": "AVbSzJK6hzyhEa9ztoeteQ",
+          "date": "2020-06-17"
+        },
+        "bw": {
+          "id": 90524,
+          "date": "2020-06-18"
+        },
+        "readmoo": {
+          "id": "210150123000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-28",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789864868971",
+      "cover": "/namiyo/namiyo-4.webp",
+      "pages": 192,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "鬼才．沙村広明所描繪的快要壞掉的廣播電台生活！全頁都是不可錯過的札幌電波系狂想曲♪由於一次廣播意外地受到好評，美奈玲因而開始主持自己專屬的冠名節目。以負債經營方式為了製作節目而打拼的日子就此開工｜｜。",
+      "platform": {
+        "tongli": {
+          "id": "e8cc2095-d5ab-469a-dc55-08d81bdc4f53",
+          "date": "2020-07-15"
+        },
+        "kobo": {
+          "id": "pDkuuLuOpT6SSuXdxhrOFA",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 93895,
+          "date": "2020-08-06"
+        },
+        "readmoo": {
+          "id": "210156441000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572631485",
+      "cover": "/namiyo/namiyo-5.webp",
+      "pages": 192,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "企劃作家久連木的小說家之路有機會翻身，所以為了寫新的作品，美奈玲和瑞穗這次要跟他一起展開採訪之旅｜結果故事卻進入了作者最擅長的監禁發展！再多來點這種劇情吧♥每一格都很話多的北海道廣播節目狂想曲♪",
+      "platform": {
+        "tongli": {
+          "id": "e53e559b-e651-46f7-dc56-08d81bdc4f53",
+          "date": "2020-07-15"
+        },
+        "kobo": {
+          "id": "ciw9ki6dajK6xCYikjDx9w",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 93896,
+          "date": "2020-08-06"
+        },
+        "readmoo": {
+          "id": "210156442000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572631492",
+      "cover": "/namiyo/namiyo-6.webp",
+      "pages": 178,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "讓北海道居民歡喜的大型媒體企劃進行中！男子漢．沙村広明以遲來的愛情喜劇旗手身分馬力全開！收到美奈玲等人的求救暗號後，麻藤派出救兵前去救援。另一方面，久連木居然要決定信仰波之智慧派…邪教團體事件解決篇！",
+      "platform": {
+        "tongli": {
+          "id": "d00fb22b-6af2-4896-427d-08d839a0f2bc",
+          "date": "2020-08-11"
+        },
+        "kobo": {
+          "id": "oCoMS-SVrDGCGrwnL-SZig",
+          "date": "2020-09-02"
+        },
+        "bw": {
+          "id": 96074,
+          "date": "2020-09-03"
+        },
+        "readmoo": {
+          "id": "210171570000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-08-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-07-28",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572648568",
+      "cover": "/namiyo/namiyo-7.webp",
+      "pages": 178,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "鼓田美奈玲在因緣際會之下開始主持自己的冠名節目，此時出現一個起用她負責情人節廣播主持人工作的計畫…另一方面，美奈玲的同事蒔繪以成為企劃作家為目標在偷偷修行。某天雖然她激情地推倒了讓她寄宿在家中的中原…",
+      "platform": {
+        "tongli": {
+          "id": "de42e224-d7c2-4406-030e-08d89c1a131e",
+          "date": "2020-12-11"
+        },
+        "kobo": {
+          "id": "z30pZwLtljKZBrfq67wC8Q",
+          "date": "2021-01-06"
+        },
+        "bw": {
+          "id": 105648,
+          "date": "2021-01-07"
+        },
+        "readmoo": {
+          "id": "210171571000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-09",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572674383",
+      "cover": "/namiyo/namiyo-8.webp",
+      "pages": 176,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "鼓田美奈玲在因緣際會之下開始主持自己的冠名節目，為了幫忙挽救某位節目聽眾家的家裡蹲長男，她與ＡＤ瑞穗及廣實小弟聯手出擊。但在執行計畫的那天晚上卻突然發生大地震，導致北海道全區停電陷入烏漆抹黑的黑暗中…",
+      "platform": {
+        "tongli": {
+          "id": "3c4ace26-cd52-4ef9-c126-08d93f60a694",
+          "date": "2021-07-16"
+        },
+        "kobo": {
+          "id": "YHwNBawQRDmG8ohckumSbA",
+          "date": "2021-08-04"
+        },
+        "bw": {
+          "id": 120584,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190319000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-07-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

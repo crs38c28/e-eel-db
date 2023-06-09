@@ -1,0 +1,1344 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "dorohedoro",
+    "series": {
+      "kobo": "dorohedoro-1",
+      "readmoo": 8798,
+      "bw": 16950
+    },
+    "collection": {
+      "books": [
+        "E050113910",
+        "E050113911",
+        "E050113912",
+        "E050113913",
+        "E050113914",
+        "E050113915",
+        "E050113916",
+        "E050113917",
+        "E050113918",
+        "E050113919",
+        "E050113920",
+        "E050113921",
+        "E050113922",
+        "E050113923",
+        "E050113924",
+        "E050113925",
+        "E050113926",
+        "E050113927",
+        "E050113928",
+        "E050113929",
+        "E050113930",
+        "E050113931",
+        "E050113932"
+      ],
+      "pubu": [
+        268826,
+        268827,
+        268828,
+        268829,
+        268830,
+        268831,
+        268832,
+        268833,
+        268834,
+        268835,
+        268836,
+        268837,
+        268838,
+        268839,
+        268840,
+        268841,
+        268842,
+        268843,
+        268844,
+        268845,
+        268846,
+        268847,
+        268848
+      ]
+    },
+    "title": "Dorohedoro 異獸魔都 典藏版",
+    "originalTitle": "",
+    "authors": [
+      "林田球"
+    ],
+    "publisher": "長鴻出版社",
+    "finished": true,
+    "tags": [
+      "動畫化",
+      "奇幻",
+      "戰鬥",
+      "冒險",
+      "魔法"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "1",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-1.webp",
+      "pages": 168,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "「洞穴」，這是個異世界裡面有著人類，也有著不像人的人類。因為這個洞穴裡的居民，經常被來自另外一個世界的魔法師當成實驗品：不是被折騰到翹命就是被變成一副半人不鬼的模樣！頂著一顆蜥蜴頭的開曼也是受害者之一。為了恢復自己原本的長相，開曼一方面尋找當初被對自己施法的人，一方面，則對魔法師展開一場獵殺行動!!\n相關連結",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-1",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127274,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205242000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113910",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268826,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 153
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "2",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-2.webp",
+      "pages": 162,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "一年一度的「生存末日」來到了！在「生存末日」這一天裡，被魔法師殺害的人們會變成殭屍，起而攻擊活人。為了消滅殭屍，大家會舉辦一場狩獵殭屍競賽。就在開曼跟二階堂在競賽中 與殭屍們搏殺之際，前來暗殺開曼的刺客俏俏出現…",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-2",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127275,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205245000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113911",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268827,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 95
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "3",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-3.webp",
+      "pages": 174,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "原本只是單純的去拜訪春日部博士，然而卻意外的得知博士已經做出可以通往魔法界的門。二階堂跟開曼當然不放過這個機會，經過一番變裝之後溜進了魔法界。只不過，沒有錢萬萬不能，兩袋空空的開曼在魔法界做的第一件事，就是坐霸王車…",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-3",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127276,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205199000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113912",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268828,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 108
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "4",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-4.webp",
+      "pages": 174,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "在魔法界受了重傷的二階堂，好不容易動過手術後撿回一條命。可是偏偏最近發生很多失蹤案件，連二階堂也無緣無故失蹤！在開曼拼命追查下，竟然發現犯人是住在下水道的……",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-4",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127277,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205204000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113913",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268829,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 102
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "5",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-5.webp",
+      "pages": 180,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "被施了魔法而變成蜥蝪男的開曼，對二階堂不告而別後，就隻身前往魔法師的世界尋找關於自己記憶的線索……成功混入魔法師世界的開曼，為了調查，潛入了煙老大所舉辦的「藍色之夜」活動中，又再度捲入混沌中…另一方面，煙老大終於透過其能力找到二階堂的所在處，他將掀起什麼樣的「蘑菇風暴」呢？",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-5",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127278,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205210000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113914",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268830,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 112
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "6",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-6.webp",
+      "pages": 170,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "二階堂被迫成為煙的伙伴，並且簽下了惡魔的契約書……原本抵死不從的二階堂，被戴上了新的面具後，徹底被煙給支配了……而醫生一行人，則是因為詹森的蟑螂同伴幫忙解開手銬，終於得以逃出，然而他們卻在逃亡途中遇上了心…!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-6",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127279,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205214000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113915",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268831,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 105
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "7",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-7.webp",
+      "pages": 188,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "為了救出二階堂，開曼竟然不惜扮女裝潛進煙的城堡裡！沒想到二階堂非但不肯跟開曼走，甚至還跟他大打出手！就在開曼失去意識之際，出現了一名神秘的男人在二階堂的背部狠狠劃了一刀!!誰知因禍得福，在二階堂體內的煙的契約書也因而得以順利取出!!清醒後的二階堂，能否就此擺脫煙的控制呢!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-7",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127280,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205220000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113916",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268832,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 113
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "8",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-8.webp",
+      "pages": 168,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "開曼與二階堂來到了馬斯地瑪…然而卻被人給跟蹤了!!沒想到跟蹤開曼們的這名女子竟是販賣黑粉的人!!在陰錯陽差之下，她竟然決定要當開曼的手下!?開曼的命運將…!?另一方面，十字眼幫因為心一行人摧毀了研人們的地盤而收不到錢，害得牛島田面臨了失身危機!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-8",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127281,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205224000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113917",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268833,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 101
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "9",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-9.webp",
+      "pages": 176,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "到了已荒廢的魔法學校後，開曼腦中開始出現瑣碎的記憶片段…開曼能因此解開身上的謎團嗎!?另一方面，艾斯被剝奪走惡魔身分，再次變回普通的魔法師，鳥太身上的魔法也因而解除!!這下二階堂一行人會遇上什麼樣的麻煩!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-9",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127282,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205228000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113918",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268834,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 104
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "10",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-10.webp",
+      "pages": 176,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "春日部一行人看到的蠟人像，竟然是春日部曾經手術改造成魔法師的人類．亞伊！於是春日部決定再次到魔法師的世界尋找亞伊，然而就在此時，煙老大甦醒過來，並出動前去找尋二階堂…!!開曼將會因此面臨什麼樣的危機!?另一方面，恢復記憶的惠比壽能順利回到老家嗎……!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-10",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127283,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205232000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113919",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268835,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 111
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "11",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-11.webp",
+      "pages": 176,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "為了讓惠比壽死而復生，藤田四處奔走，並極力想讓木耳施行復活魔法，然而卻反倒讓木耳嚇得避之唯恐不及…!?二階堂則因為拒絕煙的契約書而日漸不成人形…另一方面，再度甦醒過來的開曼，卻失去了身為蜥蝪男時的記憶…!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-11",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127284,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205235000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113920",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268836,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 107
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "12",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-12.webp",
+      "pages": 176,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "煙死後，整個魔法國度陷入一陣混亂，而二階堂的身體卻也因此得以復原。為了找出殺死煙的兇手，家族成員塔基來到豪宅製作出煙的人偶。於是人偶開始重現煙的死前行動，跟著人偶的心與能井也因此與毒蛾一行人狹路相逢!!一陣腥風血雨也就此展開!!",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-12",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127285,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205239000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113921",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268837,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 103
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "13",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-13.webp",
+      "pages": 184,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "阿豬與夏木前去搜尋木耳，而惠比壽在看見木耳被抓後氣憤到變身為怪物，將夏木的手臂給弄斷，沒想到卻意外讓夏木的防禦魔法覺醒！另一方面，開曼（會川）與松鼠越常接觸，在他記憶深處那禁忌的門扉似乎也正悄悄開啟……松鼠之死背後隱藏的秘密究竟是…!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-13",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127287,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205198000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113922",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268838,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 114
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "14",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-14.webp",
+      "pages": 184,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "煙家族一夥人為了躲避十字眼幫的追殺，而在地底下建造了秘密基地，更派出了藤田隱形後去調查十字眼幫老大的底細！另一方面，二階堂終於克服內心對自己魔法的恐懼，並在釋放出無比龐大的煙量後，決心再次前往過去拯救八雲！然而這也讓遠遠看見這一幕的十字眼幫老大開始覬覦二階堂的魔法…!!",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-14",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127286,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205203000101",
+          "date": "2021-11-17",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113923",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268839,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 110
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 983,
+          "height": 1440
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "15",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-15.webp",
+      "pages": 216,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "變回會川的開曼故意讓福山對他施展魔法而變成肉派，但是毒蛾一行人卻用能井留下的魔法煙又將他回復原狀！會川（開曼）為了自己的真實身分感到痛苦迷惘，這時發現他的春日部醫生卻叫他「亞伊」，這讓會川打開了記憶的禁忌門扉並再次失控…!!",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-15",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127288,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205208000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113924",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268840,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 138
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "16",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-16.webp",
+      "pages": 216,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "二階堂帶著松鼠穿越時空，終於發現會川與開曼之間的交集點!!然而此時二階堂的身體卻開始產生變化!!另一方面，透過魔法變成透明人的藤田到十字眼幫所在處收集情報，在如此艱困的環境下，他會目睹什麼樣驚人的發展!?藤田能否成為拯救煙老大的英雄!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-16",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127290,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205213000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113925",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268841,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 125
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "17",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-17.webp",
+      "pages": 216,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "藤田目睹十字眼幫的老大為了想超越魔法師，連自己的夥伴都不放過地將他們殺死吞噬，要當做祭品。煙家族為了讓菸老大復活及救出監視十字眼幫的藤田，鳥太用減肥蟲拷打十字眼幫的幹部；並從十三口中得知二階堂並沒有死，而且她的惡魔化越來越嚴重了…!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-17",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127289,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205218000101",
+          "date": "2021-11-17",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113926",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268842,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "18",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-18.webp",
+      "pages": 218,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "藤田想跟十字眼幫的鐵條交易，讓他把煙老大的惡魔腫瘤送回煙家族，他就幫助讓他的同伴復活。毒蛾以惠比壽的僕人‧海子的身分再度復活。中央百貨沈沒，廢物湖出現。惡魔的目的是參觀在老大裡面的「東西」…艾斯的能力全廢，與松鼠的立場倒轉。變成殭屍的阿心，四處把人大卸八塊。來襲的管子前端，存在未知的東西。二階堂再度拿到面具……",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-18",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127291,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205225000101",
+          "date": "2021-11-17",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113927",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268843,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "19",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-19.webp",
+      "pages": 260,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "二階堂與開曼感動的再次相會。原本欣喜若狂的想要飛奔到開曼身上的二階堂，但卻起了「這個開曼，真的是開曼嗎？」的疑心…在百貨的深處，謎一般的惡魔告訴二階堂，要逃脫出百貨的唯一辦法就是將某個關鍵道具弄到手…惡魔與惡魔間的激戰，完美的肉體讓小春陷入絕望的深淵…而被阿心將身體分散得七零八落並丟棄的煙家族，他們將會…？",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-19",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127292,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205229000101",
+          "date": "2021-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113928",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268844,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 152
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 818,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "20",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-20.webp",
+      "pages": 260,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "在混雜著惡夢與渾沌的中央百貨中，那個老大復活了！終於達成悲願並升起反擊狼煙的煙家族，但他們的成員卻只剩下一顆頭顱… 另一方面，開曼陷入大苦戰，二階堂被俘虜，春日部也呈現頻死狀態，就在最危急的時候，開曼身上發生了不可思議的現象……!!",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-20",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127293,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205234000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113929",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268845,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "21",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-21.webp",
+      "pages": 278,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "所有的謎題都在「洞穴」的洞穴之中……終於要邁向終局!!（但還沒有要結束喔！）開曼和二階堂、栗鼠，然後再加上煙一家族。在上一集大復活的成員們將與十字眼老大火力全開大．激．戰！",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-21",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127294,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205240000101",
+          "date": "2021-11-17",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113930",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268846,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 174
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "22",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-22.webp",
+      "pages": 278,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 80,
+      "description": "在混雜著惡夢與渾沌的中央百貨中，那個老大復活了！終於達成悲願並升起反擊狼煙的煙家族，但他們的成員卻只剩下一顆頭顱… 另一方面，開曼陷入大苦戰，二階堂被俘虜，春日部也呈現頻死狀態，就在最危急的時候，開曼身上發生了不可思議的現象……!!",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-22",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127295,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205244000101",
+          "date": "2021-11-17",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113931",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268847,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 818,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "23",
+      "isbn": "9789865045135",
+      "cover": "/dorohedoro/dorohedoro-23.webp",
+      "pages": 354,
+      "authors": [
+        "林田球"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 150,
+      "description": "混沌的故事…迎來完結！ 在洞穴中發狂肆虐到極致的 最終Ｂｏｓｓ．洞穴小弟。 為了阻止他的殘暴行徑， 開曼挺身而出，得到力量後 成為魔法師！ 開曼的魔法究竟是什麼魔法呢!?",
+      "platform": {
+        "kobo": {
+          "id": "dorohedoro-23",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 127296,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205202000101",
+          "date": "2021-11-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113932",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 268848,
+          "date": "2021-11-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 192
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1048,
+          "height": 1536
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1473 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "hyakki",
+    "series": {
+      "tongli": "3219132c-6a96-e811-a947-00155d020a17",
+      "kobo": "SzPLLLqUO1CdB1VG38xY9Q",
+      "readmoo": 7315,
+      "bw": 15386,
+      "books": "A00000045338"
+    },
+    "collection": {
+      "readmoo": [
+        210270052000101
+      ]
+    },
+    "title": "百鬼夜行抄",
+    "originalTitle": "",
+    "authors": [
+      "今市子"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "妖怪",
+      "靈異",
+      "真人化",
+      "特殊能力"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789573438410",
+      "cover": "/hyakki/hyakki-1.webp",
+      "pages": 191,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "王華琳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "蝸牛是爺爺的筆名，在他頭七的那天家中請來的一群奇怪的客人，可是他們不是真的客人，是青嵐的食物；青嵐受祖父的命令要一輩子保護著我，藉由死去父親的外殼活在這個世上。或許是家族天生靈能力的關係，我可以看到許多人看不到的事物，有些是無形的，有些則是藉有形的物體出現在我們的四周。接著便是我附近發生的故事……",
+      "platform": {
+        "tongli": {
+          "id": "7d42b3cf-220e-41e7-3c39-08d8e29829fc",
+          "date": "2021-03-15"
+        },
+        "kobo": {
+          "id": "7FOVgwlwPDmkaEFUMJLfgQ",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111020,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176690000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114393",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789573452621",
+      "cover": "/hyakki/hyakki-2.webp",
+      "pages": 227,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "王華琳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "我們來玩捉迷藏……由於現在住在父親這個軀殼裡的是一個名叫青嵐的妖怪，自然是不事生產的；完全靠媽媽教查茶道與穿和服來維持生計，只是這次卻來了不乾淨的東西。到底穿紫底櫻花圖案的那個人是誰？為什麼她的眼總是矇著的，接下來是關於──她的故事。",
+      "platform": {
+        "tongli": {
+          "id": "cac3d883-9af7-48eb-3c3a-08d8e29829fc",
+          "date": "2021-03-15"
+        },
+        "kobo": {
+          "id": "PFJY-GrOmT65R_vISXhvKw",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111021,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176691000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114394",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-04",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789573467007",
+      "cover": "/hyakki/hyakki-3.webp",
+      "pages": 231,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "王華琳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "司跟一群朋友出去玩，竟莫名地來到一個陌生的地方，在那裡……如同夢中一般冰冷的手掌握上自己的手腕；失蹤六個月的女高生突然地出現了，這又是死去的蝸牛招來的嗎？失去骨頭一部份的她，將整個池子全搬到律的家中，她要尋回她的東西……她要找到蝸牛……",
+      "platform": {
+        "tongli": {
+          "id": "a288bef8-668d-4df2-3c3b-08d8e29829fc",
+          "date": "2021-03-15"
+        },
+        "kobo": {
+          "id": "mcolHmd4-T6H9p9blDVN-Q",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111022,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176692000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114395",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-05",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789573467014",
+      "cover": "/hyakki/hyakki-4.webp",
+      "pages": 199,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "王華琳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "律從小就可以看到許多奇怪的東西，對他來說：鬼怪要比人來得可怕多了。因此，他很難教到朋友，也時常被人欺侮；這天，他唯一的朋友邀他到家裡玩，在那兒聽到了恐怖的事情。律嚇得只能躲在被子裡，反正青嵐會保護他的！可是，冒著風雪……媽媽卻帶著他離開家中，只是不停地逃……逃……",
+      "platform": {
+        "tongli": {
+          "id": "47c65afc-b6e5-47ca-3c3c-08d8e29829fc",
+          "date": "2021-03-15"
+        },
+        "kobo": {
+          "id": "0DMe5hfVEz-s5c6dEk0eRw",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111023,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176693000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114396",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-08",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789573487111",
+      "cover": "/hyakki/hyakki-5.webp",
+      "pages": 217,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "王華琳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "在一個炎熱的夏天，以為家中都沒有人的時候，來了一個女人拜訪爺爺，那是一個感覺很恐怖的女人……一直到現在，律都還記憶猶新地記著。在爺爺死後將近十年，來了個跟他約好的男人，他們說好了要當面交還一個借了許久的東西。這牽扯出了一段關於一段男女間愛情的故事，這是發生在……",
+      "platform": {
+        "tongli": {
+          "id": "8ba64534-75dc-4c54-3c3d-08d8e29829fc",
+          "date": "2021-03-15"
+        },
+        "kobo": {
+          "id": "qVb9-zUDAzSU4nfXkNMdWQ",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111024,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176694000101",
+          "date": "2021-03-31",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050114397",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-08",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789573487128",
+      "cover": "/hyakki/hyakki-6.webp",
+      "pages": 217,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "高郁雯"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小司要來律的家中教他功課，為此，尾黑跟尾白來到陰魂道釣魚想要連同美酒一起請小司吃；沒想到，尾黑竟在這兒小鹿亂撞了好些下，一名淚眼婆娑的女子請求他幫忙找回東西。而那東西是……？此外，報名補習班卻遲遲未去的律亦引起班上一些人的注意。",
+      "platform": {
+        "tongli": {
+          "id": "f798b5d9-a712-4bbb-e278-08d91030578f",
+          "date": "2021-05-27"
+        },
+        "kobo": {
+          "id": "soN5gAQQ7D65qtWgpH-N2Q",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117598,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184063000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114398",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-04-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789577319357",
+      "cover": "/hyakki/hyakki-7.webp",
+      "pages": 231,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "再此重考的那天，律、司、青嵐跟小晶卻因為小司不曉得怎麼開車的而來到奇怪的地方；同時，失蹤的尾白竟也是被抓到這兒，為了救出尾白以及被困在這裡，他們不得不幫忙村裡的人解決──「神的通道」的問題。因為，村人的擅自移動讓不安定的一切侵入人的生活，接著……",
+      "platform": {
+        "tongli": {
+          "id": "9abbeb1d-6cc8-4fd6-e279-08d91030578f",
+          "date": "2021-05-27"
+        },
+        "kobo": {
+          "id": "tjefeecujTa7NzUZyH_wuw",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117599,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184064000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114399",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789577319364",
+      "cover": "/hyakki/hyakki-8.webp",
+      "pages": 231,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "不相信人死後還會剩些什麼，誠跟大家約好了，若他先死將會在每年他的忌日落雨．．．一連七年如此；而在最後的一年，他還會留一樣遺物讓大家知道他的到來。過後，誠與弟弟晃一就此消失。這年第七年了，三角戀情的關係將會．．．",
+      "platform": {
+        "tongli": {
+          "id": "db7a906a-9ca7-4706-e27a-08d91030578f",
+          "date": "2021-05-27"
+        },
+        "kobo": {
+          "id": "dEOLsnwTkDiX7nnl_EwgCw",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117600,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184065000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114400",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-04-21",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861124162",
+      "cover": "/hyakki/hyakki-9.webp",
+      "pages": 233,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "蝸牛是爺爺的筆名，在他頭七的那天家中請來的一群奇怪的客人，可是他們不是真的客人，是青嵐的食物；青嵐受祖父的命令要一輩子保護著我，藉由死去父親的外殼活在這個世上。或許是家族天生靈能力的關係，我可以看到許多人看不到的事物，有些是無形的，有些則是藉有形的物體出現在我們的四周。接著便是我附近發生的故事……",
+      "platform": {
+        "tongli": {
+          "id": "e01c5639-364c-4f12-e27c-08d91030578f",
+          "date": "2021-05-27"
+        },
+        "kobo": {
+          "id": "4rHpGI6FRzOluecE5tYwIg",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117601,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184066000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114401",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861127088",
+      "cover": "/hyakki/hyakki-10.webp",
+      "pages": 205,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "蝸牛是爺爺的筆名，在他頭七的那天家中請來的一群奇怪的客人，可是他們不是真的客人，是青嵐的食物；青嵐受祖父的命令要一輩子保護著我，藉由死去父親的外殼活在這個世上。或許是家族天生靈能力的關係，我可以看到許多人看不到的事物，有些是無形的，有些則是藉有形的物體出現在我們的四周。接著便是我附近發生的故事……",
+      "platform": {
+        "tongli": {
+          "id": "7198ef66-f626-465b-e27d-08d91030578f",
+          "date": "2021-05-27"
+        },
+        "kobo": {
+          "id": "HZWJGud0tj6C0A_l1cfXXQ",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117602,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184067000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114402",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861129785",
+      "cover": "/hyakki/hyakki-11.webp",
+      "pages": 203,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "「兩個箱子」…雖然捨不得，這裡有大箱子和小箱子，你要選哪一個？老爺爺選的小箱子裡頭塞滿了大大小小的金幣。貪心的老婆婆選的大箱子裡，跑出了一大堆的蛇和毒蟲。善良的老爺爺不占麻雀的便宜，選擇了小的，因此得到了獎賞…",
+      "platform": {
+        "tongli": {
+          "id": "40eee043-21de-46dc-86eb-08d934abbdd1",
+          "date": "2021-06-24"
+        },
+        "kobo": {
+          "id": "qCJFUK86TTOe7nUDbZkviQ",
+          "date": "2021-07-14"
+        },
+        "bw": {
+          "id": 119208,
+          "date": "2021-07-15"
+        },
+        "readmoo": {
+          "id": "210186917000101",
+          "date": "2021-07-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114403",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-06-14",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861159218",
+      "cover": "/hyakki/hyakki-12.webp",
+      "pages": 209,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "不分四季，隨時可見妖魔！以恐怖及幽默的絕佳筆法，描繪與妖魔共存的飯﹝山鳥﹞家每一個愉快、可怕日子的人氣系列！在第12集當中收錄了「白之顎」「夜夜哭泣的櫻樹」「水邊的暗路」「蜘蛛絲」「山姥」這五篇。",
+      "platform": {
+        "tongli": {
+          "id": "3697b904-33cd-4db6-86ed-08d934abbdd1",
+          "date": "2021-06-24"
+        },
+        "kobo": {
+          "id": "0J585sICWTCEFzs0jcV_5Q",
+          "date": "2021-07-14"
+        },
+        "bw": {
+          "id": 119209,
+          "date": "2021-07-15"
+        },
+        "readmoo": {
+          "id": "210186918000101",
+          "date": "2021-07-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114404",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861159225",
+      "cover": "/hyakki/hyakki-13.webp",
+      "pages": 236,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "開舅舅回到睽違多年的飯（山鳥）家，不料他的式神卻逃進外公房裡，打破了作為青嵐本體的鏡子。律努力地尋找鏡子的碎片，但卻偏尋不著…與妖魔共存的飯\r\n（山鳥）家愉快又恐怖的幽默系列作品最新一集！(2006年5月18日上市)\r\n",
+      "platform": {
+        "tongli": {
+          "id": "5bdc412c-aca1-4946-86ef-08d934abbdd1",
+          "date": "2021-06-24"
+        },
+        "kobo": {
+          "id": "DkE7tzPynja49vPkyIptvQ",
+          "date": "2021-07-14"
+        },
+        "bw": {
+          "id": 119210,
+          "date": "2021-07-15"
+        },
+        "readmoo": {
+          "id": "210186919000101",
+          "date": "2021-07-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114405",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861184500",
+      "cover": "/hyakki/hyakki-14.webp",
+      "pages": 212,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "「百鬼夜行抄」的主角‧飯&#23947;律，故事在他與各式各樣的妖魔相遇之後展開。交織著恐怖與幽默的絕妙平衡……本集收錄了當表姊晶與存在著三郎靈魂的盆景一同消失後，律四處尋找他們下落的「看守人的口哨聲」，以及「天上的大將」「地板下的賢人」「伴護」這四篇作品。(2006年9月7日上市)",
+      "platform": {
+        "tongli": {
+          "id": "ae185c6d-a4c9-410c-86f1-08d934abbdd1",
+          "date": "2021-06-24"
+        },
+        "kobo": {
+          "id": "IgglgSoLgjWBTOrMhamh3Q",
+          "date": "2021-07-14"
+        },
+        "bw": {
+          "id": 119211,
+          "date": "2021-07-15"
+        },
+        "readmoo": {
+          "id": "210186920000101",
+          "date": "2021-07-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114406",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-06-23",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861195452",
+      "cover": "/hyakki/hyakki-15.webp",
+      "pages": 224,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "「百鬼夜行抄」的主角‧飯&#23947;律。他與各式各樣妖魔的相遇，展開了既恐怖又幽默的故事。除了描寫律少數的朋友之一‧近藤的女性朋友被捲入的恐怖殺人案件「鬼面」之外，還收錄了「迎接」「野放」「紅線」「黑色天花板」共5篇。(2007年5月3日上市)",
+      "platform": {
+        "tongli": {
+          "id": "c836d5c9-2232-425a-86f2-08d934abbdd1",
+          "date": "2021-06-24"
+        },
+        "kobo": {
+          "id": "WUlf-aFKiT-kMZpCEgXIeg",
+          "date": "2021-07-14"
+        },
+        "bw": {
+          "id": 119212,
+          "date": "2021-07-15"
+        },
+        "readmoo": {
+          "id": "210186921000101",
+          "date": "2021-07-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114407",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861012186",
+      "cover": "/hyakki/hyakki-16.webp",
+      "pages": 202,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "在「拍翅的島」當中，三郎身處的盆景出現意想不到的變化。隨著一個奇異女子的出現，盆景當中出現大批的烏鴉，被水淹沒的田地，接二連三消失的村人…此外尚收錄了「異界的水守」「紙門畫的女人」「病枝」共四篇作品。",
+      "platform": {
+        "tongli": {
+          "id": "d4f27d34-dcbb-420b-4406-08d966db1cb6",
+          "date": "2021-08-30"
+        },
+        "kobo": {
+          "id": "kCzb0eHVKD24mRJyLBEELQ",
+          "date": "2021-09-15"
+        },
+        "bw": {
+          "id": 123278,
+          "date": "2021-09-16"
+        },
+        "readmoo": {
+          "id": "210196664000101",
+          "date": "2021-09-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114408",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-11",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861027241",
+      "cover": "/hyakki/hyakki-17.webp",
+      "pages": 232,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "距離三郎失蹤已將近一年。就在此時，有人上門來向小晶提親。律希望能回絕這問題重重的相親，但他母親及外婆卻興致勃勃，小晶本人也希望藉此忘掉三郎而接受，結果會是…除了這篇「回頭櫻」外，尚收錄了其他四篇作品。",
+      "platform": {
+        "tongli": {
+          "id": "776799b1-9cbc-463b-4407-08d966db1cb6",
+          "date": "2021-08-30"
+        },
+        "kobo": {
+          "id": "_8tWUbE9STOxS9YSt3mzPw",
+          "date": "2021-09-15"
+        },
+        "bw": {
+          "id": 123279,
+          "date": "2021-09-16"
+        },
+        "readmoo": {
+          "id": "210196665000101",
+          "date": "2021-09-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114409",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-11",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861041308",
+      "cover": "/hyakki/hyakki-18.webp",
+      "pages": 232,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "高僧過世時，原本鎮壓在他體內的妖魔會離開尋找下一個宿主。在開帶著青嵐前去旁觀時，事情出錯，妖魔進入烏鴉體內逃走。因為這樣，青嵐四處尋找逃走的妖魔。接著，律的母親也意外捲入事件當中！共收錄四篇精彩傑作。",
+      "platform": {
+        "tongli": {
+          "id": "a9a5a40a-6357-4b61-4408-08d966db1cb6",
+          "date": "2021-08-30"
+        },
+        "kobo": {
+          "id": "Qhe4jK8hoDmYLiqtN_gtbQ",
+          "date": "2021-09-15"
+        },
+        "bw": {
+          "id": 123280,
+          "date": "2021-09-16"
+        },
+        "readmoo": {
+          "id": "210196666000101",
+          "date": "2021-09-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114410",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861066707",
+      "cover": "/hyakki/hyakki-19.webp",
+      "pages": 232,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "與蝸牛之間的契約解除後，青嵐成為自由之身，離家的時間越來越長。除了描寫律與進逼的妖魔進行苦鬥的「寒螢」以外，還收錄了「說謊地藏」、「石階底層」、「赤將軍到來」、「無名的孩子」共五篇魅惑的不可思議作品。",
+      "platform": {
+        "tongli": {
+          "id": "fac1c87f-f431-4e8e-999f-08d968736505",
+          "date": "2021-08-30"
+        },
+        "kobo": {
+          "id": "QMNUiukvdDKpbYNWc-KX4Q",
+          "date": "2021-09-15"
+        },
+        "bw": {
+          "id": 123281,
+          "date": "2021-09-16"
+        },
+        "readmoo": {
+          "id": "210196667000101",
+          "date": "2021-09-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114411",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861081786",
+      "cover": "/hyakki/hyakki-20.webp",
+      "pages": 220,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "有一天，開突然消失不見。他的姊姊環一再到日本各地去確認無名屍，結果出現一個奇怪的盤子，一直糾纏她不放…除了這篇「毒盤子」以外，還收錄了「別室之客」、「龜裂的家」、「交換的孩子」、「取若水」這五篇作品。",
+      "platform": {
+        "tongli": {
+          "id": "7c4cb9b3-543c-4d0f-999c-08d968736505",
+          "date": "2021-08-30"
+        },
+        "kobo": {
+          "id": "h3BYgYWXnjml118zXdlgzw",
+          "date": "2021-09-15"
+        },
+        "bw": {
+          "id": 123282,
+          "date": "2021-09-16"
+        },
+        "readmoo": {
+          "id": "210196668000101",
+          "date": "2021-09-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114412",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789863173762",
+      "cover": "/hyakki/hyakki-21.webp",
+      "pages": 240,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "即將舉行婚禮的蝸牛及八重子遇上重重危機！蝸牛的靈力能幫助他們度過這次的難關嗎？除了描寫兩人婚禮過程的「未受邀的客人」外，還收錄了「春之角」「亡者之書」「有一天一定會再見面」「森林守衛」，共計五篇故事。",
+      "platform": {
+        "tongli": {
+          "id": "76895293-16dd-456c-4968-08d96b84679d",
+          "date": "2021-09-09"
+        },
+        "kobo": {
+          "id": "LHjrYowKPj20fua8DBKA4w",
+          "date": "2021-10-06"
+        },
+        "bw": {
+          "id": 124650,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200504000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114413",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789863376385",
+      "cover": "/hyakki/hyakki-22.webp",
+      "pages": 210,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "失蹤的舅舅開回來了。律肯定那名男子就是開沒錯，但是表姊司卻堅持那是個陌生男子，事實真相究竟為何？接著律前去替外婆還願，卻在路上遇到司，還發生怪事？除了開歸來的「鬼之歸館」外，還收錄了其他五篇精彩作品。",
+      "platform": {
+        "tongli": {
+          "id": "833caabb-81c3-45f9-4969-08d96b84679d",
+          "date": "2021-09-09"
+        },
+        "kobo": {
+          "id": "OSerA5BKfDSVZVVf4vBIIw",
+          "date": "2021-10-06"
+        },
+        "bw": {
+          "id": 124651,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200505000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114414",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-09-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789863657187",
+      "cover": "/hyakki/hyakki-23.webp",
+      "pages": 210,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "律難得到大學朋友家，和大家一起看影片。不過等他回去後，房子裡卻出現異狀。眾人擔心就此離開會受到詛咒，只好請律搭頭班車過來解決。而律在那個家裡發現的是…！一共收錄五篇飯嶋律及許多妖魔編織而成的奇幻物語。",
+      "platform": {
+        "tongli": {
+          "id": "25e4ba96-331f-41c8-496a-08d96b84679d",
+          "date": "2021-09-09"
+        },
+        "kobo": {
+          "id": "sOiDasrC0DW_cwakJZLWqw",
+          "date": "2021-10-06"
+        },
+        "bw": {
+          "id": 124652,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200506000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114415",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-09-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789864318780",
+      "cover": "/hyakki/hyakki-24.webp",
+      "pages": 202,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "在睽違許久後，律再次在夢中見到外公飯嶋蝸牛。蝸牛警告他青嵐是危險的妖魔，最好早點把他趕出家門。接著隔天飯嶋家收到一封寄給蝸牛的信。就信上的內容來看，寄信人似乎對蝸牛懷有很深的怨恨，律因此感到極為擔心…",
+      "platform": {
+        "tongli": {
+          "id": "8b300d54-a922-4329-496b-08d96b84679d",
+          "date": "2021-09-09"
+        },
+        "kobo": {
+          "id": "jlFtE04TpD2l65GYThAaHg",
+          "date": "2021-10-06"
+        },
+        "bw": {
+          "id": 124653,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200507000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114416",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789864708123",
+      "cover": "/hyakki/hyakki-25.webp",
+      "pages": 200,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "開受託到委託人老家取回一樣東西。或許是受到那東西的影響，他身邊的人紛紛病倒，於是他搬回老家。另一方面，青嵐病倒的事也讓律感到苦惱。就在此時，有人拜託律偽裝成是她肚子裡孩子的父親？本集一共收錄五個故事。",
+      "platform": {
+        "tongli": {
+          "id": "361340f9-0205-41b3-496c-08d96b84679d",
+          "date": "2021-09-09"
+        },
+        "kobo": {
+          "id": "ROGora8yZD2TvFoyRYLbQQ",
+          "date": "2021-10-06"
+        },
+        "bw": {
+          "id": 124654,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200508000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114417",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789864867042",
+      "cover": "/hyakki/hyakki-26.webp",
+      "pages": 200,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "律遲遲無法決定畢業論文的題目。在老師的建議下，他前往閱覽室參考過去的論文。不過卻在那裡被某種東西纏上，回家後就開始發燒。另一方面，開在工作現場發現可疑人物，這兩者間會產生什麼關連？本集共收錄五則故事。",
+      "platform": {
+        "tongli": {
+          "id": "3dcf1f16-66b4-4c4a-c47f-08d98ed58698",
+          "date": "2021-10-26"
+        },
+        "kobo": {
+          "id": "a-vUAl2n3jKlN5aRji1g6g",
+          "date": "2021-11-17"
+        },
+        "bw": {
+          "id": 127439,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205783000101",
+          "date": "2021-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114418",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-09-24",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789572630990",
+      "cover": "/hyakki/hyakki-27.webp",
+      "pages": 208,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "飯嶋開自從遇到那個名叫「坂元海」的少年後，便積極尋找朝倉家的親戚，想要找到他。另一方面，律卻認為其中有某種陰謀，因此反對重新和親戚取得連繫。然而為了治好長子恭一的病，坂元家也努力尋找名叫「飯嶋律」的親戚…",
+      "platform": {
+        "tongli": {
+          "id": "e764c827-e766-4a71-c480-08d98ed58698",
+          "date": "2021-10-26"
+        },
+        "kobo": {
+          "id": "h_-5W4eBoDi2vTdxfNNwdA",
+          "date": "2021-11-17"
+        },
+        "bw": {
+          "id": 127440,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205784000101",
+          "date": "2021-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114419",
+          "date": "2021-11-26",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-09-24",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789572659854",
+      "cover": "/hyakki/hyakki-28.webp",
+      "pages": 192,
+      "authors": [
+        "今市子"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "繼上一集之後，本集繼續探究飯嶋家的親戚－－坂元家發生的事。開前往新潟調查朝倉宣子，發現她曾涉入一起案件。律也開始對他成為骨髓捐贈者前後兩個月期間，失去記憶的事起了疑心。難道這背後真的有某種巨大的陰謀…？",
+      "platform": {
+        "tongli": {
+          "id": "031dc225-6d6d-45d5-f254-08db1ea60ef2",
+          "date": "2023-03-27"
+        },
+        "kobo": {
+          "id": "Pyq8AAv1xjGzGR-hT-bZ9Q",
+          "date": "2023-04-20"
+        },
+        "bw": {
+          "id": 160550,
+          "date": "2023-04-20"
+        },
+        "readmoo": {
+          "id": "210270052000101",
+          "date": "2023-04-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050157683",
+          "date": "2023-04-20",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

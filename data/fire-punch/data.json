@@ -1,0 +1,511 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "fire-punch",
+    "series": {
+      "tongli": "962e132c-6a96-e811-a947-00155d020a17",
+      "kobo": "fire-punch",
+      "readmoo": 2839,
+      "bw": 9143,
+      "books": "A00000045051",
+      "pubu": {
+        "store": 4538213,
+        "id": "FIRE PUNCH炎拳"
+      }
+    },
+    "title": "FIRE PUNCH炎拳",
+    "originalTitle": "",
+    "authors": [
+      "藤本樹"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "奇幻",
+      "戰鬥",
+      "魔法"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864829620",
+      "cover": "/fire-punch/fire-punch-1.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "『冰之魔女』造成整個世界被冰封在冰雪之中，饑饉與瘋狂淹沒了全世界，受凍的人民們一心追求火炎──。 受再生能力所祝福的少年艾格尼與他的妹妹露娜， 這對無依無靠的兄妹將面臨如何殘酷的命運…!? 震撼人心的黑色科幻作品，開幕!!",
+      "platform": {
+        "tongli": {
+          "id": "8b31e401-57cd-4cdd-7a7b-08d6a053b408",
+          "date": "2019-03-05"
+        },
+        "kobo": {
+          "id": "fire-punch-1",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58200,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149883000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113412",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339513,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-07",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864829637",
+      "cover": "/fire-punch/fire-punch-2.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾格尼與宿敵鐸馬激戰後慘遭斬首，敵人帶走他的首級，意圖丟入海中。<br>途中卻突然出現了一位神秘女子－－托嘉塔，<br>展開瘋狂無比的「攝影」活動！她的瘋狂舉止無法捉摸，究竟是敵是友！？<br>劇情往意想不到的方向發展。",
+      "platform": {
+        "tongli": {
+          "id": "08df8fe8-d3ae-4e97-7a18-08d6a053b408",
+          "date": "2019-03-05"
+        },
+        "kobo": {
+          "id": "fire-punch-2",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58201,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149884000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113413",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339514,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789864829644",
+      "cover": "/fire-punch/fire-punch-3.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了向鐸馬復仇，艾格尼一行人前往貝亨杜魯閣。<br>而托嘉塔所事先安排的凶惡祝福者早已準備好迎擊艾格尼。<br>但是，艾格尼的心中卻萌發了新的決心，<br>完全打亂了托嘉塔的計畫。",
+      "platform": {
+        "tongli": {
+          "id": "ac6cea4d-d6cc-4e41-7a7c-08d6a053b408",
+          "date": "2019-03-15"
+        },
+        "kobo": {
+          "id": "fire-punch-3",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58202,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149885000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113414",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339515,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 177
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789864829651",
+      "cover": "/fire-punch/fire-punch-4.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "人稱「頭目」的神秘男性雖然成功帶領民眾逃出貝亨杜魯閣，<br>迎擊襲來的追兵時卻陷入劣勢。<br>但是，這時候卻突然出現了神秘的女槍兵、<br>以及戴著面具的男性前來助陣，逆轉了戰況。<br>而艾格尼為了崇拜自己的信眾們，<br>不得不再度進行「那種行為」…",
+      "platform": {
+        "tongli": {
+          "id": "ce53f797-fd26-4076-7a7d-08d6a053b408",
+          "date": "2019-03-15"
+        },
+        "kobo": {
+          "id": "fire-punch-4",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58203,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149886000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113415",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339516,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789864864560",
+      "cover": "/fire-punch/fire-punch-5.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「披著女人外表的男人」－－<br>「秘密」慘遭揭穿的托嘉塔，<br>忍不住向艾格尼傾吐長年累積在內心深處的痛苦。<br>托嘉塔的話語強烈地撼動了艾格尼的心。<br>為了面對自己的命運，<br>艾格尼動身去見一切的元兇－－「那個男人」！",
+      "platform": {
+        "tongli": {
+          "id": "0e866525-77d6-4f57-c0a9-08d6bc268863",
+          "date": "2019-03-05"
+        },
+        "kobo": {
+          "id": "fire-punch-5",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58204,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149887000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113416",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339517,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 172
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789864867288",
+      "cover": "/fire-punch/fire-punch-6.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在冰之魔女的控制下，<br>猶妲化身成會吸收所有生物生命力的巨＂樹＂。<br>「殺了我－－」<br>已喪失求生動力的艾格尼耳中，<br>響起了猶妲悲痛的懇求。<br>艾格尼仍不放棄繼續追尋亡妹露娜的身影。<br>破壞與再生的盡頭，將迎來什麼樣的結果！？",
+      "platform": {
+        "tongli": {
+          "id": "fc42db1d-7879-42f5-c0aa-08d6bc268863",
+          "date": "2019-03-05"
+        },
+        "kobo": {
+          "id": "fire-punch-6",
+          "date": "2019-03-27"
+        },
+        "bw": {
+          "id": 58205,
+          "date": "2019-03-28"
+        },
+        "readmoo": {
+          "id": "210149888000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050113417",
+          "date": "2021-11-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 339518,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 185
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572601570",
+      "cover": "/fire-punch/fire-punch-7.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "與泰娜之間的「約定」有如烙印般留在腦中揮之不去；\r\n眼前平靜安穩的生活，全都是用謊言堆疊而成…\r\n對艾格尼而言這一切都是淒慘至極的痛苦，\r\n令他不斷地遭受責備、折磨、腐蝕，\r\n痛苦的程度更甚以前他身為炎拳時的憤怒、痛楚、瘋狂。\r\n在永無止盡的地獄生活中，\r\n這時出現在艾格尼面前的，竟是往日的「同伴」…",
+      "platform": {
+        "tongli": {
+          "id": "6c0cdce1-2251-4de7-05fb-08d6ed704d2b",
+          "date": "2019-06-12"
+        },
+        "kobo": {
+          "id": "fire-punch-7",
+          "date": "2019-06-26"
+        },
+        "bw": {
+          "id": 65774,
+          "date": "2019-06-27"
+        },
+        "readmoo": {
+          "id": "210149889000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113418",
+          "date": "2021-11-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339519,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 196
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572606476",
+      "cover": "/fire-punch/fire-punch-8.webp",
+      "pages": 210,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)全身再度燃起火焰的艾格尼，\r\n燒盡一切、趕盡殺絕，只為前往猶妲所在之處！\r\n面對化為“壞蛋＂的艾格尼，\r\n薩恩的盲信與憤怒徹底爆發！\r\n終結這個冰凍世界的，\r\n是復仇的業火，還是寬恕的燈火？\r\n令人戰慄的黑暗幻想奇譚，終於完結！",
+      "platform": {
+        "tongli": {
+          "id": "3f972dd5-5408-48b5-40bd-08d761ca757d",
+          "date": "2019-11-15"
+        },
+        "kobo": {
+          "id": "fire-punch-8",
+          "date": "2019-12-04"
+        },
+        "bw": {
+          "id": 79428,
+          "date": "2019-12-05"
+        },
+        "readmoo": {
+          "id": "210149890000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050113419",
+          "date": "2021-11-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339520,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-11-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

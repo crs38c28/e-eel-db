@@ -1,0 +1,722 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "dungeon-meshi",
+    "series": {
+      "kobo": "_aILGuEQmVWTzA8VnzFDvQ",
+      "readmoo": 1651,
+      "bw": 10691,
+      "books": "A00000040285"
+    },
+    "collection": {
+      "pubu": [
+        172191,
+        172192,
+        172193,
+        172194,
+        172196,
+        172197,
+        186495,
+        211408,
+        233677,
+        282763,
+        312320,
+        331826
+      ],
+      "readmoo": [
+        210260579000101
+      ]
+    },
+    "title": "迷宮飯",
+    "originalTitle": "",
+    "authors": [
+      "九井諒子"
+    ],
+    "publisher": "青文出版",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "料理",
+      "冒險",
+      "魔法"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "9789865127558",
+      "cover": "/dungeon-meshi/dungeon-meshi-1.webp",
+      "pages": 193,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "望"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"在迷宮中冒險肚子餓了又沒帶糧食怎麼辦？\n很簡單，只要把魔物拿來料理就好了！\n\n萊歐斯一行人終於進到迷宮深處，卻遭到巨龍襲擊，失去了金錢與糧食。\n決心再次挑戰的他們若不解決糧食問題，半路便會餓死。\n此時，萊歐斯提出「吃魔物」的想法。\n不止史萊姆、寶箱怪，甚至連龍都打算吃下肚!?\n於是，一行人便展開了一邊冒險一邊料理魔物的……美食探險!?\n冒險家們是否能平安抵達終點，還是半路就會吃壞肚子呢？\n九井諒子首次長篇連載，「冒險×美食」的新奇幻風格，在此開幕！\"\n",
+      "platform": {
+        "kobo": {
+          "id": "y1hHpPym8jaxs29nDsoQTg",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 67998,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114798000101",
+          "date": "2019-08-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050052351",
+          "date": "2019-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 172191,
+          "date": "2021-08-10",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "9789865127565",
+      "cover": "/dungeon-meshi/dungeon-meshi-2.webp",
+      "pages": 193,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "李妮瑄"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"在迷宮中冒險肚子餓了又沒帶糧食怎麼辦？\n很簡單，只要把魔物拿來料理就好了！\n\n在隨時都可能餓死的恐懼中，萊歐斯一行人繼續往迷宮更深處前進。\n抵達地下３樓後，來到他們面前的都是喪屍和幽靈、活繪畫或哥雷姆等無法吃的魔物，\n萊歐斯等人會如何克服這項大危機!?\n迷宮中的冒險者們今天也與空腹戰鬥著……\n九井諒子「冒險×美食」新奇幻風格，這次又會出現何種意想不到的料理方式呢!?\"\n",
+      "platform": {
+        "kobo": {
+          "id": "8JLmY1sVazymTt9bhSLcRQ",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 67999,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114800000101",
+          "date": "2019-08-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050052352",
+          "date": "2019-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 172192,
+          "date": "2019-08-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 97
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(3)",
+      "isbn": "9789865127572",
+      "cover": "/dungeon-meshi/dungeon-meshi-3.webp",
+      "pages": 193,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "李妮瑄"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"在迷宮中冒險肚子餓了又沒帶糧食怎麼辦？\n很簡單，只要把魔物拿來料理就好了！\n\n地下４樓是水之區域，應該有很多很美味的魔物吧!?\n雖然是這麼想，萊歐斯一行人卻因為接連遇到的強敵們而陷入苦戰！\n瑪露希爾更是遇上了重大危機，究竟眾人是否能夠化險為夷，繼續往深處邁進呢？\n\"\n",
+      "platform": {
+        "kobo": {
+          "id": "0SdLDqZWhjCthqTO7bY5Yw",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 68000,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114802000101",
+          "date": "2019-08-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050052353",
+          "date": "2019-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 172193,
+          "date": "2019-08-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 101
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(4)",
+      "isbn": "9789865127589",
+      "cover": "/dungeon-meshi/dungeon-meshi-4.webp",
+      "pages": 194,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "李妮瑄"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"在迷宮中冒險肚子餓了又沒帶糧食怎麼辦？\n很簡單，只要把魔物拿來料理就好了！\n\n在娜瑪莉的相助下，萊歐斯一行人終於突破危機四伏的地下四樓。\n然而在前方等著他們的，是攻擊力強大又堅韌難傷的炎龍！\n攸關法琳安危的一戰，究竟眾人是否能夠順利將之降伏？\n\"\n",
+      "platform": {
+        "kobo": {
+          "id": "7qG-frCJtjKpgiaRSnodHA",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 68001,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114801000101",
+          "date": "2019-08-26",
+          "version": "2.001"
+        },
+        "books": {
+          "id": "E050052354",
+          "date": "2019-08-20",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 172194,
+          "date": "2022-09-07",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 95
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(5)",
+      "isbn": "9789865127596",
+      "cover": "/dungeon-meshi/dungeon-meshi-5.webp",
+      "pages": 201,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "李妮瑄"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"打倒了炎龍，\n成功救回法琳之後，\n萊歐斯等人原以為事情告了一段落，\n沒想到意外的人物向他們襲來！\n其人是迷宮之主‧狂亂魔術師!?\n來不及喘口氣的眾人再度陷入危機？\"\n",
+      "platform": {
+        "kobo": {
+          "id": "-onHbsSQGjSJscXZOetI8A",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 68002,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114803000101",
+          "date": "2019-08-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050052355",
+          "date": "2019-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 172196,
+          "date": "2019-08-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 109
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(6)",
+      "isbn": "9789863565437",
+      "cover": "/dungeon-meshi/dungeon-meshi-6.webp",
+      "pages": 209,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "李妮瑄"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"選擇暫時脫離迷宮的\n萊歐斯一行人，\n卻在途中偶遇昔日的同伴！\n在各種複雜情緒的交織衝突下，\n眾人再度遇到了強敵的攻擊!?\"\n",
+      "platform": {
+        "kobo": {
+          "id": "_ColLFaBIze3y5yHnMYdXg",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 68003,
+          "date": "2019-08-01"
+        },
+        "readmoo": {
+          "id": "210114805000101",
+          "date": "2019-08-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050052356",
+          "date": "2019-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 172197,
+          "date": "2019-08-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 109
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "7",
+      "isbn": "9789865122119",
+      "cover": "/dungeon-meshi/dungeon-meshi-7.webp",
+      "pages": 218,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "謝孝薇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "法琳變成了魔物!?\n不僅如此，\n她還襲擊了萊歐斯一行人！\n此事險些造成修洛與萊歐斯決裂。\n最後，為了拯救法琳，\n萊歐斯決定繼續深入迷宮！",
+      "platform": {
+        "kobo": {
+          "id": "i3LqWgsXxDiW4ogh3PsLmg",
+          "date": "2020-01-16"
+        },
+        "bw": {
+          "id": 82091,
+          "date": "2020-01-31"
+        },
+        "readmoo": {
+          "id": "210130453000101",
+          "date": "2020-02-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050063258",
+          "date": "2020-01-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 186495,
+          "date": "2020-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 105
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-12-31",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "8",
+      "isbn": "9789865124137",
+      "cover": "/dungeon-meshi/dungeon-meshi-8.webp",
+      "pages": 202,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "西方精靈們開始干涉島上迷宮，\n喀布爾為了避免情況惡化，\n選擇與精靈們一同行動。\n另一方面，克服了先西心靈創傷的\n萊歐斯一行人，一場出乎意料的\n危機降臨到他們身上了!?",
+      "platform": {
+        "kobo": {
+          "id": "Ob8WUkpOrDu5RWb4PxnVRQ",
+          "date": "2020-07-20"
+        },
+        "bw": {
+          "id": 93038,
+          "date": "2020-07-28"
+        },
+        "readmoo": {
+          "id": "210158777000101",
+          "date": "2020-10-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050071605",
+          "date": "2020-07-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 211408,
+          "date": "2020-11-25",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-07-14",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "9",
+      "isbn": "9789865127053",
+      "cover": "/dungeon-meshi/dungeon-meshi-9.webp",
+      "pages": 210,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "謝孝薇"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "差點因為變形菇\n而滅團的萊歐斯一行人，\n總算如願前進到了迷宮深處。\n另一方面，在喀布爾的介入下，\n金絲雀小隊的隊長米斯倫\n和喀布爾一起墜入了迷宮底層…",
+      "platform": {
+        "kobo": {
+          "id": "cHCRtg-gfzy44xr41lLKTA",
+          "date": "2021-05-13"
+        },
+        "bw": {
+          "id": 113331,
+          "date": "2021-05-09"
+        },
+        "readmoo": {
+          "id": "210180243000101",
+          "date": "2021-05-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050093194",
+          "date": "2021-05-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 233677,
+          "date": "2021-05-19",
+          "type": [
+            "epub"
+          ],
+          "size": 111
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-03",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "10",
+      "isbn": "9786263038318",
+      "cover": "/dungeon-meshi/dungeon-meshi-10.webp",
+      "pages": 226,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "謝孝薇"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "向抵達迷宮最深處的\n萊歐斯等人襲來的，\n是與凱美拉法琳一同現身的\n迷宮之主‧希斯路。\n面對最強的敵人，\n他們有辦法避免全滅一途嗎!?\n",
+      "platform": {
+        "kobo": {
+          "id": "zcDrRnB62DaNSt5bydwYfw",
+          "date": "2022-01-20"
+        },
+        "bw": {
+          "id": 131691,
+          "date": "2022-01-24"
+        },
+        "readmoo": {
+          "id": "210218352000101",
+          "date": "2022-03-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050120947",
+          "date": "2022-01-24",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 282763,
+          "date": "2022-01-24",
+          "type": [
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-13",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "11",
+      "isbn": "9786263225985",
+      "cover": "/dungeon-meshi/dungeon-meshi-11.webp",
+      "pages": 218,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "難道‧‧‧你不想實現\n你的那些欲望嗎？\n\n以封印著翼獅的魔導書為中心，\n萊歐斯、希斯路還有金絲雀小隊\n將發生激烈衝突！\n\n",
+      "platform": {
+        "kobo": {
+          "id": "isibTTyxgjKrEmVjpCwZMQ",
+          "date": "2022-07-18"
+        },
+        "bw": {
+          "id": 143416,
+          "date": "2022-07-18"
+        },
+        "readmoo": {
+          "id": "210237916000101",
+          "date": "2022-07-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050137691",
+          "date": "2022-07-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 312320,
+          "date": "2022-07-23",
+          "type": [
+            "epub"
+          ],
+          "size": 92
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-07-12",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "12",
+      "isbn": "9786263405967",
+      "cover": "/dungeon-meshi/dungeon-meshi-12.webp",
+      "pages": 242,
+      "authors": [
+        "九井諒子"
+      ],
+      "translators": [
+        "謝孝薇"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "「想和大家一起變老。」\n瑪露希爾的願望，在她成為迷宮之主後，\n成為了詛咒，開始吞噬整個世界。\n面對以花言巧語欺騙瑪露希爾，打算實現私慾的翼獅，\n萊歐斯一行人是否能成功阻止牠呢!?",
+      "platform": {
+        "kobo": {
+          "id": "HUMJVg60fz-kgc3he4QF7w",
+          "date": "2023-01-09"
+        },
+        "bw": {
+          "id": 155172,
+          "date": "2023-01-09"
+        },
+        "readmoo": {
+          "id": "210260579000101",
+          "date": "2023-01-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151597",
+          "date": "2023-01-11",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 331826,
+          "date": "2023-01-09",
+          "type": [
+            "epub"
+          ],
+          "size": 98
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-07",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1440,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

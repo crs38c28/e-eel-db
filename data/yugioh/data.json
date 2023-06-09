@@ -1,0 +1,2237 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "yugioh",
+    "series": {
+      "tongli": "f22e132c-6a96-e811-a947-00155d020a17",
+      "kobo": "DhekwLl9uVekgEoQ4V0mNw",
+      "readmoo": 2064,
+      "bw": 8482,
+      "books": "A00000049261",
+      "pubu": {
+        "store": 4538213,
+        "id": "遊戲王"
+      }
+    },
+    "title": "遊戲王",
+    "originalTitle": "",
+    "authors": [
+      "高橋和希"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "奇幻",
+      "競技",
+      "神話",
+      "動畫化",
+      "冒險"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861125695",
+      "cover": "/yugioh/yugioh-1.webp",
+      "pages": 197,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "1adfcf14-4e65-456b-5baf-08d67c290316",
+          "date": "2018-10-25"
+        },
+        "kobo": {
+          "id": "5U3Js5ybCjqVZ3-tgR78sA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51176,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129168000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127688",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343148,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-10-18",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-09-11",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861125701",
+      "cover": "/yugioh/yugioh-2.webp",
+      "pages": 192,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "5b69be86-5bcd-4698-a0e2-08d67c2d39cc",
+          "date": "2018-10-25"
+        },
+        "kobo": {
+          "id": "R4ZHPv-XhzCtudn1HQqabg",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51177,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129169000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127689",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343149,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 84
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-02",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861125718",
+      "cover": "/yugioh/yugioh-3.webp",
+      "pages": 208,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "1cef14d2-3ff2-409f-a0e3-08d67c2d39cc",
+          "date": "2018-10-25"
+        },
+        "kobo": {
+          "id": "EJzSt0FdTD-ErcP4reKqDA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51178,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129170000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127690",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343150,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-02",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861125725",
+      "cover": "/yugioh/yugioh-4.webp",
+      "pages": 208,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "8c810cb6-c7af-41ca-a0e4-08d67c2d39cc",
+          "date": "2018-10-25"
+        },
+        "kobo": {
+          "id": "-c0af3JfMT65tBIF9LxTLQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51179,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129171000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127691",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343151,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-02",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861125732",
+      "cover": "/yugioh/yugioh-5.webp",
+      "pages": 200,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "7a099356-eba4-4436-a0e5-08d67c2d39cc",
+          "date": "2018-10-25"
+        },
+        "kobo": {
+          "id": "a0E5VLNnyTqZA6CHF7qmjw",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51180,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129172000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127692",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343152,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-02",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861125749",
+      "cover": "/yugioh/yugioh-6.webp",
+      "pages": 200,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "4113ed09-50bd-4537-a0e6-08d67c2d39cc",
+          "date": "2018-11-01"
+        },
+        "kobo": {
+          "id": "k-QgXrxvwjeA_upYrR0gyg",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51181,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129173000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127693",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343153,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861125756",
+      "cover": "/yugioh/yugioh-7.webp",
+      "pages": 200,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "603b0b03-c474-41f9-a0e7-08d67c2d39cc",
+          "date": "2018-11-01"
+        },
+        "kobo": {
+          "id": "AMfJNWLLijarVEwSpY6SNQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51182,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129174000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127694",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343154,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861125763",
+      "cover": "/yugioh/yugioh-8.webp",
+      "pages": 190,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "821d67ab-003d-4f42-a0e8-08d67c2d39cc",
+          "date": "2018-11-01"
+        },
+        "kobo": {
+          "id": "PHRXiewE6jqPOv_HWbozIw",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51183,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129175000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127695",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343155,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861125770",
+      "cover": "/yugioh/yugioh-9.webp",
+      "pages": 208,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "c35efb6c-4e8a-42cc-a0e9-08d67c2d39cc",
+          "date": "2018-11-01"
+        },
+        "kobo": {
+          "id": "wVl7X4S2yz-tFaz33hzS8w",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51184,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129176000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127696",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343156,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861125787",
+      "cover": "/yugioh/yugioh-10.webp",
+      "pages": 208,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "b806c207-f9f3-4fd5-a0ea-08d67c2d39cc",
+          "date": "2018-11-01"
+        },
+        "kobo": {
+          "id": "Uu_WQD0VIT6gLmDV2ciFQQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51185,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210129177000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127697",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343157,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861127613",
+      "cover": "/yugioh/yugioh-11.webp",
+      "pages": 200,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "5ed7523c-8c59-497e-a0eb-08d67c2d39cc",
+          "date": "2018-11-14"
+        },
+        "kobo": {
+          "id": "dk1ETKOvnzmTCbuJ63Vi2A",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51606,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210129178000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127698",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343158,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 84
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861127620",
+      "cover": "/yugioh/yugioh-12.webp",
+      "pages": 190,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "2aeae721-d341-4e6b-a0ec-08d67c2d39cc",
+          "date": "2018-11-14"
+        },
+        "kobo": {
+          "id": "osB6LN8TKz24Jwd2G6QlxA",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51607,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210129179000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127699",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343159,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861127637",
+      "cover": "/yugioh/yugioh-13.webp",
+      "pages": 198,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "2607fe08-f61f-486d-a0ed-08d67c2d39cc",
+          "date": "2018-11-14"
+        },
+        "kobo": {
+          "id": "tWIt7q9EiDWJv_jSyDi6sg",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51608,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210129180000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127700",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343160,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861127644",
+      "cover": "/yugioh/yugioh-14.webp",
+      "pages": 190,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "eebf8761-aff8-4d38-a0ee-08d67c2d39cc",
+          "date": "2018-11-14"
+        },
+        "kobo": {
+          "id": "vEe8caxNZTiueV_KdlCtYQ",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51609,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210129181000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127701",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343161,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 81
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861127651",
+      "cover": "/yugioh/yugioh-15.webp",
+      "pages": 216,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "01a0cb20-194b-421f-a0ef-08d67c2d39cc",
+          "date": "2018-11-14"
+        },
+        "kobo": {
+          "id": "TmHN0VWAgTmVCjVOCn7laA",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51610,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210129182000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127702",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343162,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861127668",
+      "cover": "/yugioh/yugioh-16.webp",
+      "pages": 198,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "1c9e52ef-f5f0-40f0-a0f0-08d67c2d39cc",
+          "date": "2018-11-29"
+        },
+        "kobo": {
+          "id": "ih9fa5CiBT26MA8AiAnnjQ",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52806,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210129183000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127703",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343163,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-12",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861127675",
+      "cover": "/yugioh/yugioh-17.webp",
+      "pages": 193,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "7532c304-5ac5-46c3-a0f1-08d67c2d39cc",
+          "date": "2018-11-29"
+        },
+        "kobo": {
+          "id": "7rMkzLKUNzyVe-4hfTx1yg",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52807,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210129184000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127704",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343164,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-12",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861127682",
+      "cover": "/yugioh/yugioh-18.webp",
+      "pages": 192,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "180f574f-8e27-4546-a0f2-08d67c2d39cc",
+          "date": "2018-11-29"
+        },
+        "kobo": {
+          "id": "9Y8GgAQC2jKbbG3isO_p_A",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52808,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210129185000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127705",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343165,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-13",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861127699",
+      "cover": "/yugioh/yugioh-19.webp",
+      "pages": 196,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "fd85b7b2-3511-479a-a0f3-08d67c2d39cc",
+          "date": "2018-11-29"
+        },
+        "kobo": {
+          "id": "Jcf7cQmE2T--nOvKAj2klQ",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52809,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210129186000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127706",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343166,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-13",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861127705",
+      "cover": "/yugioh/yugioh-20.webp",
+      "pages": 190,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "fedda799-bbb2-4880-a0f4-08d67c2d39cc",
+          "date": "2018-11-29"
+        },
+        "kobo": {
+          "id": "Fz2LVjeHgzGnNDeh9vhGNg",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52810,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210129187000101",
+          "date": "2020-01-29",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050127707",
+          "date": "2022-03-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343167,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 80
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861128559",
+      "cover": "/yugioh/yugioh-21.webp",
+      "pages": 188,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "caa49e7f-1a69-45e2-a0f5-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "VuyNZCdUnTSdJWiOcscsog",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54328,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129188000101",
+          "date": "2020-01-29",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050127708",
+          "date": "2022-03-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343168,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861128566",
+      "cover": "/yugioh/yugioh-22.webp",
+      "pages": 188,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "f01dee97-d312-4ceb-a0f6-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "hjeRf5d1uDC5aAFthDVLCA",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54329,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129189000101",
+          "date": "2020-01-29",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050127709",
+          "date": "2022-03-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343169,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789861128573",
+      "cover": "/yugioh/yugioh-23.webp",
+      "pages": 192,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "71840dab-ecb1-42f1-a0f7-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "J5FzyhTgPD-MX7bSjt0GzA",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54330,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129190000101",
+          "date": "2020-01-29",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050127710",
+          "date": "2022-03-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343170,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789861128580",
+      "cover": "/yugioh/yugioh-24.webp",
+      "pages": 186,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "2a8c36ec-2286-47b6-a0f8-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "qOrB4tk6eTeivA4Ru15Nug",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54331,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129191000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127711",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343171,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789861128597",
+      "cover": "/yugioh/yugioh-25.webp",
+      "pages": 186,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "02264ba9-f04f-43eb-a0f9-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "3R737ScLPTetxL_JkCoWzA",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54332,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129192000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127712",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343172,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789861128603",
+      "cover": "/yugioh/yugioh-26.webp",
+      "pages": 182,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "d686a5ad-1955-4282-a0fa-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "OzinswzJkzKnCdavSHJ__Q",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54333,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129193000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127713",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343173,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 84
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789861128610",
+      "cover": "/yugioh/yugioh-27.webp",
+      "pages": 184,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "04a96594-b3b0-4ef5-a0fb-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "QDTSB9LC7zmnZWUHAoTwmw",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54334,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129194000101",
+          "date": "2020-01-29",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050127714",
+          "date": "2022-03-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343174,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789861128627",
+      "cover": "/yugioh/yugioh-28.webp",
+      "pages": 180,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "4c920349-f927-4aa2-a0fc-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "sQxDVYZLgTOtZowEcAh8YQ",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54335,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129195000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127715",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343175,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "第29集",
+      "isbn": "9789861128634",
+      "cover": "/yugioh/yugioh-29.webp",
+      "pages": 186,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "20a9ef27-3cfe-4fbc-a0fd-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "9HedaYDvjT6oGsuXUgeIZw",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54336,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129196000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127716",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343176,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "第30集",
+      "isbn": "9789861128641",
+      "cover": "/yugioh/yugioh-30.webp",
+      "pages": 186,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "7c6e7a28-fef0-4d4e-a0fe-08d67c2d39cc",
+          "date": "2018-12-25"
+        },
+        "kobo": {
+          "id": "nfDweNQCAjamU97Y6EFbyA",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54337,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210129197000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127717",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343177,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-21",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "第31集",
+      "isbn": "9789861128917",
+      "cover": "/yugioh/yugioh-31.webp",
+      "pages": 210,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "7f606aa6-9448-43b5-a0ff-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "4i5RO9yLyDS3ExMEC62CzQ",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55142,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129198000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127718",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343178,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 100
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-08",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "第32集",
+      "isbn": "9789861128924",
+      "cover": "/yugioh/yugioh-32.webp",
+      "pages": 190,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "74f8e2e9-f451-4603-a100-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "wRtgmGNmfzKKxw5V1uZ3rA",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55143,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129199000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127719",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343179,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-08",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "第33集",
+      "isbn": "9789861109855",
+      "cover": "/yugioh/yugioh-33.webp",
+      "pages": 184,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "89667f01-79d9-465b-a101-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "aKbudUbPrDqIZBB_ABMmlA",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55144,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129200000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127769",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343180,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-09",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "第34集",
+      "isbn": "9789861128948",
+      "cover": "/yugioh/yugioh-34.webp",
+      "pages": 178,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "8bdd8edc-db31-4165-a102-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "CfPTzH2CrDeDcpkrxv9UEw",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55145,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129201000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127720",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343181,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-08",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 35,
+      "volName": "第35集",
+      "isbn": "9789861134437",
+      "cover": "/yugioh/yugioh-35.webp",
+      "pages": 180,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "8d8d60fc-c7b3-4107-a103-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "9RPdq2n3kDWxgnj0GXeujg",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55146,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129202000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127721",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343182,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-08",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 36,
+      "volName": "第36集",
+      "isbn": "9789861136479",
+      "cover": "/yugioh/yugioh-36.webp",
+      "pages": 178,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（全38冊）武藤遊戲從開玩具店的爺爺手中，得到了一個奇特的千年積木，他將千年積木完成時，體內卻出現了另一個充滿自信、擁有不可思議力量的人格……",
+      "platform": {
+        "tongli": {
+          "id": "4297848a-a06d-4dbb-a104-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "8fLknVJ8FjCFz-hf1de0MA",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55147,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129204000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127722",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343183,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-08",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 37,
+      "volName": "第37集",
+      "isbn": "9789861138992",
+      "cover": "/yugioh/yugioh-37.webp",
+      "pages": 200,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "黑暗RPG-能在記憶世界存活的人，是法老王還是佐克？勝利關鍵是尚未查出來的王之名！遊戲為了拯救分散的法老王靈魂，和獏良的分身，展開賭上生命的黑暗遊戲，他能否找到法老王的名字呢？",
+      "platform": {
+        "tongli": {
+          "id": "5e4b8876-0306-489e-a105-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "hsi3t2lCOjK7oGXc1YOCiw",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55148,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129207000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127723",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343184,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 98
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-09",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 38,
+      "volName": "第38集",
+      "isbn": "9789861139005",
+      "cover": "/yugioh/yugioh-38.webp",
+      "pages": 223,
+      "authors": [
+        "高橋和希"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "（完結篇）亞圖姆ＶＳ遊戲！亞圖姆召喚出赫爾阿克帝，打敗了佐克從記憶世界回來。他最後且最大的對手正是遊戲！為了決定亞圖姆的靈魂的歸處，兩人傾全力對戰！描寫決鬥者們的堅貞感情，感人的最後一集！<br>",
+      "platform": {
+        "tongli": {
+          "id": "1da7233e-04cb-40be-a106-08d67c2d39cc",
+          "date": "2019-01-11"
+        },
+        "kobo": {
+          "id": "zWnbacd5djSxieKnVd8oyQ",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55149,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210129209000101",
+          "date": "2020-01-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050127724",
+          "date": "2022-03-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343185,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 102
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-09",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    }
+  ]
+}

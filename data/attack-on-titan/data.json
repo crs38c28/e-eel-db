@@ -1,0 +1,2071 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "attack-on-titan",
+    "series": {
+      "tongli": "6e34132c-6a96-e811-a947-00155d020a17",
+      "kobo": "r95TYnaT316qtxAehTI_9w",
+      "readmoo": 1905,
+      "bw": 439,
+      "books": "A00000041426",
+      "pubu": {
+        "store": 4538213,
+        "id": "進擊的巨人"
+      }
+    },
+    "title": "進擊的巨人",
+    "originalTitle": "",
+    "authors": [
+      "諫山創"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "動畫化",
+      "戰鬥",
+      "冒險"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861070995",
+      "cover": "/attack-on-titan/attack-on-titan-1.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一個由巨人所掌控的世界。成為巨人食物的人類築起了巨大高聳的城牆，犧牲通往牆外的自由，換來防止對方的侵略。但是虛有其表的和平卻在足以跨越城牆的大巨人出現之下瓦解，一場絕望的戰爭就此開始。",
+      "platform": {
+        "tongli": {
+          "id": "d6e85580-b953-40d6-530a-08d601bfd2d1",
+          "date": "2014-05-23"
+        },
+        "kobo": {
+          "id": "YyDS0IZX_ziUUK3OreZyEA",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2598,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122767000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104805",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335985,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 171
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861071008",
+      "cover": "/attack-on-titan/attack-on-titan-2.webp",
+      "pages": 192,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連為了救阿爾敏，結果自己卻被巨人給吞下肚，這景象讓阿爾敏大受打擊，整個人被嚇傻不知所措。另一方面，米卡莎及時趕到殺死了巨人，才挽救了被堵在城門動彈不得的大批居民，不過她當時還不知道艾連所發生的事。",
+      "platform": {
+        "tongli": {
+          "id": "36da8010-7b10-4f75-530b-08d601bfd2d1",
+          "date": "2014-05-23"
+        },
+        "kobo": {
+          "id": "HIFXCGVt_zSguwnyo7dBjw",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2599,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122768000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104806",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335986,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 186
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861071015",
+      "cover": "/attack-on-titan/attack-on-titan-3.webp",
+      "pages": 202,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "原本應該是被巨人吞下肚的艾連，如今自己卻成了巨人還攻擊同類，最後體力不支而倒地。後來被米卡莎所救回，但是卻遭到駐紮軍團的質疑並且將他們包圍起來。艾連他們要如何度過這個危機，人類又會想出什麼方法來對付巨人呢？",
+      "platform": {
+        "tongli": {
+          "id": "f99bb3f4-c0dd-4fd0-530c-08d601bfd2d1",
+          "date": "2014-05-23"
+        },
+        "kobo": {
+          "id": "dTYzpr1hpjmbZPFUjj2hFQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2600,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122769000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104807",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335987,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 192
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861076812",
+      "cover": "/attack-on-titan/attack-on-titan-4.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了封住被巨人所破壞的城牆，人類決定讓巨人化的艾連拿著岩石將破洞封住，還派出精銳小組陪他一塊執行任務，但是艾連來到中途卻失去理智，在阿爾敏鍥而不捨的呼喚之下，終於才讓他再次醒過來繼續完成任務，人類才得以首次打敗巨人贏得勝利。\r\n",
+      "platform": {
+        "tongli": {
+          "id": "6d3d3b03-77b9-48a9-530d-08d601bfd2d1",
+          "date": "2014-05-23"
+        },
+        "kobo": {
+          "id": "NxGUcokrgTWqi82CPoxrbQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2601,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122770000101",
+          "date": "2019-12-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050104808",
+          "date": "2021-09-07",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 335988,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 199
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861083223",
+      "cover": "/attack-on-titan/attack-on-titan-5.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "當時艾連變成了巨人，人類才能夠首次成功擊退巨人，但是他的存在卻引起兩種極端的反應，為此還特地由總統召開一場審議會，來決定艾連今後的命運。儘管憲兵團認為應該儘快將艾連處理掉，不過相對的調查軍團卻想藉由艾連的力量奪回瑪利亞之牆。",
+      "platform": {
+        "tongli": {
+          "id": "6c5f1aa3-8032-4bb3-530e-08d601bfd2d1",
+          "date": "2014-05-23"
+        },
+        "kobo": {
+          "id": "stlg4uF3XDuA0BWEI6XHkA",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2602,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122771000101",
+          "date": "2019-12-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050104809",
+          "date": "2021-09-07",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 335989,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 209
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-20",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861092119",
+      "cover": "/attack-on-titan/attack-on-titan-6.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團想藉由艾連的力量奪回瑪利亞之牆，於是組成一支部隊護送他前往。原本一路上都很平靜無波，但是突然出現的女巨人卻開始攻擊阿爾敏，當他摔下馬原以為這下死定了，沒想到對方竟然是確認了他的臉，之後就離開了。這舉動讓阿爾敏懷疑那個女巨人是跟艾連一樣由人類變成的。",
+      "platform": {
+        "tongli": {
+          "id": "d84a9363-9c70-4958-530f-08d601bfd2d1",
+          "date": "2014-05-24"
+        },
+        "kobo": {
+          "id": "R6MqFtdhzjaSgbx2LHrugQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2603,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122772000101",
+          "date": "2019-12-18",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050104810",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335990,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 208
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-24",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861099835",
+      "cover": "/attack-on-titan/attack-on-titan-7.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團為了找出藏在艾連老家的「巨人之謎」於是進行一次牆外調查，在途中遇上了巨人來襲，於是他們轉進了森林，並且在其中困住了一個具有智慧的「女巨人」，正當他們試圖揪出躲在巨人體內的傢伙，女巨人突然放聲尖叫，把其他巨人全部吸引過來…。",
+      "platform": {
+        "tongli": {
+          "id": "615cb30b-1635-4386-5310-08d601bfd2d1",
+          "date": "2014-05-24"
+        },
+        "kobo": {
+          "id": "5awINf-pZDuGYh2AiqO7eg",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2604,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122773000101",
+          "date": "2019-12-18",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050104811",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335991,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 216
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863176848",
+      "cover": "/attack-on-titan/attack-on-titan-8.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在上次捕捉「女巨人」的任務失敗之後，調查軍團私底下擬定一項計畫，打算在返回王都通過席拿之牆‧史托黑司區的時候，利用艾連將潛伏在憲兵團裡的女巨人引出來。由阿爾敏主動找上人在憲兵團的亞妮幫忙，請她協助艾連逃走。",
+      "platform": {
+        "tongli": {
+          "id": "0e08a8c4-2c62-4cfb-5311-08d601bfd2d1",
+          "date": "2014-05-24"
+        },
+        "kobo": {
+          "id": "-PCNpys8LzSe08FK9prvpg",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2605,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122774000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104812",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335992,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 200
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863245483",
+      "cover": "/attack-on-titan/attack-on-titan-9.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "幾名１０４期的士兵發現一群巨人從南方接近當中，他們研判應該是羅塞之牆已經遭到破壞，於是他們決定分成四小組去通知人員避難。而南小組當中的米克分隊長獨自去應付那群巨人，因而發現不曾見過，全身長滿毛髮的奇行種，對方不但有智慧還會開口說話…。",
+      "platform": {
+        "tongli": {
+          "id": "c10beac1-0d58-4487-5312-08d601bfd2d1",
+          "date": "2014-05-24"
+        },
+        "kobo": {
+          "id": "rxZbMLiqrDGOrLKiIusXJg",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2606,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122775000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104813",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335993,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 209
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789863324416",
+      "cover": "/attack-on-titan/attack-on-titan-10.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "張益豐"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "羅塞之牆附近突然出現一群巨人。<br>包含104期學員的調查軍團正趕著要確定巨人出現的地點，<br>於是暫時在羅塞附近的厄特加爾城過夜。<br>不過，原本以為不會在夜間活動的巨人卻將整座城給包圍了…",
+      "platform": {
+        "tongli": {
+          "id": "5c640796-ba40-48a6-5313-08d601bfd2d1",
+          "date": "2014-05-24"
+        },
+        "kobo": {
+          "id": "5CznJ0CLRz-76m2q6SattA",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2607,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122776000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104814",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335994,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 222
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789863371786",
+      "cover": "/attack-on-titan/attack-on-titan-11.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "１０４期戰鬥軍團好不容易擊退了突然出現在羅塞之牆附近的巨人，休息沒多久超大型巨人跟盔甲巨人卻又紛紛出現，更令重人驚訝的是他們的身分竟然都是原本調查軍團裡的士兵。儘管艾連變成巨人與盔甲巨人爆發戰鬥，卻依然不敵還被對方帶走。",
+      "platform": {
+        "tongli": {
+          "id": "5b2a5191-4d91-4650-5314-08d601bfd2d1",
+          "date": "2014-05-28"
+        },
+        "kobo": {
+          "id": "cIQEbAo1xjaGM4cBejo-3w",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2608,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122777000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104815",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335995,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 209
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789863480266",
+      "cover": "/attack-on-titan/attack-on-titan-12.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "萊納跟貝爾托特的真正身分被揭穿之後，就抓走了艾連跟尤米爾要回到故鄉交差，她還決定協助萊納他們順便將克里斯塔給抓回去。當他們發現調查軍團已經追趕上來，決定在天還沒黑之前就提前行動。此時艾連突然失控阻撓，使得調查軍團能夠順利趕上。",
+      "platform": {
+        "tongli": {
+          "id": "565253f6-79c8-4114-5315-08d601bfd2d1",
+          "date": "2014-05-28"
+        },
+        "kobo": {
+          "id": "m9_iiz6iDDm1DqpN6gDozQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2609,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122778000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104816",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335996,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 218
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789863485759",
+      "cover": "/attack-on-titan/attack-on-titan-13.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團發動突襲總算是把艾連與克里斯塔再次搶了回來，但是最後尤米爾還是選擇跟萊納他們一起。另一方面，漢吉針對拉加哥村所發生的狀況推斷，這次所面對的巨人很可能就是拉加哥村的居民所變成的，也就是巨人跟人類之間其實有某種關聯。",
+      "platform": {
+        "tongli": {
+          "id": "0e5e02e2-f0d5-4c7c-5316-08d601bfd2d1",
+          "date": "2014-05-29"
+        },
+        "kobo": {
+          "id": "7ujoFJXOGDiMC-VOPQ59cw",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2622,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122779000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104817",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335997,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 197
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789863651628",
+      "cover": "/attack-on-titan/attack-on-titan-14.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團眼見國王的作為已經失控，於是決定推翻王政。奉了國王命令的中央憲兵跟利布斯商會聯手，委託他們將艾連與克里斯塔抓了起來，接著又殺了會長還將這件事情嫁禍給調查軍團。不但派出刺客集團去對付調查軍團，另一方面又命令團長‧艾爾文回到王都報到。",
+      "platform": {
+        "tongli": {
+          "id": "6dcf9c48-e1d8-4098-5317-08d601bfd2d1",
+          "date": "2014-11-07"
+        },
+        "kobo": {
+          "id": "l49-h0bOqjieQFDVB1XEuQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2623,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122780000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104818",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335998,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 204
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789863824572",
+      "cover": "/attack-on-titan/attack-on-titan-15.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "偵訊中央憲兵之後，終於明白雷斯家才是真正的王室。調查軍團試圖推翻王政，擁護克里斯塔（希絲特莉亞‧雷斯）即位成為女王，但是克里斯塔跟艾連卻被中央憲兵的「對人壓制部隊」劫持了！",
+      "platform": {
+        "tongli": {
+          "id": "3c640d41-7aaf-4ebd-5318-08d601bfd2d1",
+          "date": "2015-03-09"
+        },
+        "kobo": {
+          "id": "hXUiawajHTaRQH0jfR4yvw",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2624,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122781000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104819",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 335999,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 197
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789864312351",
+      "cover": "/attack-on-titan/attack-on-titan-16.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "儘管調查軍團遭到中央憲兵的嫁禍，卻還是在整個軍團的協助下成功推翻王政。如今只剩讓希絲特莉亞以真正王家的身分即位為女王。里維一行人雖然已經掌握遭到綁架的希絲特莉亞與艾連的所在地……。",
+      "platform": {
+        "tongli": {
+          "id": "64876c56-34b1-476f-5319-08d601bfd2d1",
+          "date": "2015-08-07"
+        },
+        "kobo": {
+          "id": "J1lzDhngBzKFjCrdk3HJpQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2625,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122782000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104820",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336000,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 184
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789864620661",
+      "cover": "/attack-on-titan/attack-on-titan-17.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "真正國王‧雷斯家世代相傳的巨人力量，透過古利夏交給了艾連。雖然父親羅德‧雷斯命令希絲特莉亞殺了艾連，但是她最後選擇了自己該走的道路。於是因為憤怒而變成體型最龐大巨人的羅德‧雷斯，開始攻擊艾連……！",
+      "platform": {
+        "tongli": {
+          "id": "ac1bd21d-8604-4df4-531a-08d601bfd2d1",
+          "date": "2015-12-09"
+        },
+        "kobo": {
+          "id": "WpwowKT9LzS4PamaX1Fgfg",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2626,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122783000101",
+          "date": "2019-12-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050104821",
+          "date": "2021-09-07",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 336001,
+          "date": "2023-04-07",
+          "type": [
+            "epub"
+          ],
+          "size": 202
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789864627905",
+      "cover": "/attack-on-titan/attack-on-titan-18.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團推翻王政，徹底清除了舊體制派。<br>有了最新到手的發光礦石與艾連的硬質化能力，<br>奪回瑪利亞之牆作戰正如火如荼地進行準備。<br>另一方面，萊納跟貝爾托特跟著野獸巨人一起準備迎戰……！",
+      "platform": {
+        "tongli": {
+          "id": "fdddb820-f3c0-4677-531b-08d601bfd2d1",
+          "date": "2016-03-09"
+        },
+        "kobo": {
+          "id": "NaJ5b6sJizu3zGN2rD7fpA",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 2627,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122784000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104822",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336002,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 209
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789864702121",
+      "cover": "/attack-on-titan/attack-on-titan-19.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了贏得真正的勝利，調查軍團決定執行奪回瑪利亞之牆的作戰。作戰內容是利用艾連的硬質化能力將位於瑪利亞之牆希干希納區城牆上的破洞封住。而且還要查明沉睡在艾連老家地下室的「真相」。但是，「野獸巨人」等巨人就在那裡等著他們！",
+      "platform": {
+        "tongli": {
+          "id": "e97fcde6-342b-4d51-531c-08d601bfd2d1",
+          "date": "2016-08-09"
+        },
+        "kobo": {
+          "id": "zVnpqqL8cTGm__txbVQDtg",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 3969,
+          "date": "2016-08-26"
+        },
+        "readmoo": {
+          "id": "210122785000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104823",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336003,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 211
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789864708598",
+      "cover": "/attack-on-titan/attack-on-titan-20.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了取得擺放在艾連老家的「真相」，調查軍團決定執行奪回瑪利亞之牆的作戰。但是路途上有萊納、貝爾托特、「野獸巨人」在等著他們。艾連一行人能夠打敗過去的同伴們贏得勝利，順利取得「真相」嗎！",
+      "platform": {
+        "tongli": {
+          "id": "cb7fe438-cc1a-4e88-531d-08d601bfd2d1",
+          "date": "2016-11-04"
+        },
+        "kobo": {
+          "id": "ksmdqRESCj-AMl3TpWbogQ",
+          "date": "2017-02-15"
+        },
+        "bw": {
+          "id": 6313,
+          "date": "2016-11-12"
+        },
+        "readmoo": {
+          "id": "210122786000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104824",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336004,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 210
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789864825479",
+      "cover": "/attack-on-titan/attack-on-titan-21.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "調查軍團與萊納、貝爾托特、「野獸巨人」的戰鬥異常激烈。艾爾文跟阿爾敏賭上自己的性命，讓里維跟艾連去征討敵人。以犧牲做為交換，倖存的人所掌握的是……？<br>",
+      "platform": {
+        "tongli": {
+          "id": "3dff3e7f-5c0c-4052-531e-08d601bfd2d1",
+          "date": "2017-03-29"
+        },
+        "kobo": {
+          "id": "zLOxog2X6zmTZAMmi6njfA",
+          "date": "2017-05-17"
+        },
+        "bw": {
+          "id": 10932,
+          "date": "2017-04-20"
+        },
+        "readmoo": {
+          "id": "210122787000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104825",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336005,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 198
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789864861453",
+      "cover": "/attack-on-titan/attack-on-titan-22.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "經過跟野獸巨人們的激戰之後，<br>調查軍團來到艾連的老家。<br>埋藏在地下室的秘密，絕對不是他們所希望的。<br>面對揭曉的世界真相，調查軍團該走的路是……",
+      "platform": {
+        "tongli": {
+          "id": "9cec4883-afd1-4bdb-531f-08d601bfd2d1",
+          "date": "2017-07-07"
+        },
+        "kobo": {
+          "id": "A9AluHv4kD6Gxa5jANsVeA",
+          "date": "2017-07-24"
+        },
+        "bw": {
+          "id": 13895,
+          "date": "2017-07-12"
+        },
+        "readmoo": {
+          "id": "210122788000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104826",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336006,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 180
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789864867189",
+      "cover": "/attack-on-titan/attack-on-titan-23.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連一行人透過古利夏遺留的書籍而得知真相。<br>其實要面對的是比巨人更加巨大的「世界」。<br>得知城牆的另一側毫無自由可言的艾連一行人的將來會是……。",
+      "platform": {
+        "tongli": {
+          "id": "8678592d-336b-42e1-5320-08d601bfd2d1",
+          "date": "2017-12-08"
+        },
+        "kobo": {
+          "id": "KhgFRPQ99zauEVN630RotA",
+          "date": "2018-01-15"
+        },
+        "bw": {
+          "id": 29388,
+          "date": "2018-01-16"
+        },
+        "readmoo": {
+          "id": "210122789000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104827",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336007,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 195
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789572604717",
+      "cover": "/attack-on-titan/attack-on-titan-24.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在艾連他們居住的帕拉迪島之外，還存在一個其他人類居住的世界。當中一個國家「瑪雷」與其他各國爆發戰爭。陷入苦戰之際，他們決定要攻進帕拉迪島，把「始祖的巨人」搶過來。在這裡又看到另一群孩子們拼命求生存的身影……。",
+      "platform": {
+        "tongli": {
+          "id": "0288c99f-a600-42d3-d6cb-08d67c31718b",
+          "date": "2018-05-03"
+        },
+        "kobo": {
+          "id": "DcwnfWveajeFE2_cY-l7aA",
+          "date": "2018-05-09"
+        },
+        "bw": {
+          "id": 40361,
+          "date": "2018-05-10"
+        },
+        "readmoo": {
+          "id": "210122790000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104828",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336008,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 191
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789572611388",
+      "cover": "/attack-on-titan/attack-on-titan-25.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "長期以來瑪雷始終威脅著艾連他們所居住的帕拉迪島。每天，有一群人為了保護祖國，也為了維護自己的人權而持續奮鬥。他們為了展現自己的存在價值，準備向帕拉迪島「宣戰」，然而出現在那裡的卻是……。",
+      "platform": {
+        "tongli": {
+          "id": "6a755923-698a-4c61-d6cc-08d67c31718b",
+          "date": "2018-09-11"
+        },
+        "kobo": {
+          "id": "wUGwUdnWAzGbhzsuVWGncQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51040,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210122791000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104829",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336009,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 224
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-08-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789572617236",
+      "cover": "/attack-on-titan/attack-on-titan-26.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "瑪雷向全世界宣揚帕拉迪島帶來的威脅。<br>出現在現場的是「和平的叛徒」艾連‧葉卡。<br>艾連接連打敗瑪雷的人，試圖給軍隊造成重大打擊。艾連跟「戰槌的巨人」的戰鬥異常激烈，而兩國集結的最強戰力也爆發衝突……。",
+      "platform": {
+        "tongli": {
+          "id": "d4462223-8397-43c0-d6cd-08d67c31718b",
+          "date": "2019-01-09"
+        },
+        "kobo": {
+          "id": "HV5FGzXiVjqG8uijSYaLzA",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55182,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210122792000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104830",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336010,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 222
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-08-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789572623602",
+      "cover": "/attack-on-titan/attack-on-titan-27.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連潛入瑪雷，給對方帶來沉重打擊。他的目的是將吉克帶回艾爾迪亞。有了繼承王家血統的吉克，讓艾連他們掌握了足以跟全世界對抗的力量「地鳴」的啟動條件。但是在此同時，那也是引爆全面戰爭倒數計時的開始訊號……。",
+      "platform": {
+        "tongli": {
+          "id": "9030e47e-909b-4029-0619-08d6ed704d2b",
+          "date": "2019-06-14"
+        },
+        "kobo": {
+          "id": "W0CrRvIgPjmz-khk8hs_mw",
+          "date": "2019-06-26"
+        },
+        "bw": {
+          "id": 65658,
+          "date": "2019-06-27"
+        },
+        "readmoo": {
+          "id": "210122793000101",
+          "date": "2019-12-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104831",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336011,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 190
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-31",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789572632369",
+      "cover": "/attack-on-titan/attack-on-titan-28.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連一行人迎來繼承王家血統的吉克，因此得到啟動「地鳴」的條件。但是軍團考慮到艾連可能會遭到吉克控制，猶豫是否該讓他們兩人見面，於是限制來自瑪雷的義勇兵之行動。部分士兵與民眾對此事逐漸感到不滿，艾連終於決定獨自行動。",
+      "platform": {
+        "tongli": {
+          "id": "f914be7a-33ca-4fc2-5896-08d72f67a3b5",
+          "date": "2019-09-06"
+        },
+        "kobo": {
+          "id": "8SRa_js1xzKzdtByBMrlUw",
+          "date": "2019-09-18"
+        },
+        "bw": {
+          "id": 72517,
+          "date": "2019-09-19"
+        },
+        "readmoo": {
+          "id": "210122794000101",
+          "date": "2019-12-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104832",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336012,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 194
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-09-03",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "第29集",
+      "isbn": "9789572639375",
+      "cover": "/attack-on-titan/attack-on-titan-29.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「葉卡派」成員為了啟動「地鳴」，終於跟軍團翻臉，他們殺害了薩克雷總統，還拘禁了軍團高層，並前去跟吉克會合。另一方面，負責監視吉克的里維，經過一番纏鬥之後再次逮捕了吉克，而揭曉的吉克真正計畫內容是……。",
+      "platform": {
+        "tongli": {
+          "id": "8eaf64a8-757a-4145-04ab-08d7daa79500",
+          "date": "2020-04-09"
+        },
+        "kobo": {
+          "id": "LuVKfoD3MziMSl4ZMz6PUg",
+          "date": "2020-05-06"
+        },
+        "bw": {
+          "id": 87931,
+          "date": "2020-05-07"
+        },
+        "readmoo": {
+          "id": "210150083000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104833",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336013,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 200
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-08",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "第30集",
+      "isbn": "9789572646663",
+      "cover": "/attack-on-titan/attack-on-titan-30.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "吉克託付給艾連的計畫，內容是讓所有艾爾迪亞人全都安樂死。掌握計畫關鍵的是擁有始祖的巨人力量的艾連，與繼承王家血統的巨人吉克的接觸。吉克突破里維等調查軍團設下的包圍網，成了自由之身，但是瑪雷軍隊卻出現了。艾連跟吉克能夠順利接觸嗎……。",
+      "platform": {
+        "tongli": {
+          "id": "29b21530-998e-4bce-5525-08d852d4d309",
+          "date": "2020-09-09"
+        },
+        "kobo": {
+          "id": "3lETBvyCmDaHnIGaYv_Aug",
+          "date": "2020-09-30"
+        },
+        "bw": {
+          "id": 98236,
+          "date": "2020-10-01"
+        },
+        "readmoo": {
+          "id": "210165191000101",
+          "date": "2020-12-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104834",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336014,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 172
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-07",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "第31集",
+      "isbn": "9789572651353",
+      "cover": "/attack-on-titan/attack-on-titan-31.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "吉克將艾爾迪亞人安樂死計畫託付給艾連。兩人突破包圍後碰面，順利達成該計畫的關鍵因素。但是，艾連真正的計畫是背叛吉克，「透過地鳴來毀滅世界」。雙方互相爭奪始祖尤米爾的力量，最後由艾連勝出，於是無數的超大型巨人開始前進……。",
+      "platform": {
+        "tongli": {
+          "id": "5fb191e2-7a2b-4ee5-0563-08d8983a8ac1",
+          "date": "2020-12-09"
+        },
+        "kobo": {
+          "id": "Hk5HyDZwOjiURDR3k1Pz0Q",
+          "date": "2021-01-06"
+        },
+        "bw": {
+          "id": 105691,
+          "date": "2021-01-07"
+        },
+        "readmoo": {
+          "id": "210171521000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104835",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336015,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 198
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-04",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-04",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "第32集",
+      "isbn": "9789572658253",
+      "cover": "/attack-on-titan/attack-on-titan-32.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連掌握了「始祖的巨人」力量，為了從小生長的帕拉迪島的和平，決定澈底消滅島外的人類。接著，艾連跟一大群巨人開始前進。他們是救世主還是惡魔呢？尚未有任何結論，米卡莎跟阿爾敏一行人為了拯救世界開始行動……。",
+      "platform": {
+        "tongli": {
+          "id": "689518dd-2717-4f4e-3fe7-08d8deb3b4f1",
+          "date": "2021-03-09"
+        },
+        "kobo": {
+          "id": "8BQVeQIbtzao8a3mxEGEIw",
+          "date": "2021-03-31"
+        },
+        "bw": {
+          "id": 111084,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176828000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104836",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336016,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 199
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-03-08",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "第33集",
+      "isbn": "9789572663899",
+      "cover": "/attack-on-titan/attack-on-titan-33.webp",
+      "pages": 194,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "艾連持續藉由「地鳴」澈底踐踏帕拉迪島以外的所有土地。米卡莎跟阿爾敏一行人為了從空中追上艾連，打算前往能夠弄到飛艇的歐迪哈。然而，付出的代價卻是必須放棄亞妮、萊納他們的家人所居住的「雷貝里歐」……。",
+      "platform": {
+        "tongli": {
+          "id": "b6929496-e9fb-4a20-b0f4-08d92171f12e",
+          "date": "2021-06-01"
+        },
+        "kobo": {
+          "id": "w4rFxsbcDDy6MHRYfleYrw",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117663,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184008000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104837",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336017,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 215
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-28",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-05-28",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "第34集",
+      "isbn": "9789572672853",
+      "cover": "/attack-on-titan/attack-on-titan-34.webp",
+      "pages": 250,
+      "authors": [
+        "諫山 創"
+      ],
+      "translators": [
+        "林志昌"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)帕拉迪島以外的土地遭到「地鳴」澈底賤踏，接連奪走不少生命。另一方面，阿爾敏跟米卡莎一行人已經鎖定艾連的攻擊目標地點。敵人、同志、曾經的同伴，雖然犧牲不少無辜性命，一行人終於追上了艾連……。",
+      "platform": {
+        "tongli": {
+          "id": "74355609-2f61-4b7b-40f5-08d9b96a7ec5",
+          "date": "2021-12-08"
+        },
+        "kobo": {
+          "id": "YwgIKEHAdDemK2UCBjQRLQ",
+          "date": "2022-01-06"
+        },
+        "bw": {
+          "id": 130694,
+          "date": "2022-01-06"
+        },
+        "readmoo": {
+          "id": "210213015000101",
+          "date": "2022-01-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050119249",
+          "date": "2022-01-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336018,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 254
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-12-07",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

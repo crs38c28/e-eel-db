@@ -1,0 +1,1138 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "bakemonogatari",
+    "series": {
+      "tongli": "8edc1bac-829c-e811-a057-00155d020a17",
+      "kobo": "WPJDdtYMlVW4JVRzOJKn-w",
+      "readmoo": 3200,
+      "bw": 13811,
+      "books": "A00000051112",
+      "pubu": {
+        "store": 4538213,
+        "id": "化物語"
+      }
+    },
+    "collection": {
+      "readmoo": [
+        210262700000101
+      ]
+    },
+    "title": "化物語",
+    "originalTitle": "",
+    "authors": [
+      "大暮維人",
+      "西尾維新"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "後宮",
+      "戰鬥",
+      "動畫化",
+      "輕小說改編",
+      "靈異神怪"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572625453",
+      "cover": "/bakemonogatari/bakemonogatari-1.webp",
+      "pages": 186,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "女高中生戰場原黑儀在高中入學前遇到了螃蟹怪異，失去了體重的事情，一直是個秘密，直到有一天她從樓梯摔下來，被體質特殊的阿良良木曆接住…生性雞婆的阿良良木在高二時遇到女吸血鬼的求助，讓她吸血後，身上的傷口總是迅速痊癒，動作也變敏捷，他帶戰場原黑儀去找忍野咩咩求助，忍野咩咩說戰場原黑儀要靠自己擺脫螃蟹怪異的糾纏…",
+      "platform": {
+        "tongli": {
+          "id": "6e83e047-7748-4e50-3344-08d7c4a12cc2",
+          "date": "2020-03-12"
+        },
+        "kobo": {
+          "id": "9EQBNAtQ5DGtg9Qm-qlh4w",
+          "date": "2020-04-01"
+        },
+        "bw": {
+          "id": 85678,
+          "date": "2020-04-02"
+        },
+        "readmoo": {
+          "id": "210142736000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132867",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357178,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 121
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-03-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572625460",
+      "cover": "/bakemonogatari/bakemonogatari-2.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「我只是幫妳帶路而已」阿良良木曆接住的對象是“體重因故被奪走的少女”戰場原黑儀。她必須自己救自己。面對真正的自己的想法，不要迷惘猶豫───[掟上今日子的備忘錄]西尾維新X [飛輪少年]大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！青春是無法再次邂逅的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "9d7b8cbe-28d6-403a-3345-08d7c4a12cc2",
+          "date": "2020-03-12"
+        },
+        "kobo": {
+          "id": "zJUJxFL1-Dmwf9TWk-qZpw",
+          "date": "2020-04-01"
+        },
+        "bw": {
+          "id": 85679,
+          "date": "2020-04-02"
+        },
+        "readmoo": {
+          "id": "210142737000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132868",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357179,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 135
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-10",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572625477",
+      "cover": "/bakemonogatari/bakemonogatari-3.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "阿良良木曆認識的小學生‧八九寺真宵，是一個永遠無法走到目的地，被「蝸牛」附身的迷路小孩。「把這傢伙平安地送到，是我的任務。」趁著思念尚未風化劣化的時候…西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！思念燦爛耀眼，射進黑暗中的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "21e6b082-987d-4dba-3346-08d7c4a12cc2",
+          "date": "2020-03-12"
+        },
+        "kobo": {
+          "id": "TSj8dIyRQzWR5k7Pi3At8A",
+          "date": "2020-04-01"
+        },
+        "bw": {
+          "id": 85680,
+          "date": "2020-04-02"
+        },
+        "readmoo": {
+          "id": "210142739000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132869",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357180,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 129
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-10",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572625484",
+      "cover": "/bakemonogatari/bakemonogatari-4.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「Ｉ　ＬＯＶＥ　ＹＯＵ」「戰場原…我對妳眼迷心蕩。」阿良良木接受黑儀的心意，八九寺真宵的事情也解決了。一切看起來順利地往前發展，直到他的身體，被突然出現的雨衣人打穿！西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！希望你呼喚名字的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "ea21e0ae-2c51-4711-3347-08d7c4a12cc2",
+          "date": "2020-03-12"
+        },
+        "kobo": {
+          "id": "u8Bn5mwYYjqgSMonWU7tiQ",
+          "date": "2020-04-01"
+        },
+        "bw": {
+          "id": 85681,
+          "date": "2020-04-02"
+        },
+        "readmoo": {
+          "id": "210142740000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132870",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357181,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 131
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-10",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572632444",
+      "cover": "/bakemonogatari/bakemonogatari-5.webp",
+      "pages": 202,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "學園第一的超級巨星‧神原駿河，出身背景跟阿良良木曆完全不同。不知為何，阿良良木曆的行動，被神原駿河長期跟蹤了。曆在調查理由的過程中，發現怪異的存在，駿河當著他的面說出的“願望“是──！西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！無法瞞混，願望與後悔的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "24fdd469-4951-4992-3348-08d7c4a12cc2",
+          "date": "2020-03-12"
+        },
+        "kobo": {
+          "id": "47ymDXrIKjWGZjYMRbi5Zg",
+          "date": "2020-04-01"
+        },
+        "bw": {
+          "id": 85682,
+          "date": "2020-04-02"
+        },
+        "readmoo": {
+          "id": "210142741000101",
+          "date": "2020-04-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132871",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357182,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 137
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-03-10",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572638019",
+      "cover": "/bakemonogatari/bakemonogatari-6.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "十三星座的詛咒，阿良良木曆硬生生面對的是他和神原駿河之間，決定性的立場差異。曆得知自己天真得徹底，襲擊他的是駿河毫不保留、如詛咒一般的「真心話」…………………「可恨可恨可恨可恨可恨可恨可恨」西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！青春是搖滾且硬派的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "a74bfc53-dc38-40a6-04ee-08d7daa79500",
+          "date": "2020-04-23"
+        },
+        "kobo": {
+          "id": "JuAa66WnfTuMN6pyXmixrA",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88737,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210150117000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132872",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357183,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 140
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572644096",
+      "cover": "/bakemonogatari/bakemonogatari-7.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "阿良良木曆和神原駿河一同前往神社，結果看到一副凄慘的畫面，蛇被切成很多段、樹上釘了大量罵人字條。這慘狀讓曆吃驚到說不出話來，腦中不知為何閃過了遺忘已久的妹妹的朋友的名字‧千石撫子。西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！雖然沒有名字，但藏在每個人心中的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "84d6e2af-9f59-4662-9ba1-08d7f71f477c",
+          "date": "2020-05-14"
+        },
+        "kobo": {
+          "id": "-msQp_rUlTSXILTkJzCt8g",
+          "date": "2020-06-03"
+        },
+        "bw": {
+          "id": 89673,
+          "date": "2020-06-04"
+        },
+        "readmoo": {
+          "id": "210150118000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132873",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357184,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-13",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572650196",
+      "cover": "/bakemonogatari/bakemonogatari-8.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "纏住千石撫子身體的「蛇」其實有２條。撫子突然面臨生命危機，阿良良木曆能否拯救她呢？而現在，與曆的第一道「傷」有關的物語，即將公開。「我必須好好說明…我的地獄生活開始的那天。」西尾維新X　大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！即使在地上爬也想求生的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "ff5c42ba-0a9b-4a6f-4203-08d8403a4acd",
+          "date": "2020-09-03"
+        },
+        "kobo": {
+          "id": "DbGzK7nxJTy9sgm4TM3ncQ",
+          "date": "2020-09-16"
+        },
+        "bw": {
+          "id": 97116,
+          "date": "2020-09-17"
+        },
+        "readmoo": {
+          "id": "210171562000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132874",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357185,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 147
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-08-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-08-26",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789572653319",
+      "cover": "/bakemonogatari/bakemonogatari-9.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "即將訴說的阿良良木曆的「開始」的故事。一切都開始於他與高貴、傲慢又美麗，遍體鱗傷的吸血鬼的邂逅。等待他的是，也可稱為地獄的日子…。「化物語」前日譚，第零話──「傷物語」！「掟上今日子的備忘錄」西尾維新X　大暮維人 「飛輪少年」大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！懷念往昔，不可能結束的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "d8c70ed5-50e5-4e04-2ca5-08d870a2c2b1",
+          "date": "2020-11-05"
+        },
+        "kobo": {
+          "id": "O2Zxo8tSJTi5zx4MYPqhQQ",
+          "date": "2020-11-18"
+        },
+        "bw": {
+          "id": 101823,
+          "date": "2020-11-19"
+        },
+        "readmoo": {
+          "id": "210171563000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132875",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357186,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 136
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-04",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-03",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789572657188",
+      "cover": "/bakemonogatari/bakemonogatari-10.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚，第零話──「傷物語」！為了變回人類，阿良良木曆必須跟３名吸血鬼獵人交手，拿回姬絲秀忒的四肢。第一位對手是自己也是吸血鬼，專殺同族的德拉曼茲路基！可是他對曆說「成為我的夥伴吧－－」。「掟上今日子的備忘錄」西尾維新X　　　　　「飛輪少年」大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！為了爭奪怪異之王的四肢，雙方頻頻過招的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "69e4f6bb-f540-44f2-be86-08d8b7ad0da0",
+          "date": "2021-02-04"
+        },
+        "kobo": {
+          "id": "q_AneoFssz6xWYBZjS-agg",
+          "date": "2021-02-17"
+        },
+        "bw": {
+          "id": 108895,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210190850000101",
+          "date": "2021-08-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132876",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357187,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 113
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-01-21",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789572661246",
+      "cover": "/bakemonogatari/bakemonogatari-11.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚第零話──「傷物語」！阿良良木曆為了變回人類，先是打敗德拉曼茲路基，拿回姬絲秀忒的右臂。第二位對手是吸血鬼混血兒艾比所特。可是艾比所特沒有吸血鬼的弱點！？「掟上今日子的備忘錄」西尾維新X　　　　　「飛輪少年」大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！全身起雞皮疙瘩的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "021a9c5a-f662-41c9-2708-08d924ac5e2c",
+          "date": "2021-06-03"
+        },
+        "kobo": {
+          "id": "neI8Z4ogtj-iHUM7ajzEbw",
+          "date": "2021-06-16"
+        },
+        "bw": {
+          "id": 117662,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210190851000101",
+          "date": "2021-08-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132877",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357188,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-06-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789572666821",
+      "cover": "/bakemonogatari/bakemonogatari-12.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚第零話──「傷物語」！阿良良木曆救了姬絲秀忒，為了讓自己變回人類而戰鬥。他擊退了兩名對手，最後一名對手是「平凡人」奇洛金卡達。可是，就在曆即將鼓足幹勁，迎接戰鬥之前，卻突然收到「羽川被擄走了」的消息！「掟上今日子的備忘錄」西尾維新X　「飛輪少年」大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！十二分超乎想像的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "a8af7903-cfda-4357-575a-08d99cd745e3",
+          "date": "2021-11-04"
+        },
+        "kobo": {
+          "id": "xysavnfoIjG3R-hkJD2WNw",
+          "date": "2021-11-17"
+        },
+        "bw": {
+          "id": 127505,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205819000101",
+          "date": "2021-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132878",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357189,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-11-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789572671450",
+      "cover": "/bakemonogatari/bakemonogatari-13.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚第零話──「傷物語」！\r\n阿良良木曆擊退了三名想殺姬絲秀忒的吸血鬼獵人。協助她完全復活。本以為就最後只剩下曆變回人類這個步驟，然而，他察覺了某個重大的錯誤！\r\n「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人 聯手鉅獻這才是新的怪異！怪異！怪異！人與鬼，主從慘苦的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "50b81bc9-ce0e-4029-8126-08d9ba101bf5",
+          "date": "2021-12-09"
+        },
+        "kobo": {
+          "id": "2xfViiQ2BjObFKc6JreyCQ",
+          "date": "2022-01-06"
+        },
+        "bw": {
+          "id": 130700,
+          "date": "2022-01-06"
+        },
+        "readmoo": {
+          "id": "210213017000101",
+          "date": "2022-01-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132879",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357190,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-12-08",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789572676745",
+      "cover": "/bakemonogatari/bakemonogatari-14.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚第零話──「傷物語」！阿良良木曆察覺，當初把姬絲秀忒救活，是「身為人類」的錯誤行為。然後，他要反抗自己的主人‧怪異之王。真正的最後的戰鬥就要開打！「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人 聯手鉅獻。這才是新的怪異！怪異！怪異！接二連三，無計可施的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "7127b31b-3dbf-48ae-39e0-08d9e0835df3",
+          "date": "2022-02-03"
+        },
+        "kobo": {
+          "id": "TjfcUvOh_DakqYVlfIKX4g",
+          "date": "2022-02-17"
+        },
+        "bw": {
+          "id": 133177,
+          "date": "2022-02-17"
+        },
+        "readmoo": {
+          "id": "210216463000101",
+          "date": "2022-02-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132880",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357191,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789572682470",
+      "cover": "/bakemonogatari/bakemonogatari-15.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「化物語」前日譚第零話──「傷物語」完結！阿良良木曆終於把姬絲秀忒逼到絕境了。但曆後來得知，姬絲秀忒想犧牲自己讓曆存活，而安排了一切。曆做了什麼樣的最後決定，甚至超越了姬絲秀忒的企圖呢？\r\n\r\n「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人 聯手鉅獻。這才是新的怪異！怪異！怪異！一再重覆，苦惱中做出錯誤判斷的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "fc4c0590-56e5-423a-c691-08da4d06a5c9",
+          "date": "2022-07-07"
+        },
+        "kobo": {
+          "id": "HvdshMWNvTiu7O-JS9Z48w",
+          "date": "2022-07-21"
+        },
+        "bw": {
+          "id": 143751,
+          "date": "2022-07-21"
+        },
+        "readmoo": {
+          "id": "210239810000101",
+          "date": "2022-07-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050137799",
+          "date": "2022-07-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357192,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-06-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789572688434",
+      "cover": "/bakemonogatari/bakemonogatari-16.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "最終章「翼貓」開始！接到羽川翼的求救，阿良良木曆立刻趕過去。他在那裡看到似曾相識的「貓耳」。「傷人不眨眼的怪異」、「障貓」、「ＢＬＡＣＫ羽川」……「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人 聯手鉅獻。這才是新的怪異！怪異！怪異！接二連三，無計可施的〈物語〉！這才是新的怪異！怪異！怪異！直到最後仍然迷惑六根的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "15a8a697-f2d4-42f0-8cdc-08da9f5e586d",
+          "date": "2022-10-13"
+        },
+        "kobo": {
+          "id": "V46Y8JeCJD279U6yW8rzCQ",
+          "date": "2022-11-03"
+        },
+        "bw": {
+          "id": 150758,
+          "date": "2022-11-03"
+        },
+        "readmoo": {
+          "id": "210253338000101",
+          "date": "2022-11-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050145975",
+          "date": "2022-11-03",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357193,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 136
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-09-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789572695098",
+      "cover": "/bakemonogatari/bakemonogatari-17.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "最終章「翼貓」！原本付出龐大代價而解決的怪異「障貓」，暗藏著更深更黑暗的情緒，再度出現。為了一再幫助她，阿良良木曆到處奔走。連那份體貼代表什麼意思都沒弄清楚…「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人 聯手鉅獻。這才是新的怪異！怪異！怪異！以戲謔方式背叛全世界的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "37641655-73d8-4b08-a88f-08dad1e2fcc1",
+          "date": "2022-12-01"
+        },
+        "kobo": {
+          "id": "Cybo4oyVkDOefHPfIkYE1A",
+          "date": "2022-12-15"
+        },
+        "bw": {
+          "id": 153922,
+          "date": "2022-12-15"
+        },
+        "readmoo": {
+          "id": "210257761000101",
+          "date": "2022-12-14",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050149267",
+          "date": "2022-12-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357194,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 151
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-28",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-11-28",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9786263471603",
+      "cover": "/bakemonogatari/bakemonogatari-18.webp",
+      "pages": 194,
+      "authors": [
+        "大暮維人",
+        "西尾維新"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "最終章「翼貓」！「障貓」變得更加強大後再度現身。忍突然從曆的影子裡消失了。曆能不能在跟戰場原約會之前，解決一切呢？還有，關鍵人物‧羽川說出衝擊的真實告白！\r\n「掟上今日子的備忘錄」西尾維新X「飛輪少年」大暮維人\r\n聯手鉅獻。這才是新的怪異！怪異！怪異！！啊啊，如影隨形，世界所追求的〈物語〉！",
+      "platform": {
+        "tongli": {
+          "id": "2acfbfed-ccb8-47a4-bd69-08daf1ecceab",
+          "date": "2023-02-02"
+        },
+        "kobo": {
+          "id": "_FxUGzAbGzCatpV4jyaiJg",
+          "date": "2023-02-16"
+        },
+        "bw": {
+          "id": 157063,
+          "date": "2023-02-16"
+        },
+        "readmoo": {
+          "id": "210262700000101",
+          "date": "2023-02-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153260",
+          "date": "2023-02-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357195,
+          "date": "2023-05-26",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-01-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-01-07",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

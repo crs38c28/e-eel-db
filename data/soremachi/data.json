@@ -1,0 +1,941 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "soremachi",
+    "series": {
+      "kobo": "5SQRMFgZw1mZzjvvMbQcBg",
+      "readmoo": 5493,
+      "bw": 981,
+      "books": "A00000033683"
+    },
+    "collection": {
+      "pubu": [
+        96541,
+        96542,
+        195926,
+        195927,
+        195928,
+        195930,
+        195931,
+        195932,
+        195933,
+        195934,
+        195935,
+        195936,
+        229355,
+        229356,
+        229393,
+        229398
+      ]
+    },
+    "title": "女僕咖啡廳",
+    "originalTitle": "",
+    "authors": [
+      "石黑正數"
+    ],
+    "publisher": "長鴻出版社",
+    "finished": true,
+    "tags": [
+      "戀愛",
+      "日常",
+      "職業",
+      "搞笑",
+      "動畫化",
+      "懸疑解謎"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "1",
+      "isbn": "9789865392666",
+      "cover": "/soremachi/soremachi-1.webp",
+      "pages": 196,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "這裡是丸子商店街，乍看之下很平凡、沒什麼特別，卻有間不平凡的女僕咖啡店「SEASIDE」，在咖啡店裡打工的迷糊女高中生•嵐山步鳥、適合厚重女僕裝的老闆娘，以及商店街形形色色的人們，將為您帶來一連串笑料不斷的精采內容，女僕咖啡店第一集正式開張囉!!",
+      "platform": {
+        "kobo": {
+          "id": "EQ68G4FRpD6W_oIx5zigBQ",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 6924,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166095000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050015115",
+          "date": "2006-10-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 96541,
+          "date": "2017-05-12",
+          "type": [
+            "epub"
+          ],
+          "size": 39
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-07-11",
+          "width": 811,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 811,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "2",
+      "isbn": "9789865392673",
+      "cover": "/soremachi/soremachi-2.webp",
+      "pages": 201,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "步鳥和商店街一行人一起去溫泉旅行了！但是沒想到真田卻面臨前所未有的大災難!?迷糊的步鳥這次居然出了車禍!!!蒙主歸召的她又會遇上什麼趣事呢?而她是否可以重返人間呢？女僕咖啡廳第二集，逗趣不打烊!絕對讓你笑開懷!!",
+      "platform": {
+        "kobo": {
+          "id": "NnZm6wo45TWhOZLeWiFE9Q",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 6925,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166096000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050015123",
+          "date": "2007-03-24",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 96542,
+          "date": "2017-05-12",
+          "type": [
+            "epub"
+          ],
+          "size": 40
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-07-11",
+          "width": 811,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 811,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "3",
+      "isbn": "9789865392680",
+      "cover": "/soremachi/soremachi-3.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "學園祭即將來臨，步鳥她們組成女子搖滾４人組ＭＡＩＺＥ!然而手拿手風琴、小提琴的她們，將會帶來什麼驚人的搖滾演出!? SEASIDE咖啡廳的網站竟成了偵探網站，還有人留言委託尋找狗的飼主!?故事內容詼諧幽默，千萬別錯過!!",
+      "platform": {
+        "kobo": {
+          "id": "hN5purj4IjG_RdNua2P25w",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48248,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166097000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059246",
+          "date": "2008-06-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195926,
+          "date": "2022-04-26",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 823,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "4",
+      "isbn": "9789865392697",
+      "cover": "/soremachi/soremachi-4.webp",
+      "pages": 202,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "步鳥在古董店找到了一張Ｇ縣鬼保根村的藏寶圖，於是她召集她弟和辰野、學姐她們，一行人前往Ｇ縣鬼保根村展開尋寶之旅。然而，村子裡的人鬼鬼祟祟地似乎在盤算什麼!?而步鳥竟然發現藏寶的入口!?他們驚人的發現是…!?",
+      "platform": {
+        "kobo": {
+          "id": "XfmmlVng7DekMOkmnxs2ew",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48249,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166098000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059247",
+          "date": "2008-12-25",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 195927,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 94
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-12-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 823,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "5",
+      "isbn": "9789865392703",
+      "cover": "/soremachi/soremachi-5.webp",
+      "pages": 210,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "步鳥的弟妹就讀的國小，傳說校園裡的觀察池住著一隻恐龍梅西!?在步鳥的弟弟抽絲剝繭的調查下，住在池裡的生物究竟是什麼!?步鳥家失火了!!失火原因竟然是她家的狗所引起的？平凡的日常生活，潛藏著不可思議的「事件」!!",
+      "platform": {
+        "kobo": {
+          "id": "MbrVn7JaSTG8Ug2OqZ43cg",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48250,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166099000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059248",
+          "date": "2009-06-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195928,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 81
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "6",
+      "isbn": "9789865392710",
+      "cover": "/soremachi/soremachi-6.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "步鳥去剪頭髮，結果引來班上同學議論紛紛說她是因為失戀才剪頭髮的!?步鳥的弟弟阿猛感冒了，伊勢崎特地來家裡探病，兩個人的戀情莫名的加溫!?，店裡發現了一個老舊的占卜機，但占卜的內容盡是些匪夷所思的惡作劇留言!!平凡的日常生活，潛藏著不可思議的「事件」!!精彩內容，千萬別錯過！",
+      "platform": {
+        "kobo": {
+          "id": "Jp3DXwYcUTmJJo-1tQV1zw",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48251,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166100000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059251",
+          "date": "2010-04-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195930,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 75
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "7",
+      "isbn": "9789865392727",
+      "cover": "/soremachi/soremachi-7.webp",
+      "pages": 182,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "以讓丸子商店街變得更加熱鬧的女僕咖啡廳「SEASIDE」為舞台上演的七葷八素鬧劇！本集愛惹事的女僕嵐山步鳥將在料理實習、秋祭、兩天一夜滑雪之旅大為活躍！而且「真田為什麼喜歡步鳥」的謎也即將解開…！",
+      "platform": {
+        "kobo": {
+          "id": "BMG9wWrzHzCvjRB7Uwgy-Q",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48252,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166108000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059257",
+          "date": "2015-04-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195931,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "8",
+      "isbn": "9789865392734",
+      "cover": "/soremachi/soremachi-8.webp",
+      "pages": 194,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "嵐山步鳥是個有趣的女孩。在她打工的女僕咖啡廳「SEASIDE」座落的商店街，以及她就讀的尾谷高中，步鳥身邊總是會發生奇妙的事件。從「謎之王國」、「栗子」、「河童」這些UMA（未確認生物）般的事件，到「貓咪失蹤」、「拉麵店歇業」等等厝邊故事，就這麼接二連三發生在丸子商店街！",
+      "platform": {
+        "kobo": {
+          "id": "BpfQWyWiBz6bYySMIf0Gbg",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48253,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166109000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059258",
+          "date": "2015-07-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195932,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "9",
+      "isbn": "9789865392741",
+      "cover": "/soremachi/soremachi-9.webp",
+      "pages": 198,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "高中女生嵐山步鳥熱愛謎詭，目標是成為一個偵探。在當地丸子商店街的女僕咖啡廳「SEASIDE」打工時，她總是盡情發揮自己的冒失與幹勁。本集收錄了「動畫可以在２天之內作好嗎？」以及形成話題的「大人採購計畫」等９篇故事。也有各種「走光」與「心跳」要素喔～～。",
+      "platform": {
+        "kobo": {
+          "id": "cd3CnzMvgzmARb7_Q7MgIw",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48254,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166110000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059259",
+          "date": "2015-11-25",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 195933,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 96
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-12-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "10",
+      "isbn": "9789865392758",
+      "cover": "/soremachi/soremachi-10.webp",
+      "pages": 192,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "商店街、學校、家人……持續鬧得世界不可開交，轉眼便是第10集了！嵐山步鳥是「丸子商店街的咖啡廳SEASIDE的女僕」同時是個「熱愛謎詭、嚮往當偵探」的「就讀於尾谷高中的高中女生」。本集的她除了有充滿偵探樣子的一面，還被人告白，更會為了正義出面奮戰。紺學姊也在運動會上非常活躍！",
+      "platform": {
+        "kobo": {
+          "id": "y8-X5cYOzzuMbCVsDS47sw",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48255,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166111000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059260",
+          "date": "2016-12-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195934,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-05",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "11",
+      "isbn": "9789865392765",
+      "cover": "/soremachi/soremachi-11.webp",
+      "pages": 190,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "「請把相關人士找來」這句話出自嵐山步鳥。她是就讀尾谷高中的女孩，咖啡廳SEASIDE的女僕，東京下町丸子商店街的招牌名產少女（！），更是阿猛與雪子的好姊姊……但在父母眼中，她則是有點靠不住的長女。而她還是青梅竹馬真田同學的暗戀對象（阿辰吃醋中）。擁有種種不同面貌的步鳥，也將凝縮在這第11集中。微微的懸疑感。",
+      "platform": {
+        "kobo": {
+          "id": "FqfLcHW01DOQEP6zbqYLXg",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 48256,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166112000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059261",
+          "date": "2018-03-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195935,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-31",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 824,
+          "height": 1201
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "12",
+      "isbn": "9789865392772",
+      "cover": "/soremachi/soremachi-12.webp",
+      "pages": 200,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 70,
+      "description": "步鳥＆阿辰以女僕身份工作的咖啡廳「ＳＥＡＳＩＤＥ」總是在熱鬧＆善良的氣氛的包覆下營業中。本集也有步鳥的推理犀利地…時而成功時而失敗的故事，以及紺學姊崇拜的人登場的故事，綜藝的女僕咖啡廳世界狀況絕佳！",
+      "platform": {
+        "kobo": {
+          "id": "oNLablrYhTyklUgcbTFaYg",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 76498,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166113000101",
+          "date": "2020-12-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050059262",
+          "date": "2018-12-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 195936,
+          "date": "2022-04-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 823,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "13",
+      "isbn": "9789865392789",
+      "cover": "/soremachi/soremachi-13.webp",
+      "pages": 210,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "在本13集中身兼女僕及商店街招牌姑娘的高中女生嵐山步鳥想當偵探的部分表現得格外突出。從「廢村發生的事」、「神秘的錄影帶」起，到步鳥的同學淺井的異性緣（？）現象，嵐山步鳥與小鎮成員們都集將面對這些難以解明（？）的事件與現象！好的，結果將會如何!?",
+      "platform": {
+        "kobo": {
+          "id": "iZazqudXTT6FPN2hEmHu6Q",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 102221,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166485000101",
+          "date": "2020-12-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050083383",
+          "date": "2019-10-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 229355,
+          "date": "2021-11-02",
+          "type": [
+            "epub"
+          ],
+          "size": 97
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 825,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "14",
+      "isbn": "9789865392796",
+      "cover": "/soremachi/soremachi-14.webp",
+      "pages": 200,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "用「女僕!!」（問候），大家耳熟能詳的嵐山步鳥，是嚮往成為偵探的高中女生。目前正在老街丸子商店街的女僕咖啡廳SEASIDE打工！本集裡她不是在學校大喊了「○二」，而被老師找去，還作了恐怖的夢，更去了森秋老師的老家……簡直有如三頭六臂般的活躍！不管去到哪裡，步鳥都是傳說的中心唷！！",
+      "platform": {
+        "kobo": {
+          "id": "cUymQGB02TGZsONcd3MyBQ",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 102222,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166487000101",
+          "date": "2020-12-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050083384",
+          "date": "2020-10-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 229356,
+          "date": "2021-11-02",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 825,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "15",
+      "isbn": "9789865392802",
+      "cover": "/soremachi/soremachi-15.webp",
+      "pages": 202,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "就讀尾谷高中的高中生‧嵐山步鳥，是辰野俊子的朋友、嵐山猛與雪子的姊姊，也是女僕咖啡廳SEASIDE的女僕！在高中最大的活動，到北海道修學旅行的步鳥等人，即將發生撼動北國大地的重大事件……!? 請一邊啜飲咖啡一邊欣賞，這本能依稀窺見意外角色素顏的15集！\n",
+      "platform": {
+        "kobo": {
+          "id": "sxPzYZjrnz6ECIvoz7h7MA",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 104496,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166489000101",
+          "date": "2020-12-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050083385",
+          "date": "2020-11-11",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 229393,
+          "date": "2021-04-09",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 825,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "16",
+      "isbn": "9789865392819",
+      "cover": "/soremachi/soremachi-16.webp",
+      "pages": 198,
+      "authors": [
+        "石黑正數"
+      ],
+      "translators": [
+        "Fahrer"
+      ],
+      "nsfw": false,
+      "price": 70,
+      "description": "在既是丸子商店街的女僕， 也是尾谷高中的學生， 更是嵐山家長女的步鳥周圍 發生過的所有事件都將 集結於此!? 然後當巨大的 颱風襲擊小鎮時， 步鳥的決定將會 改變一切……？ 請看變幻的事物與不變的事物 不停流轉的 「女僕咖啡廳」完結篇！\n",
+      "platform": {
+        "kobo": {
+          "id": "T7D_hjpwADKMelYixrYrwg",
+          "date": "2009-12-15"
+        },
+        "bw": {
+          "id": 104497,
+          "date": "2021-06-04"
+        },
+        "readmoo": {
+          "id": "210166490000101",
+          "date": "2020-12-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050083386",
+          "date": "2020-11-11",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 229398,
+          "date": "2021-04-09",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 825,
+          "height": 1200
+        }
+      }
+    }
+  ]
+}

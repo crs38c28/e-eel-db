@@ -1,0 +1,632 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "spy-family",
+    "series": {
+      "tongli": "42a8cecb-c8e4-e911-86fd-00155d020a17",
+      "kobo": "spy-family",
+      "readmoo": 2796,
+      "bw": 13071,
+      "books": "A00000040441",
+      "pubu": {
+        "store": 4538213,
+        "id": "SPY×FAMILY 間諜家家酒"
+      }
+    },
+    "title": "SPY×FAMILY間諜家家酒",
+    "originalTitle": "",
+    "authors": [
+      "遠藤達哉"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "搞笑",
+      "戰鬥",
+      "心理戰",
+      "夫婦"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572642658",
+      "cover": "/spy-family/spy-family-1.webp",
+      "pages": 214,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "幹練間諜〈黃昏〉奉命組成「家庭」，以便潛入名校。然而他所找到的「女兒」是會讀心的超能力者！「妻子」是暗殺者？互相隱瞞真實身份的臨時家庭，挺身對抗考試與世界危機的痛快家庭喜劇！",
+      "platform": {
+        "tongli": {
+          "id": "a48ab1a1-b81d-46fb-02ee-08d7ea955e5c",
+          "date": "2020-05-04"
+        },
+        "kobo": {
+          "id": "spy-family-1",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88699,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210149915000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050102150",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339945,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572642665",
+      "cover": "/spy-family/spy-family-2.webp",
+      "pages": 194,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了執行任務、守護東國和西國之間的和平，佛傑一家挑戰名校入學考試。但是若要接近目標戴斯蒙德，安妮亞必須成為獎學生才行！於是黃昏展開了「好朋友大作戰」。但是…？",
+      "platform": {
+        "tongli": {
+          "id": "ee2c3ed8-e8f7-4449-d8ad-08d80208f4f0",
+          "date": "2020-06-01"
+        },
+        "kobo": {
+          "id": "spy-family-2",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 90520,
+          "date": "2020-06-18"
+        },
+        "readmoo": {
+          "id": "210149916000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050102151",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339946,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 139
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-29",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572647554",
+      "cover": "/spy-family/spy-family-3.webp",
+      "pages": 194,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "約兒的弟弟‧尤利造訪佛傑家！黃昏與尤利分別隱瞞身為間諜和祕密警察的事實，互相刺探對方底細。而偏愛姊姊的尤利，竟要求黃昏證明他和約兒是真正的夫妻…？",
+      "platform": {
+        "tongli": {
+          "id": "6289a766-03bb-4777-dca3-08d81bdc4f53",
+          "date": "2020-07-13"
+        },
+        "kobo": {
+          "id": "spy-family-3",
+          "date": "2020-08-05"
+        },
+        "bw": {
+          "id": 93910,
+          "date": "2020-08-06"
+        },
+        "readmoo": {
+          "id": "210156519000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102152",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339947,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 144
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-07-06",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572653159",
+      "cover": "/spy-family/spy-family-4.webp",
+      "pages": 188,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一個用狗體炸彈暗殺西國大臣的計劃曝光！為了尋找送給安妮亞的寵物狗，黃昏帶著家人一起外出，中途卻不得不加入阻止恐攻的緊急行動…！另一方面，安妮亞遇見了不知為何認識佛傑家的神祕狗狗｜｜？",
+      "platform": {
+        "tongli": {
+          "id": "e174a46c-0689-4f50-6f9d-08d8966ad9f7",
+          "date": "2020-12-14"
+        },
+        "kobo": {
+          "id": "spy-family-4",
+          "date": "2021-01-06"
+        },
+        "bw": {
+          "id": 105656,
+          "date": "2021-01-07"
+        },
+        "readmoo": {
+          "id": "210171369000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102153",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339948,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 131
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572658239",
+      "cover": "/spy-family/spy-family-5.webp",
+      "pages": 204,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "預知狗彭德成為家中的一員，行動代號〈梟〉和佛傑家的生活似乎終於上了軌道──但是，安妮亞卻在期中考查面臨史上最大的危機？攸關星星與雷電，動盪不安的考試將有何結果…！",
+      "platform": {
+        "tongli": {
+          "id": "06c437d7-e393-4042-dbf8-08d8b3a230db",
+          "date": "2021-01-11"
+        },
+        "kobo": {
+          "id": "spy-family-5",
+          "date": "2021-02-03"
+        },
+        "bw": {
+          "id": 108221,
+          "date": "2021-02-04"
+        },
+        "readmoo": {
+          "id": "210174140000101",
+          "date": "2021-02-24",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102154",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339949,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572662618",
+      "cover": "/spy-family/spy-family-6.webp",
+      "pages": 204,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了尋找戰時留下的機密文件之線索，黃昏和夜帷將參加非法（地下）運動比賽！但是，暗中愛慕洛伊德、認為自己才是最佳妻子人選的夜帷，將導致佛傑家陷入夫妻危機…？",
+      "platform": {
+        "tongli": {
+          "id": "6214a97d-98e9-450d-9780-08d92952a48f",
+          "date": "2021-06-14"
+        },
+        "kobo": {
+          "id": "spy-family-6",
+          "date": "2021-06-30"
+        },
+        "bw": {
+          "id": 118585,
+          "date": "2021-07-01"
+        },
+        "readmoo": {
+          "id": "210185961000101",
+          "date": "2021-06-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102155",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339950,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572672877",
+      "cover": "/spy-family/spy-family-7.webp",
+      "pages": 196,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "黃昏介入目標‧戴斯蒙德與其次子‧達米安的父子時光，終於第一次成功接觸到戴斯蒙德！面對深藏不露的目標，黃昏企圖在對話中試探他的為人……？",
+      "platform": {
+        "tongli": {
+          "id": "1e110437-6ca4-4660-fa81-08da4864d5ad",
+          "date": "2022-06-13"
+        },
+        "kobo": {
+          "id": "spy-family-7",
+          "date": "2022-07-07"
+        },
+        "bw": {
+          "id": 142797,
+          "date": "2022-07-07"
+        },
+        "readmoo": {
+          "id": "210236479000101",
+          "date": "2022-07-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050136425",
+          "date": "2022-07-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339951,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-02-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572679630",
+      "cover": "/spy-family/spy-family-8.webp",
+      "pages": 212,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "約兒接下東國（Ostania）祕密組織「花園」的任務，將登上豪華郵輪，護衛黑手黨要人！然而洛伊德和安妮亞也將搭乘同一艘船去旅遊，這讓約兒對自己的祕密工作萌生迷惘？",
+      "platform": {
+        "tongli": {
+          "id": "2661bc50-49a6-466c-fa83-08da4864d5ad",
+          "date": "2022-06-13"
+        },
+        "kobo": {
+          "id": "spy-family-8",
+          "date": "2022-07-07"
+        },
+        "bw": {
+          "id": 142798,
+          "date": "2022-07-07"
+        },
+        "readmoo": {
+          "id": "210236480000101",
+          "date": "2022-07-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050136426",
+          "date": "2022-07-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339952,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-06-07",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789572691243",
+      "cover": "/spy-family/spy-family-9.webp",
+      "pages": 212,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "約兒vs暗殺者集團的戰鬥進入尾聲…！另一方面，豪華郵輪上被人安裝了炸彈－－！察覺危機的洛伊德與安妮亞各自盡力解決難題，不過…？",
+      "platform": {
+        "tongli": {
+          "id": "a799057e-ef48-48a2-7e4c-08da608175d8",
+          "date": "2022-08-01"
+        },
+        "kobo": {
+          "id": "spy-family-9",
+          "date": "2022-08-18"
+        },
+        "bw": {
+          "id": 145649,
+          "date": "2022-08-18"
+        },
+        "readmoo": {
+          "id": "210242801000101",
+          "date": "2022-08-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140022",
+          "date": "2022-08-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339953,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-07-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-02-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9786263474642",
+      "cover": "/spy-family/spy-family-10.webp",
+      "pages": 196,
+      "authors": [
+        "遠藤達哉"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "年幼的■■■■\r\n與父母一起過著和平的生活。\r\n和朋友玩軍隊遊戲、跟父親發生小小的爭執，\r\n這樣的日常生活會理所當然地持續下去，\r\n■■■■少年對此深信不疑，但是…？",
+      "platform": {
+        "tongli": {
+          "id": "4100d79f-e146-4482-0cf2-08db13109de9",
+          "date": "2023-03-06"
+        },
+        "kobo": {
+          "id": "spy-family-10",
+          "date": "2023-04-06"
+        },
+        "bw": {
+          "id": 159832,
+          "date": "2023-04-06"
+        },
+        "readmoo": {
+          "id": "210268791000101",
+          "date": "2023-04-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050156655",
+          "date": "2023-04-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 347107,
+          "date": "2023-04-06",
+          "type": [
+            "epub"
+          ],
+          "size": 139
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

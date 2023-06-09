@@ -1,0 +1,962 @@
+{
+  "lastModifiedDate": "2023-06-08",
+  "detail": {
+    "slug": "mob-psycho-100",
+    "series": {
+      "kobo": "AdMwIGvOSli4p7BFTGwd9w",
+      "readmoo": 1091,
+      "bw": 4650
+    },
+    "collection": {
+      "pubu": [
+        114802,
+        114803,
+        114806,
+        133154,
+        133155,
+        133156,
+        133158,
+        133159,
+        149134,
+        149137,
+        149138,
+        149139,
+        149141,
+        149143,
+        149144,
+        157049
+      ],
+      "books": [
+        "E050021202",
+        "E050021203",
+        "E050021204",
+        "E050032308",
+        "E050032309",
+        "E050032310",
+        "E050032311",
+        "E050032312",
+        "E050038575",
+        "E050038576",
+        "E050038577",
+        "E050038578",
+        "E050038579",
+        "E050038580",
+        "E050038581",
+        "E050042902"
+      ]
+    },
+    "title": "路人超能100",
+    "originalTitle": "",
+    "authors": [
+      "ONE"
+    ],
+    "publisher": "青文出版",
+    "finished": true,
+    "tags": [
+      "校園",
+      "搞笑",
+      "戰鬥",
+      "動畫化",
+      "特殊能力",
+      "勵志"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "9789863560029",
+      "cover": "/mob-psycho-100/mob-psycho-100-1.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "弁天"
+      ],
+      "nsfw": false,
+      "price": 49,
+      "description": "\"只要到達１００就會爆發，少年的名字是…「路人」!!\r\n\r\n平凡又對青春抱有憧憬的中二少年──影山茂夫（通稱＝路人），他其實擁有特別的能力──那就是「超能力」!!!\r\n\r\n冒牌靈能者、可疑的宗教團體其他等等……想利用他這種超能力的各種怪咖都被他吸引而來，少年‧路人的心中似乎有股「力量」正在蠢蠢欲動!!\r\n\r\n衝擊的超能力，青春的章節，就此開幕!!\"",
+      "platform": {
+        "kobo": {
+          "id": "k5pBuKWvKjW6AsM4F3k1Jg",
+          "date": "2017-06-02"
+        },
+        "bw": {
+          "id": 28443,
+          "date": "2018-01-07"
+        },
+        "readmoo": {
+          "id": "210079639000101",
+          "date": "2019-01-24",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050021202",
+          "date": "2014-04-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 114802,
+          "date": "2018-01-19",
+          "type": [
+            "epub"
+          ],
+          "size": 28
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2015-04-20",
+          "width": 701,
+          "height": 1024
+        },
+        "img": {
+          "modified": "",
+          "width": 701,
+          "height": 1024
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "9789865127633",
+      "cover": "/mob-psycho-100/mob-psycho-100-2.webp",
+      "pages": 192,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "鄭雅云"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "\"陰與陽，路人與輝哥──\r\n兩位超能少年的對決時刻。\r\n\r\n藉著超級不會配合周遭氣氛\r\n以及強大的超能力，\r\n成功瓦解了可疑宗教團體「（笑）」的\r\n中二少年‧影山茂夫（通稱：路人）。\r\n以超能力打敗路人所就讀國中的不良少年們\r\n別校隱藏老大‧花澤輝氣（通稱：輝哥）。\r\n生存方式完全不同的兩位超能少年\r\n相遇時，會發生什麼事呢──\r\n\"",
+      "platform": {
+        "kobo": {
+          "id": "NHDs40FhWT2XuNGhdfDDog",
+          "date": "2017-06-02"
+        },
+        "bw": {
+          "id": 28444,
+          "date": "2018-01-07"
+        },
+        "readmoo": {
+          "id": "210079640000101",
+          "date": "2019-01-24",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050021203",
+          "date": "2015-04-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 114803,
+          "date": "2018-01-19",
+          "type": [
+            "epub"
+          ],
+          "size": 33
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2015-10-09",
+          "width": 822,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 822,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(3)",
+      "isbn": "9789865127640",
+      "cover": "/mob-psycho-100/mob-psycho-100-3.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "\"當路人感情指數破表時\r\n內心覺醒的是──\r\n\r\n在語黑醋中隱藏老大──輝哥的對決中\r\n貫徹「非暴力」不使用超能力的路人失去了意識。\r\n眼看勝負即將揭曉，\r\n超越路人意識的「某種東西」覺醒了…!!?\r\n另外，對哥哥抱持憧憬的弟弟──影山律為中心的\r\n新故事即將展開!!!\"",
+      "platform": {
+        "kobo": {
+          "id": "OcEMTFDaZjODMpWXwrDzOg",
+          "date": "2017-06-02"
+        },
+        "bw": {
+          "id": 28445,
+          "date": "2018-01-07"
+        },
+        "readmoo": {
+          "id": "210079641000101",
+          "date": "2019-01-24",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050021204",
+          "date": "2015-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 114806,
+          "date": "2018-01-19",
+          "type": [
+            "epub"
+          ],
+          "size": 32
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2015-10-09",
+          "width": 822,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 822,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(4)",
+      "isbn": "9789865127657",
+      "cover": "/mob-psycho-100/mob-psycho-100-4.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "羨慕、糾葛、兄弟。\r\n路人與律終於……\r\n\r\n「有煩惱可以找我商量喔，哥哥。」\r\n面對自小就有超能力的哥哥，\r\n作為弟弟的律一直懷抱憧憬。\r\n然而，當律的超能力覺醒時，\r\n遭到壓抑的真心顯露狂氣──\r\n劇情迎向衝擊性的新展開！！",
+      "platform": {
+        "kobo": {
+          "id": "rqcgFzlRHDq-uZt9ly_8cA",
+          "date": "2018-08-16"
+        },
+        "bw": {
+          "id": 46943,
+          "date": "2018-08-15"
+        },
+        "readmoo": {
+          "id": "210102016000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032308",
+          "date": "2016-04-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 133154,
+          "date": "2018-08-17",
+          "type": [
+            "epub"
+          ],
+          "size": 71
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-04-24",
+          "width": 1125,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1125,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(5)",
+      "isbn": "9789865128647",
+      "cover": "/mob-psycho-100/mob-psycho-100-5.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "潛入超能力組織拯救弟弟的路人將與成人超能力者對決，\r\n但卻眼睜睜看著律被抓走。\r\n路人、輝哥、酒窩為了拯救律，潛入神祕組織，\r\n但號稱「爪」的超能力者們卻阻擋在眾人面前…！！！\r\n國中生（+惡靈）VS.大人。\r\n超能力大戰一觸即發！！",
+      "platform": {
+        "kobo": {
+          "id": "skgnZtx4nTOvE8O_f_K-nQ",
+          "date": "2018-08-16"
+        },
+        "bw": {
+          "id": 46944,
+          "date": "2018-08-15"
+        },
+        "readmoo": {
+          "id": "210102017000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032309",
+          "date": "2016-06-04",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 133155,
+          "date": "2018-08-17",
+          "type": [
+            "epub"
+          ],
+          "size": 77
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-04-24",
+          "width": 1125,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1125,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(6)",
+      "isbn": "9789865128654",
+      "cover": "/mob-psycho-100/mob-psycho-100-6.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "路人在師父面前…大爆發！\r\n闖入【爪】的分部，卻成為階下囚的路人等人。\r\n此時，靈幻赫然帶著手下現身…!!?\r\n想逃避的心情，以及為了守護同伴不得不戰的使命。\r\n壓力排山倒海而來，\r\n終於路人──爆發了!!!",
+      "platform": {
+        "kobo": {
+          "id": "cqgXwATjADG5bgg2LYWxYg",
+          "date": "2018-08-16"
+        },
+        "bw": {
+          "id": 46945,
+          "date": "2018-08-15"
+        },
+        "readmoo": {
+          "id": "210102018000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032310",
+          "date": "2016-08-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 133156,
+          "date": "2018-08-17",
+          "type": [
+            "epub"
+          ],
+          "size": 68
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-04-24",
+          "width": 1125,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1125,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(7)",
+      "isbn": "9789865128661",
+      "cover": "/mob-psycho-100/mob-psycho-100-7.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "師徒齊打拚，\r\n除靈打工火熱化！\r\n\r\n在「靈能諮詢所」打工的路人與師父靈幻接受了各種委託！\r\n解開裂嘴女等都市傳說之謎、\r\n驅除搗亂校園與稻田的惡靈、\r\n前往靈異景點的護衛任務etc.\r\n協助除靈工作的同時，\r\n路人也漸漸產生了變化…!!?",
+      "platform": {
+        "kobo": {
+          "id": "LIHhlp5mCDeg-RWzESrmWA",
+          "date": "2018-08-16"
+        },
+        "bw": {
+          "id": 46946,
+          "date": "2018-08-15"
+        },
+        "readmoo": {
+          "id": "210102019000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032311",
+          "date": "2016-10-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 133158,
+          "date": "2018-08-17",
+          "type": [
+            "epub"
+          ],
+          "size": 73
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-04-24",
+          "width": 1125,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1125,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(8)",
+      "isbn": "9789865128678",
+      "cover": "/mob-psycho-100/mob-psycho-100-8.webp",
+      "pages": 194,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "面對最強的惡靈，\r\n路人…九死一生!?\r\n\r\n委託人的女兒遭惡靈附身，\r\n為了將惡靈驅除，\r\n路人與靈幻前往大富豪宅邸。\r\n然而，惡靈的真面目竟然是\r\n懷抱怨念而死的知名靈能力者\r\n所化身之大惡靈！\r\n路人靈魂出竅試圖\r\n拯救少女，但豈料…!?",
+      "platform": {
+        "kobo": {
+          "id": "g8N5k26M0zGOQvlp2o4Sjw",
+          "date": "2018-08-16"
+        },
+        "bw": {
+          "id": 46947,
+          "date": "2018-08-15"
+        },
+        "readmoo": {
+          "id": "210102020000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032312",
+          "date": "2016-12-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 133159,
+          "date": "2018-08-20",
+          "type": [
+            "epub"
+          ],
+          "size": 75
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-04-24",
+          "width": 1125,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1125,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(9)",
+      "isbn": "9789865128685",
+      "cover": "/mob-psycho-100/mob-psycho-100-9.webp",
+      "pages": 191,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "路人與靈幻，\r\n師徒關係出現「裂痕」!?\r\n完成除靈委託後，\r\n路人等人恢復日常生活。\r\n某日，靈幻不慎失言，\r\n結果路人隔天不來打工了!!\r\n少了路人幫忙，\r\n獨自解決委託的靈幻，\r\n突然接到電視台的通告…!!",
+      "platform": {
+        "kobo": {
+          "id": "mxZIChqWDDyriJKhF1qTEA",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55497,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102009000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038575",
+          "date": "2017-03-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149134,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-19",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9789865128692",
+      "cover": "/mob-psycho-100/mob-psycho-100-10.webp",
+      "pages": 201,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "以超能力支配世界\r\n「爪」展開行動。　　\r\n跑完馬拉松的路人，\r\n回家路上發現\r\n自己的家陷入火海…\r\n日常生活變成緊急事態──\r\n企圖以超能力展開\r\n恐怖攻擊的「爪」之幹部\r\n襲向路人與輝哥!?",
+      "platform": {
+        "kobo": {
+          "id": "lkmpWvKNaz6NaIzg3TEctw",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55498,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102010000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038576",
+          "date": "2017-05-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149137,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-19",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9789865128708",
+      "cover": "/mob-psycho-100/mob-psycho-100-11.webp",
+      "pages": 201,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "在遭到掠奪的城市，\r\n展開超能力者的大戰。\r\n宣告要征服世界，\r\n不斷破壞市街的\r\n超能力恐怖組織──「爪」。\r\n為阻止其惡行，\r\n靈幻等人前往敵人首領\r\n所在之調味文化塔。\r\n然而，力量強大的「爪」之幹部\r\n正在城市各處等待眾人…",
+      "platform": {
+        "kobo": {
+          "id": "GXOqhi1tSzi43n72vkZivA",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55499,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102011000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038577",
+          "date": "2017-07-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149138,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-19",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9789865128715",
+      "cover": "/mob-psycho-100/mob-psycho-100-12.webp",
+      "pages": 193,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "國二的路人VS「爪」的老大\r\n強大的超能力激烈交鋒。\r\n為阻止恐怖組織「爪」\r\n繼續破壞街道，\r\n路人一行人抵達了文化塔。\r\n路人單身直闖敵營，\r\n試圖說服「爪」的老大，\r\n但最後的幹部．芹澤\r\n卻阻擋在他的面前…！！",
+      "platform": {
+        "kobo": {
+          "id": "fo-GjMU_KD-YkaCbfAdD2Q",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55500,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102012000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038578",
+          "date": "2017-10-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149139,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-05",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "9789865128722",
+      "cover": "/mob-psycho-100/mob-psycho-100-13.webp",
+      "pages": 191,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "教祖是誰！？\r\n「超能安全帽教」…星火燎原！\r\n因超能力爆炸的影響，\r\n鎮上出現巨大植物──通稱‧神樹。\r\n為了霸佔神樹的力量，\r\n妖怪與新興宗教的信徒們\r\n陸續來到調味市！！\r\n另一方面，路人也接二連三\r\n迎接重要活動",
+      "platform": {
+        "kobo": {
+          "id": "cQXU5UhmxjSUdVD3dzGhbA",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55501,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102013000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038579",
+          "date": "2018-05-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149141,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-19",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "9789863565475",
+      "cover": "/mob-psycho-100/mob-psycho-100-14.webp",
+      "pages": 201,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "在「洗腦」擴散的調味市內，\r\n路人獨自思索著何事…！？\r\n受「神樹」的影響，\r\n市民成為了超能安全帽教的信徒。\r\n包括鹽中學的學生，\r\n就連弟弟阿律都淪陷了…！？\r\n面對追求共同幸福的教團，\r\n無法認同的路人與教祖對峙…！！",
+      "platform": {
+        "kobo": {
+          "id": "Q5Gn8pSuMD-kO4ItJLMhOg",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55502,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102014000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038580",
+          "date": "2018-08-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149143,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-09-19",
+          "width": 1456,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1456,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "9789863567400",
+      "cover": "/mob-psycho-100/mob-psycho-100-15.webp",
+      "pages": 193,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "腦感電波社解散的危機…!?\r\n\r\n寒假在即，國三生們也\r\n逐漸聽見畢業的腳步聲了！\r\n路人所屬的腦感電波社的\r\n暗田留(社長)說畢業之前\r\n想跟外星人有所交流…\r\n為找出心電感應能力者，\r\n路人們採取的行動是…!?",
+      "platform": {
+        "kobo": {
+          "id": "wH4GrgadUzq7jaNBOeQAIQ",
+          "date": "2019-01-18"
+        },
+        "bw": {
+          "id": 55503,
+          "date": "2019-01-21"
+        },
+        "readmoo": {
+          "id": "210102015000101",
+          "date": "2019-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050038581",
+          "date": "2019-01-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 149144,
+          "date": "2019-01-22",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-01-16",
+          "width": 1429,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1429,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "16",
+      "isbn": "9789863568841",
+      "cover": "/mob-psycho-100/mob-psycho-100-16.webp",
+      "pages": 241,
+      "authors": [
+        "ONE"
+      ],
+      "translators": [
+        "陳鈞然"
+      ],
+      "nsfw": false,
+      "price": 130,
+      "description": "暴走的超能力與\n路人告白的結果是…!?\n\n得知意中人小蕾即將轉學，\n路人決定向她告白。\n然而在前往告白的路上，\n路人發生了車禍。\n於是，失去意識的他，\n超能力失控暴走──!?\n思春期與超能力交織的故事。\n感動的最終回!!",
+      "platform": {
+        "kobo": {
+          "id": "QxWHTj4QdT-E-3Xm6amubg",
+          "date": "2019-04-15"
+        },
+        "bw": {
+          "id": 59372,
+          "date": "2019-04-17"
+        },
+        "readmoo": {
+          "id": "210108027000101",
+          "date": "2019-04-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050042902",
+          "date": "2019-04-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 157049,
+          "date": "2019-04-17",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-04-05",
+          "width": 1430,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1430,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}
