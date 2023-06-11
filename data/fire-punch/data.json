@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-08",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "fire-punch",
     "series": {
@@ -141,7 +141,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-01-10",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -261,7 +261,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-01-10",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -381,7 +381,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-01-10",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -436,7 +436,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-06-10",
           "width": 0,
           "height": 0
         },
@@ -496,7 +496,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-11-12",
           "width": 0,
           "height": 0
         },

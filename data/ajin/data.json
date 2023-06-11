@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-06",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "ajin",
     "series": {
@@ -127,7 +127,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-05-17",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -180,7 +180,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-05-21",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -233,7 +233,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-07-12",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -286,7 +286,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -339,7 +339,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -392,7 +392,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -445,7 +445,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -498,7 +498,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -551,7 +551,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -604,7 +604,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-06-13",
+          "modified": "2019-07-11",
           "width": 1126,
           "height": 1600
         }
@@ -657,8 +657,8 @@
           "height": 0
         },
         "img": {
-          "modified": "2019-07-31",
-          "width": 1125,
+          "modified": "2019-07-11",
+          "width": 1126,
           "height": 1600
         }
       }
@@ -758,7 +758,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-06-03",
           "width": 0,
           "height": 0
         },

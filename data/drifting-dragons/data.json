@@ -1,13 +1,26 @@
 {
-  "lastModifiedDate": "2023-06-05",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "drifting-dragons",
     "series": {
       "tongli": "bd37132c-6a96-e811-a947-00155d020a17",
       "kobo": "dragons-1",
-      "readmoo": 2315,
       "bw": 12454,
       "books": "A00000058157"
+    },
+    "collection": {
+      "readmoo": [
+        210131867000101,
+        210131868000101,
+        210131869000101,
+        210131870000101,
+        210150096000101,
+        210156435000101,
+        210171550000101,
+        210184043000101,
+        210184044000101,
+        210214474000101
+      ]
     },
     "title": "空挺Dragons",
     "originalTitle": "",
@@ -117,7 +130,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-13",
+          "modified": "2019-12-26",
           "width": 0,
           "height": 0
         },
@@ -169,7 +182,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-14",
+          "modified": "2019-12-26",
           "width": 0,
           "height": 0
         },
@@ -221,7 +234,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-14",
+          "modified": "2019-12-26",
           "width": 0,
           "height": 0
         },
@@ -273,7 +286,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-04-07",
           "width": 0,
           "height": 0
         },
@@ -325,7 +338,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-16",
+          "modified": "2020-06-30",
           "width": 0,
           "height": 0
         },
@@ -382,7 +395,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-11-25",
+          "modified": "2020-12-01",
           "width": 1126,
           "height": 1600
         }
@@ -434,7 +447,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-02-01",
+          "modified": "2021-02-02",
           "width": 1126,
           "height": 1600
         }
@@ -572,6 +585,11 @@
           "id": 164177,
           "date": "2023-06-01"
         },
+        "readmoo": {
+          "id": "210143808000101",
+          "date": "2020-05-28",
+          "version": "1.000"
+        },
         "books": {
           "id": "E050162547",
           "date": "2023-06-01",
@@ -580,14 +598,14 @@
       },
       "epub": {
         "opf": {
-          "modified": "",
+          "modified": "2023-05-02",
           "width": 0,
           "height": 0
         },
         "img": {
-          "modified": "",
-          "width": 0,
-          "height": 0
+          "modified": "2023-05-02",
+          "width": 1126,
+          "height": 1700
         }
       }
     }

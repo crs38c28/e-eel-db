@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-04",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "heavenly-delusion",
     "series": {
@@ -65,12 +65,12 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-04-09",
           "width": 0,
           "height": 0
         },
         "img": {
-          "modified": "2020-03-11",
+          "modified": "2020-04-09",
           "width": 1126,
           "height": 1600
         }
@@ -117,7 +117,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-06-11",
           "width": 0,
           "height": 0
         },

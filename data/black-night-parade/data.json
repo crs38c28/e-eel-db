@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-10",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "black-night-parade",
     "series": {
@@ -18,8 +18,8 @@
     "finished": false,
     "tags": [
       "搞笑",
-      "青春",
-      "奇幻"
+      "奇幻",
+      "青春"
     ]
   },
   "vols": [
@@ -121,7 +121,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-11-24",
+          "modified": "",
           "width": 1126,
           "height": 1600
         }
@@ -225,7 +225,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-12-30",
+          "modified": "",
           "width": 1126,
           "height": 1600
         }

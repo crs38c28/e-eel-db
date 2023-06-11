@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-10",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "hyakusho",
     "series": {
@@ -117,7 +117,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-06-18",
           "width": 0,
           "height": 0
         },
@@ -169,7 +169,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-06-18",
           "width": 0,
           "height": 0
         },
@@ -221,7 +221,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-06-18",
           "width": 0,
           "height": 0
         },
@@ -273,7 +273,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2019-06-18",
           "width": 0,
           "height": 0
         },
@@ -325,7 +325,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2020-06-23",
           "width": 0,
           "height": 0
         },
@@ -382,7 +382,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-08-24",
+          "modified": "",
           "width": 1126,
           "height": 1600
         }

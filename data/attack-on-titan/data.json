@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-08",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "attack-on-titan",
     "series": {
@@ -501,7 +501,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-08-13",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -621,7 +621,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-08-13",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -741,7 +741,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-08-12",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -861,7 +861,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-18",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -981,7 +981,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-19",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1041,7 +1041,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-19",
+          "modified": "2020-06-18",
           "width": 1066,
           "height": 1600
         }
@@ -1161,7 +1161,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-19",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1281,7 +1281,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-19",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1401,7 +1401,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-06-19",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1521,7 +1521,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-08-12",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1636,7 +1636,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-13",
+          "modified": "2019-05-31",
           "width": 0,
           "height": 0
         },
@@ -1696,7 +1696,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-14",
+          "modified": "2019-09-03",
           "width": 0,
           "height": 0
         },
@@ -1756,7 +1756,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-12",
+          "modified": "2020-04-08",
           "width": 0,
           "height": 0
         },
@@ -1821,7 +1821,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-09-07",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1941,7 +1941,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-03-08",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -2061,7 +2061,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-12-07",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }

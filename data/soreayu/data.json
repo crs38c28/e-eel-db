@@ -1,0 +1,339 @@
+{
+  "lastModifiedDate": "2023-06-11",
+  "detail": {
+    "slug": "soreayu",
+    "series": {
+      "tongli": "524c7f4b-e27b-eb11-90b5-00155d020a17",
+      "kobo": "8OKHVOL_Kl2DOjsnMmBeNw",
+      "readmoo": 9760,
+      "bw": 16231,
+      "books": "A00000051184"
+    },
+    "title": "即使如此依舊步步進逼",
+    "originalTitle": "",
+    "authors": [
+      "山本崇一朗"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "校園",
+      "青春"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572649220",
+      "cover": "/soreayu/soreayu-1.webp",
+      "pages": 142,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "初學將棋的撲克臉高一生：田中步，喜歡著棋藝高超又容易害羞的學姊八乙女漆。雖然經常直率地說出怦然心動的台詞，卻暗自發誓，要用將棋贏過學姊才能告白。在這宛如棋局般一攻一防的戀愛對弈中，步一次又一次地戰敗，他究竟能不能順利贏過漆，並成功告白？在步步進攻的局勢下，究竟哪一方才能穩住內心不受動搖，贏得最終勝利？",
+      "platform": {
+        "tongli": {
+          "id": "26ec810e-cdce-4b3c-c12e-08d93f60a694",
+          "date": "2021-07-15"
+        },
+        "kobo": {
+          "id": "_TKojDijXD2TyzYQ3C5WHg",
+          "date": "2021-08-04"
+        },
+        "bw": {
+          "id": 120594,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190316000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133685",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572649237",
+      "cover": "/soreayu/soreayu-2.webp",
+      "pages": 144,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "田中步暗戀將棋社社長八乙女漆學姊。他發誓要贏過學姊才能告白。然而學姊太可愛，害他差點鬆口。此時步和漆會因為運動會的兩人三腳賽跑，擦出什麼樣的火花？步的兒時好友角龍猛和擅長催眠術的櫻子，兩人也瀰漫著曖昧氣氛……",
+      "platform": {
+        "tongli": {
+          "id": "84da9b70-f6be-4f7a-bce0-08da2e3d10c3",
+          "date": "2022-05-17"
+        },
+        "kobo": {
+          "id": "f9qM3JO_Ez6nn-yVyYRHEg",
+          "date": "2022-06-02"
+        },
+        "bw": {
+          "id": 140597,
+          "date": "2022-06-02"
+        },
+        "readmoo": {
+          "id": "210231269000101",
+          "date": "2022-06-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133686",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-05-05",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572677018",
+      "cover": "/soreayu/soreayu-3.webp",
+      "pages": 144,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "文化祭前夕，步突然向漆提出約會邀請。突如其來的攻勢差點讓漆招架不住。年底即將到來，步因為將棋從未勝利而陷入煩惱。此時漆提議用讓子的方式和步進行對奕。取得棋局優勢的步，終於有機會獲勝，向心儀的學姊告白了嗎？",
+      "platform": {
+        "tongli": {
+          "id": "21069b3e-47f0-47a8-ed00-08da3c5de70c",
+          "date": "2022-06-07"
+        },
+        "kobo": {
+          "id": "ln8wfbMqaza5M3isLd8YdA",
+          "date": "2022-07-07"
+        },
+        "bw": {
+          "id": 142781,
+          "date": "2022-07-07"
+        },
+        "readmoo": {
+          "id": "210236486000101",
+          "date": "2022-07-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050136431",
+          "date": "2022-07-07",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572684559",
+      "cover": "/soreayu/soreayu-4.webp",
+      "pages": 142,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "經過聖誕節和新年，步和漆的感情也逐漸升溫。情人節這天，漆準備了巧克力要送給步，她想出一個能順利送出巧克力的妙計。在櫻子的充滿曖昧的小動作之下，阿猛也悸動不已。他們四人在圖書館唸書，男女彼此的距離也瞬間拉近！",
+      "platform": {
+        "tongli": {
+          "id": "38efa7a2-d0d0-4b03-e99d-08daa105a38a",
+          "date": "2022-10-17"
+        },
+        "kobo": {
+          "id": "ipkWDPmCbTWVGU5wkaLYng",
+          "date": "2022-11-03"
+        },
+        "bw": {
+          "id": 150819,
+          "date": "2022-11-03"
+        },
+        "readmoo": {
+          "id": "210253342000101",
+          "date": "2022-11-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050145979",
+          "date": "2022-11-03",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-04-15",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572694503",
+      "cover": "/soreayu/soreayu-5.webp",
+      "pages": 146,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "喜歡用社交平台上傳將棋貼文的漆，發現經常來留言的網友居然是步，驚人的巧合使曖昧更加升溫。白色情人節這天，阿猛請櫻子看電影當作回禮，櫻子卻做出令他心癢難耐的舉動。新學年首日，步得知漆有個想分到同一班的對象……",
+      "platform": {
+        "tongli": {
+          "id": "96fd00f3-20d3-4eb4-bd68-08daf1ecceab",
+          "date": "2023-01-31"
+        },
+        "kobo": {
+          "id": "GZArwB5kSTmVDptx_YbaMg",
+          "date": "2023-02-16"
+        },
+        "bw": {
+          "id": 157058,
+          "date": "2023-02-16"
+        },
+        "readmoo": {
+          "id": "210262702000101",
+          "date": "2023-02-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153265",
+          "date": "2023-02-16",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-01-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-04-15",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572694510",
+      "cover": "/soreayu/soreayu-6.webp",
+      "pages": 144,
+      "authors": [
+        "山本崇一朗"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "新學年開始，漆希望在社團招新活動上成功招攬新社員。一位名叫香川凜的新生碰巧來到攤位。她是步和阿猛以前國中劍道社的學妹。有了凜的加入，將棋社終於成為正式社團。然而面對好勝心旺盛的凜，漆必須設法保住社長的地位。加上她隱約察覺凜和步的距離似乎有些太近。這究竟是那些運動社團的互動常態，還是真的遭遇情敵……？",
+      "platform": {
+        "tongli": {
+          "id": "b67e1c32-b36d-47b9-095c-08db365178e4",
+          "date": "2023-04-13"
+        },
+        "kobo": {
+          "id": "MUbCFvB5ajm_zlhPCbt60g",
+          "date": "2023-05-04"
+        },
+        "bw": {
+          "id": 161877,
+          "date": "2023-05-04"
+        },
+        "readmoo": {
+          "id": "210271823000101",
+          "date": "2023-05-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159220",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-04-15",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

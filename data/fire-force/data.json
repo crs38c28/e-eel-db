@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-10",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "fire-force",
     "series": {
@@ -124,7 +124,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-24",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -228,7 +228,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-24",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -332,7 +332,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-27",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -436,7 +436,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-30",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -540,7 +540,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-30",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -644,7 +644,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-30",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -748,7 +748,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-07-30",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -847,7 +847,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-13",
+          "modified": "2019-09-11",
           "width": 0,
           "height": 0
         },
@@ -899,7 +899,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2020-03-03",
           "width": 0,
           "height": 0
         },
@@ -951,7 +951,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-04-01",
           "width": 0,
           "height": 0
         },
@@ -1003,7 +1003,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-05-29",
           "width": 0,
           "height": 0
         },
@@ -1055,7 +1055,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-10-03",
+          "modified": "2020-06-23",
           "width": 0,
           "height": 0
         },
@@ -1107,7 +1107,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-16",
+          "modified": "2020-07-27",
           "width": 0,
           "height": 0
         },
@@ -1164,7 +1164,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-11-09",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1268,7 +1268,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2020-12-24",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1372,7 +1372,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-07-02",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1476,7 +1476,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2021-12-21",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1580,7 +1580,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-05-20",
+          "modified": "",
           "width": 1066,
           "height": 1600
         }
@@ -1788,7 +1788,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2022-12-23",
+          "modified": "2022-12-26",
           "width": 1066,
           "height": 1600
         }

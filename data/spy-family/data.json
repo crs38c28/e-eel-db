@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-08",
+  "lastModifiedDate": "2023-06-11",
   "detail": {
     "slug": "spy-family",
     "series": {
@@ -77,7 +77,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2020-04-30",
           "width": 0,
           "height": 0
         },
@@ -137,7 +137,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-11",
+          "modified": "2020-05-29",
           "width": 0,
           "height": 0
         },
@@ -197,7 +197,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-16",
+          "modified": "2020-07-06",
           "width": 0,
           "height": 0
         },
@@ -263,7 +263,7 @@
         },
         "img": {
           "modified": "2020-11-30",
-          "width": 1126,
+          "width": 1066,
           "height": 1600
         }
       }
@@ -622,7 +622,7 @@
           "height": 0
         },
         "img": {
-          "modified": "2023-02-22",
+          "modified": "2022-02-18",
           "width": 1066,
           "height": 1600
         }
