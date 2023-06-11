@@ -1,0 +1,936 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "kinounanitabeta",
+    "series": {
+      "kobo": "qfDRjK-T-VS4m-17KFG8eg",
+      "readmoo": 10325,
+      "bw": 61,
+      "pubu": {
+        "store": 29038,
+        "id": "昨日的美食"
+      }
+    },
+    "collection": {
+      "kobo": [
+        "Wy7cRzzRqzWxSqSXtqUGDQ"
+      ]
+    },
+    "title": "昨日的美食",
+    "originalTitle": "",
+    "authors": [
+      "吉永史"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "真人化",
+      "治癒",
+      "料理",
+      "日常"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "9786263385788",
+      "cover": "/kinounanitabeta/kinounanitabeta-1.webp",
+      "pages": 161,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 85,
+      "description": "「昨天了吃了什麼？」——答得出來的人有福了！\n\n律師筧史朗和美容師矢吹賢二是一對住在市區某棟公寓的同志情侶。\n既然生小孩無望，為了攢存養老基金，筧律師豁出去了。\n左扣男友的零用錢，右向老家伸手討罐頭，\n還要將每個月的餐費控制在二萬五千日幣以下。\n吃得好還不夠，吃得省才厲害，且看筧律師如何大展身手！",
+      "platform": {
+        "kobo": {
+          "id": "oKB4_vftIjmWXne3lMVsDg",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148376,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247051000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321942,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-19",
+          "width": 1421,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1421,
+          "height": 2047
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "9786263385801",
+      "cover": "/kinounanitabeta/kinounanitabeta-2.webp",
+      "pages": 160,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 85,
+      "description": "「難得放假，我只想專心做菜…」\n\n\n\n\n\n筧律師的料理人生，絕對容不下任何污點！\n\n\n只不過是芹菜放太久爛掉，他就會沮喪個一整天。\n\n\n一點不剩地清空冰箱食材，對筧律師而言就是最大的幸福。\n\n\n因為現實生活總難盡如人意，男同志當然也不例外。\n\n\n父親罹癌，工作不順…幸好還有料理陪伴。\n\n\n心情不好嗎？那就做菜吧！",
+      "platform": {
+        "kobo": {
+          "id": "x4fibPrIDzGz-PR6GQEWXw",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148377,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247052000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321943,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-19",
+          "width": 1421,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1421,
+          "height": 2047
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "9786263385825",
+      "cover": "/kinounanitabeta/kinounanitabeta-3.webp",
+      "pages": 159,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 85,
+      "description": "「料理、就是良心！」\n\n只有料理這件事，筧律師絕對不會妥協！\n絞盡腦汁不浪費地料理食材，\n對他來說可是家常便飯。\n採買宛如「狩獵」，下手就是要快狠準。\n就算工作老家事情兩頭燒，\n只要能夠坐下來享用一頓美食，\n煩惱就能暫時拋腦後。\n事事不順心情鬱悶？\n讓「吃」變成另一種幸福吧！",
+      "platform": {
+        "kobo": {
+          "id": "UUpZs8oI0TKmMn7zQ_M5MA",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148378,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247053000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321944,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 92
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-19",
+          "width": 1417,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1417,
+          "height": 2043
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "9786263385849",
+      "cover": "/kinounanitabeta/kinounanitabeta-4.webp",
+      "pages": 155,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 85,
+      "description": "「家中的溫暖，就是滿滿一桌的美味料理。」\n\n今天的晚餐有點不一樣!?\n由難得派上用場的賢二大展身手，讓筧律師也直率的說好吃。\n一個人吃飯好寂寞，隨時抱持著珍惜的心情，看著對方吃飯的笑容果然是無可取代的!\n寒冷的冬天裡一回到家就聞到四溢的香味，看到滿滿的一桌菜就能感受到無限大的溫暖。\n果然，晚餐還是在家吃最幸福了!",
+      "platform": {
+        "kobo": {
+          "id": "GwCRYzLJ2DC-35PgoKQVGQ",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148379,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247054000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321945,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-19",
+          "width": 1423,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1423,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "9786263385863",
+      "cover": "/kinounanitabeta/kinounanitabeta-5.webp",
+      "pages": 159,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 85,
+      "description": "「精打細算，也是美味的要素之一。」\n\n超市特價商品絕不錯過，星期四就是要買低脂牛奶！\n精打細算的筧律師毫不手軟，今天也在超市決一勝負。\n在友人婚禮上遭到單身女性猛烈攻擊的筧律師，將使出最後絕招...!?\n即使身為上班族，在夏日吃到野菜咖哩也能感受到暑假的來臨。\n\n不變的日常也是幸福的一種。",
+      "platform": {
+        "kobo": {
+          "id": "NyrrvqFyyjKDvJkgibIFag",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148380,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247055000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321947,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 93
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-19",
+          "width": 1423,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1423,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "9786263385887",
+      "cover": "/kinounanitabeta/kinounanitabeta-6.webp",
+      "pages": 156,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 95,
+      "description": "「吃一頓心愛的人做的料理，打起精神上班去吧！」\n\n圓鼓鼓的手工餃子，充滿了愛的內餡與口感，\n有時候男人的忌妒心也是調味料的一種！\n\n生日的時候做一頓自己喜歡的料理吧！\n與重要的人一起分享喜愛的食物，就是人生的一大幸福！\n\n史朗和賢二偶爾也要出外野餐放鬆一下！\n比起可愛繽紛的便當，\n料理的味道與心意才是勝負的關鍵。",
+      "platform": {
+        "kobo": {
+          "id": "FCXvCMsUwTK_j8fU4VY1LA",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148381,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247056000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321949,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1423,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1423,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "7",
+      "isbn": "9786263385900",
+      "cover": "/kinounanitabeta/kinounanitabeta-7.webp",
+      "pages": 158,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 95,
+      "description": "「分享彼此的未來，從料理開始。」\n\n史朗要帶賢二回老家過年了，\n尷尬的氣氛與心中的不安，\n在滿是豐盛料理的餐桌上都將化為雲煙。\n\n向家人傳達出「很幸福的自己」，\n其實只要藉由一頓美味的料理。\n\n不管是紀念日、生日，\n還是平凡無奇的一日，\n只要是兩人一同吃飯的日子，\n就是幸福的一天。\n\n配合著彼此的步調與喜好，\n每一個舉動、每一口料理，\n都是幸福的證明。\n",
+      "platform": {
+        "kobo": {
+          "id": "huN57bJtEDucYs6z6oNtGQ",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148382,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247057000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321950,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-20",
+          "width": 1423,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1423,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "9786263385924",
+      "cover": "/kinounanitabeta/kinounanitabeta-8.webp",
+      "pages": 161,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 95,
+      "description": "「幸福的味道就是，充滿心意的料理。」\n\n來趟愜意的京都之旅吧！\n史朗難得的大手筆開銷，到底是發生了什麼事!?\n\n說到一年一度的情人節，\n就是要用充滿愛的巧克力來打動對方！\n看史朗和賢二用不一樣的巧克力形式\n增加兩人之間甜蜜蜜的溫度！\n\n2LDK的屋簷下、每個月兩萬五千圓的伙食費，\n這是兩個大男人也很幸福的同居物語。",
+      "platform": {
+        "kobo": {
+          "id": "1j34u5NETTiBWVzl-LQiWw",
+          "date": "2022-09-28"
+        },
+        "bw": {
+          "id": 148383,
+          "date": "2022-09-30"
+        },
+        "readmoo": {
+          "id": "210247058000101",
+          "date": "2022-09-27",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 321951,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 93
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-20",
+          "width": 1423,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1423,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "4717702263614",
+      "cover": "/kinounanitabeta/kinounanitabeta-9.webp",
+      "pages": 158,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "「自己下廚就是掌握健康的第一步。」\n史朗熟悉的便宜超市即將關店，\n他的精打細算小幸福會不會也面臨危機!?\n即將邁向50歲的男人年齡是禁語，\n隨著歲月的痕跡增加，\n史朗要擔心的事情也變多了。\n雙親的身體健康 ，\n以及自己老花眼的事實!!\n不過在賢二的改造下，\n史朗即將變身為眼鏡中年型男!?\n幸福的日子從健康的飲食開始。",
+      "platform": {
+        "kobo": {
+          "id": "Yuiq5e6WpDyfJNKDGP94aA",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61901,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108918000101",
+          "date": "2019-05-20",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 161027,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-21",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "4712966358533",
+      "cover": "/kinounanitabeta/kinounanitabeta-10.webp",
+      "pages": 160,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "「抓住男友的胃，戀情就可以更加長久～」\n不畏風，不畏雨，兩人一起享用晚餐，\n日常生活裡的小確幸就在餐桌上。\n每天的晚餐都是令人期待的時刻，\n改變造型就像增加菜色一樣，\n老夫老妻也需要增加新鮮感，\n一起來開發新口味吧！",
+      "platform": {
+        "kobo": {
+          "id": "32Gx7v86sDWEkmLBebJhzA",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61902,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108919000101",
+          "date": "2019-05-20",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 161028,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-21",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9789571071299",
+      "cover": "/kinounanitabeta/kinounanitabeta-11.webp",
+      "pages": 160,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "「每一口『好吃』，都是想著對方的幸福滋味。」\n物價上漲餐費暴增，\n但史朗對料理的堅持還是不會打折。\n從絞盡腦汁思考準備晚餐開始，\n到去超市挑選材料、精打細算，\n到分秒必爭下廚的忙碌過程，\n到另一半吃下料理時的滿足表情，\n每一步都是前往幸福的過程。",
+      "platform": {
+        "kobo": {
+          "id": "MIRU2TxK4j-TgrN1mhHO6A",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61903,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108920000101",
+          "date": "2019-05-20",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 161029,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-22",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9789571073590",
+      "cover": "/kinounanitabeta/kinounanitabeta-12.webp",
+      "pages": 162,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "「男人的料理是什麼？」\n甜鹹交錯一口接一口，\n肉菜適中罪惡感統統丟腦後。\n從高級食材所組成的壽喜燒，\n到剛出爐的熱騰騰蘋果口味馬芬，\n都有著濃濃的甜蜜心意～\n年過半百依然超受歡迎的人氣男同志史朗，\n今晚也牢牢地抓住了男友的胃唷！",
+      "platform": {
+        "kobo": {
+          "id": "CBKWDzaRCTiBDcn_L0IDOQ",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61904,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108921000101",
+          "date": "2019-05-20",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 161030,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 118
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-22",
+          "width": 1420,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1420,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "4712966358168",
+      "cover": "/kinounanitabeta/kinounanitabeta-13.webp",
+      "pages": 159,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "「溫柔的料理，每一口都讓人幸福加倍。」\n史朗和賢二的跨年初詣第一次就失敗？\n從熱鬧的火鍋趴開始和親友迎接新的一年！\n周遭的生離死別無法預測，\n精神年齡35歲的史朗再次正式實際年齡!!\n即使中年危機、健康第一，\n美食家們依然不能粗茶淡飯。\n今年也要恩恩愛愛、吃吃喝喝放閃過生活！",
+      "platform": {
+        "kobo": {
+          "id": "DTv76FQ-xzSX7C7aCrTt5A",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61905,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108922000101",
+          "date": "2019-05-20",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 161031,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 116
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-22",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "9789571084763",
+      "cover": "/kinounanitabeta/kinounanitabeta-14.webp",
+      "pages": 159,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "西島秀俊、內野聖陽領銜主演，電視劇《昨日的美食》2019年4月即將公開！\n一公佈就引起台日各大網站超熱烈討論！\n色香味俱全的同志生活料理故事～\n「兩人並肩散步，有說有笑，話題一定是今天的菜色。」\n沒有通宵和熬夜跨年，\n史朗和賢二再次和中年夥伴一同挑戰新年參拜，\n在美食和愛人的陪伴下感謝一整年的平安與幸福。\n假日的晨間熱粥定食讓人從胃暖到心頭，\n少量的米就能攝取到碳水化合物的飽足感，\n即使是簡單的一道也不能忽略盛裝的視覺效果。\n兩人一起享用的餐點就是五星級也比不上的美味。\n今天的菜色是什麼呢？",
+      "platform": {
+        "kobo": {
+          "id": "kaFgoNSDiD-fsdf15NxI8A",
+          "date": "2019-05-21"
+        },
+        "bw": {
+          "id": 61906,
+          "date": "2019-05-21"
+        },
+        "readmoo": {
+          "id": "210108923000101",
+          "date": "2019-05-20",
+          "version": "1.002"
+        },
+        "pubu": {
+          "id": 161032,
+          "date": "2022-11-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 108
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-22",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "9789571090993",
+      "cover": "/kinounanitabeta/kinounanitabeta-15.webp",
+      "pages": 163,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "「為了對方著想的一顆心，就是做出溫柔料理的秘訣。」\n在佳代子太太家獲得招待的手捲大餐、\n吉爾貝爾提出的盛夏煎餃派對、\n難得賢二提早下班，\n在家對飲搭配的下酒菜……\n史朗與賢二兩人一點一滴，\n度過了更多的歲月。\n那麼，明天要吃什麼呢？",
+      "platform": {
+        "kobo": {
+          "id": "GQZ7LswZeDaS7rrrs7JSxw",
+          "date": "2020-09-10"
+        },
+        "bw": {
+          "id": 96700,
+          "date": "2020-09-10"
+        },
+        "readmoo": {
+          "id": "210155321000101",
+          "date": "2020-09-09",
+          "version": "1.001"
+        },
+        "pubu": {
+          "id": 204939,
+          "date": "2022-09-29",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 115
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-22",
+          "width": 1420,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1420,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "9789571092775",
+      "cover": "/kinounanitabeta/kinounanitabeta-16.webp",
+      "pages": 163,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "「和你一起，慢慢地……竟也走過了這麼長的歲月。」\n\n賢二的家人突然要求與史朗見面，\n重要的初次聚餐，\n史朗挑選的地點\n是與大老師的回憶之地……\n\n彼此相聚並好好吃頓飯，\n那就是無與倫比的幸福。",
+      "platform": {
+        "kobo": {
+          "id": "qmcgHoFnND-d2xZKfqtqmw",
+          "date": "2021-01-26"
+        },
+        "bw": {
+          "id": 107294,
+          "date": "2021-01-26"
+        },
+        "readmoo": {
+          "id": "210170078000101",
+          "date": "2021-01-19",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 219656,
+          "date": "2021-01-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 111
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-22",
+          "width": 1420,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2021-01-22",
+          "width": 1420,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "9786263381018",
+      "cover": "/kinounanitabeta/kinounanitabeta-17.webp",
+      "pages": 161,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "「維持現狀也是一種幸福。」\n\n史朗的父母正式搬到八王子的安養院居住，\n並與鄰居相互道別。\n看著雙親賣掉長年用心經營的家，\n史朗不禁有些寂寞感傷…\n\n儘管吃的只是家常便飯\n那也是難能可貴的時光。",
+      "platform": {
+        "kobo": {
+          "id": "VKfHwYwP4zm_xYLLX-AWSQ",
+          "date": "2022-06-09"
+        },
+        "bw": {
+          "id": 141161,
+          "date": "2022-06-09"
+        },
+        "readmoo": {
+          "id": "210232189000101",
+          "date": "2022-06-08",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 304404,
+          "date": "2022-06-09",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 144
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-06",
+          "width": 1420,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)",
+      "isbn": "9786263568280",
+      "cover": "/kinounanitabeta/kinounanitabeta-18.webp",
+      "pages": 161,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "\"▶榮獲2008年漫畫大賞第12名\n▶榮獲2009年這本漫畫真厲害！男性向第6名\n▶2019年4月改編同名真人版電視劇與電影版，由西島秀俊、內野聖陽領銜主演，開播後佳評如潮！\n\n在飯桌上共享微苦又溫暖的每一天，結合BL與美食的溫馨漫畫作品！\n\n「靜下心聽我說，是關於將來我死掉之後的事情…」\n\n【內容簡介】\n雙雙步入中年的史朗與賢二，\n不得不開始考慮彼此的身後事…\n在尚未通過同性婚姻法的日本，\n同志伴侶們又該如何向政府證明彼此是「真正的」伴侶呢？\n\n我真正想要的…\n是跟你一如往昔般地生活啊！\"",
+      "platform": {
+        "kobo": {
+          "id": "Wy7cRzzRqzWxSqSXtqUGDQ",
+          "date": "2023-05-17T04:00:00Z"
+        },
+        "bw": {
+          "id": 164108,
+          "date": "2023-05-22"
+        },
+        "readmoo": {
+          "id": "210274122000101",
+          "date": "2023-05-21",
+          "version": "1.000"
+        },
+        "pubu": {
+          "id": 355596,
+          "date": "2023-05-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 117
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-05-15",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

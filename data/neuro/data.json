@@ -1,0 +1,1180 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "neuro",
+    "series": {
+      "tongli": "342f132c-6a96-e811-a947-00155d020a17",
+      "kobo": "Lq3M75a_PVS707RmVqZMDg",
+      "readmoo": 3276,
+      "bw": 1584,
+      "books": "A00000049169"
+    },
+    "title": "魔人偵探 腦嚙涅羅",
+    "originalTitle": "",
+    "authors": [
+      "松井優征"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "奇幻",
+      "動畫化",
+      "偵探推理",
+      "懸疑解謎"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861186856",
+      "cover": "/neuro/neuro-1.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "高中女生．桂木彌子的父親遭到虐殺而死於密室，充滿謎團的事件，將彌子的生活帶向混亂．．．。就在搜查工作毫無進展的窘境中，一名自稱名為腦嚙涅羅的男子，出現在傷心度日的彌子面前。他說他要解開極致的『謎』．．．．．！",
+      "platform": {
+        "tongli": {
+          "id": "5cd4dbf4-a235-4ff2-d718-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "rh0uxRot4D-h3JE6EMt33A",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12042,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137754000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125813",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-03-02",
+          "width": 784,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861186962",
+      "cover": "/neuro/neuro-2.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "涅羅＆彌子佔領（？）了不正派的事務所，並開設了「魔界偵探事務所」！值得紀念的第一位客人是在全世界擁有瘋狂粉絲的神秘歌后亞矢‧嬰滋娃！！她的委託內容為會是什麼呢...？",
+      "platform": {
+        "tongli": {
+          "id": "33ed83cc-3668-43ea-d719-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "HZfXaowZBj6fKPVqDHcFbw",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12043,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137755000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125814",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861186979",
+      "cover": "/neuro/neuro-3.webp",
+      "pages": 202,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "魔界偵探事務所多了秘書和打雜，今天也朝氣蓬勃地<br>營運著！！在涅羅尋找他喜愛的「謎」的過程中，令人<br>寒毛直豎的「紅箱子」事件發生了！將擄來的人加工<br>成某種狀態，人稱\"Ｘ\"的兇手，其真實面貌為何...?",
+      "platform": {
+        "tongli": {
+          "id": "ceb81a0e-4b88-4c0b-d71a-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "PXYZeS75ujKZH0nWJh4Aaw",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12044,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137756000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125815",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861186986",
+      "cover": "/neuro/neuro-4.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "無差別連續爆炸案接連發生！「歇斯底里獵犬」違反<br>了視涅羅和彌子為眼中釘的警視‧笛吹的預測，並以<br>各種手段多次犯下爆炸案，究竟兇手的犯罪的目的是<br>什麼？涅羅將解讀歹徒隱藏在犯罪卡中的訊息!!",
+      "platform": {
+        "tongli": {
+          "id": "79cf2cb5-8928-4dc1-d71b-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "wFTfzRMg6ji_EtYwmeZLIA",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12045,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137757000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125816",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861186993",
+      "cover": "/neuro/neuro-5.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "吾代心不甘情不願地代替涅羅和彌子，看守事務所。<br>一群滿臉橫肉的壯漢闖入，吾代被名為ＹＵＫＩ的神<br>奇男子一拳打倒！！ＹＵＫＩ離去時，表示自己的老<br>闆．望月想雇用彌子！？",
+      "platform": {
+        "tongli": {
+          "id": "c0021944-5cbc-4e66-d71c-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "e47yk0yrTTanLmkTWeuZ4A",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12046,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137758000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125817",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861187006",
+      "cover": "/neuro/neuro-6.webp",
+      "pages": 200,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "可怕的「割頭美容師」在城市裡出沒!!<br>在涅羅的能力之下合體的彌子與小茜展開了調查，雖然成功與嫌疑犯接觸，但面對惡魔的剪刀，千鈞一髮…!? 另一方面，蟄伏已久的Ｘ，終於出動來找涅羅了!!",
+      "platform": {
+        "tongli": {
+          "id": "f2eec278-1e66-458b-d71d-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "03zQ1tJCIzW8tp8CxW50Ew",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12047,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137759000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125818",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861189338",
+      "cover": "/neuro/neuro-7.webp",
+      "pages": 192,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "在Ｘ的邀請下，涅羅與彌子前往藝術家‧繪石家塔湖的豪宅。涅羅破解了兇手用巨大雕塑殺人的詭計，偽裝為繪石家成員的Ｘ，終於露出真面目！另一方面，彌子解讀出藏於「最後的自己」塑像裡作者的心思…",
+      "platform": {
+        "tongli": {
+          "id": "f03d158c-fa07-409b-d71e-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "kc_upz1SrzCb0cEbkRNYpQ",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12048,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137760000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125819",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861191997",
+      "cover": "/neuro/neuro-8.webp",
+      "pages": 202,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "吾代帶來的資料成了找謎的素材，涅羅與彌子開始調查連續<br>縱火案。涅羅在犯人之中查出被刻意構築的「謎」，在網咖<br>與一群縱火嫌疑犯對峙！隱藏在案中之某人的可怕意圖，到<br>底是什麼…!?",
+      "platform": {
+        "tongli": {
+          "id": "c3123996-d8f8-4313-d71f-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "Jliko4Ej-jWeE7UZI7qO_w",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12049,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137761000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125820",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861194622",
+      "cover": "/neuro/neuro-9.webp",
+      "pages": 192,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "釋放收視者的犯罪願望，「電人」ＨＡＬ操縱著恐怖的電子毒品。察覺到在那程式的複雜路線中，可能藏有極致之『謎』的涅羅，在電腦世界中追擊ＨＡＬ。此時，保護ＨＡＬ的程式，對涅羅展開攻擊…!?",
+      "platform": {
+        "tongli": {
+          "id": "8c25686f-d22d-4305-d720-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "DyZ3OLcKyDGNtv1B834kbg",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12050,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137762000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125821",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861198323",
+      "cover": "/neuro/neuro-10.webp",
+      "pages": 200,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "巧妙的計策使得涅羅上了當，連人帶車被推下谷底。<br>被接二連三來襲的強化軍隊追得無路可逃，涅羅如何<br>對付…!?另一方面，「電人」ＨＡＬ為了自衛，以及<br>想要達成目的，開始佔領核子航空母艦!!",
+      "platform": {
+        "tongli": {
+          "id": "f5753ab3-8aa1-48ec-d721-08d603222ae8",
+          "date": "2017-05-26"
+        },
+        "kobo": {
+          "id": "7MaL2ki10Ta84MdqT27Puw",
+          "date": "2017-05-25"
+        },
+        "bw": {
+          "id": 12051,
+          "date": "2017-05-26"
+        },
+        "readmoo": {
+          "id": "210137763000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125822",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861001128",
+      "cover": "/neuro/neuro-11.webp",
+      "pages": 202,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "終於被解開的密碼。彌子對ＨＡＬ開始道出的目的，產生了共鳴，而她選擇的答案是…。另一方面，涅羅為了添購新家具前往商家，感受到『謎』的氣息。他遇到令買家陸續死亡的邪門書桌…",
+      "platform": {
+        "tongli": {
+          "id": "05ed74a8-9a4c-4f22-d722-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "eBkIIDkE5DGP5H4ywVWO7A",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15508,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137764000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125823",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861005478",
+      "cover": "/neuro/neuro-12.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "彌子為了還債，四處籌錢。離開了陸續介紹危險工讀機會的早　兄弟後，她遇到某位人物…。另一方面，涅羅將事務所裝潢過重新開張，身上彌漫著新『謎』氣息的小女孩，出現在他面前!?",
+      "platform": {
+        "tongli": {
+          "id": "ea2b2695-90ff-4e1c-d723-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "5gDY7S4Obji6eXlJMDI90Q",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15509,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137765000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125824",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861008745",
+      "cover": "/neuro/neuro-13.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "為尋求瘴氣，涅羅與彌子進入發生毒氣的山區。涅羅全身沐浴在新鮮瘴氣中，心滿意足，卻察覺到新「謎」的氣息，因而返回村子…。但，那是怪盜Ｘ派出的刺客所安排的陷阱…!!",
+      "platform": {
+        "tongli": {
+          "id": "a1e39ad5-e74a-46ff-d724-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "02SKovJkwT-QKe7cVpL2iA",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15510,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137766000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125825",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861011660",
+      "cover": "/neuro/neuro-14.webp",
+      "pages": 186,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "涅羅解開了Ｘ留在事務所裡的卡片之『謎』，<br>前往他的藏身處。可是，Ｘ在那兒早已設下可<br>怕的陷阱！魔人涅羅與怪盜「Ｘ」的最後之戰<br>即將展開！激戰後又有什麼等待著他們…!?",
+      "platform": {
+        "tongli": {
+          "id": "5e88680d-9a5a-4989-d725-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "uqz5awTJtzONkSOMU-0I_g",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15511,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137767000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125826",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861015095",
+      "cover": "/neuro/neuro-15.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "彌子隱約感受到可怕惡勢力的存在，但在她的身邊也有很多愉快的事情！介紹諸多角色，長期不為人知的小故事。其中，警察陣營吹起一股人事大搬風，　塚與石垣組，終於也出現裂痕…!?",
+      "platform": {
+        "tongli": {
+          "id": "17bcb9b0-94c0-4997-d726-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "0upfLG6yVT2vxMlqcWm5_w",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15512,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137768000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125827",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861017259",
+      "cover": "/neuro/neuro-16.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "名人聚集的宣傳活動上，大樓的牆壁<br>突然出現用火焰畫成的巨大「６」字。<br>那是「絕對惡」寄來的戰帖。在滂沱大<br>雨中，自稱是「龍」的男子‧ＤＲ，出<br>現在涅羅的面前。魔人與新的血族之間<br>的戰鬥開始!!",
+      "platform": {
+        "tongli": {
+          "id": "ef0198dd-08ba-49c1-d727-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "ZJpevlROlD2MTtPSfBwvXA",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15513,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137769000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125828",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-03-02",
+          "width": 784,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861022673",
+      "cover": "/neuro/neuro-17.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "彌子特製的法式巧克力蛋糕裡，有涅羅的愛心！<br>誰是不幸拿到「加料」巧克力的犧牲者…!?數字<br>「６」再度熊熊燃燒…那是「新的血族」派出的<br>第二刺客所呈獻的恐怖慘劇第二幕開演的信號!!",
+      "platform": {
+        "tongli": {
+          "id": "defdd1c4-668a-47fd-d728-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "WHXmI_olQzSS6n-ww2LC5A",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15514,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137832000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125829",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861026923",
+      "cover": "/neuro/neuro-18.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "涅羅在與傣拉一戰中，消耗了大量的魔力。<br>涅羅　塚自曝身分，要人類去調查傣拉的人<br>類身家背景。另一方面，吾代遇到了以前總<br>是跟前跟後的小弟「阿千」，然而阿千正是<br>「ｓｉｃｋｓ」的第三名刺客！<br>",
+      "platform": {
+        "tongli": {
+          "id": "191583ce-a230-4523-d729-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "8PGMp7Mz4Tuzmle2YN_PZg",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15515,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137833000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125830",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861029764",
+      "cover": "/neuro/neuro-19.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "想變得更強──出現在追求力量的少年<br>面前的是…維賈亞不為人知的秘密，即<br>將明朗化…!!另一方面，彌子被迫陪涅<br>羅做復健，前往健身房，在那裡被規定<br>要完成不可能達成的目標…!?",
+      "platform": {
+        "tongli": {
+          "id": "f6374886-21b1-4a89-d72a-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "d-TG_lDltDeXAWVtkSQNvA",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15516,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137834000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125831",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861033549",
+      "cover": "/neuro/neuro-20.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "真紐茵變成了涅羅的奴隸。她口中「ｓｉｃｋｓ」<br>令人害怕的真實面貌是…!?另一方面，在　塚的邀約<br>下，涅羅和彌子去海邊釣魚。加上石垣和等等力，<br>獎品為「勝利者成為失敗者的主人」的釣魚對決開<br>始了…！",
+      "platform": {
+        "tongli": {
+          "id": "5b6ea2e9-f414-4794-d72b-08d603222ae8",
+          "date": "2017-08-22"
+        },
+        "kobo": {
+          "id": "zyeJZ-8xhDqUhxgfR62hJA",
+          "date": "2017-08-27"
+        },
+        "bw": {
+          "id": 15517,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210137835000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125832",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861037530",
+      "cover": "/neuro/neuro-21.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "世塚單挑當年殺害父母與妹妹的元兇「ｓｉｃｋｓ」！<br>他一一地解決「ｓｉｃｋｓ」的部下們，但被突然現身的石垣，從背後刺傷。然後，在趕來現場的彌子的面前…!?<br>一波又一波的打擊，向彌子襲來!!",
+      "platform": {
+        "tongli": {
+          "id": "ab38e8c4-6a8f-448f-d72c-08d603222ae8",
+          "date": "2017-09-27"
+        },
+        "kobo": {
+          "id": "3NcL5m8uij6nIE0-4eMcPw",
+          "date": "2017-09-24"
+        },
+        "bw": {
+          "id": 16740,
+          "date": "2017-09-24"
+        },
+        "readmoo": {
+          "id": "210137836000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125833",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861040875",
+      "cover": "/neuro/neuro-22.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "「ｓｉｃｋｓ」被列為全國性通緝犯。死去的本城留給彌子一道計算式，涅羅從中推理出「ｓｉｃｋｓ」隱密難尋的藏身處，並和彌子一同前往。涅羅對「ｓｉｃｋｓ」的最後一戰開打了！",
+      "platform": {
+        "tongli": {
+          "id": "22d26ead-10f6-4a60-d72d-08d603222ae8",
+          "date": "2017-09-27"
+        },
+        "kobo": {
+          "id": "e1HVxFB1aD2cXYd_RHtgQg",
+          "date": "2017-09-24"
+        },
+        "bw": {
+          "id": 16741,
+          "date": "2017-09-24"
+        },
+        "readmoo": {
+          "id": "210137837000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125834",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789861043159",
+      "cover": "/neuro/neuro-23.webp",
+      "pages": 194,
+      "authors": [
+        "松井優征"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)希望人類滅亡的「ｓｉｃｋｓ」，與把人類當成生產『謎』的工具，試圖保護人類之生存的涅羅…在無路可逃的空中，幽靈轟炸機內兩人之戰的結果會是如何!?衝擊與感動的最後一集!!卷末收錄短篇作品。",
+      "platform": {
+        "tongli": {
+          "id": "f3a91070-90ac-440d-d72e-08d603222ae8",
+          "date": "2017-09-27"
+        },
+        "kobo": {
+          "id": "1Oh4KJ1cKDWhMpxDk3zFTA",
+          "date": "2017-09-24"
+        },
+        "bw": {
+          "id": 16742,
+          "date": "2017-09-24"
+        },
+        "readmoo": {
+          "id": "210137838000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125835",
+          "date": "2022-03-25",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 784,
+          "height": 1200
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "patlabor",
+    "series": {
+      "tongli": "7c041f2c-6a96-e811-a947-00155d020a17",
+      "kobo": "patlabor",
+      "readmoo": 2559,
+      "bw": 8146
+    },
+    "title": "機動警察PATLABOR",
+    "originalTitle": "",
+    "authors": [
+      "結城正美"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "熱血",
+      "戰鬥",
+      "職業",
+      "科幻",
+      "動畫化",
+      "真人化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861001524",
+      "cover": "/patlabor/patlabor-1.webp",
+      "pages": 186,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "新型步行機械98式AV，通稱「英格蘭姆」真的是帥到令人受不了。以前的步行<br>機械根本就比不上。如果讓它受傷了，我可是不會原諒你們的！這是警用步行機<br>械隊的新隊員‧泉野明所說的喔！",
+      "platform": {
+        "tongli": {
+          "id": "0073b066-55ed-4882-5563-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-1",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47683,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145283000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2015-12-28",
+          "width": 778,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861001531",
+      "cover": "/patlabor/patlabor-2.webp",
+      "pages": 188,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "特車隊的「英格蘭姆」對上軍事用步行機械．Type7「布洛肯」！為什麼這種步<br>行機械會出現在日本？這個問題到時候再說！第2小隊就是要跟敵人戰鬥！看<br>來這次的敵人不好對付？",
+      "platform": {
+        "tongli": {
+          "id": "9552a6b7-5504-4a36-5564-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-2",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47684,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145285000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861001548",
+      "cover": "/patlabor/patlabor-3.webp",
+      "pages": 182,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "野明與遊馬不知不覺的遇到壞人．內海。再加上天才少年巴德出現的關係，讓夏夫特的陰謀更順利的進行下去。最後一架布洛肯，現在就出現在港灣地區。特車2課緊急出動！",
+      "platform": {
+        "tongli": {
+          "id": "6c8dc9f2-892d-4508-5565-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-3",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47685,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145287000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861001555",
+      "cover": "/patlabor/patlabor-4.webp",
+      "pages": 184,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "TypeJ9「翼獅」駕到！夏夫特的祕密武器出現了！它用壓倒性的力量來攻擊特車2課。目標當然就是98式AV「英格蘭姆」！野明有機會獲勝嗎？這次的對手有點難以對付啊！",
+      "platform": {
+        "tongli": {
+          "id": "98c2beca-cf00-4a60-5566-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-4",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47686,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145289000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861006017",
+      "cover": "/patlabor/patlabor-5.webp",
+      "pages": 192,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "英格蘭姆ＶＳ翼獅，最強的步行機械在東京港爆發衝突！而且不知道為什麼，連Ｓ．Ｓ．Ｓ（夏夫特保全系統）的秋麥拉也闖入戰鬥，讓事情變得更加混亂！背負著大家期待的野明…因為不動手就會被打敗，因此懷著必死的決心展開攻擊！",
+      "platform": {
+        "tongli": {
+          "id": "e72e00fa-4628-45ea-5567-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-5",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47687,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145291000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861006024",
+      "cover": "/patlabor/patlabor-6.webp",
+      "pages": 192,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "最強的兩架步行機械在灣岸地帶爆發衝突！英格蘭姆與翼獅…野明與巴德…步行機械犯罪史上罕見的死戰終於分出勝負！野明盡了全力，巴德再次以飛上空中的方式逃走…最後到底是由誰獲勝？",
+      "platform": {
+        "tongli": {
+          "id": "5907fc26-85a4-474e-5568-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-6",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47688,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145293000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861006031",
+      "cover": "/patlabor/patlabor-7.webp",
+      "pages": 192,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "強悍的步行機械．翼獅在野明與英格蘭姆的奮鬥之下沈入東京灣。正好美國的運輸機也墜毀在同一的地方。但這一起事故卻變成了另一起可怕事件的開端。為了面對潛伏在海底的「某個」異常物體，特車２課出動了！",
+      "platform": {
+        "tongli": {
+          "id": "03e6e849-849a-4224-5569-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-7",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47689,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145295000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861006048",
+      "cover": "/patlabor/patlabor-8.webp",
+      "pages": 188,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "東京灣躲了一個會吃人的怪物。怪物「13號」的存在，終於被世間知道了。面對已經來到了眼前，而且還即將登陸的怪物，特車２課接到來自上級的出動命令。因為他們是唯一的目擊者，也是最強的部隊！",
+      "platform": {
+        "tongli": {
+          "id": "02458e6e-8ca2-493e-556a-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-8",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47690,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145297000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861006055",
+      "cover": "/patlabor/patlabor-9.webp",
+      "pages": 188,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "「目標依然沒有動靜…」怪物「13號」躲過第２小隊拚命的攻擊，最後躲在東京港內的海底。因為長時間對峙的關係，第２小隊漸漸感到疲勞。但這時候黑色的影子．翼獅開始行動，並且劃破了寂靜！",
+      "platform": {
+        "tongli": {
+          "id": "4d94b8a9-af5e-4944-556b-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-9",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47691,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145299000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861006062",
+      "cover": "/patlabor/patlabor-10.webp",
+      "pages": 190,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "讓人們深陷恐怖之中的「13號」，在被野明開槍擊中之後，便消失在海中。特車２課因為連續不眠不休的工作，而顯得非常疲勞。隊員們終於有機會休假了。一直在努力工作的７名隊員所展現出來的青春真面目到底是什麼樣子？",
+      "platform": {
+        "tongli": {
+          "id": "66070a5f-8ebc-4916-556c-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-10",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47692,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145301000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861018690",
+      "cover": "/patlabor/patlabor-11.webp",
+      "pages": 188,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "大受歡迎的警匪片連續劇要使用步行機械進行拍攝工作。身為正牌警察的第２小隊被請去負責監督拍攝工作的安全。因為能夠親眼看到明星，讓野明等人顯得有點興奮。但不知道是過失還是陷阱…真正的「案件」居然就發生在特車隊的眼前！",
+      "platform": {
+        "tongli": {
+          "id": "a988faf1-5f79-449a-556d-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-11",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47693,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145303000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861018706",
+      "cover": "/patlabor/patlabor-12.webp",
+      "pages": 182,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "「只要人世間存在著紛爭，我們就會努力」。野明與特車２課第２小隊的成員心中充滿幹勁。但是比英格蘭姆還要厲害的「那傢伙」回來了…黑色步行機械．翼獅與幕後黑手．內海的影子再次逼近？",
+      "platform": {
+        "tongli": {
+          "id": "32fa60e2-4401-4036-556e-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-12",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47694,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145305000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861018713",
+      "cover": "/patlabor/patlabor-13.webp",
+      "pages": 188,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "本來應該是正義象徵的英格蘭姆，被懷疑在投標的過程中進行黑箱作業？而且英格蘭姆是特車２課隊員．篠原遊馬父親的公司．篠原重工所製造的。這篇報導讓特車２課的牽絆蒙上一層陰影。遊馬到底該怎麼辦？他的搭檔野明又會怎麼樣呢？",
+      "platform": {
+        "tongli": {
+          "id": "eb0ef036-b5cb-4326-556f-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-13",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47695,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145307000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861018720",
+      "cover": "/patlabor/patlabor-14.webp",
+      "pages": 190,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "有持槍暴徒闖入目前被懷疑以不正當的手段，讓警方採用英格蘭姆的篠原重工。黑色惡魔．翼獅就像是抓住這個好機會般的撕裂黑暗從濃霧之中現身。現在特車２課第２小隊已經進入使用全裝備的甲一種勤務狀態！",
+      "platform": {
+        "tongli": {
+          "id": "7d991ded-6677-47bf-5570-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-14",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47696,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145309000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861018737",
+      "cover": "/patlabor/patlabor-15.webp",
+      "pages": 186,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "雖然擺出準備萬全的甲一種勤務狀態，但特車２課還是讓死對頭．翼獅成功脫逃。雖然每個人都受到同樣的傷害，但心中還是存在著芥蒂…遊馬、野明還有太田，現在就要趕快讓第２小隊恢復以前那種開朗的氣氛！",
+      "platform": {
+        "tongli": {
+          "id": "b466c2bb-fee3-4394-5571-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-15",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47668,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145320000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861018744",
+      "cover": "/patlabor/patlabor-16.webp",
+      "pages": 182,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了把黑色惡魔．翼獅與幕後黑手．內海逼出來，第２小隊的後藤隊長開始展開情報作戰。但是夏夫特企業的企劃７課課長．內海真正的目的到底是什麼？內海不為人知的真面目又是什麼？",
+      "platform": {
+        "tongli": {
+          "id": "aab085ae-cad5-44da-5572-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-16",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47669,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145322000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861018751",
+      "cover": "/patlabor/patlabor-17.webp",
+      "pages": 182,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "幕後黑手．內海決定與自己的公司．夏夫特企業展開全面對決。綽號阿武姊的熊耳巡查部長是唯一知道內海之過去的人物。她跟內海之間到底發生過什麼事情…驚人的全新事實將被揭開…!?",
+      "platform": {
+        "tongli": {
+          "id": "cd9107e6-6af9-41fe-5573-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-17",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47670,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145324000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861018768",
+      "cover": "/patlabor/patlabor-18.webp",
+      "pages": 184,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "內海與少年．巴德掌握著關於人口販賣組織「調色盤」的關鍵證據。野明為了尋找證據而拚命行動。遊馬則是擔心野明。年輕人們相信自己所走的路，並且挑戰醜惡又扭曲的世界!!",
+      "platform": {
+        "tongli": {
+          "id": "47ad7203-f65b-4158-5574-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-18",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47671,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145326000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861018775",
+      "cover": "/patlabor/patlabor-19.webp",
+      "pages": 184,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "野明想要尋找並且拯救的少年．巴德，現在就出現在她的眼前…而內海也想出「回收」巴德的卑劣手段。以前曾經相愛過的內海＝王理查與熊耳，超越了時<br>空，在不同的地點重逢了!!",
+      "platform": {
+        "tongli": {
+          "id": "4ec055ca-5137-4fee-5575-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-19",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47672,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145328000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861018782",
+      "cover": "/patlabor/patlabor-20.webp",
+      "pages": 190,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "翼獅的駕駛員．巴德受到特車２課的保護。熊耳留下辭呈去見內海＝王理查。野明與後藤隊長的內心受到動搖…就在颱風來襲的時候，內海終於展開行動了!!",
+      "platform": {
+        "tongli": {
+          "id": "92674acc-4124-4317-5576-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-20",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47673,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145330000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861018799",
+      "cover": "/patlabor/patlabor-21.webp",
+      "pages": 190,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了奪回巴德，內海在大雨之中控制了特車２課<br>辦公大樓。在這孤立無援的狀況中，唯一的希望<br>就是正好外出的野明與遊馬。現在，兩人正乘上<br>篠原重工的新武器．ＡＶＲ－０，展開捨身的反<br>擊！",
+      "platform": {
+        "tongli": {
+          "id": "f8afaf50-3fcc-4d0c-5577-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-21",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47674,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145332000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861018805",
+      "cover": "/patlabor/patlabor-22.webp",
+      "pages": 190,
+      "authors": [
+        "結城正美"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)野明揮出憤怒的一擊。死對頭．翼獅倒在英格蘭姆面前。但是，幕後黑手．內海與被抓去當人質的熊耳的命運到底是…為了邁向感人的結局，特車２課<br>再次動起來。加油啊，警用步行機械!!",
+      "platform": {
+        "tongli": {
+          "id": "af2979b0-a6a7-4fcf-5578-08d601bfd2d1",
+          "date": "2018-04-26"
+        },
+        "kobo": {
+          "id": "patlabor-22",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 47675,
+          "date": "2018-08-23"
+        },
+        "readmoo": {
+          "id": "210145334000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 778,
+          "height": 1200
+        }
+      }
+    }
+  ]
+}

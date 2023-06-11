@@ -1,0 +1,323 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "black-night-parade",
+    "series": {
+      "tongli": "b62e132c-6a96-e811-a947-00155d020a17",
+      "kobo": "dcx3AHdJx1qXP_IsJd-j0w",
+      "readmoo": 7822,
+      "bw": 14775,
+      "books": "A00000031128"
+    },
+    "title": "黑夜遊行",
+    "originalTitle": "",
+    "authors": [
+      "中村光"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "搞笑",
+      "青春",
+      "奇幻"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864867929",
+      "cover": "/black-night-parade/black-night-parade-1.webp",
+      "pages": 196,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "大學落榜後想求職卻找不到工作，只能先蹲在便利商店的日野三春，轉眼間就在便利商店打工三年了。這一年的聖誕夜他一樣只能在店裡打工，卻因為被店長誤會，一時鬼迷心竅偷了店裡的報廢品──想不到卻因此被黑衣聖誕老人帶走了！「壞孩子必須為了乖孩子與聖誕老人工作！」就這麼他被迫加入神奇的聖誕老人公司！究竟這是一場就職的美夢，還是一場惡夢？",
+      "platform": {
+        "tongli": {
+          "id": "db20459e-4a30-4e47-7ad7-08d890f7411d",
+          "date": "2020-12-01"
+        },
+        "kobo": {
+          "id": "XgM7Xvp8FTmdlyfHrZ7_gA",
+          "date": "2020-12-23"
+        },
+        "bw": {
+          "id": 104695,
+          "date": "2020-12-24"
+        },
+        "readmoo": {
+          "id": "210178161000101",
+          "date": "2021-04-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050106737",
+          "date": "2021-09-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-18",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864867936",
+      "cover": "/black-night-parade/black-night-parade-2.webp",
+      "pages": 196,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "大學落榜又找不到工作的濫好人便利商店店員‧日野三春，在某年的聖誕夜裡，被突然現身的黑衣聖誕老人‧可涅希特，強行帶到北極的黑衣聖誕老人公司並且強制就業！這份工作實領30萬還附三餐＆宿舍，更有快樂的同事與詭異的上司相伴。然而打工時代的天敵，卻突然出現在不甘不願地做著奇妙工作的三春面前……？\r\n三春，試煉與進化的第２集！",
+      "platform": {
+        "tongli": {
+          "id": "223d4027-acc1-45e9-7ad8-08d890f7411d",
+          "date": "2020-12-01"
+        },
+        "kobo": {
+          "id": "_zEbTSWwwTKez2KPo_Obpg",
+          "date": "2020-12-23"
+        },
+        "bw": {
+          "id": 104696,
+          "date": "2020-12-24"
+        },
+        "readmoo": {
+          "id": "210178162000101",
+          "date": "2021-04-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050106677",
+          "date": "2021-09-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-24",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572616451",
+      "cover": "/black-night-parade/black-night-parade-3.webp",
+      "pages": 226,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "平凡的便利商店店員‧日野三春，在某年的聖誕夜裡，被沒有臉的黑衣聖誕老人‧可涅希特，強迫到黑衣聖誕老人公司就業！習慣工作後，正意氣風發地想要挑戰能賺大錢的北極夢「馴鹿適性測驗」的三春，卻突然懷疑起自己的父親是不是前一任紅衣聖誕老人。不只如此，他也看到不可能出現在這裡的白目後輩‧皇帝的身影，讓他陷入混亂！被重重謎團包覆的極北樂園，衝擊與驚愕的第3集！",
+      "platform": {
+        "tongli": {
+          "id": "122034ec-3fca-41fe-3c9b-08d8abda19c7",
+          "date": "2021-01-06"
+        },
+        "kobo": {
+          "id": "-7FKOvb0yTCUhlqFVh2khQ",
+          "date": "2021-01-20"
+        },
+        "bw": {
+          "id": 106688,
+          "date": "2021-01-21"
+        },
+        "readmoo": {
+          "id": "210178163000101",
+          "date": "2021-04-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050106678",
+          "date": "2021-09-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-28",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572648605",
+      "cover": "/black-night-parade/black-night-parade-4.webp",
+      "pages": 184,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "馴鹿測驗也結束了，相當黑的聖誕老人公司也迎來寒假！眾所期待的紅衣聖誕老人候補生‧日野三春也回到老家，準備來段短暫的休息，卻在收到可涅希特送來的驚人禮物後，故事一口氣加速！新馴鹿人選終於底定，獲選者得到的是可以隨時發動的數種異能；此外人氣職業摔角明星班傑明也將建立起危險關係……！有謎、有笑、有藝能神聖奇幻喜劇‧第４集！",
+      "platform": {
+        "tongli": {
+          "id": "540e9bab-dee4-45c5-3c9c-08d8abda19c7",
+          "date": "2021-01-06"
+        },
+        "kobo": {
+          "id": "XSR2wHZmyzyByog0Ot2gng",
+          "date": "2021-01-20"
+        },
+        "bw": {
+          "id": 106689,
+          "date": "2021-01-21"
+        },
+        "readmoo": {
+          "id": "210178164000101",
+          "date": "2021-04-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050106679",
+          "date": "2021-09-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572654705",
+      "cover": "/black-night-parade/black-night-parade-5.webp",
+      "pages": 172,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "在三春的母親‧春子參觀完公司後，魯道夫現身準備送她回家。此時鐵平出現，並突然對魯道夫發動了敵對行動，並用能將中箭者變成自己人的邱比特之箭射穿春子！懷疑魯道夫是三春父親的鐵平，行兇的真正用意是？魯道夫的真面目終於曝光，巨大老鼠也參戰，戰場變成一團亂……各自的想法與意志爆發，讓故事進入意料外情節發展的緊張聖誕節奇幻故事，第5集！",
+      "platform": {
+        "tongli": {
+          "id": "8f5e3a7e-4b5f-41ef-06e6-08d93a09f664",
+          "date": "2021-07-05"
+        },
+        "kobo": {
+          "id": "f5091g3PvjO0zW5wMQuPFw",
+          "date": "2021-08-04"
+        },
+        "bw": {
+          "id": 120563,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190287000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050106680",
+          "date": "2021-09-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-06-30",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "",
+      "cover": "/black-night-parade/black-night-parade-6.webp",
+      "pages": 170,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "突然出現的聖誕老人之家創設者之一，機械技師卓賽爾麥亞，在可涅希特面前強行擄走三春。被帶到不斷重複上演該年12月24日的空間「平安夜（SILENT NIGHT）」後，三春即將在那邊體驗到超乎想像的世界……！可涅希特挖角三春進入聖誕老人之家的驚人真相也即將曝光，終於越來越接近故事核心，壯闊的黑色聖誕節故事，第6集！",
+      "platform": {
+        "tongli": {
+          "id": "5e05420a-34de-483c-fd94-08db61763308",
+          "date": "2023-06-09"
+        },
+        "kobo": {
+          "id": "",
+          "date": ""
+        },
+        "bw": {
+          "id": "",
+          "date": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        }
+      }
+    }
+  ]
+}

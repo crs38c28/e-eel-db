@@ -1,0 +1,1481 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "world-trigger",
+    "series": {
+      "tongli": "c22c132c-6a96-e811-a947-00155d020a17",
+      "kobo": "OuSRb4L9O1OCEE93YoiJ9g",
+      "readmoo": 2597,
+      "bw": 8481,
+      "books": "A00000043766",
+      "pubu": {
+        "store": 4538213,
+        "id": "境界觸發者"
+      }
+    },
+    "collection": {
+      "readmoo": [
+        210262694000101
+      ]
+    },
+    "title": "境界觸發者",
+    "originalTitle": "",
+    "authors": [
+      "葦原大介"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "熱血",
+      "戰鬥",
+      "動畫化",
+      "冒險",
+      "友情",
+      "科幻",
+      "特殊能力"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789863480358",
+      "cover": "/world-trigger/world-trigger-1.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "有一天，三門市內出現了「門」，無數來自異次元的侵略者「近界民」，穿過這些門，襲擊這個城市的人們。此時，一群自稱「BORDER」的人們出現，擊退近界民，並在這裡建立了基地守護和平。４年過去了，不起眼的中學生‧三雲修，阻止不良少年欺負轉學生遊真，卻因此被捲入了近界民的襲擊當中。千鈞一髮之際，遊真卻展現了驚人的實力。究竟遊真的真實身分是什麼……？",
+      "platform": {
+        "tongli": {
+          "id": "09b5a525-d5ca-4f6e-a123-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "V-6geGKjeTmIYmj78Rb0gw",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51158,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149820000101",
+          "date": "2020-06-25",
+          "version": "2.000"
+        },
+        "books": {
+          "id": "E050111551",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343186,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-09",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789863480365",
+      "cover": "/world-trigger/world-trigger-2.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "近界民突然出現在警戒區域外。Ａ級隊員木虎上前應戰，卻因為頭一次碰到這種敵人，陷入苦戰。遊真答應修的請求去幫她，想不到……？而被召喚到BORDER總部的修，又將認識一位「Ｓ級」BORDER隊員──？",
+      "platform": {
+        "tongli": {
+          "id": "0458c3b9-2db5-4ffe-a124-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "ivJlhwI_HjGdSWbuFbffbw",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51159,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149821000101",
+          "date": "2020-06-25",
+          "version": "2.000"
+        },
+        "books": {
+          "id": "E050111552",
+          "date": "2021-10-31",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343187,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789863480372",
+      "cover": "/world-trigger/world-trigger-3.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BORDER組織的最高司令官‧城戶這次下達的，竟是捕獲遊真的命令！接獲命令的迅找上遊真，結果將會如何？遊真來到人介的真正目的，以及他不為人所知的過去也即將揭曉──！",
+      "platform": {
+        "tongli": {
+          "id": "63fbd5f9-b38f-4754-a125-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "SEFgUe3nlTqQ5uij82wTSg",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51160,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149822000101",
+          "date": "2020-06-25",
+          "version": "2.000"
+        },
+        "books": {
+          "id": "E050111553",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343188,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 120
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-09",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789863484622",
+      "cover": "/world-trigger/world-trigger-4.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在修與遊真進行特訓中，總部的最精銳部隊奉命奪取黑觸發，因此來到玉狛分部。迅與嵐山隊挺身而出，準備阻止他們！Ａ級隊員即將爆發超水準的戰鬥，究竟勝負將會如何……？",
+      "platform": {
+        "tongli": {
+          "id": "887336e2-200f-4739-a126-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "Fd31mqAuoDqtNgLpwvbe6A",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51161,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149823000101",
+          "date": "2020-06-25",
+          "version": "2.000"
+        },
+        "books": {
+          "id": "E050111554",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343189,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 138
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-09",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789863488699",
+      "cover": "/world-trigger/world-trigger-5.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "Ａ級排名第３部隊的隊長‧風間找上修挑戰。在模擬戰中，對手展現出壓倒性的實力差距，修能否還以顏色!?另一方面，遊真與千佳也分別都在新進隊員中展現出截然不同的實力，而開始受到BORDER內部的關注…!?",
+      "platform": {
+        "tongli": {
+          "id": "6ffe9d60-caa7-4c3b-a127-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "L5xQ0u0rTjeBZl6SmyFnzQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51162,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149824000101",
+          "date": "2020-06-25",
+          "version": "2.000"
+        },
+        "books": {
+          "id": "E050111555",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343190,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-09",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789863652137",
+      "cover": "/world-trigger/world-trigger-6.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "門開了，終於，近界民的大規模侵略正式開始！修以及Ｂ級以上的BORDER隊員們都出動，掃蕩市區的近界民。隊員們接二連三地打倒三離子兵，然而隨即又出現了沒見過的新型三離子兵……？",
+      "platform": {
+        "tongli": {
+          "id": "0f4dd6ca-c99e-4b5e-a128-08d67c2d39cc",
+          "date": "2018-10-22"
+        },
+        "kobo": {
+          "id": "s6k8qYBXEDykd1NRVggAsg",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51163,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149825000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111556",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343191,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 140
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-05",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789863658917",
+      "cover": "/world-trigger/world-trigger-7.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BORDER最強的部隊‧玉狛第１出動了！輕鬆撂倒強敵‧新型三離子兵，讓戰況一舉轉為有利。然而安心卻只有片刻，又有新的門開啟，「有角」的人型近界民發動突襲？真正的戰鬥現在才要開始！",
+      "platform": {
+        "tongli": {
+          "id": "fa4eb845-4d9e-4426-a129-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "pvJEOWooljCnJUwDAFdKsA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51164,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149826000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111557",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343192,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 142
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863820871",
+      "cover": "/world-trigger/world-trigger-8.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "遭受擁有黑觸發的人型近界民‧艾涅德拉的襲擊，BORDER總部基地陷入混亂。此時，朝著基地前進的修一行人，也被覬覦千佳的人型近界民猛攻，陷入窘境。遊真與迅究竟趕不趕得上!?",
+      "platform": {
+        "tongli": {
+          "id": "528e8d37-efd1-4b44-a12a-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "qYeGEQmaHDSun_qxuZjtZQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51165,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149827000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111558",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343193,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863826811",
+      "cover": "/world-trigger/world-trigger-9.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "阿夫特克拉托爾的近界民‧艾涅德拉持續在BORDER基地大鬧。面對這個擁有強大黑觸發的對手，普通觸發最強的男人‧總部長忍田挺身應戰！另一方面，修正抱著被變成方塊的千佳往基地跑，他將會如何？",
+      "platform": {
+        "tongli": {
+          "id": "83279f01-d079-4fe3-a12b-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "pThOAFwpKTyBquTn6yLgVg",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51166,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149828000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111559",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343194,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789864310944",
+      "cover": "/world-trigger/world-trigger-10.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一邊保護著被變成方塊的千佳，修好不容易終於抵達基地前方。就差一步路時，遭到海連與蜜拉的襲擊！為了援護修，遊真與其他同伴們也不懈的奮鬥？大規模侵略篇終於到了尾聲！",
+      "platform": {
+        "tongli": {
+          "id": "07fef9e6-48b3-4cc9-a12c-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "eY0taB0hGT6Qg0cL7XLo6A",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51167,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149829000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111560",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343195,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 133
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789864316762",
+      "cover": "/world-trigger/world-trigger-11.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "修的隊伍為了成為Ａ級隊員也參與了Ｂ級排名戰。與Ｂ級中位群的長距離戰型‧荒船隊與接近戰型‧諏訪隊的三方混戰漸趨白熱化！修率領的玉狛第２努力設定作戰計畫以破解敵隊的戰術，究竟成果將會如何……？",
+      "platform": {
+        "tongli": {
+          "id": "483bc69a-5bcb-4df7-a12d-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "Fho4tsGY5D6TI-RAT8rk-w",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51168,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149830000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111561",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343196,
+          "date": "2023-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 141
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789864621941",
+      "cover": "/world-trigger/world-trigger-12.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "Ｂ級排名戰第３戰持續陷入混戰狀態！西岸有遊真、村上、熊谷三名攻擊手爆發大戰，那須隊的狙擊手日浦則成為瓦解均衡的關鍵……？另一方面，東岸則以那須為中心，上演越來越激烈的射擊戰！白熱化的一戰，結果將會如何？",
+      "platform": {
+        "tongli": {
+          "id": "4b450001-1bdd-40ee-a12e-08d67c2d39cc",
+          "date": "2018-10-23"
+        },
+        "kobo": {
+          "id": "E9dEUD0amziHru6owislkA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51169,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149831000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111562",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343197,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 141
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-15",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789864627752",
+      "cover": "/world-trigger/world-trigger-13.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "身為隊長，也想成為一份戰力──在與Ｂ級上位部隊進行第４場排名戰之前，修開始摸索自己的成長路徑。經歷與Ａ級隊員一起特訓，他能否覺醒？與Ｂ級兩大龍頭二宮隊與影浦隊的對戰，玉狛第２的實力將受到考驗！",
+      "platform": {
+        "tongli": {
+          "id": "4e6b53c0-c54b-4089-a12f-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "eJis7pv98TeJOLEHCe7q7w",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51170,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149832000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111563",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343198,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 133
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789863650584",
+      "cover": "/world-trigger/world-trigger-14.webp",
+      "pages": 190,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "修邀請迅加入玉狛第２！大膽的行動，背後藏著他的用心！另一方面，BORDER總部則召開了只有上級部隊隊長們參與的緊急防衛對策會議！在大規模侵略造成的傷痕尚未抹去之時，來自近界的新威脅又是什麼？",
+      "platform": {
+        "tongli": {
+          "id": "34681616-80a8-4f8c-a130-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "wRc210IBcD-AvQFQ5ONG-A",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51171,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149833000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111564",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343199,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789864705344",
+      "cover": "/world-trigger/world-trigger-15.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "來自近界的新一波侵略者‧嘉洛普拉！為了保護／破壞BORDER的遠征挺，BORDER的精銳部隊與嘉洛普拉爆發攻防戰！BORDER總部基地內外爆發一波接著一波的激鬥，但能決定戰局的不確定要素將是──？",
+      "platform": {
+        "tongli": {
+          "id": "96889573-54b7-402c-a131-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "CIWmpSrMkz6CZgqs5X2wDA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51172,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149834000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111565",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343200,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 150
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789864820016",
+      "cover": "/world-trigger/world-trigger-16.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "與嘉洛普拉的大戰進入尾聲，玉狛分部的俘虜修斯卻與嘉洛普拉的雷基恩帝茲隊至，此時陽太郎也來湊熱鬧了。面對一心只想回國的修斯，雷基恩帝茲究竟會開車什麼條件？另一方面在排名戰中，玉狛第２推出新戰術！",
+      "platform": {
+        "tongli": {
+          "id": "80dc9056-1bb1-4242-a132-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "KBcB6dXecz6E-oA45Eh0OA",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51173,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149835000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111566",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343201,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 140
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789864824915",
+      "cover": "/world-trigger/world-trigger-17.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "排名戰第５戰也接近尾聲，遊真因柿崎的反擊身受重傷。玉狛第２還有沒有勝算？而香取隊的葉子與華的過去終於揭曉！緊接著，去跟BORDER高層進言讓修斯入隊後，修又將面臨新的問題？",
+      "platform": {
+        "tongli": {
+          "id": "c0050c6a-32f7-4911-a133-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "ULpyIREP4T69-m6Rbqa7EQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51174,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149836000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111567",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343202,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 132
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789864860708",
+      "cover": "/world-trigger/world-trigger-18.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "所有部隊傳送完畢後，排名戰第６戰終於開打！一開始，王子隊鎖定修，使出計策。對此，玉?第二的戰略將是…!?同時，生駒隊的生駒那破壞力超群的旋空弧月也大顯神威…。在大亂鬥中，能生存下來的將是!?",
+      "platform": {
+        "tongli": {
+          "id": "fa70f45a-1826-4798-a134-08d67c2d39cc",
+          "date": "2018-10-24"
+        },
+        "kobo": {
+          "id": "6z44u9SlVzuI_I7gk7UURQ",
+          "date": "2018-11-07"
+        },
+        "bw": {
+          "id": 51175,
+          "date": "2018-11-08"
+        },
+        "readmoo": {
+          "id": "210149837000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111568",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343203,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 142
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-17",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789572623534",
+      "cover": "/world-trigger/world-trigger-19.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "玉狛的兩個元老回來了，兩人將對修帶來什麼影響？而住進分部的修，找到了一張舊照片，當中的人竟然是……排名戰第７戰將近，隊員各自的想法交錯！",
+      "platform": {
+        "tongli": {
+          "id": "a1741d11-9c06-4063-fbcb-08d6d4e4c57f",
+          "date": "2019-05-16"
+        },
+        "kobo": {
+          "id": "XyPbFNT6fjibZRvhFj_L2w",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65272,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210149838000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111569",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343204,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789572636640",
+      "cover": "/world-trigger/world-trigger-20.webp",
+      "pages": 210,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "遊真與修斯封鎖了鈴鳴第一的環境戰術，並加入了影浦隊與鈴鳴的戰鬥。終於，玉狛第2的壓箱王牌‧修斯要發揮真本事了！然而不知為什麼，他卻沒有用殺手鐧變化彈……排名戰第7戰的結果將會如何？",
+      "platform": {
+        "tongli": {
+          "id": "81501cce-730c-4b6b-0b03-08d7d4731ef7",
+          "date": "2020-04-06"
+        },
+        "kobo": {
+          "id": "ghFbVniLiDG8H9xnHEoRJg",
+          "date": "2020-05-06"
+        },
+        "bw": {
+          "id": 87758,
+          "date": "2020-05-07"
+        },
+        "readmoo": {
+          "id": "210149839000101",
+          "date": "2020-06-25",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050111570",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343205,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 170
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-01",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789572646595",
+      "cover": "/world-trigger/world-trigger-21.webp",
+      "pages": 192,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "當B級排名戰最終戰近在眼前時，修斯一句「妳可以開槍射人」的話，讓千佳內心劇烈動搖。另一方面，為了對付弓場隊，修與遊真透過綠川見到某個人物……？玉狛第２準備採用的戰術將是？",
+      "platform": {
+        "tongli": {
+          "id": "e8c1deac-03fd-4276-5584-08d852d4d309",
+          "date": "2020-10-05"
+        },
+        "kobo": {
+          "id": "HvCgOWng8j6ndZNntWQ8Ng",
+          "date": "2020-11-04"
+        },
+        "bw": {
+          "id": 100981,
+          "date": "2020-11-05"
+        },
+        "readmoo": {
+          "id": "210160803000101",
+          "date": "2020-11-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050111571",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343206,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 97
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789572654651",
+      "cover": "/world-trigger/world-trigger-22.webp",
+      "pages": 208,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "排名戰ROUND8，修斯在眾多強敵包圍下，受了重傷。勝負關鍵就在於千佳能否開槍打人，以及對二宮的戰略能否奏效。關係到玉狛第２能否參加近界遠征的B級排名戰上位最終戰，終於分出勝負！",
+      "platform": {
+        "tongli": {
+          "id": "224ef2c7-0355-4a5b-6f8b-08d8966ad9f7",
+          "date": "2020-12-04"
+        },
+        "kobo": {
+          "id": "YmHDGNGcXj6G_Qa65Qcvig",
+          "date": "2020-12-23"
+        },
+        "bw": {
+          "id": 104716,
+          "date": "2020-12-24"
+        },
+        "readmoo": {
+          "id": "210171360000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050111572",
+          "date": "2021-10-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343207,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 181
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-01",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789572665732",
+      "cover": "/world-trigger/world-trigger-23.webp",
+      "pages": 208,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "玉狛第2拿下了排名戰的第8戰，得到參加遠征選拔測驗的門票！然後B級中位的最終戰，則由香取隊、諏訪隊與那須隊，賭上自己的未來展開廝殺！另一方面，BORDER內部也正積極地動起來準備遠征……",
+      "platform": {
+        "tongli": {
+          "id": "351c695c-40a5-4334-c690-08da4d06a5c9",
+          "date": "2022-07-11"
+        },
+        "kobo": {
+          "id": "vHpTJgA5UjKUo7p6rrFzIQ",
+          "date": "2022-08-04"
+        },
+        "bw": {
+          "id": 144869,
+          "date": "2022-08-04"
+        },
+        "readmoo": {
+          "id": "210240573000101",
+          "date": "2022-08-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050138974",
+          "date": "2022-08-04",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343208,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 175
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-06-30",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789572683927",
+      "cover": "/world-trigger/world-trigger-24.webp",
+      "pages": 202,
+      "authors": [
+        "葦原大介"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "遠征選拔測驗終於要開始了！由於測驗是部隊打散重組進行的，玉狛第2的成員們也因此遭到拆散……不過修與大家立誓要所有人一起參加遠征，也準備在各自所屬的臨時部隊挑戰為期1週的封閉環境測驗……！",
+      "platform": {
+        "tongli": {
+          "id": "1e3b3743-5ea5-4199-28bb-08dadca548d6",
+          "date": "2023-01-23"
+        },
+        "kobo": {
+          "id": "zce5Bq1eCzeTHas5v9n2hA",
+          "date": "2023-02-16"
+        },
+        "bw": {
+          "id": 157046,
+          "date": "2023-02-16"
+        },
+        "readmoo": {
+          "id": "210262694000101",
+          "date": "2023-02-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153287",
+          "date": "2023-02-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343209,
+          "date": "2023-03-12",
+          "type": [
+            "epub"
+          ],
+          "size": 144
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-12-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

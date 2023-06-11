@@ -1,0 +1,130 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "genso-ginekokurashi",
+    "series": {
+      "tongli": "ff26132c-6a96-e811-a947-00155d020a17",
+      "kobo": "ODaXRyXkTl2-B4GOoz2HDg",
+      "readmoo": 5942,
+      "bw": 14741,
+      "books": "A00000046411"
+    },
+    "title": "幻想女人國",
+    "originalTitle": "",
+    "authors": [
+      "沙村廣明"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "搞笑"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864316052",
+      "cover": "/genso-ginekokurashi/genso-ginekokurashi-1.webp",
+      "pages": 144,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": true,
+      "price": 69,
+      "description": "夏見不小心在未婚夫的家裡誤闖一個有水槽的大房間，只見一個少女在充滿各種果實的水槽中悠游自在。夏見與少女越來越熟之後，開始覺得這樣是不對的，一心想拯救少女的她卻不知道這將使她一步步走向悲劇……『無限住人』作者沙村廣明最新短篇作品集，除了於「樂園」雜誌連載的作品『幻想女人國』系列，更收錄了另外兩篇短篇「鳳梨娘」與「伊凡‧哥利耶」！",
+      "platform": {
+        "tongli": {
+          "id": "16599b5f-089b-47ae-4480-08d88c335e38",
+          "date": "2020-11-20"
+        },
+        "kobo": {
+          "id": "rcD8c09rnTmanr1yKfTs5g",
+          "date": "2020-12-16"
+        },
+        "bw": {
+          "id": 104320,
+          "date": "2020-12-17"
+        },
+        "readmoo": {
+          "id": "210170958000101",
+          "date": "2021-01-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050118656",
+          "date": "2021-12-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-19",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864316069",
+      "cover": "/genso-ginekokurashi/genso-ginekokurashi-2.webp",
+      "pages": 144,
+      "authors": [
+        "沙村廣明"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": true,
+      "price": 69,
+      "description": "(完結篇)少女來到傳說有小矮人出現的地方，只想要找到小矮人來搞清楚，為什麼身上會有「小矮人的惡作劇」腫瘤出現，卻沒想到因此得知多數人都不知道的另一人種「Homo lophius」的存在！本書同時收錄特別短篇「不孕之孕」",
+      "platform": {
+        "tongli": {
+          "id": "3e69a165-00a2-496e-447b-08d88c335e38",
+          "date": "2020-11-20"
+        },
+        "kobo": {
+          "id": "Qar5di5uQj2pEm9fwG1fiA",
+          "date": "2020-12-16"
+        },
+        "bw": {
+          "id": 104321,
+          "date": "2020-12-17"
+        },
+        "readmoo": {
+          "id": "210170959000101",
+          "date": "2021-01-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050118657",
+          "date": "2021-12-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-09",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2238 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "hunter-hunter",
+    "series": {
+      "tongli": "0c2d132c-6a96-e811-a947-00155d020a17",
+      "kobo": "TdtH3W1ublW_AsSPjuhNxg",
+      "readmoo": 1874,
+      "bw": 8529,
+      "books": "A00000045094",
+      "pubu": {
+        "store": 4538213,
+        "id": "獵人"
+      }
+    },
+    "title": "獵人",
+    "originalTitle": "",
+    "authors": [
+      "冨樫義博"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "熱血",
+      "戰鬥",
+      "動畫化",
+      "冒險",
+      "友情"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789573471967",
+      "cover": "/hunter-hunter/hunter-hunter-1.webp",
+      "pages": 184,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "楊雅玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "9972b048-4f25-430d-20fd-08d676cf1db7",
+          "date": "2019-01-14"
+        },
+        "kobo": {
+          "id": "39dGtSt0QzabUOqVCnJU0g",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51591,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210121888000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113949",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343303,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 122
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-05",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-24",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789573471974",
+      "cover": "/hunter-hunter/hunter-hunter-2.webp",
+      "pages": 186,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "楊雅玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "860e4fee-2648-4cba-d683-08d67c31718b",
+          "date": "2018-11-06"
+        },
+        "kobo": {
+          "id": "PPBjGSI_6DWCXAgoSgf1vA",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51592,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210121889000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113950",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343304,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 119
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-25",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789573471981",
+      "cover": "/hunter-hunter/hunter-hunter-3.webp",
+      "pages": 186,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "faffe705-b4e6-45c4-d684-08d67c31718b",
+          "date": "2018-11-06"
+        },
+        "kobo": {
+          "id": "agQfR2nmoDWn3Y3GJP7QJw",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51593,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210121890000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113951",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343305,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 114
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-26",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789573481416",
+      "cover": "/hunter-hunter/hunter-hunter-4.webp",
+      "pages": 186,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "a2cb6a9d-6a6c-4c3b-d685-08d67c31718b",
+          "date": "2018-11-06"
+        },
+        "kobo": {
+          "id": "dHdwF0gJej6XqQpfMCiWDA",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51594,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210121891000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113952",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343306,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 116
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-10-30",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789573481423",
+      "cover": "/hunter-hunter/hunter-hunter-5.webp",
+      "pages": 186,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "4ca19aef-4d63-4551-d686-08d67c31718b",
+          "date": "2018-11-06"
+        },
+        "kobo": {
+          "id": "eHoTs_H4qT-vVbqdodH69A",
+          "date": "2018-11-21"
+        },
+        "bw": {
+          "id": 51595,
+          "date": "2018-11-22"
+        },
+        "readmoo": {
+          "id": "210121892000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113953",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343307,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 111
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-01",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789573487258",
+      "cover": "/hunter-hunter/hunter-hunter-6.webp",
+      "pages": 202,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "51aa298f-0940-4506-d687-08d67c31718b",
+          "date": "2018-12-21"
+        },
+        "kobo": {
+          "id": "hRSls3oxhjuNZx5oyKLQNg",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54315,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210121893000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113954",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343308,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 125
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-23",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789573487265",
+      "cover": "/hunter-hunter/hunter-hunter-7.webp",
+      "pages": 188,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "f31e94ad-bf5f-48a1-d688-08d67c31718b",
+          "date": "2018-12-21"
+        },
+        "kobo": {
+          "id": "OLQNGVwpyzKt9Q6AifJ03Q",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54316,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210121894000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113955",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343309,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 125
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-26",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789573497554",
+      "cover": "/hunter-hunter/hunter-hunter-8.webp",
+      "pages": 196,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "4a141d79-d475-4f7b-d689-08d67c31718b",
+          "date": "2018-12-21"
+        },
+        "kobo": {
+          "id": "ODe5IkMXiz-tnHuayw64ig",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54317,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210121895000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113956",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343310,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 125
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789573497561",
+      "cover": "/hunter-hunter/hunter-hunter-9.webp",
+      "pages": 192,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "6a25deaf-0076-4864-d68a-08d67c31718b",
+          "date": "2018-12-21"
+        },
+        "kobo": {
+          "id": "tPOtbejy7zmMWxPI9aZlvA",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54318,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210121896000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113957",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343311,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-11-29",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789577318633",
+      "cover": "/hunter-hunter/hunter-hunter-10.webp",
+      "pages": 200,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "0f486e67-01af-44e6-d68b-08d67c31718b",
+          "date": "2018-12-21"
+        },
+        "kobo": {
+          "id": "KaWxxVcvEDq42yLSPCgNZw",
+          "date": "2018-01-09"
+        },
+        "bw": {
+          "id": 54319,
+          "date": "2019-01-10"
+        },
+        "readmoo": {
+          "id": "210121897000101",
+          "date": "2019-12-12",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113958",
+          "date": "2021-11-18",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343312,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 120
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789577318640",
+      "cover": "/hunter-hunter/hunter-hunter-11.webp",
+      "pages": 196,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "939a08c6-cf44-4031-d68c-08d67c31718b",
+          "date": "2019-01-08"
+        },
+        "kobo": {
+          "id": "SI8JOhZymjiv1XN52VZDTw",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55137,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210121898000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113959",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343313,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 125
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-27",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789576996566",
+      "cover": "/hunter-hunter/hunter-hunter-12.webp",
+      "pages": 186,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "楊雅玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "7ff84b1a-2b01-42f8-d68d-08d67c31718b",
+          "date": "2019-01-08"
+        },
+        "kobo": {
+          "id": "unugbfreKDKBbZVpO_Vd1A",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55138,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210121899000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113960",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343314,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 112
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2018-12-28",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789576996573",
+      "cover": "/hunter-hunter/hunter-hunter-13.webp",
+      "pages": 196,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "楊雅玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "bbe86b51-87c8-4ac2-d68e-08d67c31718b",
+          "date": "2019-01-08"
+        },
+        "kobo": {
+          "id": "ADPrB7lsUDKRzYk6NMqBew",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55139,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210121900000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113961",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343315,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 135
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-02",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861101200",
+      "cover": "/hunter-hunter/hunter-hunter-14.webp",
+      "pages": 202,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "ae165b7c-5734-440d-d68f-08d67c31718b",
+          "date": "2019-01-08"
+        },
+        "kobo": {
+          "id": "iKkzKZBMmzWp9JY63mnPjw",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55140,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210121901000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113962",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343316,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-03",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861104621",
+      "cover": "/hunter-hunter/hunter-hunter-15.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "95c6c8ec-a476-431e-d690-08d67c31718b",
+          "date": "2019-01-08"
+        },
+        "kobo": {
+          "id": "7qDyc9FNDDW3GDolIRZw3A",
+          "date": "2018-01-23"
+        },
+        "bw": {
+          "id": 55141,
+          "date": "2019-01-24"
+        },
+        "readmoo": {
+          "id": "210121902000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113963",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343317,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-01-03",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861119366",
+      "cover": "/hunter-hunter/hunter-hunter-16.webp",
+      "pages": 192,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "a56a3802-c974-47d0-eec4-08d6b31ad1a0",
+          "date": "2019-03-28"
+        },
+        "kobo": {
+          "id": "ugfszXbzBTaEdNX-9D0UWQ",
+          "date": "2018-03-13"
+        },
+        "bw": {
+          "id": 57202,
+          "date": "2019-03-14"
+        },
+        "readmoo": {
+          "id": "210121903000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113964",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343318,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 120
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-02-19",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861123455",
+      "cover": "/hunter-hunter/hunter-hunter-17.webp",
+      "pages": 200,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "d325be17-7dce-4bff-eec5-08d6b31ad1a0",
+          "date": "2019-03-29"
+        },
+        "kobo": {
+          "id": "yMkv4IkpZzeRP4WweOsA_w",
+          "date": "2018-03-13"
+        },
+        "bw": {
+          "id": 57203,
+          "date": "2019-03-14"
+        },
+        "readmoo": {
+          "id": "210121904000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113965",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343319,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-02-20",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861125923",
+      "cover": "/hunter-hunter/hunter-hunter-18.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "06f0adf8-21b4-47ad-f7cb-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "9qXC3fQA8DikTHYdvF29UQ",
+          "date": "2018-03-13"
+        },
+        "bw": {
+          "id": 57204,
+          "date": "2019-03-14"
+        },
+        "readmoo": {
+          "id": "210121905000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113966",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343320,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 130
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-02-20",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861136462",
+      "cover": "/hunter-hunter/hunter-hunter-19.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "小傑想繼承父親成為一流的獵人，為了完成這個心願，他毅然決定要參加這一次的獵人試驗，朝著未知的難關勇敢邁進…",
+      "platform": {
+        "tongli": {
+          "id": "9a3d2265-98e7-4cec-f7cc-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "rgDOS-BjzT6DZoH4xvPLPw",
+          "date": "2018-03-13"
+        },
+        "bw": {
+          "id": 57205,
+          "date": "2019-03-14"
+        },
+        "readmoo": {
+          "id": "210121906000101",
+          "date": "2019-12-12",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113967",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343321,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-24",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861140452",
+      "cover": "/hunter-hunter/hunter-hunter-20.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "打倒拿酷戮和秀托，搶走符契！期限是一個月。這就是尼特羅會長所開出，回去ＮＧＬ的條件。小傑和奇犽在比司吉的指導下，開始嚴苛的特訓。另一方面，討伐部隊在ＮＧＬ展開行動？",
+      "platform": {
+        "tongli": {
+          "id": "c2b6a548-7b27-41c7-f7cd-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "owMx5ov8BzW6aWqckQTF4w",
+          "date": "2018-03-13"
+        },
+        "bw": {
+          "id": 57206,
+          "date": "2019-03-14"
+        },
+        "readmoo": {
+          "id": "210121907000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113968",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343322,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 124
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-02-20",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861162720",
+      "cover": "/hunter-hunter/hunter-hunter-21.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "等等我，凱特…當小傑等人為了符契而戰鬥時，蟻王已在ＮＧＬ誕生。殘忍無道的蟻王，以及無法控制的嵌合蟻們，小傑等人要面對情勢混亂的ＮＧＬ！",
+      "platform": {
+        "tongli": {
+          "id": "a4ceefb9-7d03-4087-f7ce-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "mO9QvTYkhD6i3WwNy1DguQ",
+          "date": "2019-04-10"
+        },
+        "bw": {
+          "id": 58895,
+          "date": "2019-04-11"
+        },
+        "readmoo": {
+          "id": "210121908000101",
+          "date": "2019-12-12",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113969",
+          "date": "2021-11-18",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343323,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 139
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-07-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-21",
+          "width": 1065,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861172521",
+      "cover": "/hunter-hunter/hunter-hunter-22.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "嵌合蟻的威脅愈來愈擴大！牠們為了自封為王，開始侵襲世界各地。自稱「女王」的嵌合蟻在流星街築巢，幻影旅團前往討伐。另一方面，小傑為了救回凱特，潛入東果陀...？",
+      "platform": {
+        "tongli": {
+          "id": "6150079f-230b-4ab1-f7cf-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "FbXeoMn7QDi3f-BMIhLshg",
+          "date": "2019-04-10"
+        },
+        "bw": {
+          "id": 58896,
+          "date": "2019-04-11"
+        },
+        "readmoo": {
+          "id": "210121909000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113970",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343324,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 144
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-25",
+          "width": 672,
+          "height": 1010
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789861172538",
+      "cover": "/hunter-hunter/hunter-hunter-23.webp",
+      "pages": 198,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "獵人們潛入東果陀，展開討伐蟻王的行動！小傑按兵不動，奇犽採取別的行動，被敵人發現，受到刺客一連串的襲擊。在遭到完全監視的狀態中，無法使出絕招…。奇犽是否有勝算!?",
+      "platform": {
+        "tongli": {
+          "id": "70f44e06-f553-4166-f7d0-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "avjyfeVTBz-6K61okJZh6Q",
+          "date": "2019-04-10"
+        },
+        "bw": {
+          "id": 58897,
+          "date": "2019-04-11"
+        },
+        "readmoo": {
+          "id": "210121910000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113971",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343325,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-25",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789861183855",
+      "cover": "/hunter-hunter/hunter-hunter-24.webp",
+      "pages": 216,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "獵人們潛入東果陀，展開討伐蟻王的行動！小傑按兵不動，奇犽採取別的行動，被敵人發現，受到刺客一連串的襲擊。在遭到完全監視的狀態中，無法使出絕招…。奇犽是否有勝算!?",
+      "platform": {
+        "tongli": {
+          "id": "20ef62cd-e6f4-4bc6-f7d1-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "Uiy7oHhysDuYfL2_odD1Bg",
+          "date": "2019-04-10"
+        },
+        "bw": {
+          "id": 58898,
+          "date": "2019-04-11"
+        },
+        "readmoo": {
+          "id": "210121911000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113972",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343326,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 137
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-25",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789861017877",
+      "cover": "/hunter-hunter/hunter-hunter-25.webp",
+      "pages": 207,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "終於攻堅宮殿!!小傑等人從中央大樓梯旁邊快速跑出!!還有從天而降的會長。另一方面，尤匹出現在小傑等人事先沒料到的樓梯上。與敵人對峙的小傑等人。壯闊的死鬥之幕正在升起之時，蟻王…。",
+      "platform": {
+        "tongli": {
+          "id": "8ca8a8a8-90b4-4ccc-f7d2-08d6b7dfd4eb",
+          "date": "2019-04-01"
+        },
+        "kobo": {
+          "id": "mjMKqChGdDi8YZHncyN7KA",
+          "date": "2019-04-10"
+        },
+        "bw": {
+          "id": 58899,
+          "date": "2019-04-11"
+        },
+        "readmoo": {
+          "id": "210121912000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113973",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343327,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 139
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-25",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789861017884",
+      "cover": "/hunter-hunter/hunter-hunter-26.webp",
+      "pages": 206,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "獵人陣營與嵌合蟻在宮殿內開始交戰!!然而與尤匹交手的秀托陷入苦戰。看著體力快到極限的秀托，拿酷戮什麼忙也幫不上…。後來，另一方面，小傑與奇犽終於跟彼多面對面，但是…!!(2008年12月4日上市)",
+      "platform": {
+        "tongli": {
+          "id": "07a31933-1700-41be-7838-08d6b4148d2d",
+          "date": "2019-04-03"
+        },
+        "kobo": {
+          "id": "d6vC6GxsMjKxduQgUVmFfg",
+          "date": "2019-04-24"
+        },
+        "bw": {
+          "id": 60238,
+          "date": "2019-04-25"
+        },
+        "readmoo": {
+          "id": "210121913000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113974",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343328,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789861029368",
+      "cover": "/hunter-hunter/hunter-hunter-27.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "拿酷戮被尤匹追得無路可退，在奇犽的「落雷」之下死裡逃生！為了實行計策，拿酷戮再度挑戰。另一方面，小傑等待彼多醫治小麥，此時有人現身…!?\r\n(2010年4月1日上市)",
+      "platform": {
+        "tongli": {
+          "id": "fd1d3689-4e42-4fa7-7839-08d6b4148d2d",
+          "date": "2019-04-03"
+        },
+        "kobo": {
+          "id": "jx8P1RxOuzSzaWXa0_5CpQ",
+          "date": "2019-04-24"
+        },
+        "bw": {
+          "id": 60239,
+          "date": "2019-04-25"
+        },
+        "readmoo": {
+          "id": "210121914000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113975",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343329,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789861029375",
+      "cover": "/hunter-hunter/hunter-hunter-28.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "戰局極混亂的嵌合蟻VS人類。在距離宮殿很遠的地方，尼特羅與蟻王展開熾烈的戰鬥。結果出人意料!?另一方面，奇犽與擔心小傑安危的龐姆重聚。然而他發現龐姆的行動有令人不解之處…。\r\n(2011年12月14日上市)",
+      "platform": {
+        "tongli": {
+          "id": "d1171c1d-ac66-40d0-783a-08d6b4148d2d",
+          "date": "2019-04-03"
+        },
+        "kobo": {
+          "id": "GazemAJP5zuqSKrD-fLPsg",
+          "date": "2019-04-24"
+        },
+        "bw": {
+          "id": 60240,
+          "date": "2019-04-25"
+        },
+        "readmoo": {
+          "id": "210121915000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113976",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343330,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "第29集",
+      "isbn": "9789861083377",
+      "cover": "/hunter-hunter/hunter-hunter-29.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在尤匹與普夫的力量幫助下，蟻王復活了。可是蟻王的記憶暫時模糊。小麥的存在會阻撓蟻王的統一大業，所以普夫打算殺了小麥。而獵人們保護小麥!!另一方面，小傑去找凱特，聽到彼多的告白而大受打擊…。\r\n(2012年1月20日上市)",
+      "platform": {
+        "tongli": {
+          "id": "b8b0f2f4-b9d0-4f1f-783b-08d6b4148d2d",
+          "date": "2019-04-03"
+        },
+        "kobo": {
+          "id": "dbswg7ljqTmd-dQP_0kDoA",
+          "date": "2019-04-24"
+        },
+        "bw": {
+          "id": 60241,
+          "date": "2019-04-25"
+        },
+        "readmoo": {
+          "id": "210121916000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113977",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343331,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "第30集",
+      "isbn": "9789861099866",
+      "cover": "/hunter-hunter/hunter-hunter-30.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了釐清蟻王的記憶，蟻王與普夫展開比試。王去找「圓」所感測的對象‧威爾芬。然後，威爾芬被迫說出的一句話，喚醒蟻王的記憶。另一方面，龐姆口中對蟻王所使用的炸彈，到底是什麼呢!?(2012年7月9日上市)",
+      "platform": {
+        "tongli": {
+          "id": "6ccb1e8d-e324-4e2a-783c-08d6b4148d2d",
+          "date": "2019-04-03"
+        },
+        "kobo": {
+          "id": "IWvxvGxkoDm9M6MagXcEPw",
+          "date": "2019-04-24"
+        },
+        "bw": {
+          "id": 60242,
+          "date": "2019-04-25"
+        },
+        "readmoo": {
+          "id": "210136398000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113978",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343332,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 138
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-03-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "第31集",
+      "isbn": "9789863247968",
+      "cover": "/hunter-hunter/hunter-hunter-31.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "尼特羅所委託的下任會長選舉開始了。選戰因為副會長‧帕利士通介入攪局而失去控制。另一方面，奇犽?了拯救重傷的小傑，想要借重被幽禁的家人‧阿路加的力量而回去老家。阿路加究竟擁有什麼樣力量!?",
+      "platform": {
+        "tongli": {
+          "id": "380f6c63-2bb7-4537-fbd6-08d6d4e4c57f",
+          "date": "2019-05-21"
+        },
+        "kobo": {
+          "id": "MZJZx5-5EjSrd8TMHVRtTg",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65232,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210132681000101",
+          "date": "2020-02-26",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050113979",
+          "date": "2021-11-18",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 343333,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-30",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "第32集",
+      "isbn": "9789863247975",
+      "cover": "/hunter-hunter/hunter-hunter-32.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "獵人協會會長選舉的候選人縮減到剩下４個人。分別是副會長帕利士通、米才伊史多姆、綺多和雷歐力…在陰謀×野心的漩渦中，當選會長的將是誰!?另一方面，奇犽和阿路加前去營救受重傷的小傑。小傑能夠復活嗎!?",
+      "platform": {
+        "tongli": {
+          "id": "fe2ceae3-d6ff-4f16-fbd7-08d6d4e4c57f",
+          "date": "2019-05-21"
+        },
+        "kobo": {
+          "id": "O--1vx4OaTG_C_ZeWSlXxw",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65233,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210132427000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113980",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343334,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 134
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "第33集",
+      "isbn": "9789864705269",
+      "cover": "/hunter-hunter/hunter-hunter-33.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "面對Ｖ５委託殺害比洋德，還有已故的尼特羅的指令，協會內部意見出現分歧。帕利士通支持比洋德，進行一連串佈局時，金現身了…。另一方面，十二支的成員空缺，要由雷歐力和酷拉皮卡補上？各方的算計錯綜複雜…。",
+      "platform": {
+        "tongli": {
+          "id": "06ea8259-a422-4c21-fbd8-08d6d4e4c57f",
+          "date": "2019-05-21"
+        },
+        "kobo": {
+          "id": "lCTZnWwWfzubgYiQ4p1E8w",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65234,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210132428000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113981",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343335,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 171
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "第34集",
+      "isbn": "9789864865581",
+      "cover": "/hunter-hunter/hunter-hunter-34.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "西索和庫洛洛在天空鬥技場展開生死鬥！庫洛一邊施展新能力，一邊對西索窮追猛打。哪一方會在極限之鬥中獲勝呢？還有，酷拉皮卡和卡丁王國及王子們，終於出航前往暗黑大陸了。但是很快就發生離奇死亡事件…\r\n",
+      "platform": {
+        "tongli": {
+          "id": "0d0d3231-ab9f-4875-fbda-08d6d4e4c57f",
+          "date": "2019-05-21"
+        },
+        "kobo": {
+          "id": "On99SCHFWjeRpaGym-YhFw",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65235,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210132429000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113982",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343336,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 174
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-20",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 35,
+      "volName": "第35集",
+      "isbn": "9789572607619",
+      "cover": "/hunter-hunter/hunter-hunter-35.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "念獸在船內展開行動，攻擊酷拉皮卡等人，使得大部份的警護身亡。在這個時候，酷拉皮卡同時接到三位王子的電話。跟其中哪一位王子接觸，才能幫助王子／倭舞琉存活呢？王子們各有不同的計謀，暗中較勁的過程中，有一名王子犧牲了？",
+      "platform": {
+        "tongli": {
+          "id": "d6c4af8b-ce05-4644-fbd9-08d6d4e4c57f",
+          "date": "2019-05-21"
+        },
+        "kobo": {
+          "id": "F0KWhUhTtzyQiSLlQDohlg",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65236,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210132430000101",
+          "date": "2020-02-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113983",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343337,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 151
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-02",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 36,
+      "volName": "第36集",
+      "isbn": "9789572620434",
+      "cover": "/hunter-hunter/hunter-hunter-36.webp",
+      "pages": 208,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "酷拉皮卡主辦的念的講習會進行時，一名參加者被殺了。酷拉皮卡一面繼續上課，一邊尋找暗殺者。另一方面，第二王子（卡蜜拉）動身去殺第一王子（班哲明），第１３王子（瑪拉亞姆）的房間發生異狀。無法理解的事件接二連三發生之時，旅團出動了！？",
+      "platform": {
+        "tongli": {
+          "id": "6d32facc-76a5-48b6-56fb-08d82d2d0f99",
+          "date": "2020-08-03"
+        },
+        "kobo": {
+          "id": "NSDygV6F3ziVA5yq01oAnw",
+          "date": "2020-08-19"
+        },
+        "bw": {
+          "id": 94790,
+          "date": "2020-08-20"
+        },
+        "readmoo": {
+          "id": "210156511000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113984",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343338,
+          "date": "2023-03-13",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-07-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 37,
+      "volName": "第37集",
+      "isbn": "9786263474635",
+      "cover": "/hunter-hunter/hunter-hunter-37.webp",
+      "pages": 204,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "酷拉皮卡雖然感知船內那股不平靜的鳴動，仍然繼續授課，講習會進入下個階段。在這段期間，其他的王子們也開始行動，繼承戰進入正式階段……。更進一步地，在船內下層，三大幫派把尋找西索的旅團捲入其中，開始較勁？",
+      "platform": {
+        "tongli": {
+          "id": "1e675073-34bc-47e9-0d0c-08db13109de9",
+          "date": "2023-03-06"
+        },
+        "kobo": {
+          "id": "GuVOo2dAITebG6ymp4uq7A",
+          "date": "2023-04-06"
+        },
+        "bw": {
+          "id": 159822,
+          "date": "2023-04-06"
+        },
+        "readmoo": {
+          "id": "210268799000101",
+          "date": "2023-04-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050156736",
+          "date": "2023-04-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 347115,
+          "date": "2023-04-06",
+          "type": [
+            "epub"
+          ],
+          "size": 151
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

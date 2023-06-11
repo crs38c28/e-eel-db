@@ -1,0 +1,144 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "shirley",
+    "series": {
+      "kobo": "vQiTonvHsFmUCFFmKKv5jw",
+      "readmoo": 1288,
+      "bw": 8778,
+      "books": "A00000028229"
+    },
+    "collection": {
+      "pubu": [
+        162677,
+        162678
+      ]
+    },
+    "title": "雪莉",
+    "originalTitle": "",
+    "authors": [
+      "森薰"
+    ],
+    "publisher": "台灣角川",
+    "finished": false,
+    "tags": [
+      "歷史",
+      "溫馨",
+      "職業"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "9861741518",
+      "cover": "/shirley/shirley-1.webp",
+      "pages": 198,
+      "authors": [
+        "森薰"
+      ],
+      "translators": [
+        "黃炳雄"
+      ],
+      "nsfw": false,
+      "price": 80,
+      "description": "\"★以單元短篇形式描繪英國愛德華王朝時代女僕們各自的生活點滴。\r\n★為十分輕鬆的19世紀英式風情小品。\r\n全書共分三篇故事，\r\n《雪莉》紀錄了13歲的小女僕與經營店舖的女主人之間的日常生活，\r\n《妮莉與我的某日午後》描寫喪父的小主人和女僕之間的互動，\r\n《瑪麗．班克斯》則是描寫女僕瑪麗服侍一位喜愛惡作劇的貴族老主人的溫馨故事。\r\n有別於《艾瑪》的時代背景為維多利亞時期，\r\n本書《雪莉》的背景為愛德華時期，\r\n喜愛森薰老師作品的讀者絕不能錯過！\"",
+      "platform": {
+        "kobo": {
+          "id": "PN5q0mli8Te-Jn6N2oG_mg",
+          "date": "2019-01-19"
+        },
+        "bw": {
+          "id": 55061,
+          "date": "2019-01-19"
+        },
+        "readmoo": {
+          "id": "210106481000101",
+          "date": "2019-04-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050042750",
+          "date": "2019-01-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162677,
+          "date": "2019-06-06",
+          "type": [
+            "epub"
+          ],
+          "size": 120
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-01-04",
+          "width": 1445,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2018-12-10",
+          "width": 1445,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "9789863665144",
+      "cover": "/shirley/shirley-2.webp",
+      "pages": 194,
+      "authors": [
+        "森薰"
+      ],
+      "translators": [
+        "多鳴"
+      ],
+      "nsfw": false,
+      "price": 90,
+      "description": "\"★以單元短篇形式描繪英國愛德華王朝時代女僕們各自的生活點滴。\r\n★為十分輕鬆的20世紀初英式風情小品。\r\n經營咖啡廳的女主人貝妮特．克蘭莉，\r\n僱用了年僅十三歲的女僕雪莉．麥迪遜。\r\n在倫敦的一棟宅邸中，兩個人一起度過平靜生活的單篇漫畫系列，終於再次集結成冊！\r\n收錄自2006年到2014年間描繪的八篇作品，以及加筆後記漫畫！\"",
+      "platform": {
+        "kobo": {
+          "id": "RZCjIixUHDGurMyY62P3sA",
+          "date": "2019-01-19"
+        },
+        "bw": {
+          "id": 55062,
+          "date": "2019-01-19"
+        },
+        "readmoo": {
+          "id": "210106482000101",
+          "date": "2019-04-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050042751",
+          "date": "2019-01-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162678,
+          "date": "2019-06-06",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-01-04",
+          "width": 1445,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2018-12-17",
+          "width": 1445,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

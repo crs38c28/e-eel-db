@@ -1,0 +1,1340 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "akagami-shirayuki",
+    "series": {
+      "kobo": "jqudk9FlUlWGT2HHkzN6IQ",
+      "readmoo": 5461,
+      "bw": 14694,
+      "books": "A00000032812",
+      "pubu": {
+        "store": 29038,
+        "id": "赤髮白雪姬"
+      }
+    },
+    "title": "赤髮白雪姬",
+    "originalTitle": "",
+    "authors": [
+      "秋月空太"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "戀愛",
+      "冒險",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "4711228585342",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-1.webp",
+      "pages": 199,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "少女白雪天生就擁有一頭宛如蘋果般鮮紅的秀髮。\n由於這頭稀有的髮色而受到惡名昭彰的拉冀王子喜愛，\n困擾的白雪只好因此離開國家！\n\n而在鄰國森林，有位名為桀的少年對白雪伸出了援手。\n\n他的真實身分究竟是…!?\n\n同時收錄夏日短篇戀物語「八月的四季彩」。",
+      "platform": {
+        "kobo": {
+          "id": "tULMfIyHkDa3uZTjmFDGiw",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103917,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167877000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085404",
+          "date": "2020-09-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 219880,
+          "date": "2021-09-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 120
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1315,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-12-08",
+          "width": 1315,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "4711228581016",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-2.webp",
+      "pages": 201,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "天生擁有一頭鮮紅秀髮的白雪，\n順利地通過了宮廷藥劑師的考試。\n在宮殿裡她和各式各樣的人們相遇，\n與桀王子的牽絆也更加深厚。\n\n然而某一天，\n桀所管轄的某要塞士兵們身體竟然出現了異樣…!?\n\n超人氣奇幻羅曼史，第２集登場!!",
+      "platform": {
+        "kobo": {
+          "id": "UGvSOJbhzz2oooacTnoTAg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103918,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167878000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085405",
+          "date": "2019-09-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 219883,
+          "date": "2021-09-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 122
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1315,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-12-08",
+          "width": 1315,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "9786263017771",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-3.webp",
+      "pages": 194,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "克拉利涅斯王國的首都．威斯塔爾───\n\n原本安穩的日常，\n\n因為第一王子伊札那的回國而產生了改變。\n\n不認同白雪與第二王子．桀的關係的伊札那，\n\n竟然邀請了白雪離開出生之國的\n\n罪魁禍首．拉冀王子來到城裡…!?",
+      "platform": {
+        "kobo": {
+          "id": "NF4MaPjLUzCKiZ4bLES16g",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105856,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167895000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085422",
+          "date": "2011-06-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220490,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1289,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1289,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "9786263017696",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-4.webp",
+      "pages": 194,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "「我會竭盡全力不讓那個人遇到這種遭遇！」…\n\n聽聞白雪在塔上面對困境所採取的行動，\n\n急忙前來的桀究竟會怎麼做!?/\n\n王子與宮廷藥劑師，兩人之間的羈絆逐漸加深，\n\n桀終於脫口而出的話語又是…!?/\n\n同時收錄桀與充英相遇的故事。\n\n王國羅曼史第4集，終於登場!!",
+      "platform": {
+        "kobo": {
+          "id": "SyvGTMBxSza-46Hho3Sd7Q",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105857,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167896000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085423",
+          "date": "2011-09-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220497,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 166
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1316,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1316,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "4711228581023",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-5.webp",
+      "pages": 189,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "白雪與桀兩人的心意終於相通。\n這時候，卻有出現有謎樣美少年正在尋找白雪的傳聞？\n對方究竟有什麼目的？\n\n另一方面，白雪被招待參加故鄉丹巴倫舉辦的宴會，\n桀命令歐畢擔任白雪的護衛。\n然而，白雪與桀的羈絆將會受到考驗!?\n\n同時收錄歐畢&柳這對奇妙組合的特別篇！",
+      "platform": {
+        "kobo": {
+          "id": "VHOjhsojgTaXU_s2NfFgxw",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105858,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167897000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085424",
+          "date": "2019-09-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220508,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1285,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1277,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "4711228584444",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-6.webp",
+      "pages": 194,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "賴芯葳"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "白雪和歐畢一同待在丹巴倫的城堡之中。\n\n另一方面，在找尋找打聽白雪的謎樣人物的桀一行人，\n\n得知對方已經知道了白雪的所在地。\n\n因為擔心白雪的安危，\n\n桀不顧伊札那的反對決定前往丹巴倫。\n\n然而到了晚會當天，白雪面臨了意外的危機!?",
+      "platform": {
+        "kobo": {
+          "id": "RI3DotSxTDOxzETTDHqR7Q",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105859,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167898000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085425",
+          "date": "2020-07-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220514,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 173
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1266,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1266,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "9786263017719",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-7.webp",
+      "pages": 193,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "為了救出被海賊「海之鉤爪」所擄獲的白雪，\n\n桀一群人潛入了敵陣。\n\n而與桀聯手的山賊「山之獅子」的大將．武風\n\n的意外身家背景也隨之曝光！\n\n故事進入新章，\n\n白雪與桀身邊的環境也會有所變動!?\n\n超人氣王國羅曼史、第7集登場！",
+      "platform": {
+        "kobo": {
+          "id": "HHcyt48NdTGC5iO3qdCpUQ",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105860,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167899000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085426",
+          "date": "2013-05-03",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220520,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1347,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1347,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "4711228583171",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-8.webp",
+      "pages": 187,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "桀與白雪一起相互確認未來的目標，與兩人”希望的關係”。\n在替回丹巴倫的薩柯契送行回程，一群人臨時決定在外頭過夜…\n沒想到歐畢卻在半夜獨自偷溜出去!?\n而正式成為宮廷藥劑師的白雪，將與柳前往北方…!?",
+      "platform": {
+        "kobo": {
+          "id": "5WVw1alj2TWOvNoqzuJ8ug",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105861,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167900000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085427",
+          "date": "2020-03-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220528,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 150
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-16",
+          "width": 1264,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-12-16",
+          "width": 1264,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "4717702267520",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-9.webp",
+      "pages": 191,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "＊２０１５年７月動畫化作品！今夏最浪漫的宮廷愛情冒險故事～＊\n\n白雪與柳一起出差前往的北方城市．\n\n莉莉亞斯發生了謎樣的疾病！\n\n忙著找尋原因與治療方法的白雪，\n\n為了防止疾病傳染，\n\n便向第一王子伊札那建言封鎖關卡。\n\n另一方面，前往北方威蘭德城的桀\n\n也收到了傳染病的消息!?\n\n充滿緊張的第9集！",
+      "platform": {
+        "kobo": {
+          "id": "rzzHflVfvDinfN8-TqEytA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105862,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167901000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085428",
+          "date": "2015-07-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220536,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 166
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-16",
+          "width": 1264,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-12-16",
+          "width": 1264,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9789571062211",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-10.webp",
+      "pages": 191,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "2015年7月番最浪漫動畫化作品!!\n\n北方關卡莉莉亞斯所發生的謎樣傳染病逐漸平緩，\n結束工作的白雪與桀一行人一起回到威斯塔爾。\n而兩人也在之後的假日，一起到城鎮約會♥\n另一方面，充英發現木木隱瞞的祕密而勃然大怒!?\n完整收錄「側近篇」的第10集!!",
+      "platform": {
+        "kobo": {
+          "id": "_yccc5mylDatdL17KRJJNw",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105863,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167902000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085429",
+          "date": "2015-10-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220544,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-07",
+          "width": 1347,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1347,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9789571067094",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-11.webp",
+      "pages": 191,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "令人驚喜的訪客來到了白雪一行人的身邊！\n雖然高興能再見到對遠從莉莉亞斯前來的尤絲里，但……!?\n另一方面，桀最近更陸續收到許多相親的邀請。\n桀被要求集合所有相親對象，舉辦一場舞會，\n但他卻向伊札那提出了某個要求!?收錄了特別篇的第11集!!",
+      "platform": {
+        "kobo": {
+          "id": "KZHN6ftjazOrDIdwQrGP4Q",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105864,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167903000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085430",
+          "date": "2016-06-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220546,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 152
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-15",
+          "width": 1292,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1292,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9789571069609",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-12.webp",
+      "pages": 194,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "伊扎那登基儀式的通知已經送至鄰國，\n所有人都朝著王都威斯塔爾前進…\n忙碌準備典禮的桀更命令白雪負責接待丹巴倫的王子．拉冀！\n一介藥劑師白雪竟然負責這麼重要的職務，讓王城中的人掩不住驚訝!?\n桀身邊產生巨大改變的第12集！",
+      "platform": {
+        "kobo": {
+          "id": "UpaFR_GTMjaaZwOxcaazYA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105865,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167904000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085431",
+          "date": "2016-10-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220549,
+          "date": "2021-01-31",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-16",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-16",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "9789571072111",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-13.webp",
+      "pages": 194,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "白雪即將以藥劑師兼研究員的身份前往莉莉亞斯。\n面對無法抑制寂寞而落淚的白雪，桀則說出…!?\n另一方面，歐畢則告訴桀自己對白雪的心意!!\n分隔兩地的桀與白雪踏出嶄新一步的第13集!!",
+      "platform": {
+        "kobo": {
+          "id": "uCg9ibsVez2k46FoG8DQvA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105866,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167905000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085432",
+          "date": "2017-02-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220613,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-16",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-16",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "9789571074986",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-14.webp",
+      "pages": 190,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 69,
+      "description": "歐畢受桀的命令，與調職到莉莉亞斯的白雪與柳會合。\n雖然白雪立刻開始了工作，卻為了調配藥品而陷入了苦戰。\n在這情況下，白雪更被歐畢邀約，「一邊看日出聊天吧」…!?\n在嶄新的地方，開拓未來道路的第14集。",
+      "platform": {
+        "kobo": {
+          "id": "n48D4Yh3sDul2pthDcDRgA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105867,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167906000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085433",
+          "date": "2017-07-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220615,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-17",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-16",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "4711228581931",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-15.webp",
+      "pages": 192,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "白雪與歐畢為了見到煌晶石學者拉塔．弗爾桀諾而出席了王城的晚宴。\n究竟能否見到他，並請他協助研究歐琳瑪莉斯？\n而在晚宴之後，與喝醉的桀共處一室的白雪又會…!?\n光明照亮前進道路的第15集！",
+      "platform": {
+        "kobo": {
+          "id": "TLRj3NgmJj6vGU5X-wWgZA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105868,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167907000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085434",
+          "date": "2019-12-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220627,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 178
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-20",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-20",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "4711228581030",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-16.webp",
+      "pages": 193,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "歐琳瑪莉斯的研究漸入佳境，\n但莉莉亞斯卻迎來了「北方流行感冒」的季節。\n雖然藥室如戰場般忙亂，\n對白雪與柳而言，卻也是一次重要的經驗。\n\n另一方面，伊扎那要求桀的命令又是!?\n切實打造未來模樣的第16集！",
+      "platform": {
+        "kobo": {
+          "id": "ehEOO3NYQT2nx9dxLMYEMA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105869,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167908000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085435",
+          "date": "2019-09-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220634,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-23",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-23",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "4711228581948",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-17.webp",
+      "pages": 193,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "向木木家求親的貴族一一受到襲擊。\n被懷疑是幕後主謀的充英因此受到拘禁！\n桀他們根據緋雨的提案，讓外界認為路基斯家也向木木求親，\n藉此尋找真犯人，但…!?\n\n受王國內部暗躍的權謀計略擺弄的第17集！",
+      "platform": {
+        "kobo": {
+          "id": "724Qo8RMhTOe8FR_ny8_JA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105870,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167909000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085436",
+          "date": "2019-12-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220644,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 183
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-24",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-24",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)",
+      "isbn": "9789571085661",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-18.webp",
+      "pages": 187,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "為了奪回北方的支配權力，\n透吾卡不僅策劃襲擊瑟雷格騎士團的基地，\n更宣言要奪去與自己對峙的桀的性命，露出真正的本性！\n另一方面，拯救了滋爾巴的木木與歐畢，\n雖然急著趕回基地，但…!?\n\n欲望與信念相互擦撞，滿是火花的第18集!!",
+      "platform": {
+        "kobo": {
+          "id": "vdG32NVjwDmIBILrFU9hUA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105871,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167910000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085437",
+          "date": "2019-05-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220649,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 178
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-26",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-26",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "(19)",
+      "isbn": "9789571087382",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-19.webp",
+      "pages": 184,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "桀與白雪、歐畢一起前往莉莉亞斯，\n一行人在已迎接冬日的北方大地充分享受了假期。\n\n同時另一方面，充英則探訪了回到老家休息的木木。\n騎士的信念、身為男人的心意，以及對夥伴的信賴──\n充英打算這些藏於心中的想法，全都傳達給木木。\n而他賭上人生的「自尊」又是…!?",
+      "platform": {
+        "kobo": {
+          "id": "-lAUS3Hk6Tqo3WRX_Zrf3Q",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105872,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167911000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085438",
+          "date": "2019-10-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220651,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-27",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-27",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "(20)",
+      "isbn": "9789571089621",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-20.webp",
+      "pages": 195,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "桀與白雪一起在莉莉亞斯愉快地享受假期。\n某天突然看到歐畢與陌生女性走在一起，\n便偷偷地跟蹤他們…!?\n\n另一方面，與充英一起抵達莉莉亞斯的木木\n也向桀報告「被充英甩掉」的事……\n\n在前往新道路前先養精蓄銳的第20集！",
+      "platform": {
+        "kobo": {
+          "id": "YbUDDoAAaT2OytfCV8d9bA",
+          "date": "2021-01-08"
+        },
+        "bw": {
+          "id": 105873,
+          "date": "2021-01-08"
+        },
+        "readmoo": {
+          "id": "210167912000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085439",
+          "date": "2020-06-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220655,
+          "date": "2021-02-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 172
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-30",
+          "width": 1262,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2020-11-30",
+          "width": 1262,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "(21)",
+      "isbn": "9789571092676",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-21.webp",
+      "pages": 189,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 77,
+      "description": "桀結束了休假，回到王城。\n在木木的親事急速進行之中，\n桀也因伊札那正式命令，前往威蘭德赴任。\n\n另一方面，\n白雪他們於莉莉亞斯改良的「發光植物」\n也將接受新品種登錄的審查。\n在各自即將邁向全新道路之前，\n再次堅定決意的第21集！",
+      "platform": {
+        "kobo": {
+          "id": "9lBJ9xXNPDKxuF7Zd9WgAQ",
+          "date": "2022-02-23"
+        },
+        "bw": {
+          "id": 133741,
+          "date": "2022-02-24"
+        },
+        "readmoo": {
+          "id": "210217175000101",
+          "date": "2022-02-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050123076",
+          "date": "2020-12-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 286963,
+          "date": "2022-03-03",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 212
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-02-15",
+          "width": 1290,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-02-15",
+          "width": 1290,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "(22)",
+      "isbn": "9786263380363",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-22.webp",
+      "pages": 191,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 77,
+      "description": "為了取得將光明之花「弗斯緹莉雅斯」沿著街道種植的許可，\n白雪他們拜訪了歐里歐爾德關卡。\n雖然順利見到騎士團長，卻因為北方領地情勢不安定，\n必須獲得北方諸侯路基利亞的許可…!?\n\n於新土地點起光亮的22集！",
+      "platform": {
+        "kobo": {
+          "id": "Zzn-btTVTzuaKzBoqSvbXw",
+          "date": "2022-07-08"
+        },
+        "bw": {
+          "id": 143105,
+          "date": "2022-07-08"
+        },
+        "readmoo": {
+          "id": "210236546000101",
+          "date": "2022-07-07",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050137147",
+          "date": "2022-07-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 310413,
+          "date": "2022-07-25",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 216
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-07-06",
+          "width": 1282,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-07-06",
+          "width": 1282,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "(23)",
+      "isbn": "9786263563339",
+      "cover": "/akagami-shirayuki/akagami-shirayuki-23.webp",
+      "pages": 161,
+      "authors": [
+        "秋月空太"
+      ],
+      "translators": [
+        "熊次郎"
+      ],
+      "nsfw": false,
+      "price": 77,
+      "description": "在路基利亞伯爵宅邸的晚宴之後，\n歐畢接下了映雪的委託，獨自一人前往滋爾巴的宅邸。\n\n另一方面，一名隸屬西亞特斯騎士團，\n自稱優茲米．伊里斯的男人造訪了暫留於路基利亞宅邸的白雪。\n他拿出了一瓶香水，並希望白雪們能夠協助調查——!?",
+      "platform": {
+        "kobo": {
+          "id": "nITJR0pn8jCwTzX3RC3ebA",
+          "date": "2023-03-20"
+        },
+        "bw": {
+          "id": 159171,
+          "date": "2023-03-20"
+        },
+        "readmoo": {
+          "id": "210266627000101",
+          "date": "2023-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050155879",
+          "date": "2023-03-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 345610,
+          "date": "2023-03-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 138
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-16",
+          "width": 1327,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1327,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1054 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "saint-oniisan",
+    "series": {
+      "tongli": "9834132c-6a96-e811-a947-00155d020a17",
+      "kobo": "m1tm1io3aFex8vmu3dLYfg",
+      "readmoo": 1898,
+      "bw": 429,
+      "books": "A00000057412"
+    },
+    "title": "聖☆哥傳",
+    "originalTitle": "",
+    "authors": [
+      "中村光"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "搞笑",
+      "動畫化",
+      "真人化",
+      "神話"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861088006",
+      "cover": "/saint-oniisan/saint-oniisan-1.webp",
+      "pages": 138,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "佛陀與耶穌這兩位佛教始祖與基督教始祖，在安然度過世紀末的危機之後，來到人間世界渡假。兩個人在日本東京的立川合租一間便宜的公寓，過著悠閒的渡假生活。但沒想到佛陀非常注重金錢，小器得像個大嬸，而不熟悉東方文化的耶穌，則是覺得日本的一切都很新鮮，常常一時衝動買下東西。這兩個個性迥異的聖人，就這樣在人間世界開始過起有趣的生活…",
+      "platform": {
+        "tongli": {
+          "id": "438bd330-1533-4dc0-533e-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "8xhXObQbKTWKxJMJwKDsQA",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2490,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122856000101",
+          "date": "2019-12-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050151491",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861088013",
+      "cover": "/saint-oniisan/saint-oniisan-2.webp",
+      "pages": 134,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "因為全國各地都有人在問「有沒有描寫佛陀與基督的漫畫？」，\r\n導致他們在東京立川偷偷渡假的事情被大家知道了。\r\n但是他們根本不去理會這些事情，佛陀還是像附近的大嬸般對金錢斤斤計較，\r\n耶穌則是以比中川翔子還積極地更新部落格。\r\n這就是描寫這對「最神聖」搭檔的溫暖喜劇漫畫。\r\n",
+      "platform": {
+        "tongli": {
+          "id": "9dfe3cb3-4e88-4a9d-533f-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "KTLFtsUJPDKtTz5lcoK6yg",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2491,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122857000101",
+          "date": "2019-12-18",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050151492",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-10-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861088020",
+      "cover": "/saint-oniisan/saint-oniisan-3.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。這對「最神聖」搭檔的立川日常生活。護衛耶穌的大天使們終於現身了。而眉毛非常濃密的梵天，則是跑來擾亂佛陀的內心！",
+      "platform": {
+        "tongli": {
+          "id": "c730056c-9518-4870-5340-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "iuDACqtkFjy2n772sKVe6g",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2492,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122858000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151493",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861088037",
+      "cover": "/saint-oniisan/saint-oniisan-4.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。這對「最神聖」搭檔還是在立川過生活。情人節、佛陀的生日、盂蘭盆節等節日陸續來臨！而且這次終於在網路遊戲內，介紹彼得與安德烈這對漁夫兄弟！\r\n",
+      "platform": {
+        "tongli": {
+          "id": "6ea7afce-3c3b-4fa1-5341-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "O0CCEb2-0DqtSqXmNMsEuw",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2493,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122859000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151494",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861088044",
+      "cover": "/saint-oniisan/saint-oniisan-5.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。\r\n這對「最神聖」搭檔還是在立川過生活。\r\n第一次購買腳踏車、第一次吃黑暗火鍋、\r\n第一次從事消防活動…\r\n兩人的「第一次」充滿了趣事！",
+      "platform": {
+        "tongli": {
+          "id": "e8935814-2b57-417d-5342-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "y_HKID-ZDTmcSBPEFW_PYg",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2494,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122860000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151495",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-08",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861088051",
+      "cover": "/saint-oniisan/saint-oniisan-6.webp",
+      "pages": 130,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。\r\n這對「最神聖」搭檔還是在立川過生活。\r\n「被主疼愛的門徒」是…？\r\n天界的任何人都非常熱中的運動是…？\r\n佛陀與耶穌去唱ＫＴＶ時，會唱什麼歌？\r\n本書有許多令大家在意的話題！",
+      "platform": {
+        "tongli": {
+          "id": "081085a9-2efa-481f-5343-08d601bfd2d1",
+          "date": "2014-05-28"
+        },
+        "kobo": {
+          "id": "3ZTcvGiHWzCaWANAYPknaw",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2495,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122861000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151496",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861088068",
+      "cover": "/saint-oniisan/saint-oniisan-7.webp",
+      "pages": 128,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。這對已經熟悉了下界的生活…應該說…已經過度融入下界的「最神聖」搭檔還在立川過著生活。「流下血淚的馬利亞像」的內幕，天草四郎與耶穌的感人故事…這一集收錄了許多令人在意的話題！",
+      "platform": {
+        "tongli": {
+          "id": "1993429a-a7c2-47e9-5344-08d601bfd2d1",
+          "date": "2014-05-28"
+        },
+        "kobo": {
+          "id": "m-XdH_vhIT6_Zhjx9j2YjA",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2496,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122862000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151497",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863245476",
+      "cover": "/saint-oniisan/saint-oniisan-8.webp",
+      "pages": 124,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "覺醒之人佛陀與神之子耶穌。<br>他們在附近的藥妝店逛得很愉快，<br>又對偶像團體演唱會的氣氛感到困惑。<br>只有在這部作品中才能看到「最聖」搭檔！<br>請大家以溫暖的眼神，<br>守護著他們在東京立川渡過的悠閒日常生活吧。",
+      "platform": {
+        "tongli": {
+          "id": "833099fd-72ec-4c28-5345-08d601bfd2d1",
+          "date": "2014-05-27"
+        },
+        "kobo": {
+          "id": "YxXpNDRdoTui1df_ICEHFA",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2497,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122863000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151498",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863320777",
+      "cover": "/saint-oniisan/saint-oniisan-9.webp",
+      "pages": 134,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "神與佛這對最強搭檔演出非常庶民派的「日常聖活」。節分、女兒節、花粉症、換手機，甚至是上廣播節目……耶穌與佛陀更是融入下界的生活！另外收錄彼得與安德烈這對漁夫兄弟真的沒什麼活躍的番外篇。",
+      "platform": {
+        "tongli": {
+          "id": "e2c093c2-d336-42f7-5346-08d601bfd2d1",
+          "date": "2014-05-29"
+        },
+        "kobo": {
+          "id": "f6RHuwGjMjS3vI6IaH-alw",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2498,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122864000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151499",
+          "date": "2023-01-28",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-01",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789863651635",
+      "cover": "/saint-oniisan/saint-oniisan-10.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "東京都立川市 是最近碰到業界人……不，是碰到天界人機率最高的地點，這點各位讀者知道嗎？以神與佛為首，還有莫名討厭放閃光的聖母馬利亞，天界的偶像‧四大天使， 還有佛陀的弟子‧阿難陀等等……現在對天界人而言，立川正是超火紅的著名景點！不過……凡事都得買保險……號稱「釋迦國戀愛終結者」的我只能出招了……！噗哈──啊──我覺得我就是為了這一杯才創造人類的！",
+      "platform": {
+        "tongli": {
+          "id": "53973964-4a3f-47d6-5347-08d601bfd2d1",
+          "date": "2014-10-29"
+        },
+        "kobo": {
+          "id": "xWBIe5vf-j-PWNiwCLAoPA",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2499,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122865000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151500",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-02-22",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789863828822",
+      "cover": "/saint-oniisan/saint-oniisan-11.webp",
+      "pages": 134,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "用智慧型手機，與天界聯絡會非常方便。透過Facebook，也能輕鬆監視惡魔們的行動。點了星巴克的新品項，馬上就要上傳Instagram！正在東京‧立川度假的耶穌與佛陀，今天一樣全力地融入下界生活！不如請爸爸創造世界吧…？只創造水中世界應該３天就夠了… 特別是你敢將充滿自拍的相簿拿給別人看的精神構造跟我完全不一樣……",
+      "platform": {
+        "tongli": {
+          "id": "f2805fc1-5e77-4f8c-5348-08d601bfd2d1",
+          "date": "2015-07-29"
+        },
+        "kobo": {
+          "id": "Q-zLgvEFczeAcYZUHgsHyg",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2500,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122866000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151501",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789864625949",
+      "cover": "/saint-oniisan/saint-oniisan-12.webp",
+      "pages": 142,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "…佛陀大人…？ 嗚哇啊！突然變成直髮？ 無意識的壁咚，去美容院嘗試改頭換面，跑到IKEA去買些時尚家具，可是仍然距離「現充」非常遙遠的聖人們，依舊過著遺憾至極的日常「聖」活！ 初次登場的邪神‧洛基也值得注意喔！",
+      "platform": {
+        "tongli": {
+          "id": "25be6f12-9571-4d64-5349-08d601bfd2d1",
+          "date": "2016-02-29"
+        },
+        "kobo": {
+          "id": "ZynZ252VLjW_yHN7tsMzLA",
+          "date": "2017-03-20"
+        },
+        "bw": {
+          "id": 2501,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210122867000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151502",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-21",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789864821594",
+      "cover": "/saint-oniisan/saint-oniisan-13.webp",
+      "pages": 134,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "難以抵抗物質誘惑的耶穌，與對家計精打細算的佛陀。<br>『啟示錄』在天界大受歡迎，約翰下凡<br>窩在立川站附近的飯店裡苦思新作。<br>天界聖人們分別用不同的代號參加部落客網聚……<br>……諸如此類，「聖氣凌人」的人物們全部聚集在TOKYO啦！<br>今天的下界，奇蹟依然低調地發生個不停！",
+      "platform": {
+        "tongli": {
+          "id": "eecdaa0b-6ab4-4608-534a-08d601bfd2d1",
+          "date": "2017-02-24"
+        },
+        "kobo": {
+          "id": "eQwbGl1tAT6hyFE1paNmog",
+          "date": "2017-05-17"
+        },
+        "bw": {
+          "id": 9316,
+          "date": "2017-03-10"
+        },
+        "readmoo": {
+          "id": "210122868000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151503",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789864868896",
+      "cover": "/saint-oniisan/saint-oniisan-14.webp",
+      "pages": 128,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "佛陀與耶穌正在東京立川，享受下界度假生活中。<br>為了解決公寓房間越來越狹窄的問題，<br>佛陀化身成斷捨離之鬼！<br>除了為了耶穌想出「福袋大作戰」卻引來悲劇的猶大，<br>以及四大天使、梵天等等常見的角色，<br>還有文采高到每次寫信都會被收進聖經的那個仁，<br>以及神無月中一個人留守的那位神……<br>個性十足的角色們陸續登場！<br>",
+      "platform": {
+        "tongli": {
+          "id": "fb1758c5-5dd5-47bb-a773-08d67c35a93d",
+          "date": "2018-02-01"
+        },
+        "kobo": {
+          "id": "HEi45ckVRTO1gwx-fXvxNA",
+          "date": "2018-03-12"
+        },
+        "bw": {
+          "id": 35075,
+          "date": "2018-02-13"
+        },
+        "readmoo": {
+          "id": "210122869000101",
+          "date": "2019-12-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151504",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789572614402",
+      "cover": "/saint-oniisan/saint-oniisan-15.webp",
+      "pages": 128,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "據說是哥哥該隱殺死弟弟亞伯的<br>「人類第一起殺人案」其實是冤罪？<br>經過數十世紀，真相即將曝光！<br>然後耶穌的爸爸挖空心思寫的新作落語<br>「最後的晚餐」也將首度曝光！表現究竟如何……<br>漁夫兄弟加上大天使，還有首度登場的「主婦的守護聖人」馬大，<br>耶穌與佛陀的立川生活今天一樣熱熱鬧鬧！",
+      "platform": {
+        "tongli": {
+          "id": "690fe226-95e4-4aa9-a774-08d67c35a93d",
+          "date": "2018-11-27"
+        },
+        "kobo": {
+          "id": "-nMcG9SzpD2qJcPmzxJEgQ",
+          "date": "2018-12-12"
+        },
+        "bw": {
+          "id": 52782,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210122870000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151505",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-06-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789572622070",
+      "cover": "/saint-oniisan/saint-oniisan-16.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了最近開始在日本流行起來的那個活動，\r\n天界的認真聊天室，開戰！\r\n永遠的中二病惡魔‧魔羅，與他新的僕人的互動，\r\n又為什麼會讓佛陀流淚…？\r\n這次有著在神‧耶穌心目中猶如神的那個人，\r\n首度登場的生產相關守護聖人，以及大胃王惡魔，\r\n等等超豪華陣容為大家帶來精采故事！",
+      "platform": {
+        "tongli": {
+          "id": "c1808c5f-65ca-40fa-1ae8-08d6da8b1000",
+          "date": "2019-05-27"
+        },
+        "kobo": {
+          "id": "JzScAOGnjj2tqD_PlSX5tA",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65271,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210122871000101",
+          "date": "2019-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050151506",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789572639252",
+      "cover": "/saint-oniisan/saint-oniisan-17.webp",
+      "pages": 130,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "神自己跳進藍色的油漆桶，企圖成為代表某SNS的「青鳥」。他令人意外的目的究竟是……？明明身在天國，卻像處在地獄……在忙碌尖峰的「綜合天界聯盟」工作的煩惱的帥哥‧阿難陀，將有什麼告白？知名的英雌‧聖女貞德，與天界最強男子‧以色列乃山都登場，神聖度MAX的耶穌與佛陀的「日常聖活」！",
+      "platform": {
+        "tongli": {
+          "id": "e94d4a7e-d3b8-43b2-d916-08d80208f4f0",
+          "date": "2020-06-23"
+        },
+        "kobo": {
+          "id": "X4X_GBmMYTiNUFM78VsZRA",
+          "date": "2020-07-15"
+        },
+        "bw": {
+          "id": 92397,
+          "date": "2020-07-16"
+        },
+        "readmoo": {
+          "id": "210156586000101",
+          "date": "2020-08-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151507",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-06-15",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789572653333",
+      "cover": "/saint-oniisan/saint-oniisan-18.webp",
+      "pages": 128,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「西方世界」的人們也非常煩惱的，每年的「中元贈禮問題」！佛陀收到的禮物是……？天界最具人氣的連載漫畫『大澈大悟吧！阿難陀』終於要宣告完結？令人意外的理由讓耶穌也啞口無言了…！除了可憐的惡魔‧魔羅，與邪神‧洛基，本集還有佛陀的弟子舍利弗與目犍連這對兒時玩伴組合，各種稀奇古怪的角色大集合～～☆",
+      "platform": {
+        "tongli": {
+          "id": "a87bc04d-e7e8-4ad6-033f-08d89c1a131e",
+          "date": "2020-12-28"
+        },
+        "kobo": {
+          "id": "dA295ku27D-4mMvGzagdpw",
+          "date": "2021-01-20"
+        },
+        "bw": {
+          "id": 106979,
+          "date": "2021-01-21"
+        },
+        "readmoo": {
+          "id": "210176797000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151508",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-18",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-18",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789572667811",
+      "cover": "/saint-oniisan/saint-oniisan-19.webp",
+      "pages": 132,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在這個年頭，連天界人都無法忽視的誘惑…就是成為YouTuber！然而卻有「一件事」，打擊情報傳達的守護天使‧加百列的鬥志……？另一方面，耶穌接獲天界的急件委託，看著因為不習慣遠端工作陷入苦戰的耶穌，佛陀犀利的吐槽也大爆發！最、後、則、是…超級大新聞──！『聖☆哥傳』有史以來第一個大長篇，新系列隆重誕生！天界的固定班底＆惡魔通通一起拉下水的一大企劃案，即將開始──☆",
+      "platform": {
+        "tongli": {
+          "id": "607ea12a-338d-4d1b-ab78-08d9bdfb2778",
+          "date": "2022-01-27"
+        },
+        "kobo": {
+          "id": "8zL7LaP46ziyAzsfI0V6GQ",
+          "date": "2022-02-17"
+        },
+        "bw": {
+          "id": 133171,
+          "date": "2022-02-17"
+        },
+        "readmoo": {
+          "id": "210216452000101",
+          "date": "2022-02-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151509",
+          "date": "2023-01-28",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2021-12-20",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "",
+      "cover": "/saint-oniisan/saint-oniisan-20.webp",
+      "pages": 126,
+      "authors": [
+        "中村光"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "天界與地獄共同企畫開拍的全新走馬燈\r\n「最聖☆戰隊 HOLYMEN」攝影正式開始！\r\n每個人對於週日晨間檔各自有所不同的愛讓失控逐漸升溫。\r\n不但出現主角可能被配角壓過的情形，天界甚至為佛陀準備了機器人……\r\n長篇系列終於進入最後高潮！\r\n在季節流轉之際，非常佔壁櫥空間的物品變身為付喪神！\r\n由梵天製作包裝、進行偶像活動的他們之中，\r\n也有著讓耶穌心中小鹿亂撞的成員？\r\n同時收錄史上最聖媽媽二人組的超級豪華血拚行程＆\r\n首度點外送讓超帥外送員登場的番外篇！",
+      "platform": {
+        "tongli": {
+          "id": "321c6453-aeb7-4eb5-fd6b-08db61763308",
+          "date": "2023-06-01"
+        },
+        "kobo": {
+          "id": "",
+          "date": ""
+        },
+        "bw": {
+          "id": "",
+          "date": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        }
+      }
+    }
+  ]
+}

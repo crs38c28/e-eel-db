@@ -1,0 +1,811 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "silver-spoon",
+    "series": {
+      "tongli": "b9041f2c-6a96-e811-a947-00155d020a17",
+      "kobo": "GjA1TWCk6ViMfk8r1aZ6pQ",
+      "readmoo": 2374,
+      "bw": 10423,
+      "books": "A00000053367"
+    },
+    "title": "銀之匙",
+    "originalTitle": "",
+    "authors": [
+      "荒川弘"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "校園",
+      "搞笑",
+      "料理",
+      "青春",
+      "動畫化",
+      "真人化",
+      "勵志"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861090726",
+      "cover": "/silver-spoon/silver-spoon-1.webp",
+      "pages": 192,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "原本在大都市就讀升學學校的八軒勇吾，因為某些因素，刻意前來就讀位於鄉下的農校－大蝦夷高級農業職業學校。這所學校的教育與農業為重點，前來就讀的學生也幾乎都是農家子弟，校地更是因為校內有農地、林地等設施的關係而大到不像話，對一直在都市生活的勇吾來說，是個完全沒有接觸過的環境。勇吾就開始在這個環境之中，開始渡過他的高中生活，也開始讓他接觸到他從沒接觸過的一些事情，讓他的高中生活變得更多采多姿！",
+      "platform": {
+        "tongli": {
+          "id": "a83d9a59-ac94-4f02-1af2-08d6da8b1000",
+          "date": "2019-05-31"
+        },
+        "kobo": {
+          "id": "t7U0wbbiXTyUkcDHYups-Q",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65237,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210140613000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140424",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-24",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861090733",
+      "cover": "/silver-spoon/silver-spoon-2.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在都市長大的八軒勇吾雖然會困惑猶疑，但也漸漸融入在蝦夷高農每一天的生活。季節來到了生命展現光輝的夏天。又好吃…又好臭…今年的夏天並非只是炎熱而已…",
+      "platform": {
+        "tongli": {
+          "id": "e447805f-e863-4444-1af3-08d6da8b1000",
+          "date": "2019-05-31"
+        },
+        "kobo": {
+          "id": "F3WLwUd9Jj-_9itPAcPwxw",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65238,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210140614000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140425",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861090740",
+      "cover": "/silver-spoon/silver-spoon-3.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在御影牧場的暑假…比在城鎮裡時的任何夏天都更充滿了迷惘、工作與汗水…之後八軒回到熟悉的宿舍。身邊的夥伴們一如往常地歡笑著。夏天，還尚未結束…",
+      "platform": {
+        "tongli": {
+          "id": "bf919931-7cb4-4411-1af4-08d6da8b1000",
+          "date": "2019-05-31"
+        },
+        "kobo": {
+          "id": "6mHNJBN5qD-2O9q533qkUg",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65239,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210140615000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140426",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789863175148",
+      "cover": "/silver-spoon/silver-spoon-4.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "享用生命。這不是那麼重大的事情。不過，是很重要的事情。豬丼被做成肉送回來了。八軒學習到生命的沉重。透過自己的手、自己的雙眼、自己的胃來學習…之後季節轉換。從夏天來到了秋天…",
+      "platform": {
+        "tongli": {
+          "id": "9dfb15d1-fbba-4744-1af6-08d6da8b1000",
+          "date": "2019-05-31"
+        },
+        "kobo": {
+          "id": "4jdlKhqxBjqsfIkqVSgr-A",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65240,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210140616000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140427",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789863241294",
+      "cover": "/silver-spoon/silver-spoon-5.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "大蝦夷高農的生活，是與時間的戰鬥。實習、社團活動、宿舍的工作，還有蝦夷高農祭的準備…白天的時間變得越來越短。不會拒絕別人的男人八軒也是無法拒絕別人的男人。比誰都還要忙碌的八軒的秋天，在紛雜繁忙中漸漸過去…",
+      "platform": {
+        "tongli": {
+          "id": "662e45f0-87de-42fe-1af7-08d6da8b1000",
+          "date": "2019-05-31"
+        },
+        "kobo": {
+          "id": "EBUGc5Xr-zG9gLeUOTVomA",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 65241,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210140617000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140428",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-19",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789863248859",
+      "cover": "/silver-spoon/silver-spoon-6.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在與無法用言語溝通的搭檔心靈相通的情況下……此刻躍上高空，就會看到前所未見的景色。這就是馬術……雖然早就習慣考試了，卻是第一次比賽。八軒勇吾的首次比賽即將開始……跟別人競爭，就等於正視自己。",
+      "platform": {
+        "tongli": {
+          "id": "0b8e757f-4a86-47a2-1b3e-08d6da8b1000",
+          "date": "2019-06-19"
+        },
+        "kobo": {
+          "id": "LfDvsKwMNTeyRx93WeYJHA",
+          "date": "2019-07-10"
+        },
+        "bw": {
+          "id": 66867,
+          "date": "2019-07-11"
+        },
+        "readmoo": {
+          "id": "210140618000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140429",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789863324898",
+      "cover": "/silver-spoon/silver-spoon-7.webp",
+      "pages": 174,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "重要的舞台……站在這裡的人並不是小丑。無論是有夢想的人，還是沒有夢想的人，每個人都有自己的仗要打，也會受到挫折。如果這就是青春，那麼蝦夷高農就是青春的集中地。八軒所流下的汗水與淚水滾燙又苦澀……",
+      "platform": {
+        "tongli": {
+          "id": "d1decab3-d6ea-426e-1b3f-08d6da8b1000",
+          "date": "2019-06-19"
+        },
+        "kobo": {
+          "id": "ILUzHdBjDjG9Nz23XFcnBA",
+          "date": "2019-07-10"
+        },
+        "bw": {
+          "id": 66868,
+          "date": "2019-07-11"
+        },
+        "readmoo": {
+          "id": "210140619000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140430",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863371212",
+      "cover": "/silver-spoon/silver-spoon-8.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "雖然很嚴苛，但酪農很有趣！農業說不定還蠻棒的！本來是這麼想的…但現實之中並不是只有美妙的事情。總是有一些痛苦、不甘心但又無可奈何的事情。當親眼看到夢想凋零的瞬間時，是否還是能夠想讓自己保持堅強呢…",
+      "platform": {
+        "tongli": {
+          "id": "80020817-aaa4-4b35-1b40-08d6da8b1000",
+          "date": "2019-06-19"
+        },
+        "kobo": {
+          "id": "Q4vg242FBjOYDD-C9qPAcQ",
+          "date": "2019-07-10"
+        },
+        "bw": {
+          "id": 66869,
+          "date": "2019-07-11"
+        },
+        "readmoo": {
+          "id": "210140620000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140431",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863376507",
+      "cover": "/silver-spoon/silver-spoon-9.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "曾經逃避過。如今則是在努力。牛奶是由某人從某人養的牛體內擠出來之後，再由某人出貨的，這是從酪農身上所學到的事情。從哪裡來？又要去哪裡…不管是過去如何走來，還是即將面臨的將來都很重要。八軒勇吾為了未來而勇敢面對過去…",
+      "platform": {
+        "tongli": {
+          "id": "fb6b4a39-02ac-48f0-1b41-08d6da8b1000",
+          "date": "2019-06-19"
+        },
+        "kobo": {
+          "id": "H5yaTn1F-DWqrL9zlqiAEQ",
+          "date": "2019-07-10"
+        },
+        "bw": {
+          "id": 66870,
+          "date": "2019-07-11"
+        },
+        "readmoo": {
+          "id": "210140621000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140432",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-31",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789863482345",
+      "cover": "/silver-spoon/silver-spoon-10.webp",
+      "pages": 196,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一年之計在於元旦，以前的人說得?好。吃手桿蕎麥麵跨年，吃現搗年糕慶祝新年。一切的材料都是自產自銷。這就是大蝦夷高農的風格！所以八軒了解到先人們的偉大…同時也對自己的價值感到困惑…自己的價值到底是高貴還是低廉？",
+      "platform": {
+        "tongli": {
+          "id": "da7e13d7-fc48-4302-1b42-08d6da8b1000",
+          "date": "2019-06-19"
+        },
+        "kobo": {
+          "id": "CF9x97gzKTOmNjWgdzRKtA",
+          "date": "2019-07-10"
+        },
+        "bw": {
+          "id": 66871,
+          "date": "2019-07-11"
+        },
+        "readmoo": {
+          "id": "210140622000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140433",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-23",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789863487272",
+      "cover": "/silver-spoon/silver-spoon-11.webp",
+      "pages": 174,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "翁蛉玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "春天就要到來，要搬離蝦夷高農宿舍的日子也越來越近了…\r\n拖著疲憊的身體，如爛泥般躺著就睡著的床…\r\n填滿因實習跟社團活動而餓到不行的胃的食堂…\r\n互相分享好事與討厭的事的夥伴們…\r\n還有其他大豐收的回憶…\r\n蝦夷高農的這一年，有著濃郁的滋味。",
+      "platform": {
+        "tongli": {
+          "id": "bb529f38-ab2e-4fb2-b901-08d6fa0ca1ea",
+          "date": "2019-07-04"
+        },
+        "kobo": {
+          "id": "MqGFeR2U5T68cOMPOLZAZg",
+          "date": "2019-07-24"
+        },
+        "bw": {
+          "id": 67561,
+          "date": "2019-07-25"
+        },
+        "readmoo": {
+          "id": "210140623000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140434",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-21",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789863656548",
+      "cover": "/silver-spoon/silver-spoon-12.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "翁蛉玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "談論夢想的傢伙最惹人厭。\r\n對有目標的人感到很火大。\r\n原本很討厭那樣嫌人家的自己，但現在不一樣。\r\n在北部的大地度過的一年，可不是都在混日子。\r\n慢慢找到想做的事，\r\n也最想知道在過了寒冷的冬天後，自己究竟成長多少的人是八軒。",
+      "platform": {
+        "tongli": {
+          "id": "b2912e85-f640-4502-b902-08d6fa0ca1ea",
+          "date": "2019-07-04"
+        },
+        "kobo": {
+          "id": "PBZH82tfNjWld1HklAlI_w",
+          "date": "2019-07-24"
+        },
+        "bw": {
+          "id": 67562,
+          "date": "2019-07-25"
+        },
+        "readmoo": {
+          "id": "210140624000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140435",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-21",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789864316977",
+      "cover": "/silver-spoon/silver-spoon-13.webp",
+      "pages": 174,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "翁蛉玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "牛、豬或雞…要好好飼育大是需要花時間的。\r\n馬鈴薯、蘆筍或香菇…也都要靠人細心照料才能栽種出來。\r\n在大蝦夷農業高中日漸茁壯的八軒們，是否也變得很美味了呢…\r\n主餐現在才正要上桌。",
+      "platform": {
+        "tongli": {
+          "id": "837ca2be-8d0c-46a1-b903-08d6fa0ca1ea",
+          "date": "2019-07-04"
+        },
+        "kobo": {
+          "id": "hYk9KU7pnzuYC9frGTJx9w",
+          "date": "2019-07-24"
+        },
+        "bw": {
+          "id": 67563,
+          "date": "2019-07-25"
+        },
+        "readmoo": {
+          "id": "210140625000101",
+          "date": "2020-05-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140436",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-06-21",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789864867097",
+      "cover": "/silver-spoon/silver-spoon-14.webp",
+      "pages": 190,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "翁蛉玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "原本只是為了逃避才來蝦夷高農的，沒想到卻在這裡獲得了很多重要的東西。有了創業這個目標、一同攜手合作的夥伴，以及想傳遞心意的對象…雖然有些辛苦，但他決定從正面迎戰這一切！這就是八軒的風格。",
+      "platform": {
+        "tongli": {
+          "id": "8b893941-7a69-40d0-b904-08d6fa0ca1ea",
+          "date": "2019-07-04"
+        },
+        "kobo": {
+          "id": "Sv76_ZCXvj2kXYV1NOgIvA",
+          "date": "2019-07-24"
+        },
+        "bw": {
+          "id": 67564,
+          "date": "2019-07-25"
+        },
+        "readmoo": {
+          "id": "210140626000101",
+          "date": "2020-05-06",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050140437",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-07-01",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789572650233",
+      "cover": "/silver-spoon/silver-spoon-15.webp",
+      "pages": 210,
+      "authors": [
+        "荒川弘"
+      ],
+      "translators": [
+        "翁蛉玲"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)曾經對將來感到迷惘，也討厭夢想的少年，不知不覺開始朝著自己的目標不停向前衝，還變成會在夥伴們的背後推他們一把的推手─…充滿汗水與淚水還有泥土的故事，在此將堂堂進入完結篇！",
+      "platform": {
+        "tongli": {
+          "id": "9959440b-d291-4500-0349-08d89c1a131e",
+          "date": "2020-12-29"
+        },
+        "kobo": {
+          "id": "OoVn_top8D2Xhy-ZdShtow",
+          "date": "2021-01-20"
+        },
+        "bw": {
+          "id": 107018,
+          "date": "2021-01-21"
+        },
+        "readmoo": {
+          "id": "210176804000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050140438",
+          "date": "2022-08-22",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-21",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-12-08",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

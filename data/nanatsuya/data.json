@@ -1,0 +1,251 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "nanatsuya",
+    "series": {
+      "tongli": "1b37132c-6a96-e811-a947-00155d020a17",
+      "kobo": "8Ohc1lgOWFWVSRNY-5WdoA",
+      "readmoo": 6047,
+      "bw": 14117
+    },
+    "title": "當鋪千金的珠寶盒",
+    "originalTitle": "",
+    "authors": [
+      "二ノ宮知子"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "戀愛",
+      "溫馨",
+      "職業"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864623495",
+      "cover": "/nanatsuya/nanatsuya-1.webp",
+      "pages": 168,
+      "authors": [
+        "二ノ宮知子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "在一個夜裡，一對神秘祖孫造訪當鋪倉田屋。北上家曾經是歷史名門，但如今四分五裂，北上章子欲將其孫子．北上顯定典當。當鋪老闆．倉田聲明若三年之内不来贖回，就要讓顯定跟自己的外孫女．志乃舞訂婚…十幾年後，顯定成為高級寶石店的到府服務人員，志乃舞則在自家當鋪工作，志乃舞對寶石的感應力神準，令顯定無法接受…。",
+      "platform": {
+        "tongli": {
+          "id": "42c7c967-4d94-480b-abac-08d8507cfeee",
+          "date": "2020-09-07"
+        },
+        "kobo": {
+          "id": "vyp8AQPdNzO97Sr4CVn1aA",
+          "date": "2020-09-30"
+        },
+        "bw": {
+          "id": 98203,
+          "date": "2020-10-01"
+        },
+        "readmoo": {
+          "id": "210171629000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-04",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-04",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864623501",
+      "cover": "/nanatsuya/nanatsuya-2.webp",
+      "pages": 164,
+      "authors": [
+        "二ノ宮知子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "阿顯和鷹先生是什麼關係？當鋪千金‧志乃舞有個外公擅自決定的未婚夫‧顯定。在高級寶石店擔任到府服務人員的顯定，有著志乃舞所不知道的「神秘面」！他與朋友兼寶石設計師鷹臣合作，暗中尋找「紅色寶石」…？激烈爭吵的遺產繼承、在二手市場的拍賣大戰，「幸運的寶石」的秘密……等等，都收錄在本書之中。新的二ノ宮知子世界全開！",
+      "platform": {
+        "tongli": {
+          "id": "90daf544-3b2d-43d8-5586-08d852d4d309",
+          "date": "2020-10-05"
+        },
+        "kobo": {
+          "id": "ihi1fJaFXT-ZDAghNjw8Xg",
+          "date": "2020-11-04"
+        },
+        "bw": {
+          "id": 100982,
+          "date": "2020-11-05"
+        },
+        "readmoo": {
+          "id": "210171630000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-09-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789864823628",
+      "cover": "/nanatsuya/nanatsuya-3.webp",
+      "pages": 160,
+      "authors": [
+        "二ノ宮知子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "多年前全家離散的望族‧北上家的繼承人顯定與志同道合的寶石設計師‧鷹臣，一起尋找北上家代代相傳的「幸運的紅石頭」。他選上的下一個調查對象是望族‧古河家。古河家的兒子也是志乃舞的石友（礦石之友）。與古河家接觸的過程中，認識北上家與顯定的人物出現了…？這能否成為找到「紅石頭」的關鍵線索呢？",
+      "platform": {
+        "tongli": {
+          "id": "1769def0-e461-4fe7-f5f2-08d87417e82e",
+          "date": "2020-11-02"
+        },
+        "kobo": {
+          "id": "Fe5xADAiljyrouv4-fwb-g",
+          "date": "2020-11-18"
+        },
+        "bw": {
+          "id": 101867,
+          "date": "2020-11-19"
+        },
+        "readmoo": {
+          "id": "210171631000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-10-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789864861378",
+      "cover": "/nanatsuya/nanatsuya-4.webp",
+      "pages": 162,
+      "authors": [
+        "二ノ宮知子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "顯定與夥伴鷹臣和神秘人物．虎徹一起尋找「幸運的紅色石頭」。有一天，一名女子來到寶石設計師鷹臣的店裡，想要特別訂製珠寶。鷹臣開心地按客人狂熱的要求設計寶石，但志乃舞看到客人帶來的鑽石，覺得不太對勁…那名女子到底是何許人物？",
+      "platform": {
+        "tongli": {
+          "id": "ef9db8c6-0d05-4237-7ad3-08d890f7411d",
+          "date": "2020-12-03"
+        },
+        "kobo": {
+          "id": "AgEPX_zXBjW7kvV8a_jUbg",
+          "date": "2020-12-23"
+        },
+        "bw": {
+          "id": 104630,
+          "date": "2020-12-24"
+        },
+        "readmoo": {
+          "id": "210171632000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-11-30",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572693940",
+      "cover": "/nanatsuya/nanatsuya-5.webp",
+      "pages": 160,
+      "authors": [
+        "二ノ宮知子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "喜歡美麗的事物，就是人類的文化。顯定任職的寶石品牌「杜加利」的新代言人，是當紅的模特兒乃和。透過工作而結識的顯定與乃和，覺得彼此互動有共鳴而距離愈來愈近。可是志乃舞和鷹臣有點擔心……？乃和喜歡可以蓋過一切事物的「黑」，她身上好像有什麼秘密！？",
+      "platform": {
+        "tongli": {
+          "id": "6352a1e4-04db-4e31-7d67-08da26676f2b",
+          "date": "2022-05-05"
+        },
+        "kobo": {
+          "id": "Y1761IE4wzGDJcIYUR3DZQ",
+          "date": "2022-05-19"
+        },
+        "bw": {
+          "id": 139830,
+          "date": "2022-05-19"
+        },
+        "readmoo": {
+          "id": "210231194000101",
+          "date": "2022-05-18",
+          "version": "1.000"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-04-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-04-27",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "kakukaku-shikajika",
+    "series": {
+      "tongli": "d62d132c-6a96-e811-a947-00155d020a17",
+      "kobo": "K2y4N7PE61SsD9x3NKHLpw",
+      "readmoo": 3107,
+      "bw": 10289,
+      "books": "A00000048779"
+    },
+    "title": "塗鴉日記",
+    "originalTitle": "",
+    "authors": [
+      "東村明子"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "感人",
+      "勵志",
+      "搞笑"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789863482734",
+      "cover": "/kakukaku-shikajika/kakukaku-shikajika-1.webp",
+      "pages": 154,
+      "authors": [
+        "東村明子"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "從小夢想當少女漫畫家的高三學生．林明子，自以為自己很會畫圖，成天傻呼呼地以為夢想垂手可得。直到有一天她碰到了拿著竹刀、超嚴格的繪畫老師－－日高健三。日高老師狠狠地教訓了明子，並為了讓明子順利考上大學而展開斯巴達式的嚴厲指導！明子究竟能不能開竅？描繪作者夢想成為少女漫畫家的年輕時代，引人入勝的塗鴉回憶錄！(2014年4月14日上市)",
+      "platform": {
+        "tongli": {
+          "id": "4cfbae5d-abbb-43dc-00ae-08d6d1cf23ca",
+          "date": "2019-05-13"
+        },
+        "kobo": {
+          "id": "ZrNvoV8ZtTGIkXrkGwqFcA",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 64629,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210138270000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124350",
+          "date": "2022-03-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-04-19",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789863482741",
+      "cover": "/kakukaku-shikajika/kakukaku-shikajika-2.webp",
+      "pages": 154,
+      "authors": [
+        "東村明子"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在日高老師的嚴格磨練下，明子終於考上夢寐以求的美術大學，成為金澤美術大學油畫科的學生。朝夢想邁進了一步的明子，進入大學以後卻陷入低潮期，不但無心畫圖上課，還整天只知玩樂…她能夠迷途知返、突破低潮嗎！？\r\n",
+      "platform": {
+        "tongli": {
+          "id": "c542428e-106b-4897-00b0-08d6d1cf23ca",
+          "date": "2019-05-13"
+        },
+        "kobo": {
+          "id": "Z8FLUD1I9zit27LQwnRzIA",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 64630,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210138271000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124351",
+          "date": "2022-03-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789863482758",
+      "cover": "/kakukaku-shikajika/kakukaku-shikajika-3.webp",
+      "pages": 154,
+      "authors": [
+        "東村明子"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "明子自美術大學畢業以後，找不到工作，只好回宮崎老家。這時候，明子與日高老師重逢…\r\n\r\n描繪自己以前嚮往成為少女漫畫家的那段時光，東村アキコ老師的漫畫回憶錄第三彈來了！\r\n",
+      "platform": {
+        "tongli": {
+          "id": "c7e4b534-2087-4c2c-00b1-08d6d1cf23ca",
+          "date": "2019-05-13"
+        },
+        "kobo": {
+          "id": "eBFUzXqL3TKIOfbhoRkoWg",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 64631,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210138272000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124352",
+          "date": "2022-03-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-06",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789863653592",
+      "cover": "/kakukaku-shikajika/kakukaku-shikajika-4.webp",
+      "pages": 154,
+      "authors": [
+        "東村明子"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "明子終於實現了夢想，成為漫畫家。她將所有心思放在漫畫上，不再繼續繪畫。為了專心畫漫畫，明子決定搬離故鄉宮崎、離開日高老師。\r\n描繪自己剛走上少女漫畫家之路的那段時光，東村アキコ老師的精彩回憶錄第四彈，開幕！",
+      "platform": {
+        "tongli": {
+          "id": "8a9e7cb4-2278-42bf-00b2-08d6d1cf23ca",
+          "date": "2019-05-13"
+        },
+        "kobo": {
+          "id": "R91Lk251ZzO58hKUadcCFw",
+          "date": "2019-06-12"
+        },
+        "bw": {
+          "id": 64632,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210138273000101",
+          "date": "2020-04-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124353",
+          "date": "2022-03-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-05-07",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789864313761",
+      "cover": "/kakukaku-shikajika/kakukaku-shikajika-5.webp",
+      "pages": 146,
+      "authors": [
+        "東村明子"
+      ],
+      "translators": [
+        "林佳祥"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)明子出道成為漫畫家以後，每天在大阪辛勤地畫漫畫。有一天得知日高老師竟然罹癌，並只剩四個月的時間。老師要求明子回宮崎接手教室，指導學生們應考美大，但明子手上卻有大量原稿要趕。前途與恩師，她該如何抉擇！？",
+      "platform": {
+        "tongli": {
+          "id": "d62d1d7d-31cc-42f0-a003-08d72478aee2",
+          "date": "2019-09-02"
+        },
+        "kobo": {
+          "id": "8O8HTQFQ4zKPQwvh6YD_pA",
+          "date": "2019-09-18"
+        },
+        "bw": {
+          "id": 72509,
+          "date": "2019-09-19"
+        },
+        "readmoo": {
+          "id": "210138274000101",
+          "date": "2020-04-22",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050124354",
+          "date": "2022-03-18",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-27",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

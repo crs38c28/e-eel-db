@@ -1,0 +1,945 @@
+{
+  "lastModifiedDate": "2023-06-10",
+  "detail": {
+    "slug": "yuyu-hakusho",
+    "series": {
+      "tongli": "242e132c-6a96-e811-a947-00155d020a17",
+      "kobo": "IxhIboZ3jVCcF8oy1N8bKQ",
+      "readmoo": 1873,
+      "bw": 10876,
+      "books": "A00000045087",
+      "pubu": {
+        "store": 4538213,
+        "id": "幽遊白書完全版"
+      }
+    },
+    "title": "幽遊白書完全版",
+    "originalTitle": "",
+    "authors": [
+      "冨樫義博"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "奇幻",
+      "動畫化",
+      "冒險",
+      "戰鬥",
+      "武俠"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861087061",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-1.webp",
+      "pages": 250,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！ 收錄： ●冨樫義博老師繪製共15冊全新封面 ●每冊收錄！冨樫義博老師繪製全新彩頁 ●連載時期雜誌彩頁完全重現  ",
+      "platform": {
+        "tongli": {
+          "id": "a05abe57-66a9-4684-9fae-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "Hwu1hoKEXDWYeX-GwEFUFA",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70284,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121874000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113985",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343103,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 224
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-08-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-07-15",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861087078",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-2.webp",
+      "pages": 253,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！ 收錄： ●冨樫義博老師繪製共15冊全新封面 ●每冊收錄！冨樫義博老師繪製全新彩頁 ●連載時期雜誌彩頁完全重現 ",
+      "platform": {
+        "tongli": {
+          "id": "ae114ab4-b265-401a-9faf-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "r9kbfmF6mzKqcyP5l5hj_Q",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70285,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121875000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113986",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343104,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 239
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-13",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861087085",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-3.webp",
+      "pages": 250,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "本書是描寫主角浦飯幽助的離奇命運。幽助為了救孩童而發生車禍，瞬間變成幽靈，由於他死於意外，命不該絕，因此閻王給予其接受復活考驗的機會。那就是隨著靈界引導者牡丹，去幫助煩惱的人或靈魂們。 解決了許多事件後，靈界會議決定讓他的靈魂返回原本的身體，然而，這卻是新的考驗，幽助成為靈界偵探，開始逮捕靈界犯罪，會發生什麼事件呢？",
+      "platform": {
+        "tongli": {
+          "id": "6f14e5d0-6085-42a5-9fb0-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "v3klEOBeeDGRFSANnBpQHg",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70286,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121876000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113987",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343105,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 238
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-19",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861087092",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-4.webp",
+      "pages": 248,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！ ",
+      "platform": {
+        "tongli": {
+          "id": "90ced93f-cc86-47b9-9fb1-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "u3c6BITPozyXuk4kiNM_SQ",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70287,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121877000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113988",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343106,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 237
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-19",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861087108",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-5.webp",
+      "pages": 245,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！ ",
+      "platform": {
+        "tongli": {
+          "id": "bca7918a-7982-4a6d-9fb2-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "5_ECfoafRju5I4IRjFmXDA",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70288,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121878000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113989",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343107,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 226
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-19",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861087115",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-6.webp",
+      "pages": 241,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！  ",
+      "platform": {
+        "tongli": {
+          "id": "09b102b1-a905-4355-9fb3-08d72478aee2",
+          "date": "2019-08-20"
+        },
+        "kobo": {
+          "id": "PAlNHiaJyjCemwdsZIOl5w",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70289,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121879000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113990",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343108,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 181
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-19",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861087122",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-7.webp",
+      "pages": 234,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "beee6c45-a286-4a97-9fb7-08d72478aee2",
+          "date": "2019-08-21"
+        },
+        "kobo": {
+          "id": "2CqKoUOrRT-tZJK-mVTnTA",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70290,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121880000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113991",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343109,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 187
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-20",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861087139",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-8.webp",
+      "pages": 246,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "fac833a1-f62a-468b-9fb9-08d72478aee2",
+          "date": "2019-08-21"
+        },
+        "kobo": {
+          "id": "kameBfTZHzeDhIr0ANU4pQ",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70291,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121881000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113992",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343110,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 190
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-20",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861087146",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-9.webp",
+      "pages": 250,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝、余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "3aab6df5-3be7-4881-9fb8-08d72478aee2",
+          "date": "2019-08-21"
+        },
+        "kobo": {
+          "id": "yICOZIv2gTafF88jy-5qKQ",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70292,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121882000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113993",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343111,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 174
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-20",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861087153",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-10.webp",
+      "pages": 249,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝、余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "7e00e1c6-3635-4083-9fbc-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "cjUEfWQyuDq1jPpS6Q_0-g",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70293,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121883000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113994",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343112,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 188
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-20",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861087160",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-11.webp",
+      "pages": 246,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "f9a07310-aaa5-4339-9fc5-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "z5f7EB1mIzGLpmUxACJR_A",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70294,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121884000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113995",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343113,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 188
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-21",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861087177",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-12.webp",
+      "pages": 246,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "74a4655d-7907-4657-9fc6-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "pKLyi-ShEzS41mhw4BglCg",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70295,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121885000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113996",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343114,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 166
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-21",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861087184",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-13.webp",
+      "pages": 246,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝、余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "ec2d4431-a9d4-4c29-9fc7-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "NiioqtIGBTWxA2k8yIn6wg",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70296,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121886000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113997",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343115,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 180
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-21",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861087191",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-14.webp",
+      "pages": 248,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "林宗暉",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "b2081b71-98a3-444f-9fc8-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "ZqsiUaZsaDm75CN43B8xSQ",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70297,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210121887000101",
+          "date": "2019-12-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113998",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343116,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 169
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-21",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861087207",
+      "cover": "/yuyu-hakusho/yuyu-hakusho-15.webp",
+      "pages": 248,
+      "authors": [
+        "冨樫義博"
+      ],
+      "translators": [
+        "鄭禎姝",
+        "余思霈"
+      ],
+      "nsfw": false,
+      "price": 180,
+      "description": "(完結篇) 傳奇經典《幽☆遊☆白書完全版》熱血登場 穿梭陰陽兩界的熱血故事轟然展開！",
+      "platform": {
+        "tongli": {
+          "id": "b15922a7-fe9a-423d-9fc9-08d72478aee2",
+          "date": "2019-08-22"
+        },
+        "kobo": {
+          "id": "TVQw1YlUOjuCA2K04oQf-Q",
+          "date": "2019-09-11"
+        },
+        "bw": {
+          "id": 70298,
+          "date": "2019-09-12"
+        },
+        "readmoo": {
+          "id": "210123739000101",
+          "date": "2019-12-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113999",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 343117,
+          "date": "2023-03-10",
+          "type": [
+            "epub"
+          ],
+          "size": 163
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2019-08-21",
+          "width": 1120,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

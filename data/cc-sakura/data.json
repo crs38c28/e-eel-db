@@ -1,0 +1,496 @@
+{
+  "lastModifiedDate": "2023-06-11",
+  "detail": {
+    "slug": "cc-sakura",
+    "series": {
+      "tongli": "b237132c-6a96-e811-a947-00155d020a17",
+      "kobo": "3MIu14NUNFODqryaUeLx7w",
+      "readmoo": 3559,
+      "bw": 13082,
+      "books": "A00000044963"
+    },
+    "title": "庫洛魔法使 愛藏版",
+    "originalTitle": "",
+    "authors": [
+      "CLAMP"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "tags": [
+      "奇幻",
+      "校園",
+      "動畫化",
+      "魔法"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864829682",
+      "cover": "/cc-sakura/cc-sakura-1.webp",
+      "pages": 254,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小學四年級女生．木之本櫻，偶然打開了父親書庫裡的一本古書，喚醒沉眠於書本封面的「封印獸」可魯貝洛斯，而被牠賦予重任。那就是以「庫洛魔法使」的身份，找回失蹤的「庫洛牌」，保護世界免於受到庫洛牌帶來的災難侵害！於是，小櫻、小櫻的好友知世，以及封印獸可魯貝洛斯，共同展開了一段驚險刺激的「尋找庫洛牌」生活……\r\n",
+      "platform": {
+        "tongli": {
+          "id": "6c29f8fc-e19c-4152-02db-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "JSdWm3bwiTWhKMr2ymARmg",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88738,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153102000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113219",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-23",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864829699",
+      "cover": "/cc-sakura/cc-sakura-2.webp",
+      "pages": 254,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小櫻和可魯仍在努力收集庫洛牌，此時學校轉來一個香港的轉學生．李小狼。不知為何對小櫻充滿敵意的李小狼，原來是庫洛．里多母親的娘家．李家的子孫，也就是庫洛的遠房親戚！而他此行來到日本的目的，也是為了收集庫洛牌……",
+      "platform": {
+        "tongli": {
+          "id": "24e0afae-3c02-4ec2-02dc-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "plVr7GscqjmA9V78vn7TxA",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88739,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153103000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113220",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789864829705",
+      "cover": "/cc-sakura/cc-sakura-3.webp",
+      "pages": 232,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小櫻的學校裡來了一位名叫觀月歌帆的新任算數老師，小櫻很喜歡這位漂亮又溫柔的女老師，但是李小狼卻因為她身上強大的力量，對她戒心十足。這一天，當小櫻和李小狼同時來到神社想買護身符時，一座迷宮突然出現，困住他們……\r\n",
+      "platform": {
+        "tongli": {
+          "id": "6a59a343-043f-42c0-02dd-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "AYKCYJYm_jWE4Uegi5rKiw",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88740,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153104000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113221",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789864829712",
+      "cover": "/cc-sakura/cc-sakura-4.webp",
+      "pages": 230,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "時間來到十二月，友枝小學將舉辦成果發表會！正當小櫻的班級演出話劇時，突然出現一片黑暗籠罩了整個空間！在黑暗中孤立無援的小櫻，能否猜出這是哪張庫洛牌做的好事，順利解救大家？而觀月老師與可魯的對話，又會帶來什麼變數？\r\n",
+      "platform": {
+        "tongli": {
+          "id": "832b675f-a7a1-492b-02de-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "cENrz6i_rDq4YWvKI_iMtA",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88741,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153105000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113222",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789864829729",
+      "cover": "/cc-sakura/cc-sakura-5.webp",
+      "pages": 234,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小櫻終於封印最後一張庫洛牌『地』，將所有庫洛牌收集齊全。而此時，雪兔卻突然變身為庫洛牌的另一個守護者，『審判者．月』。考驗小櫻是否適合成為庫洛牌持有者的「最後的審判」就此展開，小櫻能否在不做攻擊的前提下戰勝月，通過最後的審判並阻止『災難』降臨於世？\r\n",
+      "platform": {
+        "tongli": {
+          "id": "4418ea64-89ba-452d-02df-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "Fp4K_OmTnDKuieGa0IGcMA",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88742,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153106000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113223",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789864829736",
+      "cover": "/cc-sakura/cc-sakura-6.webp",
+      "pages": 228,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小櫻順利通過月的審判，成為庫洛牌的新任主人後，友枝町又開始發生怪事，而庫洛牌居然不管用了！於是小櫻運用自己的「星辰」之力，將庫洛牌改造成專屬於自己的「小櫻牌」，終於解決怪事。另一方面，小櫻班上來了一個名叫柊澤艾里歐的轉學生，他的身份似乎並不單純……？",
+      "platform": {
+        "tongli": {
+          "id": "c16bdd44-deeb-4285-02e0-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "5oWFCGoOWTeCEscSUv2Usw",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88743,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153107000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113224",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789864829743",
+      "cover": "/cc-sakura/cc-sakura-7.webp",
+      "pages": 230,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "小櫻的魔力不足以維持月的存在，導致月的假象雪兔這段時間一直精神不濟，甚至到了走在路上也會毫無預警昏睡的地步。小櫻對此一無所知，而桃矢雖然知道緣由，卻苦無機會對雪兔說出實情。再加上奈久留為了得到桃矢的魔力而總是伺機搗亂，使得情況越來越糟……",
+      "platform": {
+        "tongli": {
+          "id": "8d2fb0cb-0fcd-4551-02e1-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "CqZUCJaSCD28hA8NUbbOqQ",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88744,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153108000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113225",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789864829750",
+      "cover": "/cc-sakura/cc-sakura-8.webp",
+      "pages": 244,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "隨著小櫻一次次解決怪事，將庫洛牌變化成小櫻牌，她的魔力也逐漸增強。但是局勢變得更加撲朔迷離，每一次怪事發生都會出現庫洛的氣息，而小櫻夢見庫洛臨終之時的情景，居然和可魯以及月的記憶有所出入。在背後操控這一切的究竟是誰、又有何目的？",
+      "platform": {
+        "tongli": {
+          "id": "2e5ee35f-f53c-4268-02e2-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "JezcMXVJQzWvglNVQ1K0kQ",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88745,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153109000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113226",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789864829767",
+      "cover": "/cc-sakura/cc-sakura-9.webp",
+      "pages": 294,
+      "authors": [
+        "CLAMP"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 120,
+      "description": "來自英國的轉學生柊澤艾里歐竟然是一連串怪事的幕後黑手！他讓黑暗籠罩天空，聲稱如果小櫻無法破解他的魔法、驅散黑暗，所有人都將沉睡到永遠！小櫻無法硬下心腸攻擊朋友，但是情況越來越不利，小櫻終於做出決斷。然後隨著事件落幕，道別的時候也到來了……",
+      "platform": {
+        "tongli": {
+          "id": "833a091f-30bf-4000-02e3-08d7ea955e5c",
+          "date": "2020-05-01"
+        },
+        "kobo": {
+          "id": "dkAWb11hojGv5a7FWO-g2w",
+          "date": "2020-05-20"
+        },
+        "bw": {
+          "id": 88746,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210153110000101",
+          "date": "2020-07-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050113227",
+          "date": "2021-11-15",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}
