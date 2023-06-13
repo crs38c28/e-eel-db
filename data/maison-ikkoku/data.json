@@ -1,0 +1,884 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "maison-ikkoku",
+    "series": {
+      "kobo": "bHtKR6lNdlKrVuB_AGm2pA",
+      "readmoo": 10408,
+      "bw": 19281,
+      "books": "A00000056482",
+      "pubu": {
+        "store": 29038,
+        "id": "相聚一刻 新裝版"
+      }
+    },
+    "title": "相聚一刻 新裝版",
+    "originalTitle": "",
+    "authors": [
+      "高橋留美子"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "日常",
+      "真人化",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "9786263010086",
+      "cover": "/maison-ikkoku/maison-ikkoku-1.webp",
+      "pages": 218,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "被超有個性的一刻館房客們玩弄、\n考試準備也不盡人意的重考生五代裕作，\n有一天，在他與房客們面前，\n出現了一位神秘的管理員音無響子！\n描繪在最險惡的公寓中綻放、最浪漫的愛情故事，\n終於以新裝版再度復活！",
+      "platform": {
+        "kobo": {
+          "id": "PzfdpMFvRD-sUsKW48tamA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149984,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252017000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144939",
+          "date": "2018-07-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325059,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 172
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-12",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "9786263010093",
+      "cover": "/maison-ikkoku/maison-ikkoku-2.webp",
+      "pages": 226,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代愛上以管理人身分來到一刻館的響子，\n同時為了實現這段身分懸殊的愛而奮戰不懈。\n然而響子對亡夫一郎卻依然念念不忘，\n甚至還出現了情敵三鷹…\n波折不斷的愛情喜劇登場！！",
+      "platform": {
+        "kobo": {
+          "id": "iE1y4hHNPTWWm_yWo41WjA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149985,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252018000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144940",
+          "date": "2018-07-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325060,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 183
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-12",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "9786263010109",
+      "cover": "/maison-ikkoku/maison-ikkoku-3.webp",
+      "pages": 230,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "情敵三鷹、加上情繫五代的小梢，\n演變成不斷反覆進退的四角關係！？\n就連響子的雙親也展開了「奪回響子計畫」…\n圍繞著五代與響子的愛情，\n模樣變得更混沌了！？",
+      "platform": {
+        "kobo": {
+          "id": "XJqUEozNSjCExtENILNe1g",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149986,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252019000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144941",
+          "date": "2018-07-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325064,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 174
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-12",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "9786263010598",
+      "cover": "/maison-ikkoku/maison-ikkoku-4.webp",
+      "pages": 244,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代因為誤解而負氣離開一刻館…\n沒想到，在一刻館外等待著五代的，\n是更加悲慘的日子！\n好想回去…偏偏回不去…好想回去…偏偏回不去…\n好想回去那個有響子在的一刻館啊！",
+      "platform": {
+        "kobo": {
+          "id": "QbeNGkG7KTK81NK-zyEiOg",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149987,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252020000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144942",
+          "date": "2018-07-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325066,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 182
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-12",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "9786263010116",
+      "cover": "/maison-ikkoku/maison-ikkoku-5.webp",
+      "pages": 230,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "新的一年降臨一刻館！\n住戶們都外出不在…\n還以為…這下總算可以和響子單獨相處了！\n五代、響子、再加上三鷹、小梢，\n這段四角關係保證令你目不轉睛！",
+      "platform": {
+        "kobo": {
+          "id": "q5CgEbuQozCw2Wp9hoD4Og",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149988,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252021000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144943",
+          "date": "2018-07-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325069,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 170
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-13",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "9786263010123",
+      "cover": "/maison-ikkoku/maison-ikkoku-6.webp",
+      "pages": 232,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代的奶奶來了！\n\n她在一刻館住下來的理由是…\n\n想和愛孫生活在一起？\n\n還是因為單純覺得有趣！？\n\n不管原因為何，層出不窮的怪事，\n\n是否會阻礙響子和五代的戀情發展呢…！？",
+      "platform": {
+        "kobo": {
+          "id": "_wxrlz_qWzOwG4ra0QPqLg",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149989,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252022000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144944",
+          "date": "2008-08-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325071,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 176
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-13",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "9786263010130",
+      "cover": "/maison-ikkoku/maison-ikkoku-7.webp",
+      "pages": 234,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代因為骨折而住進醫院！\n\n這件事情，讓他與響子的距離縮短…\n\n卻也變得更疏遠…！？\n\n另外，被謎團所包圍的（？）\n\n一之瀨先生也終於登場了！\n\n加油吧！五代裕作！",
+      "platform": {
+        "kobo": {
+          "id": "Bk3PlX1Vmzug_CAu6ODUBw",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149990,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252023000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144945",
+          "date": "2009-01-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325072,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-13",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "9786263010512",
+      "cover": "/maison-ikkoku/maison-ikkoku-8.webp",
+      "pages": 240,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "一刻館來了一個新的房客！\n\n原本以為是個難得的正經住戶…\n\n但實際上卻並非如此的大學生‧二階堂望，\n\n與四谷不斷針鋒相對，\n\n還裝成一副無辜的樣子把事情鬧得更大…\n\n2號室這下成了一刻館新的地震震源啦！",
+      "platform": {
+        "kobo": {
+          "id": "rzP042Njkz6E46srdeXwHA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149991,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252024000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144946",
+          "date": "2009-04-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325074,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1410,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1410,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "9786263010529",
+      "cover": "/maison-ikkoku/maison-ikkoku-9.webp",
+      "pages": 232,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代裕作終於要開始實習了！\n然而，實習的地方竟然是響子的母校！\n在響子與 迨@郎邂逅的地方，\n也有一場命運的（！？）邂逅在等待著五代！\n愛上五代的女高中生．八神的出現，\n使得五代的戀情發展變得更為…混亂了！？",
+      "platform": {
+        "kobo": {
+          "id": "3tvAPSxlpDegbJAq4gPAeQ",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149992,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252025000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144947",
+          "date": "2009-05-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325077,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1418,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1418,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9786263010536",
+      "cover": "/maison-ikkoku/maison-ikkoku-10.webp",
+      "pages": 244,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代依舊被迷戀上他的女孩八神芽，/\n\n耍得團團轉。/\n\n而在情敵三鷹眼前，/\n\n也出現了美麗的相親對象明日香！/\n\n一直為了響子而展開激烈爭奪戰的兩人…/\n\n周遭即將發生大騷動了！！",
+      "platform": {
+        "kobo": {
+          "id": "7aRlFbsNjjGrtyRucp5qtA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149993,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252026000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144948",
+          "date": "2009-06-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325084,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1410,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1410,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9786263010543",
+      "cover": "/maison-ikkoku/maison-ikkoku-11.webp",
+      "pages": 232,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代目擊了三鷹與響子…/\n\n那個決定性的（？）瞬間。/\n\n那一瞬間真的是「決定性的」嗎？/\n\n…放任這件事不管，事態卻變得更加複雜！/\n\n拖到最後，在旅行的目的地獨處的五代與響子…/\n\n也面臨了兩人「決定性的」瞬間…！？",
+      "platform": {
+        "kobo": {
+          "id": "EMIt2uvniDm-J_kUViYXsA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149995,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252027000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144949",
+          "date": "2009-08-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325087,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1415,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1415,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9786263010550",
+      "cover": "/maison-ikkoku/maison-ikkoku-12.webp",
+      "pages": 232,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "三鷹終於克服了「那個弱點」，\n\n對響子發動猛烈的攻勢，\n\n但是和明日菜的親事仍然牽扯不清。\n\n五代則是依舊沒有脫離「就職難民」的狀態，\n\n最後淪落到酒廊上班。\n\n這段三角關係，即將迎向最後高潮？",
+      "platform": {
+        "kobo": {
+          "id": "h5jD9cgbFTS3Cd8LXF71Mw",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149996,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252028000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144950",
+          "date": "2009-11-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325095,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 213
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1413,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1413,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "9786263010567",
+      "cover": "/maison-ikkoku/maison-ikkoku-13.webp",
+      "pages": 224,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "保父資格考試的日子愈來愈近，/\n\n但是五代的身邊卻總是不得安寧…/\n\n三鷹則因為無法順利拒絕明日菜的婚事，\n\n而感到焦急不已…\n\n決戰之夜到來，/\n\n爭奪響子的兩個男人終於要正面對決了！！",
+      "platform": {
+        "kobo": {
+          "id": "YogOLPjebDiQWpN2oE6a9A",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149997,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252029000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144951",
+          "date": "2009-12-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325097,
+          "date": "2022-10-21",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 214
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1413,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1413,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "9786263010574",
+      "cover": "/maison-ikkoku/maison-ikkoku-14.webp",
+      "pages": 236,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "三鷹跟五代的響子爭奪戰，\n\n終於到了「決定性的時刻」…\n\n沒想到，響子與五代另一段三角關係中的主角──\n\n小梢卻在此時加入…\n\n一刻館周邊再度捲入如洶湧波濤般的\n\n戀愛暴風圈之中…！！",
+      "platform": {
+        "kobo": {
+          "id": "GJqOw7pWMjespUtVmL3cug",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149998,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252030000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144952",
+          "date": "2010-01-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325100,
+          "date": "2022-10-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 215
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1418,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1418,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)完",
+      "isbn": "9786263010581",
+      "cover": "/maison-ikkoku/maison-ikkoku-15.webp",
+      "pages": 226,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "尖端編輯群"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "五代與響子雖然確認了彼此的心意…/\n\n但是，兩人心中卻都有著難以跨越的「影子」…！/\n\n為所有值得被愛的人帶來溫暖的永遠的戀愛教科書，\n\n終於迎向最後的一頁！/\n\n充滿歡笑、淚水以及感動的精采完結篇！！",
+      "platform": {
+        "kobo": {
+          "id": "Ud7kQUBTSTa-zD_go3GPoA",
+          "date": "2022-10-20"
+        },
+        "bw": {
+          "id": 149999,
+          "date": "2022-10-22"
+        },
+        "readmoo": {
+          "id": "210252031000101",
+          "date": "2022-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050144953",
+          "date": "2010-02-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 325102,
+          "date": "2022-10-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 203
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-20",
+          "width": 1405,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1405,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

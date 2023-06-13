@@ -1,0 +1,1057 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "gaku",
+    "series": {
+      "kobo": "p917YVqCDVeZK49jatau_Q",
+      "readmoo": 1426,
+      "bw": 10434,
+      "books": "A00000031068",
+      "pubu": {
+        "store": 29038,
+        "id": "岳"
+      }
+    },
+    "title": "岳",
+    "originalTitle": "",
+    "authors": [
+      "石塚真一"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "運動",
+      "冒險",
+      "勵志",
+      "熱血"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "9786263085602",
+      "cover": "/gaku/gaku-1.webp",
+      "pages": 212,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "攀登過尼泊爾、北美南美、歐洲等全世界無數峻嶺、擁有高級攀登技術、看過山脈壯觀之美和許多山難悲劇的登山者島崎三步。\n回到日本的阿爾卑斯山後，他同樣看到了許多悲慘的登山意外…！\n現在，三步要繼續挑戰驚險的山難救助啦！",
+      "platform": {
+        "kobo": {
+          "id": "oO1RymEXRjCHRJq1zxbh5A",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65337,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110341000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048332",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163098,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 288
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-26",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "9786263085565",
+      "cover": "/gaku/gaku-2.webp",
+      "pages": 225,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "美麗和危險共存的世界——山。\n一個踏遍世界各地高峰，\n深切了解山的美好以及嚴酷的男人‧島崎三步。\n這是島崎三步在日本阿爾卑斯山\n協助救難的溫馨故事。",
+      "platform": {
+        "kobo": {
+          "id": "zjHinvIXXD6_XNKCMdmfVg",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65338,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110342000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048333",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163099,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 281
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(3)",
+      "isbn": "9786263085596",
+      "cover": "/gaku/gaku-3.webp",
+      "pages": 223,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "形勢險峻，卻樂趣無窮。\n這就是我愛上山的原因。\n島崎三步，一個爬遍世界山峰的山岳人。\n他被山的美好所吸引、\n也深深地了解發生山難的悲哀，\n所以他自願擔任山難救助的義工，\n幫助每一個前來日本阿爾卑斯山、\n探尋山之美的登山客。",
+      "platform": {
+        "kobo": {
+          "id": "IqLGGbvd8DKxN0ZUdfsosQ",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65339,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110343000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048334",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163100,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 270
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-27",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(4)",
+      "isbn": "9786263085572",
+      "cover": "/gaku/gaku-4.webp",
+      "pages": 228,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "島崎三步，一個爬過世界無數高峰的山岳人。他深深瞭解山的美麗和山的嚴峻，自願擔任山難救助的義工，幫助前來北阿爾卑斯的登山客。\n在生死一線間的殘酷環境下，三步和受困者之間會擦出什麼感動人的火花呢？\n因為危險，所以愛山。\n因為快樂，所以愛山。\n被山吸引的山岳人，他們背後都有著不同的故事。",
+      "platform": {
+        "kobo": {
+          "id": "GAe0h61buTeIqu5IZ6DgvA",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65340,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110344000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048335",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163101,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 273
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(5)",
+      "isbn": "9786263085503",
+      "cover": "/gaku/gaku-5.webp",
+      "pages": 229,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "想要去看看三步所看到的那個世界\n「山」是美麗和危險共存的世界。\n深知山的美麗和危險的島崎三步，目前擔任日本山岳搜救隊的義工。\n他將帶領前來日本北阿爾卑斯山的登山客們，徜徉在山的魅力中。",
+      "platform": {
+        "kobo": {
+          "id": "5g1KBHhhXTKeMTSjmZF0Nw",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65341,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110345000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048336",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163102,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 277
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(6)",
+      "isbn": "9786263085497",
+      "cover": "/gaku/gaku-6.webp",
+      "pages": 221,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "山的嚴酷面貌和美麗容顏。\n這是一篇描寫那些被山的魅力\n所吸引的人們的故事。\n島崎三步是山岳搜救隊的義工，\n他曾經攀登世界各地的山峰，\n深深地瞭解山的美妙，\n也知道山所造成的事故與悲劇。\n日本阿爾卑斯山系魅力無限，\n吸引了無數登山客造訪、長年以來不曾間斷。\n三步將運用他的資歷與經驗，\n全力協助這些在山中遭遇困難的人。",
+      "platform": {
+        "kobo": {
+          "id": "NBFRPvFrIT2KGK5kKKKo9A",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65342,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110346000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048337",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163104,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 270
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(7)",
+      "isbn": "9786263085473",
+      "cover": "/gaku/gaku-7.webp",
+      "pages": 223,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "島崎三步，山岳救難隊的義工。\n三步所在的日本阿爾卑斯山，今天依然有很多人被山的魅力吸引，前來造訪。\n三步非常珍惜和每一個都登山者邂逅的緣分。\n他總是說「能在山裡遇到你，真是太感謝了。」\n山的一半，是令人悲傷的事故。山的另一半，是令人快樂的故事。\n能在山裡遇到你，真是太感謝了！",
+      "platform": {
+        "kobo": {
+          "id": "H2kD7BF47DeZMx4IrGnbkw",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65343,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110347000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048338",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163105,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 258
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-29",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-09-28",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(8)",
+      "isbn": "9786263085640",
+      "cover": "/gaku/gaku-8.webp",
+      "pages": 222,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "只要我揹得動，5個人、10個人我都會揹。\n島崎三步是個山岳之子，所以他很喜歡前來爬山的登山客。當那些到阿爾卑斯山爬山的人發生意外時，三步都會盡一切力量，把他們帶下山……。",
+      "platform": {
+        "kobo": {
+          "id": "KCHcbIbzMDmU9n47K-yCEA",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65344,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110348000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048339",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163106,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 262
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-25",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(9)",
+      "isbn": "9786263085619",
+      "cover": "/gaku/gaku-9.webp",
+      "pages": 218,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "我向山發誓，會保護來登山的你\n山這個世界，同時擁有美麗和嚴肅兩張臉孔。\n參加山難救助的義工島崎三步，喜歡每個前來登山的人。\n所以他向山發誓，一定會保護來登山的你。",
+      "platform": {
+        "kobo": {
+          "id": "xtrRfPvGazqv99EM8M4VrQ",
+          "date": "2019-06-11"
+        },
+        "bw": {
+          "id": 65345,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110349000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048340",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163107,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 252
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9786263085466",
+      "cover": "/gaku/gaku-10.webp",
+      "pages": 224,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "五感暢快，心情爽朗。\n我在山裡等著大家。\n雄偉壯麗的稜線、無限遼闊的晴空、\n微涼的風輕拍著臉頰，真是五感暢快啊。\n登山者兼山岳救難隊義工的島崎三步，\n衷心期待能和您在山裡相遇。",
+      "platform": {
+        "kobo": {
+          "id": "JmJ4b8BRizKM2aXK2_AGtA",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65346,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110350000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048341",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163108,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 260
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9786263085626",
+      "cover": "/gaku/gaku-11.webp",
+      "pages": 222,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "到山裡來走走吧，\n會讓你心曠神怡喔。\n只是用看的，就是一種幸福。\n如果親自來爬爬看，幸福會更加倍！\n就算不能爬到山頂，\n也沒有關係。\n三步和山，\n隨時都歡迎大家的蒞臨。",
+      "platform": {
+        "kobo": {
+          "id": "6o3BNX1oPj-crtmPzgMtUQ",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65347,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110351000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048342",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163109,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 255
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9786263085633",
+      "cover": "/gaku/gaku-12.webp",
+      "pages": 224,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "謝謝！！謝謝你活下來！！\n不論是一時疏忽的意外、或是準備不夠周到導致的事故，\n三步絕不會去追究！\n他一心只希望，\n來登山的人都能平安無事──。",
+      "platform": {
+        "kobo": {
+          "id": "VSmZQmC65DelQW1IH4vYIw",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65348,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110352000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048343",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163110,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 253
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-26",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "4717702256913",
+      "cover": "/gaku/gaku-13.webp",
+      "pages": 226,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "美麗的日本阿爾卑斯，\n涼爽的山風、純潔的白雪、\n再配上一杯熱咖啡。\n在現實生活中遇到的煩惱或挫折，\n到了山裡，\n心靈很快就能得到洗滌。\n您是否也想徜徉在\n三步所住的山的世界呢？",
+      "platform": {
+        "kobo": {
+          "id": "QofB_LObwDCGKZUeKe9qCQ",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65349,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110353000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048344",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163111,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 259
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "4717702264345",
+      "cover": "/gaku/gaku-14.webp",
+      "pages": 208,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "那是爸爸死去的山。\n所以……\n我要去征服那座山。\n橫井直多的爸爸在攀登穗高連峰時不幸去世。\n升上國中之後的直多，在三步的陪伴下，\n終於如願以償的，實現了第一次爬山的願望。",
+      "platform": {
+        "kobo": {
+          "id": "iSA8fanHIzeMWetJq3ZEkA",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65350,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110354000101",
+          "date": "2019-06-11",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050048345",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163112,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 234
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "9789571061832",
+      "cover": "/gaku/gaku-15.webp",
+      "pages": 209,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "洪之沅"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "爬過山之後，才知道山的美好。\n爬過山之後，才了解山的危險。\n即使如此，我們都要努力攀登上去。\n只因為，我們都深愛著山。",
+      "platform": {
+        "kobo": {
+          "id": "fSX8mGPn-zKH0nSVt7BD9Q",
+          "date": "2022-07-19"
+        },
+        "bw": {
+          "id": 65351,
+          "date": "2019-06-13"
+        },
+        "readmoo": {
+          "id": "210110355000101",
+          "date": "2019-06-11",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050048346",
+          "date": "2019-06-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 163113,
+          "date": "2022-12-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 227
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "16)",
+      "isbn": "9789571089645",
+      "cover": "/gaku/gaku-16.webp",
+      "pages": 209,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "御門幻流"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "★改編成真人電影的硬核登山漫畫！\n「我想靠自己的雙手，去掌握自己的人生。」\n一位是曾在日本北阿爾卑斯山\n遭遇九死一生山難的男子，\n另一位是因為同伴的登山意外\n決定離開日本北阿爾卑斯山的男子，\n這兩名男子在遠離日本的\n尼泊爾當地再次相遇。",
+      "platform": {
+        "kobo": {
+          "id": "vIDaUP9nCj2wiuCyW7T0Hw",
+          "date": "2020-06-11"
+        },
+        "bw": {
+          "id": 90310,
+          "date": "2020-06-11"
+        },
+        "readmoo": {
+          "id": "210146913000101",
+          "date": "2020-06-10",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050069399",
+          "date": "2020-06-11",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 197506,
+          "date": "2022-11-26",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 219
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-28",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "9789571090498",
+      "cover": "/gaku/gaku-17.webp",
+      "pages": 208,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "御門幻流"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "★改編成真人電影的硬核登山漫畫！\n世界最高峰‧聖母峰──\n攀登這座高山時，\n看見了什麼？\n思考著什麼？\n感受到什麼？\n是否能遇見全新的自己？",
+      "platform": {
+        "kobo": {
+          "id": "efMsOoRx-juPzwvYeziZeA",
+          "date": "2020-08-19"
+        },
+        "bw": {
+          "id": 95031,
+          "date": "2020-08-20"
+        },
+        "readmoo": {
+          "id": "210153917000101",
+          "date": "2020-08-19",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050073063",
+          "date": "2020-08-14",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 203278,
+          "date": "2022-11-26",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 214
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-07",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)完",
+      "isbn": "9789571092430",
+      "cover": "/gaku/gaku-18.webp",
+      "pages": 214,
+      "authors": [
+        "石塚真一"
+      ],
+      "translators": [
+        "御門幻流"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "★改編成真人電影的硬核登山漫畫，抵達終點！\n\n救人一事本身就如同嚴峻的高峰。\n\n因為我還活著，\n才想要有所貢獻。\n因為我還活著，\n才想要前去救人。\n為了他人努力的同時，\n也想要活著回家。",
+      "platform": {
+        "kobo": {
+          "id": "PWlbqpzklTCyy443fusNVQ",
+          "date": "2020-12-22"
+        },
+        "bw": {
+          "id": 104841,
+          "date": "2020-12-22"
+        },
+        "readmoo": {
+          "id": "210165277000101",
+          "date": "2020-12-22",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050082735",
+          "date": "2020-12-17",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 215409,
+          "date": "2022-11-26",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 259
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-10",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-27",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

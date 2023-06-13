@@ -1,0 +1,592 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "honey-clover",
+    "series": {
+      "kobo": "J5PGiBIbnVulJOlPwUJYoA",
+      "readmoo": 1574,
+      "bw": 8939,
+      "books": "A00000038518",
+      "pubu": {
+        "store": 29038,
+        "id": "蜂蜜幸運草"
+      }
+    },
+    "title": "蜂蜜幸運草",
+    "originalTitle": "",
+    "authors": [
+      "羽海野千花"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "真人化",
+      "動畫化",
+      "青春",
+      "溫馨"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "061436969X",
+      "cover": "/honey-clover/honey-clover-1.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "森田、真山、竹本3個人，是住在房間只有6坪、廚房3坪而且沒有浴室的公寓裡面，過著貧窮快樂生活的美大學生。一直到有一天…他們和花本育相遇了！",
+      "platform": {
+        "kobo": {
+          "id": "vj28MJo5bTCKvN2hqIKdtg",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56674,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110716000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045538",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162424,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "9789571098470",
+      "cover": "/honey-clover/honey-clover-2.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "竹本和森田對小育的笨拙戀情，還有真山與山田擦身而過的戀情…雖然苦惱與痛苦不斷，他們卻也一點一點地成長了。大受歡迎的青春戀愛喜劇！！",
+      "platform": {
+        "kobo": {
+          "id": "d3prUeTN2TWnl9QWKde16A",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56675,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110717000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045539",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162425,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(3)",
+      "isbn": "9789571098449",
+      "cover": "/honey-clover/honey-clover-3.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "不曉得為了什麼，小育就是無法專心創作。看到她這樣，森田雖然擔心，行動與想法卻兜不起來，這時身旁的竹本又…！？造成話題的熱賣作品，不可錯過的第3集！！",
+      "platform": {
+        "kobo": {
+          "id": "4WwYl5RGKDS1-ZidVGTmhw",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56676,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110718000101",
+          "date": "2019-06-19",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050045540",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162426,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-05-05",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(4)",
+      "isbn": "9789571098395",
+      "cover": "/honey-clover/honey-clover-4.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "雖然每天忙個不停，真山對理花的想念卻越來越強烈…。即使感受到真山的心意，山田對他卻依舊無法忘情。3個人的關係會如何發展…！？熱賣作品第4集。",
+      "platform": {
+        "kobo": {
+          "id": "U0OFPRJG1jSey4Qsov8Gcg",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56677,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110719000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045541",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162427,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(5)",
+      "isbn": "9789571098463",
+      "cover": "/honey-clover/honey-clover-5.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓/譯"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "公司一分為二！真山終於做出了決定！另一方面，竹本正在製作畢業展要展出的高塔。心底的迷惑會直接反應在作品上嗎！？還有森田呢！？",
+      "platform": {
+        "kobo": {
+          "id": "UobHjj4WvjSr6acyYSN6TA",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56678,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110720000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045542",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162428,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(6)",
+      "isbn": "9789571098456",
+      "cover": "/honey-clover/honey-clover-6.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "野宮開著車，把山田從賞花的席位上帶走了。他們2個人要往哪去？包含真山在內的3人關係又是如何…！？胸口湧起濃濃的愁緒，引爆話題的系列第6集。",
+      "platform": {
+        "kobo": {
+          "id": "R1VrUwJLmDuBQipSMFsP_A",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56679,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110721000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045543",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162429,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 95
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(7)",
+      "isbn": "9789571098418",
+      "cover": "/honey-clover/honey-clover-7.webp",
+      "pages": 186,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "謝怡苓"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "竹本自己一個人騎著單車，繼續往北前進。\n雖然習慣了旅行，但是否有些什麼正等在前方，\n能夠填滿他空虛的心靈…！？\n大受歡迎、純情浪漫、不同凡響的愛情故事第7集。",
+      "platform": {
+        "kobo": {
+          "id": "Wot_TPYy7jaHKuLMLEyidw",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56680,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110722000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045544",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162430,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 90
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(8)",
+      "isbn": "9789571098432",
+      "cover": "/honey-clover/honey-clover-8.webp",
+      "pages": 194,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "王詩怡"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "山田開始到原田設計幫忙了。\n她在事務所重新見識到\n真山對理花的深情…\n超人氣☆臉紅心跳☆\n純愛暴走第8集\n緊急登場！\n",
+      "platform": {
+        "kobo": {
+          "id": "iUWnmDbhPjOOYbCrAEP-xw",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56681,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110723000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045545",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162431,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 92
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(9)",
+      "isbn": "9789571098401",
+      "cover": "/honey-clover/honey-clover-9.webp",
+      "pages": 178,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "王詩怡"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "為了搶錢而四處奔走的森田兄弟，\n背後的原因和糾葛漸漸明朗。\n而小育竟然禍從天降，\n發生意外事件…？！\n最後高潮開始倒數☆第9集登場！！",
+      "platform": {
+        "kobo": {
+          "id": "6B44pM5hkjmiSkEuU-ch7Q",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56682,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110724000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045546",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162432,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9789571098425",
+      "cover": "/honey-clover/honey-clover-10.webp",
+      "pages": 186,
+      "authors": [
+        "羽海野千花"
+      ],
+      "translators": [
+        "王詩怡"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小育拚命復健，\n期望能再度拿起畫筆。\n面對小育的決心，\n修司、森田、竹本所採取\n的行動和決定是…？！\n春天再度來臨，\n感人的完結篇登場！！\n",
+      "platform": {
+        "kobo": {
+          "id": "0feVJQSFZz-JzW5yCIkwJQ",
+          "date": "2019-02-25"
+        },
+        "bw": {
+          "id": 56683,
+          "date": "2019-02-25"
+        },
+        "readmoo": {
+          "id": "210110725000101",
+          "date": "2019-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050045547",
+          "date": "2019-05-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 162433,
+          "date": "2019-06-03",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-05-14",
+          "width": 1333,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1333,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

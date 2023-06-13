@@ -1,0 +1,1107 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "ooku",
+    "series": {
+      "kobo": "Sa54hNo4hViH7E71stOsCw",
+      "readmoo": 5460,
+      "bw": 14693,
+      "books": "A00000031060",
+      "pubu": {
+        "store": 29038,
+        "id": "大奧"
+      }
+    },
+    "title": "大奧",
+    "originalTitle": "",
+    "authors": [
+      "吉永史"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "歷史",
+      "真人化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "4712966354146",
+      "cover": "/ooku/ooku-1.webp",
+      "pages": 202,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "王詩怡"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "「大奧——將軍正室和側室居住之處，將軍是唯一能進入的女性。」\n一種只有男丁會被傳染的怪病在日本全國蔓延開來，\n導致男性人口銳減，政經大權落至女性手中，\n男尊女卑的社會在一夕間顛覆。\n為了振興家道，貧窮武士水野決意進入將軍府，\n成為侍奉女將軍的三千美男之一。\n來自市井的他將在大奧引發什麼樣的風波…！？",
+      "platform": {
+        "kobo": {
+          "id": "JnLi_RAiRzaHm2cSP-dCxA",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103912,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167879000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085406",
+          "date": "2018-01-30",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 219887,
+          "date": "2021-01-28",
+          "type": [
+            "epub"
+          ],
+          "size": 122
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1414,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1414,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "4717702214357",
+      "cover": "/ooku/ooku-2.webp",
+      "pages": 236,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "涂愫芸"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "故事回溯到第三代將軍家光時──謎般流行病正在世間蔓延。\n\n家光將軍患病身亡，掌控將軍家的春日局，將家光唯一的女兒千惠公主扮成男孩，取代父親的職位。再隱瞞世人，偷偷將男人帶進大奧，企圖藉由她延續將軍家的血脈。",
+      "platform": {
+        "kobo": {
+          "id": "WkJdKk_YyzyiH6k4RcWq_g",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103913,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167880000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085407",
+          "date": "2007-09-10",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 219888,
+          "date": "2021-01-28",
+          "type": [
+            "epub"
+          ],
+          "size": 129
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1414,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1414,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "4712966354153",
+      "cover": "/ooku/ooku-3.webp",
+      "pages": 226,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "涂愫芸"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "三代將軍家光與有功彼此深愛對方，但是，為了延續香火，家光不得不與其他男人生下孩子。\n有了孩子後，身為將軍、身為母親的她，變得更有主見也更堅強了。\n只能在一旁關心她、守護她的有功，在春日局去世後，接管大奧，為家光穩住了大奧，並開創了全新的局面…",
+      "platform": {
+        "kobo": {
+          "id": "MhtEyBFIfDWzhyfrOthoyg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103914,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167881000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085408",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 219889,
+          "date": "2021-01-28",
+          "type": [
+            "epub"
+          ],
+          "size": 122
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1414,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1414,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "4717702229382",
+      "cover": "/ooku/ooku-4.webp",
+      "pages": 212,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "尤楷茵"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "家光死後，家綱就任成為了第四代將軍。\n\n而社會也因為留在大奧的有功等近臣的努力，而慢慢日漸安定。\n\n就在家綱十四的同時，宮家帶來了一樁親事……\n\n【家光篇】正式完結，\n\n進入少女將軍【家綱篇】以及五代將軍【綱吉篇】！",
+      "platform": {
+        "kobo": {
+          "id": "2u-9rxt-HjmfW3uMi8JwUQ",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103915,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167882000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085409",
+          "date": "2009-11-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 219890,
+          "date": "2021-01-28",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1414,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1414,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "4712966354160",
+      "cover": "/ooku/ooku-5.webp",
+      "pages": 216,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "尤楷茵"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "第五代將軍綱吉的御台所的隨從，是來自京都的右衛門佐。\n繼受到家光寵愛的有功之後，\n右衛門佐順利得到了長年閒置的大奧總管一職。\n究竟他的目的是什麼…!?\n此外，經歷骨肉驟逝、失去後繼者的震驚，\n面對種種思惑的綱吉究竟又會…!?",
+      "platform": {
+        "kobo": {
+          "id": "gVZb4r89IzyWP5wbhpGwPg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 103916,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167883000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085410",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220408,
+          "date": "2021-01-30",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-09",
+          "width": 1414,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1414,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "9786263017832",
+      "cover": "/ooku/ooku-6.webp",
+      "pages": 216,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "尤楷茵"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "支撐著過熟而邁向衰退的危亂之世之五代將軍．綱吉。\n\n雖然在民間她是個臭名遠揚的女將軍，\n\n但卻在安穩的晚年發現了曇花一現的美夢…!?\n\n世事在不可避免的情況下，又會產生什麼變化…!?",
+      "platform": {
+        "kobo": {
+          "id": "6dFjKIulQTG8zOSyxCPpLA",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104065,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167884000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085411",
+          "date": "2011-01-03",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220410,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-14",
+          "width": 1392,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1392,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "4712966355471",
+      "cover": "/ooku/ooku-7.webp",
+      "pages": 216,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "尤楷茵"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "家宣死後，年幼的將軍家繼繼承了位置。\n但是這並沒有持續很久……\n於是，時代來到了第八代將軍吉宗的治世",
+      "platform": {
+        "kobo": {
+          "id": "PLR76yfT1T67SP79bcLAlw",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104066,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167885000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085412",
+          "date": "2018-05-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220411,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-15",
+          "width": 1410,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1410,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "4712966354177",
+      "cover": "/ooku/ooku-8.webp",
+      "pages": 249,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "尤楷茵"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "被後世尊崇為江戶幕府中興之祖，\n八代將軍吉宗的時代拉上終幕…\n「大奧」裡的男人們跟女人們，\n繼承了將軍意志，開始解開赤面痘瘡之謎…",
+      "platform": {
+        "kobo": {
+          "id": "SfB8gorXQz-Vqzspo_ogZg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104067,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167886000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085413",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220413,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 195
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-15",
+          "width": 1410,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1410,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "4712966355488",
+      "cover": "/ooku/ooku-9.webp",
+      "pages": 227,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "來自長崎的青沼，\n他與田沼意次、平賀源內要繼承第八代將軍吉宗的遺志，\n解開如今愈發猛烈的赤面痘瘡之謎！",
+      "platform": {
+        "kobo": {
+          "id": "NrClcV1B3DGGNR5P4mTv8g",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104068,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167887000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085414",
+          "date": "2018-05-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220415,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-16",
+          "width": 1404,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1404,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "4712966354184",
+      "cover": "/ooku/ooku-10.webp",
+      "pages": 255,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "”赤面痘瘡”──造成〈大奧〉男女逆轉的根源。\n然而有一群人毅然挺身挑戰這可怕的疾病。\n青沼、平賀源內、田沼意次...\n這些為了同樣的志向而集結起來的人，是否能揭開疾病的神秘面紗!?",
+      "platform": {
+        "kobo": {
+          "id": "HYdG0pJ75zWfJG17qMi07Q",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104069,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167888000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085415",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220448,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 181
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-16",
+          "width": 1404,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1404,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "4712966354191",
+      "cover": "/ooku/ooku-11.webp",
+      "pages": 231,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "回溯到一百五十年前。\n自家光之後便斷絕的男性將軍，終於在睽違已久後再次誕生，他是第十一代將軍/德川家齊。\n但是真正手握實權，把田沼意次鬥垮的卻是他的生母/德川治濟──\n蘭學研究者全都被逐出江戶城。\n黑木良順和青海伊兵衛即便已經回到市井，\n他們的心中依然牢牢繼承了田沼、青沼，以及平賀源內想要戰勝赤面痘瘡的決心…!!",
+      "platform": {
+        "kobo": {
+          "id": "7ClQLezqnzO8iwsC4mM5Tg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104070,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167889000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085416",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220453,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-16",
+          "width": 1373,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1373,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "4712966356713",
+      "cover": "/ooku/ooku-12.webp",
+      "pages": 239,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "醫療篇，衝擊性的結局！\n田沼意次、青沼、平賀源內、黑木、伊兵衛，以及十一代將軍家齊……\n撲滅赤面痘瘡的強烈意志不斷傳承下去。這份信念最後的終點會是──？\n接著，新的時代再度展開。",
+      "platform": {
+        "kobo": {
+          "id": "VkWRddIhOjqa0PyPikI0QQ",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104071,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167890000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085417",
+          "date": "2018-07-03",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220456,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 175
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-23",
+          "width": 1353,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1353,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "4712966354207",
+      "cover": "/ooku/ooku-13.webp",
+      "pages": 245,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "第13代將軍．家定是位女性!?\n激動的幕末篇新章開始！\n篤姫的登場再次給大奧帶來波瀾!?",
+      "platform": {
+        "kobo": {
+          "id": "ExC0T1Z8GDi9nelkX1AE2A",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104072,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167891000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085418",
+          "date": "2018-01-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220466,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 166
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-26",
+          "width": 1363,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1363,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "4712966355495",
+      "cover": "/ooku/ooku-14.webp",
+      "pages": 229,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "從〈男女逆轉大奧〉的誕生到極盛期，解開赤面痘瘡之謎之後來到幕末――!?\n將軍家定和從薩摩入贅來的胤篤，\n背後的真相與目的到底是!?\n家定、瀧山、胤篤三人間的關係會如何!?",
+      "platform": {
+        "kobo": {
+          "id": "yNfqVQQBqD27gzV52dJ0Mw",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104073,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167892000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085419",
+          "date": "2018-05-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220470,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-26",
+          "width": 1353,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1353,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "9789571084800",
+      "cover": "/ooku/ooku-15.webp",
+      "pages": 255,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "西島秀俊、內野聖陽領銜主演，電視劇《昨日的美食》原作者－－吉永史\n\n「每一位將軍一定都是拚了命活著，在經歷悲苦的同時，也品嘗到喜樂的滋味。」\n\n胤篤和家定，兩人之間的愛靜靜地燃燒著，\n然而井伊直弼卻在暗處策畫著什麼…!?\n打開心扉的家定，第一次說出了愛的誓言，\n然而卻無法違背命運的捉弄……",
+      "platform": {
+        "kobo": {
+          "id": "jt6i1u4HDj-GL2MXQpjU2g",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104074,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167893000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085420",
+          "date": "2019-02-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220474,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 195
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-26",
+          "width": 1363,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1363,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "9789571091006",
+      "cover": "/ooku/ooku-16.webp",
+      "pages": 229,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "第十三代將軍德川家定薨逝，/\n\n繼承人福子公主改名為家茂繼位，\n\n並與幕府的天子之弟‧和宮舉行婚儀。\n\n但沒想到在新婚之夜，\n\n卻發現和宮其實是個女人……!?",
+      "platform": {
+        "kobo": {
+          "id": "98IkxMdZrz6wdk6Lzmappg",
+          "date": "2020-12-11"
+        },
+        "bw": {
+          "id": 104075,
+          "date": "2020-12-11"
+        },
+        "readmoo": {
+          "id": "210167894000101",
+          "date": "2021-01-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050085421",
+          "date": "2020-09-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 220483,
+          "date": "2021-01-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-22",
+          "width": 1377,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1377,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "9789571092782",
+      "cover": "/ooku/ooku-17.webp",
+      "pages": 205,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "家茂與和宮之間的關係，\n漸漸產生變化……\n另一方面，\n土御門對庭田──和宮之母\n的不滿終於爆發！\n事態往意想不到的方向發展…！",
+      "platform": {
+        "kobo": {
+          "id": "yZ35Qs_VNTW1ipXPj5cRGA",
+          "date": "2022-02-23"
+        },
+        "bw": {
+          "id": 133744,
+          "date": "2022-02-24"
+        },
+        "readmoo": {
+          "id": "210217176000101",
+          "date": "2022-02-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050123077",
+          "date": "2021-01-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 286999,
+          "date": "2022-02-24",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-02-22",
+          "width": 1429,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1429,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)",
+      "isbn": "9786263387935",
+      "cover": "/ooku/ooku-18.webp",
+      "pages": 209,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "★得獎不斷!!獲得2022年日本SF大賞★\n★吉永史經典的「逆后宮」之作★\n★改編真人版電視劇，2023年確定開播★\n\n【內容簡介】\n和宮發出「生子宣言」！\n但究竟選定的對象會是誰…？\n另一方面，\n家茂抵達幕府的本陣大?城，\n商討討伐長州軍一事，\n勞心勞力的結果是──\n\n劇情來到最終章，\n完結倒數的第十八集！",
+      "platform": {
+        "kobo": {
+          "id": "FbJBzAJWsDOs83c8ilv8Ew",
+          "date": "2022-12-19"
+        },
+        "bw": {
+          "id": 154310,
+          "date": "2022-12-19"
+        },
+        "readmoo": {
+          "id": "210258116000101",
+          "date": "2022-12-18",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050149679",
+          "date": "2022-12-19",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 332562,
+          "date": "2023-01-05",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 169
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-30",
+          "width": 1443,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1443,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "(19)完",
+      "isbn": "9786263565661",
+      "cover": "/ooku/ooku-19.webp",
+      "pages": 252,
+      "authors": [
+        "吉永史"
+      ],
+      "translators": [
+        "賴思宇"
+      ],
+      "nsfw": false,
+      "price": 140,
+      "description": "\"★獲獎無數的經典之作！讓《昨日的美食》的作者吉永史帶你進入男女交換的「逆後宮」世界\n★甫連載即獲得2006年這本漫畫真厲害！女性向第6名、2008年漫畫大賞第6名\n★連載後期的精采大結局再拿下2022年日本SF大賞\n★改編真人版電視劇，2023年1月現正熱播中\n\n【內容簡介】\n家茂的駕崩造成幕府勢力大動盪，\n大奧也面臨縮編解散的命運。\n但內憂外患並沒有停止，\n新政府軍就打著「官軍」的名號，\n想將舊幕府軍視為「朝敵」一網打盡…\n\n男女逆轉的「大奧」世界，精采完結篇！\"",
+      "platform": {
+        "kobo": {
+          "id": "ILWzPvuCXTqrZaah_vGzsg",
+          "date": "2023-05-26"
+        },
+        "bw": {
+          "id": 164118,
+          "date": "2023-05-26"
+        },
+        "readmoo": {
+          "id": "210274126000101",
+          "date": "2023-05-25",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050162082",
+          "date": "2023-05-26",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 355601,
+          "date": "2023-05-26",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 205
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-05-16",
+          "width": 1441,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2023-05-16",
+          "width": 1441,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

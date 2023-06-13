@@ -1,0 +1,2139 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "uchu-kyodai",
+    "series": {
+      "kobo": "tV1T2Jn8CFyY48DFvznWtQ",
+      "readmoo": 11281,
+      "bw": 63,
+      "books": "A00000032911",
+      "pubu": {
+        "store": 29038,
+        "id": "宇宙兄弟"
+      }
+    },
+    "title": "宇宙兄弟",
+    "originalTitle": "",
+    "authors": [
+      "小山宙哉"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "冒險",
+      "勵志",
+      "職業",
+      "熱血",
+      "感人"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "9786263386556",
+      "cover": "/uchu-kyodai/uchu-kyodai-1.webp",
+      "pages": 226,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "年少時代，\n哥哥六太與弟弟日日人眺望著星空，立下了誓約。\n２０２５年，弟弟達成誓言，當上了太空人，\n成為第一次長期居留月球的太空人組員之一。\n而哥哥六太卻被公司給開除，成了無業遊民。\n直到弟弟寄來一封電子郵件，\n才讓哥哥重新面對夢想，朝目標邁進。",
+      "platform": {
+        "kobo": {
+          "id": "exFbzOnfwzWeQHtRmLJM1w",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156960,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262474000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153167",
+          "date": "2020-02-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338887,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 279
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-25",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-10-25",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "4711228587902",
+      "cover": "/uchu-kyodai/uchu-kyodai-2.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "2025年，受弟弟日日人之邀，\n\n\n哥哥六太前往詹森太空中心參觀。\n\n\n在那裡等待著他的，\n\n\n是多年來一直朝著幼年時代立下的誓言而努力、\n\n\n終於當上太空人的日日人。\n\n\n哥哥在嫉妒之餘，看著弟弟可靠的身影，決定放棄夢想。\n\n\n可是弟弟相信哥哥有足夠的才幹，於是不斷鼓勵哥哥，\n\n\n因為弟弟始終沒有忘記，\n\n\n「我們兩個人都要上太空！」這個約定。",
+      "platform": {
+        "kobo": {
+          "id": "wQHzxFTpkDa0QCpOGZfqBQ",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156961,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262475000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153187",
+          "date": "2022-03-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338888,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 205
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-10",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "4711228588435",
+      "cover": "/uchu-kyodai/uchu-kyodai-3.webp",
+      "pages": 223,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "真羨慕，\n\n\n羨慕得不得了，\n\n\n弟弟要先一步到月球去探險了。\n\n\n可是哥哥現在還在參加太空飛行員第三階段的審核測驗，\n\n\n被關在無法和外界接觸的密閉艙房裡長達2個星期。\n\n\n哥哥的個性向來就是猶豫不決、三心二意，\n\n\n但是他還是無法放棄那個前往太空的夢想，\n\n\n所以他下定決心，\n\n\n勇敢地挑戰一道又一道的難關。",
+      "platform": {
+        "kobo": {
+          "id": "h-Tc4hQAjz2d_el78WVMug",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156962,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262476000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153188",
+          "date": "2022-06-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338889,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 222
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-10",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "9786263386686",
+      "cover": "/uchu-kyodai/uchu-kyodai-4.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "太空飛行員遴選測驗，第三階段審核。\n一帆風順的日子突然變成過往雲煙，\n詭譎的氣氛如颱風一般襲來。\n同伴之間疑心生暗鬼、充斥著不信任，\n難道太空人這個職業，就是這樣過日子的嗎？\n不、絕對不是這樣！\n通過一連串考驗的六太等人，\n如今要面對著最嚴酷的考驗，遴選出2個人…",
+      "platform": {
+        "kobo": {
+          "id": "-5viykTj7zq4nB6oRRD9RA",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156963,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262477000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153168",
+          "date": "2019-10-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338892,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 212
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-09",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "9786263386693",
+      "cover": "/uchu-kyodai/uchu-kyodai-5.webp",
+      "pages": 226,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "經過14天的密閉艙房測驗，\n到了最後一天，\n還剩下最後一道課題等著大家去完成。\n通過這一關，就能前往美國休士頓，\n見到正在NASA受訓的弟弟日日人。\n這最後一道課題，\n就是要在伙伴之中挑選出2名\n適合擔任太空人的人選，\n究竟誰能夠脫穎而出呢！？",
+      "platform": {
+        "kobo": {
+          "id": "dE6clHm-nDe8KUdh7PZMzg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156964,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262478000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153169",
+          "date": "2020-03-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338894,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 205
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-09",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "4711228588442",
+      "cover": "/uchu-kyodai/uchu-kyodai-6.webp",
+      "pages": 226,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "在美國休士頓\n\n\n由現役太空人擔任評審的\n\n\n太空人審核遴選終於進入最後階段。\n\n\n當弟弟日日人正全心全意做好萬全準備，\n\n\n執行第一次月球長期居留任務時，\n\n\n哥哥六太也面臨了太空人之路的\n\n\n最後一道遴選關卡！！",
+      "platform": {
+        "kobo": {
+          "id": "QS9KTjYMzDmAs9WyU4Ejfw",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156965,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262479000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153189",
+          "date": "2022-06-29",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338896,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 213
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-10",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "9786263386730",
+      "cover": "/uchu-kyodai/uchu-kyodai-7.webp",
+      "pages": 226,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "為了當上太空人，\n經歷了長久的層層考核，\n哥哥六太現在就等合格與否的電話了。\n\n幼年時期兄弟兩人立下「我們都要上太空」的誓言，\n如今由弟弟日日人先一步達成。\n日日人乘坐著戰神一號火箭……發射升空！\n\n衝啊！到月球去吧！",
+      "platform": {
+        "kobo": {
+          "id": "GqZei7VD-jKA45Uh6GKSqg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156966,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262480000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153170",
+          "date": "2019-10-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338897,
+          "date": "2023-02-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 205
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-09",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "9786263386754",
+      "cover": "/uchu-kyodai/uchu-kyodai-8.webp",
+      "pages": 227,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "通過漫長的遴選審核，\n終於決定5名太空飛行員的候補人員。\n合格與不合格都是藉由電話通知當事人，\n然而，六太的電話鈴聲卻始終沒有響起。\n結果究竟是吉是凶？\n六太心中越來越不安，越來越焦慮！",
+      "platform": {
+        "kobo": {
+          "id": "wcHFin-F3zC_h43WT6ukXA",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156967,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262481000101",
+          "date": "2023-02-09",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050153171",
+          "date": "2020-02-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338996,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 217
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-07",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "4711228588671",
+      "cover": "/uchu-kyodai/uchu-kyodai-9.webp",
+      "pages": 227,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "在月球的世界裡，\n\n\n喪失了遠近距離感的日日人與戴米安，\n\n\n兩人所乘坐的越野車摔進了暗無天日的峽谷內。\n\n\n越野車全毀、戴米安負傷、\n\n\n日日人的主氧氣儲存槽破損，\n\n\n在周遭無人能救援的情況下，\n\n\n日日人該怎麼辦呢──！？",
+      "platform": {
+        "kobo": {
+          "id": "Hz-bAq2W2zyuxn9bfDb-yg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156968,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262482000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153190",
+          "date": "2022-11-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338997,
+          "date": "2023-02-13",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 223
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-10",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "4711228588213",
+      "cover": "/uchu-kyodai/uchu-kyodai-10.webp",
+      "pages": 247,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "心中充滿希望，\n\n\n來自世界各國的太空人學員們齊聚一堂。\n\n\n可是，目光銳利的教官文斯，\n\n\n給他們的第一個訓練，\n\n\n出發點竟然是在沙漠中央……\n\n\n一個連心靈都感到飢渴的地方！！",
+      "platform": {
+        "kobo": {
+          "id": "5udyOaIRXDaPxeLKQnhjgQ",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156969,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262483000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153191",
+          "date": "2022-05-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 338999,
+          "date": "2023-02-13",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 251
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-09",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9786263386815",
+      "cover": "/uchu-kyodai/uchu-kyodai-11.webp",
+      "pages": 227,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "在沙漠的野外求生訓練中\n名次墊底的六太一行人，\n雖然名次最差，\n但是卻加深了彼此的信賴。\n六太打算在下一個訓練課程中扳回一城，\n可是指導助教卻是個\n成天喝得爛醉的技師皮可。\n見到認真考慮失敗的六太的模樣，\n不光是皮可，就連文斯也感到好奇。\n因為六太讓他們回憶起\n那段朝太空邁進的年輕歲月，\n以及珍貴的記憶……",
+      "platform": {
+        "kobo": {
+          "id": "OQGxZJw5aTmoeZCxowIuEA",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156970,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262484000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153172",
+          "date": "2020-02-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339001,
+          "date": "2023-02-13",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 238
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-01",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9786263386839",
+      "cover": "/uchu-kyodai/uchu-kyodai-12.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "結束月面任務的日日人，和救命恩人吾妻再度相會，然後返回地球。另一方面，參加返航競技比賽的六太一行人，所製造的罐頭衛星發射升空了。降落傘……\n\n是靠愛來打開的！！",
+      "platform": {
+        "kobo": {
+          "id": "UQ0Gl-T3iDeSG8jrgjYkJw",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156971,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262485000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153173",
+          "date": "2020-08-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339002,
+          "date": "2023-02-13",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 232
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-01",
+          "width": 1417,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1417,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "4711228588879",
+      "cover": "/uchu-kyodai/uchu-kyodai-13.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 85,
+      "description": "It’s a piece of cake.\n\n\n\n\n\n帶著這句擁有魔力的話語，六太努力向前衝刺──當六太全力衝刺時，卻一頭撞上了過去曾經有一面之緣的飛行員教官丹尼爾‧楊格！！六太此時還不知道，他遇上的是「最差勁」，同時也是「最厲害」的教官……！",
+      "platform": {
+        "kobo": {
+          "id": "-ATWCzG3ljSO_cImxwj1mw",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156972,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262486000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153192",
+          "date": "2022-10-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339015,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 238
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-01",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "4711228587919",
+      "cover": "/uchu-kyodai/uchu-kyodai-14.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "六太被擢升為候補組員！？\n\n\n可是，天底下可沒有白吃的午餐。\n\n\n上級提出的條件，讓六太陷入了煩惱。\n\n\n\n\n\n另一方面，日日人也被煩惱所困──\n\n\n在月球發生的緊急狀況造成的影響，\n\n\n已經烙印在他的內心深處。\n\n\n\n\n\n以月球為目標的兄弟，各自抱著不同的煩惱，\n\n\n迎向自己的未來……",
+      "platform": {
+        "kobo": {
+          "id": "NNd7kUE4Bza8YqmFVaq2mQ",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156973,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262487000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153193",
+          "date": "2022-03-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339017,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 231
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "4717702259778",
+      "cover": "/uchu-kyodai/uchu-kyodai-15.webp",
+      "pages": 223,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "人生，就應該懷抱夢想，奮鬥不懈──\n\n音樂鬼才盧廣仲、人氣作家九把刀同聲推薦！\n\n日本總銷售量突破1，400萬本！\n\n\n\n故事簡介：\n\n\n\n陰沉沉的俄羅斯天空下──\n\n日日人的心情也開朗不起來。\n\n每當他穿上太空衣，\n\n就會被喚回絕望的瞬間。\n\n可是，痛苦掙扎的日日人，\n\n眼前出現了一絲光明。\n\n那是酒國英雄\n\n和舞姿曼妙的天使\n\n所帶來的希望之光──",
+      "platform": {
+        "kobo": {
+          "id": "OkWpuf7cxDiFbFn70vHq1w",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156974,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262488000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153174",
+          "date": "2020-10-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339031,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 226
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2023-02-02",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "4717702260002",
+      "cover": "/uchu-kyodai/uchu-kyodai-16.webp",
+      "pages": 225,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "許嘉祥"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "人生，就應該懷抱夢想，奮鬥不懈──\n\n\n音樂鬼才盧廣仲、人氣作家九把刀同聲推薦！\n\n\n日本總銷售量突破1,400萬本！\n\n\n\n\n\n故事簡介：\n\n\n形同登月訓練第一步的\n\n\nＮＥＥＭＯ──\n\n\n\n\n\n為了參加這個訓練，\n\n\n六太、賢治和新田\n\n\n啟程前往佛羅里達。\n\n\n\n\n\n然而……\n\n\n那裡潛藏了痛苦煎熬的糾葛暗流，\n\n\n無情的考驗即將朝著\n\n\n情誼深厚的伙伴來襲。",
+      "platform": {
+        "kobo": {
+          "id": "jCxLZatrcD-DTCBfxHJlXQ",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156975,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262489000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153175",
+          "date": "2020-12-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339032,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 249
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2023-02-02",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "4717702261030",
+      "cover": "/uchu-kyodai/uchu-kyodai-17.webp",
+      "pages": 223,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "六太和賢治的ＮＥＥＭＯ訓練結束，即將正式決定誰能登上月球！\n對此決定心服口服之人、因為這個決定有了新決心之人，各自展開了新的訓練。\n另一方面，日日人漸漸克服了恐慌症的心理障礙，但是他還必須通過「回到太空人崗位的測驗」。\n最值得倚賴的人……其實一直在他身邊。",
+      "platform": {
+        "kobo": {
+          "id": "rfQRtqPzQT-RGmHVVTA5Qg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156976,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262490000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153176",
+          "date": "2020-06-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339033,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 244
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-02",
+          "width": 1415,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2023-02-02",
+          "width": 1415,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)",
+      "isbn": "4717702262396",
+      "cover": "/uchu-kyodai/uchu-kyodai-18.webp",
+      "pages": 201,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 95,
+      "description": "為恐慌症所苦的日日人\n//若要重返太空人崗位，\n//就必須通過室長安排的測驗。\n//在哥哥送的護身符（Pretty/dog），\n//以及月面基地昔日同袍的加油打氣下，\n//日日人勇敢邁向人生的關卡……\n//\n//另一方面，\n//六太和一起登月的組員開始受訓。\n//而整合這群五花八門組員的隊長，\n//正是那個男人！\n//六人小組在充滿不安與希望的氛圍下，\n//展開了令人興奮又期待的沙漠訓練！",
+      "platform": {
+        "kobo": {
+          "id": "WMoDt42PdjWKFAHM8e9owg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156977,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262491000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153177",
+          "date": "2020-04-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339060,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 226
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-03",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2023-02-03",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "(19)",
+      "isbn": "4717702264444",
+      "cover": "/uchu-kyodai/uchu-kyodai-19.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 95,
+      "description": "艇的操縱練習，\n六太便完成了沙漠之鼠的訓練，\n現在的他正踏實地朝著\n日日人的方向一步步邁進。\n\n另一方面，\n嚴苛的現實高牆阻擋在日日人面前。\n那場晦氣事故的記憶，\n始終停留在周遭人的腦海中，\n無法抹滅。\n\n兩兄弟約定共赴宇宙的夢想\n又離得更遠了……",
+      "platform": {
+        "kobo": {
+          "id": "eoo0YZYRuT2W2Hpbg-UaRA",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156978,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262492000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153178",
+          "date": "2019-11-26",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339061,
+          "date": "2023-02-15",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 227
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-03",
+          "width": 1415,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1415,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "(20)",
+      "isbn": "9786263387003",
+      "cover": "/uchu-kyodai/uchu-kyodai-20.webp",
+      "pages": 207,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "王敏媜"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "文斯和皮可為新型登月小艇取的名字，\n是與亡友瑞克同名的「ＲＩＣＫ」。\n從前三人立誓許下的心願，終於要成真了。\n\n至於六太，\n依然對人在俄羅斯的弟弟深具信心，\n朝著兩人約定的「未來」踏實前進。\n\n勇往直前邁向太空的路途上，\n即將發生宛如電流竄過全身般的奇蹟！",
+      "platform": {
+        "kobo": {
+          "id": "50p6TXiiQj61Wiw_iuCXVA",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156979,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262493000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153179",
+          "date": "2019-11-26",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339062,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 205
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-03",
+          "width": 1417,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1417,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "(21)",
+      "isbn": "9789571061061",
+      "cover": "/uchu-kyodai/uchu-kyodai-21.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "王敏媜"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "六太為了爭取月球任務，\n答應蓋茲形同刁難的條件──\n降低月面基地運行成本達一億美元。\n這是任何人都覺得是不可能任務的超級難題……\n卻也是翻盤的唯一機會，\n所以六太不願意放棄，決定要化危機為轉機！\n\n夥伴們也全面協助認真迎戰的六太，\n卯足全力要奪回月球任務！",
+      "platform": {
+        "kobo": {
+          "id": "q-eESkGoWziqP2tW5bqQdg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156980,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262494000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153180",
+          "date": "2020-06-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339064,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 211
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-03",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "(22)",
+      "isbn": "9789571061368",
+      "cover": "/uchu-kyodai/uchu-kyodai-22.webp",
+      "pages": 207,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 95,
+      "description": "六太為了保留ＩＳＳ，\n和伙伴們辛苦收集的連署書，\n被蓋茲拒絕收下。\n大夥合力點燃的希望之火，\n會就此熄滅嗎…？\n\n另一方面，\n六太丟給蓋茲的\n「你喜歡宇宙的什麼？」\n這個問題仍持續在蓋茲心中發酵。\n於是他前往一家嚮往外太空的人\n都愛去的酒吧──\n那裡有個稱蓋茲為\n「華爾特」的男人。\n\n只在乎成敗不關心太空發展的無情蓋茲，\n不為人知的過去即將揭曉。",
+      "platform": {
+        "kobo": {
+          "id": "ku3gzSf4STalQ73SlddEKg",
+          "date": "2023-02-13"
+        },
+        "bw": {
+          "id": 156981,
+          "date": "2023-02-11"
+        },
+        "readmoo": {
+          "id": "210262495000101",
+          "date": "2023-02-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050153181",
+          "date": "2019-10-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 339067,
+          "date": "2023-02-14",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 225
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-03",
+          "width": 1412,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1412,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "(23)",
+      "isbn": "9789571064932",
+      "cover": "/uchu-kyodai/uchu-kyodai-23.webp",
+      "pages": 208,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "卸下ＣＡＰＣＯＭ\n重責大任的日子在即，\n六太的登月之路，\n也進入了最終階段。\n一路走來互相砥勵的夥伴，\n即將上太空圓夢。\n長年支持芹夏、繪名的家人和夥伴們的信念，\n亦隨著火箭引擎，\n搭乘獵戶座航向憧憬的夢想舞台！\n去吧，享受太空之旅──！",
+      "platform": {
+        "kobo": {
+          "id": "_HxCjLfcczelCvKV6u2GaQ",
+          "date": "2017-11-17"
+        },
+        "bw": {
+          "id": 19983,
+          "date": "2017-11-18"
+        },
+        "readmoo": {
+          "id": "210077028000101",
+          "date": "2017-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050018329",
+          "date": "2016-04-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 109824,
+          "date": "2017-11-17",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 106
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-10-26",
+          "width": 1111,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1111,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "(24)",
+      "isbn": "9789571069081",
+      "cover": "/uchu-kyodai/uchu-kyodai-24.webp",
+      "pages": 204,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "六太小組的發射升空進入倒數50天，\n訓練也漸入佳境。\n可是卡洛始終不見蹤影，\n上面考慮換掉他，\n讓備取組員莫修遞補進來。\nＪＯＫＥＲＳ這群\n「陰陽怪氣又不合群的獨行俠」\n彼此之間好不容易產生的感情連結，\n會就此斷線嗎……",
+      "platform": {
+        "kobo": {
+          "id": "V49CHci4vzyVXR2GhVprEA",
+          "date": "2017-11-17"
+        },
+        "bw": {
+          "id": 19982,
+          "date": "2017-11-18"
+        },
+        "readmoo": {
+          "id": "210077026000101",
+          "date": "2017-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050018330",
+          "date": "2016-10-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 109825,
+          "date": "2017-11-17",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 106
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-10-26",
+          "width": 1111,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1111,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "(25)",
+      "isbn": "9789571071961",
+      "cover": "/uchu-kyodai/uchu-kyodai-25.webp",
+      "pages": 202,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "搭載新型登月小艇Altair的戰神五號，\n發射升空準備已經開始。\n六太所屬的「ＪＯＫＥＲＳ」小組\n也即將迎向出發時刻。\n在家人和夥伴的守護下，\n甘迺迪太空中心響起了\n倒數讀秒的聲浪。\n「夢想」和「現實」之間，如今變成「零距離」！\n航向宇宙，出發！",
+      "platform": {
+        "kobo": {
+          "id": "avAva4kOtjemUlU18OjcSg",
+          "date": "2017-11-17"
+        },
+        "bw": {
+          "id": 19981,
+          "date": "2017-11-18"
+        },
+        "readmoo": {
+          "id": "210077027000101",
+          "date": "2017-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050018331",
+          "date": "2017-03-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 109826,
+          "date": "2017-11-17",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 118
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-10-26",
+          "width": 1111,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1111,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "(26)",
+      "isbn": "9789571077857",
+      "cover": "/uchu-kyodai/uchu-kyodai-26.webp",
+      "pages": 211,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "戰神一號成功發射升空，\n「ＪＯＫＥＲＳ」的歡樂太空之旅正式啟程。\n自艙內望見的水藍色圓形地球、\n與新型登月小艇Altair的對接、\n愈來愈靠近與弟弟的約定之地──\n不知在夢中勾勒過多少次的畫面陸續成真，\n六太興奮得心臟就快要爆炸了！\n好，邁出踏上月球的第一步吧！",
+      "platform": {
+        "kobo": {
+          "id": "LIDp7Vv7NTu_2nvczeU7oA",
+          "date": "2018-08-28"
+        },
+        "bw": {
+          "id": 48051,
+          "date": "2018-08-28"
+        },
+        "readmoo": {
+          "id": "210095159000101",
+          "date": "2018-08-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032580",
+          "date": "2017-12-22",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 134003,
+          "date": "2018-08-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 113
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-27",
+          "width": 1111,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1111,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "(27)",
+      "isbn": "9789571082431",
+      "cover": "/uchu-kyodai/uchu-kyodai-27.webp",
+      "pages": 210,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 91,
+      "description": "為了研發奪走父親性命的ＡＬＳ新藥，\n芹夏在ＩＳＳ反覆實驗，\n成果卻不盡人意。\n就在此時，曾與芹夏有過節的藥廠業務，\n化身藏鏡人在網路上散發黑函。\n在地球擴散開來的惡意，\n瞬間延燒成一波又一波針對芹夏的惡意攻訐。\n被逼入絕境的芹夏，四周水滴飄舞……",
+      "platform": {
+        "kobo": {
+          "id": "7VkTEDhkkziFo3oZJ1oo0w",
+          "date": "2018-08-28"
+        },
+        "bw": {
+          "id": 48052,
+          "date": "2018-08-28"
+        },
+        "readmoo": {
+          "id": "210105290000101",
+          "date": "2019-03-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050032581",
+          "date": "2018-08-10",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 134004,
+          "date": "2018-08-28",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 111
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-08-27",
+          "width": 1111,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1111,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "(28)",
+      "isbn": "9789571083704",
+      "cover": "/uchu-kyodai/uchu-kyodai-28.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "芹夏主導的ＡＬＳ實驗成功了。\n在回味夥伴傳出捷報喜悅的同時，\n「ＪＯＫＥＲＳ」前往月球背面，\n為建造莎朗月面天文台預作準備。\n出乎意料的變數、失去音訊的夥伴……\n六太親自踏上了人類未曾觸及的黑暗。",
+      "platform": {
+        "kobo": {
+          "id": "N_mRJa_dCTG9i4sLTq8gMg",
+          "date": "2019-03-11"
+        },
+        "bw": {
+          "id": 57417,
+          "date": "2019-03-12"
+        },
+        "readmoo": {
+          "id": "210104773000101",
+          "date": "2019-03-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040552",
+          "date": "2019-02-12",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153829,
+          "date": "2019-03-11",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-03-11",
+          "width": 1085,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1085,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "(29)",
+      "isbn": "9789571086095",
+      "cover": "/uchu-kyodai/uchu-kyodai-29.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉",
+        "施凡"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "傘型天線莫名消失，因而發現人類未及的橫向洞穴。\n「ＪＯＫＥＲＳ」並未因為連番意外而亂了步伐，\n按部就班完成工程。\n「月球上有水說」又再次甚囂塵上，\n可以預見他們的月球任務會有多充實。\n然而，頂上的太陽此時卻出現了變化，\n大規模磁暴悄悄朝六太等人背後逼近…",
+      "platform": {
+        "kobo": {
+          "id": "rdRsUmwHczKMgQSH4Y5lvg",
+          "date": "2019-08-12"
+        },
+        "bw": {
+          "id": 68551,
+          "date": "2019-08-13"
+        },
+        "readmoo": {
+          "id": "210114028000101",
+          "date": "2019-08-11",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050051958",
+          "date": "2019-07-12",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 171477,
+          "date": "2019-08-13",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-08-16",
+          "width": 1078,
+          "height": 1600
+        },
+        "img": {
+          "modified": "",
+          "width": 1078,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "(30)",
+      "isbn": "9789571087245",
+      "cover": "/uchu-kyodai/uchu-kyodai-30.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "為了拯救超級電腦\n「ＳＨＡＲＯＮ」\n免於太陽磁暴引發的電波干擾，\n六太和艾迪前往艙外執行任務，\n卻遇上意想不到的大麻煩…\n六太陷在日日人曾經跌落的峽谷，難以脫身；\n艾迪則因為缺氧而昏迷，性命垂危……\n在此同時，\n「那個男人」在地球上\n以太空為目標，\n展開了訓練。",
+      "platform": {
+        "kobo": {
+          "id": "7JKdaUaKszeBYtTtPMSwrA",
+          "date": "2019-10-09"
+        },
+        "bw": {
+          "id": 75858,
+          "date": "2019-10-09"
+        },
+        "readmoo": {
+          "id": "210117516000101",
+          "date": "2019-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050055287",
+          "date": "2019-10-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 176601,
+          "date": "2021-10-13",
+          "type": [
+            "epub"
+          ],
+          "size": 222
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-02",
+          "width": 1408,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2019-10-02",
+          "width": 1408,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "(31)",
+      "isbn": "9789571092225",
+      "cover": "/uchu-kyodai/uchu-kyodai-31.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "期許成為俄羅斯太空人的弟弟‧日日人，\n終於要迎接審判的到來。\n正在月球建造「莎朗天文台」的哥哥‧六太，\n由於太陽磁暴，也不得不更動任務排程。\n如同照亮地表黑夜的光，以及籠罩月亮的闇，\n太陽同樣動搖了南波兄弟的命運……",
+      "platform": {
+        "kobo": {
+          "id": "8x0qk_JxmzmLCnH36Z44TQ",
+          "date": "2020-12-14"
+        },
+        "bw": {
+          "id": 104259,
+          "date": "2020-12-14"
+        },
+        "readmoo": {
+          "id": "210164759000101",
+          "date": "2020-12-10",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050081302",
+          "date": "2020-12-11",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 214247,
+          "date": "2021-10-13",
+          "type": [
+            "epub"
+          ],
+          "size": 218
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-07",
+          "width": 1369,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1369,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "(32)",
+      "isbn": "9789571097343",
+      "cover": "/uchu-kyodai/uchu-kyodai-32.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "太陽閃焰引發月球基地\n一連串停電災難，\n六太所屬的\n「ＪＯＫＥＲＳ」小組克服之後，\n旋即和新機器人\n投入建造「莎朗天文台」。\n\n另一方面，\n成功在ＩＳＳ太空站上\n實驗ＡＬＳ蛋白質結晶化的芹夏，\n將這個偉大的研究成果託付給補給船「ＦＵＪＩ」。\n\n儘管一位在月球，一位在ＩＳＳ，\n六太和芹夏對地球上的人依舊充滿想念。\n\n完成太空任務的芹夏，\n返航地球的這天\n終於到來──",
+      "platform": {
+        "kobo": {
+          "id": "uPtnKDwMhzSG0Evquvae-w",
+          "date": "2021-05-12"
+        },
+        "bw": {
+          "id": 113511,
+          "date": "2021-05-12"
+        },
+        "readmoo": {
+          "id": "210180052000101",
+          "date": "2021-05-11",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050093023",
+          "date": "2021-05-12",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 233102,
+          "date": "2021-10-13",
+          "type": [
+            "epub"
+          ],
+          "size": 207
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-05-05",
+          "width": 1396,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1396,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "(33)",
+      "isbn": "9786263160330",
+      "cover": "/uchu-kyodai/uchu-kyodai-33.webp",
+      "pages": 203,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "先前引發太陽閃焰的黑子，\n又開始活動。\n再過幾天，規模超越上次、\n輻射量足以致命的太陽閃焰，\n恐有衝著月球而來之虞。\n\n六太所屬的「ＪＯＫＥＲＳ」小組\n不得不在有限的時間內，\n分頭進行返航的準備\n以及天文台的工程。\n\n關關難過關關過，\n處理麻煩事越來越上手的他們，\n卻不知道即將面臨月球任務以來\n最大的危機──",
+      "platform": {
+        "kobo": {
+          "id": "-X9nwht-OzaFladz_qvKFw",
+          "date": "2021-09-17"
+        },
+        "bw": {
+          "id": 124609,
+          "date": "2021-10-02"
+        },
+        "readmoo": {
+          "id": "210199664000101",
+          "date": "2021-09-29",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108308",
+          "date": "2021-09-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 256617,
+          "date": "2021-09-30",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 187
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-29",
+          "width": 1396,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1396,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "(34)",
+      "isbn": "9786263168169",
+      "cover": "/uchu-kyodai/uchu-kyodai-34.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "貝蒂傷勢持續惡化，\n救命方法只有一個。\n史無前例的\n緊急手術即將開始──",
+      "platform": {
+        "kobo": {
+          "id": "08KJiHl-YzmRHC-Sbv3Q5g",
+          "date": "2022-05-13"
+        },
+        "bw": {
+          "id": 139684,
+          "date": "2022-05-15"
+        },
+        "readmoo": {
+          "id": "210229733000101",
+          "date": "2022-05-12",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050132014",
+          "date": "2022-05-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 300885,
+          "date": "2022-05-14",
+          "type": [
+            "pdf"
+          ],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-05-12",
+          "width": 1396,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1396,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 35,
+      "volName": "(35)",
+      "isbn": "9786263381834",
+      "cover": "/uchu-kyodai/uchu-kyodai-35.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "偌大的月球，\n只剩六太和菲利浦兩人留下。\n理由只有一個，\n就是實現和莎朗的約定，\n落實天文台建設完成。\n兩個男人力扛太陽閃焰的威脅、\n無船返航的壓力，\n迎接任務的終局──！",
+      "platform": {
+        "kobo": {
+          "id": "0DvhJXd9XD2Pw00xxioOtA",
+          "date": "2022-08-12"
+        },
+        "bw": {
+          "id": 145480,
+          "date": "2022-08-12"
+        },
+        "readmoo": {
+          "id": "210242129000101",
+          "date": "2022-08-11",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050139723",
+          "date": "2022-08-12",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 316114,
+          "date": "2022-08-12",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 196
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-08-09",
+          "width": 1408,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1408,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 36,
+      "volName": "(36)",
+      "isbn": "9786263389076",
+      "cover": "/uchu-kyodai/uchu-kyodai-36.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "六太和菲利浦兩人終於完成天文台建設，\n達成誓願。\n然而返航船依舊沒有著落，\n月面上的危機並未解除。\n就在此時，ＮＡＳＡ、ＪＡＸＡ、\nＲＯＳＣＯＳＭＯＳ三方聯手，\n投入世界級救援大作戰。\n\n為拯救六太與菲利浦，\n航向宇宙的\n究竟會是誰……",
+      "platform": {
+        "kobo": {
+          "id": "gZgHtnZKvDCQL8JdCLsb9w",
+          "date": "2023-02-02"
+        },
+        "bw": {
+          "id": 156412,
+          "date": "2023-02-03"
+        },
+        "readmoo": {
+          "id": "210261774000101",
+          "date": "2023-01-16",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050152602",
+          "date": "2023-01-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 337772,
+          "date": "2023-02-02",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 221
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-21",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 37,
+      "volName": "(37)",
+      "isbn": "9786263565203",
+      "cover": "/uchu-kyodai/uchu-kyodai-37.webp",
+      "pages": 205,
+      "authors": [
+        "小山宙哉"
+      ],
+      "translators": [
+        "施凡"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "\"日日人要來月球了！\n收到這打破月面孤寂的佳音，\n六太重新燃起希望。\n另一方面，\n「ＪＯＫＥＲＳ」Ａ組四人\n在ＩＳＳ靜待返航之日。\n貝蒂術後依然惴惴不安，\n月球上和ＩＳＳ也是狀況不斷。\n「ＪＯＫＥＲＳ」\n最終能否跨越重重困境，\n全員平安返回地球呢？\"",
+      "platform": {
+        "kobo": {
+          "id": "C6qkbOmdrDucmGw33ilkTw",
+          "date": "2023-05-19"
+        },
+        "bw": {
+          "id": 164107,
+          "date": "2023-05-22"
+        },
+        "readmoo": {
+          "id": "210274125000101",
+          "date": "2023-05-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050162081",
+          "date": "2023-05-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 355600,
+          "date": "2023-05-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 217
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-05-18",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

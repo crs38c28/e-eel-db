@@ -1,0 +1,928 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "kuitan",
+    "series": {
+      "kobo": "Jg_ugSiYiFeu_ih52EHLAQ",
+      "readmoo": 3556,
+      "bw": 12224,
+      "books": "A00000035635",
+      "pubu": {
+        "store": 29038,
+        "id": "美食偵探王"
+      }
+    },
+    "title": "美食偵探王",
+    "originalTitle": "",
+    "authors": [
+      "寺澤大介"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "料理",
+      "偵探推理",
+      "懸疑解謎",
+      "搞笑",
+      "職業"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "0614361648",
+      "cover": "/kuitan/kuitan-1.webp",
+      "pages": 234,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "對高野聖也來說…\n無案不能解！\n無物不能吃！\n掃光被害者家裡的冰箱、\n狂吞殺人現場的壽司、\n吃了再推理、推理了再吃！\n請看這位聰明絕頂的大胃王、\n前所未有的美食主義偵探‧高野聖也的\n華麗推理！",
+      "platform": {
+        "kobo": {
+          "id": "pMv7sEZl1Tiw04UupYMBLg",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79680,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152440000101",
+          "date": "2020-08-05",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050072159",
+          "date": "2003-04-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212538,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-01",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-11-29",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "061436275X",
+      "cover": "/kuitan/kuitan-2.webp",
+      "pages": 218,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐，路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "對高野聖也來說… 無案不能解！無物不能吃！掃光被害者家裡的冰箱、狂吞殺人現場的壽司、吃了再推理、推理了再吃！更棘手的案件、更高明的犯案手法，絕對讓你「上癮」的第二集！",
+      "platform": {
+        "kobo": {
+          "id": "3A_Ib5LUVzyB8PFZLjx4gQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79681,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152441000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072160",
+          "date": "2003-07-19",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212541,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-01",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "0614365147",
+      "cover": "/kuitan/kuitan-3.webp",
+      "pages": 200,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐，路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "對高野聖也來說… 無案不能解！無物不能吃！掃光被害者家裡的冰箱、狂吞殺人現場的壽司、吃了再推理、推理了再吃！更棘手的案件、更高明的犯案手法，絕對讓你「飽餐一頓」的第三集！",
+      "platform": {
+        "kobo": {
+          "id": "x3v2myjvqjKCTBFAzfRxrw",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79682,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152442000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072161",
+          "date": "2004-01-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212582,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 134
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "9786263067035",
+      "cover": "/kuitan/kuitan-4.webp",
+      "pages": 194,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米婓．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "美食偵探王重出江湖！為了對抗高野聖也，緒方警官派出了特別小組「高野聖也證據物件偷吃阻止隊」！吃了再推理、推理了再吃！這次高野將要挑戰人體極限，吃遍中華街！",
+      "platform": {
+        "kobo": {
+          "id": "n1X32Ckh2De2iG5xmkGLKg",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79683,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152443000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072162",
+          "date": "2006-03-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212583,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 138
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "9786263067028",
+      "cover": "/kuitan/kuitan-5.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米婓．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "就算發生了強烈地震，\n美食偵探王高野聖也仍舊死守飯鍋！\n且看一瓶烏龍茶如何成為破案關鍵！\n吃了再推理、推理了再吃！\n管它什麼祭拜亡魂的供品，\n一樣照吃不誤！",
+      "platform": {
+        "kobo": {
+          "id": "xrZyvu1o-zyWsE61Qh6R0g",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79684,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152444000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072163",
+          "date": "2006-06-29",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 212584,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "9786263066854",
+      "cover": "/kuitan/kuitan-6.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米婓．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "從垃圾桶裡撿來吃的漢堡，\n竟成了爭奪孩子監護權的決定關鍵！\n美食偵探王高野聖也再度挑戰食材最高境界，\n就連價值五百萬的龍魚也拿來下鍋炸！？\n吃了再推理、推理了再吃！\n就算被綁架，還是要吃吃吃！",
+      "platform": {
+        "kobo": {
+          "id": "EVQUEEx5vTWKdf_09zkqkQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79685,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152445000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072164",
+          "date": "2006-12-12",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212585,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 129
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "9786263066984",
+      "cover": "/kuitan/kuitan-7.webp",
+      "pages": 193,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐.路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "受邀到養雞場參觀的高野聖也，\n竟然大搖大擺地在裡面狂吃起親子丼來了！？\n一顆小小的白煮蛋，\n究竟要如何成為破案的關鍵呢！？\n吃了再推理、推理了再吃！\n這次要帶您一窺雞蛋的奧秘！",
+      "platform": {
+        "kobo": {
+          "id": "MLNeSSewjjSzbMkUFuIU2w",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79686,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152446000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072165",
+          "date": "2007-06-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212586,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 135
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "9786263066953",
+      "cover": "/kuitan/kuitan-8.webp",
+      "pages": 194,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "接受緒方委託前往牧場解決恐嚇事件的高野，\n除了大啖牧場裡的牛肉之外，還能以牛雜擊退黑道！？\n這次就連高速公路發生車禍，\n灑了滿地的破爛便當都不放過！\n吃了再推理、推理了再吃！\n破案過程與解謎手法絕對讓你瞠目結舌！",
+      "platform": {
+        "kobo": {
+          "id": "dHo7GFjEVD-u_jSPpxWtAg",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79687,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152447000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072166",
+          "date": "2007-10-03",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212587,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 128
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "9786263066847",
+      "cover": "/kuitan/kuitan-9.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "因案前往京都的高野，\n沿路吃遍了各式各樣的店家，\n其背後究竟有何意義？\n一碗普通杯麵又如何能擊潰惡徒呢？\n吃了再推理、推理了再吃！\n除了美食，這次還要告訴你許多科學常識！",
+      "platform": {
+        "kobo": {
+          "id": "h2iT6k2pBTOmf45Rt1mY3A",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79688,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152448000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072167",
+          "date": "2008-04-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212589,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9786263066977",
+      "cover": "/kuitan/kuitan-10.webp",
+      "pages": 194,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐．路克"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "因為豪雨不斷而受困鄉間的高野，\n竟然在店家連續大啖了三天的鰻魚飯，\n還利用鰻魚解決公司的倒閉危機？\n甚至就連天婦羅的炸油都能成為破案關鍵！\n吃了再推理、推理了再吃！\n這一次就連妙○小廚師也都來摻一腳啦！",
+      "platform": {
+        "kobo": {
+          "id": "t3Og9sqLnjWFFPdIXqNbQw",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79689,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152449000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072168",
+          "date": "2008-12-31",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212592,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 133
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9786263066946",
+      "cover": "/kuitan/kuitan-11.webp",
+      "pages": 190,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "高野慘死戶外！？\n受白木女士之邀前往品嚐甜點的高野，\n居然遭受不明人士攻擊？\n吃了再推理、推理了再吃！\n本集要挑戰在命案現場的屍體旁大啖牛排的非人極限！",
+      "platform": {
+        "kobo": {
+          "id": "NAUlwNffcjWkRJs_ne0ZJQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79690,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152450000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072169",
+          "date": "2009-12-09",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212598,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 124
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9786263066892",
+      "cover": "/kuitan/kuitan-12.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "為了破案，\n高野居然開始啃起玻璃酒瓶來了！\n更驚人的是，\n木炭＋紙巾＋鋁箔紙居然可以用來蓄電殺人？\n吃了再推理、推理了再吃！\n這一次換島耕作也來摻一腳啦！",
+      "platform": {
+        "kobo": {
+          "id": "soIpHOC3gDKUf_GUMwOF5A",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79691,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152451000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072170",
+          "date": "2010-10-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212602,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 126
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "4717702243838",
+      "cover": "/kuitan/kuitan-13.webp",
+      "pages": 226,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "為了逮住預告殺人的嫌犯，\n居然在卡片遊戲比賽會場烤起披薩來了？\n更令人目瞪口呆的是，\n高野這次要挑戰如山一般高的烤玉米！\n吃了再推理、推理了再吃！\n這回就連便利商店架上所有的食物都難逃一劫啦！",
+      "platform": {
+        "kobo": {
+          "id": "F9Vw-Mkp5zuCCxPzLiPCyQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79692,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152452000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072171",
+          "date": "2014-06-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212605,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "4717702265540",
+      "cover": "/kuitan/kuitan-14.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "米斐"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "為了揪出惡意捉弄的幕後黑手，\n居然在家政課堂上把學生們的甜甜圈吃光光？\n更令人不可置信的是，\n高野這次要挑戰堆滿整間屋子的罐頭食品！\n吃了再推理、推理了再吃！\n這回輪到中華料理教室的包子要遭殃啦！",
+      "platform": {
+        "kobo": {
+          "id": "4fVzeiwKLTKppb6rbajjcg",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79693,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152453000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072172",
+          "date": "2015-04-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212610,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 121
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "4717702267216",
+      "cover": "/kuitan/kuitan-15.webp",
+      "pages": 192,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "洪嘉穗"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "為了找出下毒的犯人，\n居然獨佔紫色的紫地瓜口味戚風蛋糕，\n強迫大家吃下綠色的紫地瓜口味戚風蛋糕？\n更令人傻眼的是，\n高野這次連難吃的焗烤馬鈴薯都吃得一乾二淨！\n吃了再推理、推理了再吃！\n這回某國總統也登場啦！",
+      "platform": {
+        "kobo": {
+          "id": "JIKQ5RFUKTa-NTZl_RetKQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79694,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152454000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072173",
+          "date": "2015-08-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212613,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 118
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)完",
+      "isbn": "9789571068534",
+      "cover": "/kuitan/kuitan-16.webp",
+      "pages": 210,
+      "authors": [
+        "寺澤大介"
+      ],
+      "translators": [
+        "洪嘉穗"
+      ],
+      "nsfw": false,
+      "price": 84,
+      "description": "為了拆穿秘書的詭計，\n居然不斷續杯高級毒紅酒？\n甚至自己開瓶自己倒，無限暢飲！\n吃了再推理、推理了再吃！\n高野聖也的美食推理劇就此精彩落幕！",
+      "platform": {
+        "kobo": {
+          "id": "jL1OpgPDtT6PLt2VVu0xKQ",
+          "date": "2019-12-06"
+        },
+        "bw": {
+          "id": 79695,
+          "date": "2019-12-06"
+        },
+        "readmoo": {
+          "id": "210152455000101",
+          "date": "2020-08-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050072174",
+          "date": "2016-09-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 212615,
+          "date": "2020-12-01",
+          "type": [
+            "epub"
+          ],
+          "size": 134
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-06",
+          "width": 1372,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2022-12-02",
+          "width": 1372,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

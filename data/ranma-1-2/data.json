@@ -1,0 +1,2198 @@
+{
+  "lastModifiedDate": "2023-06-13",
+  "detail": {
+    "slug": "ranma-1-2",
+    "series": {
+      "kobo": "DXQwwrHVb1K2UrMuqKf61w",
+      "readmoo": 1255,
+      "bw": 8606,
+      "books": "A00000041224"
+    },
+    "collection": {
+      "pubu": [
+        153137,
+        153138,
+        153140,
+        153142,
+        153145,
+        153147,
+        153149,
+        153151,
+        153154,
+        153156,
+        153159,
+        153160,
+        153162,
+        153164,
+        153165,
+        153167,
+        153169,
+        153171,
+        153172,
+        153175,
+        153177,
+        153178,
+        153179,
+        153180,
+        153181,
+        153183,
+        153189,
+        153191,
+        153192,
+        153194,
+        153196,
+        153201,
+        153202,
+        153204,
+        153206,
+        153208,
+        153211,
+        153215
+      ]
+    },
+    "title": "亂馬 1/2",
+    "originalTitle": "",
+    "authors": [
+      "高橋留美子"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "戀愛",
+      "搞笑",
+      "戰鬥",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(1)",
+      "isbn": "9786263015463",
+      "cover": "/ranma-1-2/ranma-1-2-1.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "遠赴中國修行的亂馬，不小心掉進咒泉鄉的娘溺泉裡，從此身體產生了不可告人的轉變。\n討厭男生的天道茜，成天都得打發一堆愛慕者的追求，偏偏父親居然自作主張弄了一個未婚夫住進家裡，搞得全家雞犬不寧，重點是這傢伙到底是「他」還是「她」？",
+      "platform": {
+        "kobo": {
+          "id": "A-mOj9vUtjKCG_v1mBEfsw",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52521,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103984000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040026",
+          "date": "2004-06-26",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153137,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 76
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(2)",
+      "isbn": "061436843X",
+      "cover": "/ranma-1-2/ranma-1-2-2.webp",
+      "pages": 185,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "本書主角亂馬是個身負絕技的功夫小子，但他因觸犯了禁忌而被詛咒，身體在某種條件下會忽男忽女的轉變，加上有一個可以在瞬間變身為熊貓的糊塗老爸、一澆到水就分別變成豬、貓跟鴨子的對頭良牙、珊璞跟沐志等人，《亂馬１／２》可說一套從未有過冷場的精彩漫畫。高橋留美子老師最受歡迎的作品，最有趣的故事情節，《亂馬１／２》重新登場！！",
+      "platform": {
+        "kobo": {
+          "id": "iwGsyIIchz2tEjToYZos5A",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52522,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103985000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040027",
+          "date": "2004-07-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153138,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 74
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(3)",
+      "isbn": "9786263015432",
+      "cover": "/ranma-1-2/ranma-1-2-3.webp",
+      "pages": 185,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "本書主角亂馬是個身負絕技的功夫小子，但他因觸犯了禁忌而被詛咒，身體在某種條件下會忽男忽女的轉變，加上有一個可以在瞬間變身為熊貓的糊塗老爸、一澆到水就分別變成豬、貓跟鴨子的對頭良牙、珊璞跟沐志等人，《亂馬１／２》可說一套從未有過冷場的精彩漫畫。高橋留美子老師最受歡迎的作品，最有趣的故事情節，《亂馬１／２》重新登場！！",
+      "platform": {
+        "kobo": {
+          "id": "4HcktzbM8jq6ZmQbmAjC9g",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52523,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103986000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040028",
+          "date": "2004-07-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153140,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 83
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(4)",
+      "isbn": "9786263015135",
+      "cover": "/ranma-1-2/ranma-1-2-4.webp",
+      "pages": 187,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "與三千院帝及白鳥梓的格鬥溜冰大賽才結束，女傑族美少女──珊璞卻突然現身說要殺死女亂馬，只因為女亂馬在中國修行時，接受了『死亡之吻』。但在另一方面，男亂馬卻受了珊璞的『我愛你』之吻，被她熱烈追求。超尷尬的事情將會如何發展呢？",
+      "platform": {
+        "kobo": {
+          "id": "YVap1ZdLdDKf0ri_ylSCNQ",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52524,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103987000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040029",
+          "date": "2004-08-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153142,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 80
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(5)",
+      "isbn": "9786263015128",
+      "cover": "/ranma-1-2/ranma-1-2-5.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "大事不好了！！亂馬的大弱點被發現了！！即使亂馬費盡心力，努力地克服這弱點，但是新的悲劇再度襲擊了他。壞事連連，已回中國的珊璞再次出現，而且，身後還跟隨著一位名叫沐絲的男人……不得了啦！",
+      "platform": {
+        "kobo": {
+          "id": "AJZZeZLdPz6otO8UzVHHVQ",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52525,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103988000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040030",
+          "date": "2004-08-13",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153145,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 77
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(6)",
+      "isbn": "9786263015159",
+      "cover": "/ranma-1-2/ranma-1-2-6.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "自從珊璞的曾祖母出現以後，亂馬的日子就更加難過了。他被點了全身怕熱穴，被逼得為了拿到靈藥鳳凰丸而拚命。曾祖母更將炸碎點穴神劍傳授給他的情敵良牙，命良牙和他對打……。天啊，誰能解決這一團混亂呢？",
+      "platform": {
+        "kobo": {
+          "id": "Nj4zx9L8VjySuSRve_wFkQ",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52526,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103989000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040031",
+          "date": "2004-08-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153147,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(7)",
+      "isbn": "9786263015234",
+      "cover": "/ranma-1-2/ranma-1-2-7.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "「格鬥外送小姐比賽」突然開始了。女亂馬、小茜、珊璞三個少女賭上女性志氣，大打出手！比賽結果將會如何？此外，又一個突發事件發生，亂馬父親與小茜父親的師父──八寶齊出現了。八寶齊是個超級色老頭，他又會掀起何種風波呢？",
+      "platform": {
+        "kobo": {
+          "id": "bK9eSp-mzzWu4RW1DWSlsA",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52527,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103990000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040032",
+          "date": "2004-09-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153149,
+          "date": "2019-03-05",
+          "type": [
+            "epub"
+          ],
+          "size": 81
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(8)",
+      "isbn": "9786263015104",
+      "cover": "/ranma-1-2/ranma-1-2-8.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小茜受邀演出心目中夢幻的角色──「茱麗葉」，並且參加戲劇大賽。\n但是，八寶齊、九能學長，甚至聽說奪冠便能到中國旅行的亂馬，統統想盡辦法演了羅密歐這個角色。悲劇在不知不覺中變成了大喜劇！！",
+      "platform": {
+        "kobo": {
+          "id": "aZgBgA8ATDyoiiD9RgCVlA",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52528,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103991000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040033",
+          "date": "2004-09-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153151,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(9)",
+      "isbn": "9786263015098",
+      "cover": "/ranma-1-2/ranma-1-2-9.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小茜和聖黑貝雷格女子學院的黑玫瑰小太刀雙雙對亂馬發動餅乾攻勢。亂馬的兒時玩伴──右京則宣告要用特製什錦煎餅「教訓」亂馬。愛情之恨與食物之恨混雜，引發一場很難收拾的大混亂！！",
+      "platform": {
+        "kobo": {
+          "id": "WGs9027jlzmX30v0z5S74w",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52529,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103992000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040034",
+          "date": "2004-09-23",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153154,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 76
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9786263015289",
+      "cover": "/ranma-1-2/ranma-1-2-10.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小茜成了人質，變成鴨子？這是四眼田雞──沐絲的陰謀，他為了從亂馬手中搶回心愛的珊璞，再度出現，同時利用從中國帶來的鴨子溺泉泉水向亂馬挑戰。危險，小茜！危險，亂馬！",
+      "platform": {
+        "kobo": {
+          "id": "NWFFt-5DKDmWJo9U9vk5RA",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52530,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103993000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040035",
+          "date": "2004-10-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153156,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "(11)",
+      "isbn": "9786263015302",
+      "cover": "/ranma-1-2/ranma-1-2-11.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "天道早雲、早乙女玄馬為爭搶終極絕招──八寶大華輪祕笈，而與超級色老頭八寶齊展開爭奪戰。亂馬、小茜也加入他們師徒三人之間的對決，眼看又是一場混亂！！八寶大華輪究竟是什麼招式呢？",
+      "platform": {
+        "kobo": {
+          "id": "JnwkLWn24TGyAJC9ho-oaA",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52531,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103994000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040036",
+          "date": "2004-10-22",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153159,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 80
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "(12)",
+      "isbn": "9786263015425",
+      "cover": "/ranma-1-2/ranma-1-2-12.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "學生從未見過的風林館高中校長，在睽違三年後回來了。頭長椰子樹的裝蒜混蛋將嚴苛校規當作禮物送給學生──他要男學生全體剃光頭，女學生剪短髮！學生們忍無可忍，和校長展開無止盡的大戰……！",
+      "platform": {
+        "kobo": {
+          "id": "YAxhF7AsdzeLkCCuF3ATlw",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52532,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103995000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040037",
+          "date": "2004-10-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153160,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 76
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "(13)",
+      "isbn": "9786263015357",
+      "cover": "/ranma-1-2/ranma-1-2-13.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸/譯"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "亂馬突然變弱了！因為他被八寶齊施了「貧力虛脫灸」。亂馬若要恢復原來的功力，就得從八寶齊手中奪回標明破灸穴的人體圖。力氣盡失的他，該做的事只有勉力修練上乘武功──「飛龍昇天破」！",
+      "platform": {
+        "kobo": {
+          "id": "hSErDwO6jTWnH-oexCkhNg",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52533,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103996000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040038",
+          "date": "2004-11-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153162,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 76
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "(14)",
+      "isbn": "9786263015210",
+      "cover": "/ranma-1-2/ranma-1-2-14.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸/譯"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "「你好，亂馬！」\n中國女孩珊璞開朗且強悍地逼近亂馬，返鄉回來的她，送給亂馬的禮物是名為「貓魔鈴」的怪鈴噹。這鈴鐺裡居然躲了亂馬最怕的貓，而貓正在尋找新娘。啊啊，又造成大恐慌了！！",
+      "platform": {
+        "kobo": {
+          "id": "gdsn7J93VDGSb_LxOvPJSw",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52534,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103997000101",
+          "date": "2019-03-03",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050040039",
+          "date": "2004-11-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153164,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 74
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-10",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "(15)",
+      "isbn": "9786263015333",
+      "cover": "/ranma-1-2/ranma-1-2-15.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸/譯"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "傳奇聖刀──滿願丸插在某寺的石頭中。據說拔起聖刀者，可實現三個願望。時候終於到了！但拔起刀的人竟是九能學長。亂馬想利用滿願丸的力量來恢復正常身體，於是他接近九能……",
+      "platform": {
+        "kobo": {
+          "id": "YvS8DYS4wTq1yJxVLaWDuA",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52535,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103998000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040040",
+          "date": "2004-11-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153165,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 73
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "061436857X",
+      "cover": "/ranma-1-2/ranma-1-2-16.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小茜在鎮上的抽獎大會中了大獎。獎品是「絕叫溫泉鄉競技參加券」。\n倘若獲勝，就能前往咒泉鄉！因此，比賽開始了。\n但是，不知為什麼亂馬和珊璞、小茜和沐絲、良牙和右京搭檔。比賽結果究竟如何？",
+      "platform": {
+        "kobo": {
+          "id": "GSPa1qySgTCxB-WHqZVe3g",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52536,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210103999000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040041",
+          "date": "2004-12-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153167,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-19",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "(17)",
+      "isbn": "9786263015326",
+      "cover": "/ranma-1-2/ranma-1-2-17.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "亂馬和小茜是眾所皆知的未婚夫妻……但小茜自行宣佈取消婚約。\n由於她說要將亂馬讓給二姊，所以事情鬧大了。\n許多人蜂擁追求亂馬、小茜，黑玫瑰小太刀、久能學長、珊璞、右京，甚至全校學生都捲入發展成大騷動！這下～糟了～！",
+      "platform": {
+        "kobo": {
+          "id": "i4KRsGCUVTGB0wmgH0Lkaw",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52537,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210104000000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040042",
+          "date": "2004-12-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153169,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 77
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "(18)",
+      "isbn": "9786263015265",
+      "cover": "/ranma-1-2/ranma-1-2-18.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "咒泉鄉改變了亂馬、良牙、珊璞。\n現在，咒泉鄉又造出最壞、最慘的惡魔。\n可怕人物出現在亂馬等人面前，他的真面目是「褲襪男」！\n燃燒怒火的怪物擄走了小茜。亂馬，怎麼辦？",
+      "platform": {
+        "kobo": {
+          "id": "LVyfgER0GjmsWA1ASoAaSw",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52538,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210104001000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040043",
+          "date": "2004-12-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153171,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "(19)",
+      "isbn": "061436860X",
+      "cover": "/ranma-1-2/ranma-1-2-19.webp",
+      "pages": 183,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "小茜和亂馬是名正言順的未婚夫妻。但是，右京也有未婚妻資格。\n右京因故遷居天道家之後，亂馬陣腳大亂。\n小茜和亂馬假裝正式夫妻，想要趕走右京，但事情並不順利。因為右京也拚命跟隨亂馬……",
+      "platform": {
+        "kobo": {
+          "id": "Rq5XhE6vTjahRf1Nj6xmhg",
+          "date": "2018-12-06"
+        },
+        "bw": {
+          "id": 52539,
+          "date": "2018-12-06"
+        },
+        "readmoo": {
+          "id": "210104002000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040044",
+          "date": "2005-01-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153172,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-11-28",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "(20)",
+      "isbn": "9786263015180",
+      "cover": "/ranma-1-2/ranma-1-2-20.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "響良牙用新武功向亂馬挑戰。\n新絕招名為「獅子咆哮彈」！\n這是越不幸越有力量，適合良牙的怪武功！\n亂馬說：「我也很不幸！」亂馬和良牙的「不幸之爭」開始了！",
+      "platform": {
+        "kobo": {
+          "id": "VlTnmq5ttzeiNUKBcVKkdw",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53053,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104003000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040045",
+          "date": "2005-01-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153175,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 78
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "(21)",
+      "isbn": "9786263015418",
+      "cover": "/ranma-1-2/ranma-1-2-21.webp",
+      "pages": 183,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "櫻麻糬愛情占卜？小茜雖然覺得不屑，但用它一試，居然卜出她和良牙才是天定良緣！\n小茜不信，讓亂馬試試，占卜卻沒反應！\n小茜傷透腦筋。她和亂馬兩人的關係，就此告終嗎？",
+      "platform": {
+        "kobo": {
+          "id": "WhhdrOv1nj-ycUyfIvgCvw",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53054,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104004000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040046",
+          "date": "2005-01-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153177,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 74
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "(22)",
+      "isbn": "9786263015449",
+      "cover": "/ranma-1-2/ranma-1-2-22.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "說起來，亂馬有母親嗎？事實上，有的。亂馬的父親玄馬，以前答應她，「要將亂馬養育成男人中的男人」，所以現在沒臉見她，於是父子倆一個勁地隱瞞身分……",
+      "platform": {
+        "kobo": {
+          "id": "DwkRWi0jeTS59xdck1grgQ",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53055,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104005000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040047",
+          "date": "2005-02-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153178,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 73
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "(23)",
+      "isbn": "9786263015227",
+      "cover": "/ranma-1-2/ranma-1-2-23.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "良牙對小茜一往情深！他想用「戀情釣竿」擄獲小茜的芳心，不料卻釣到亂馬。事情一發不可收拾。亂馬迷戀良牙，將小茜視為情敵，甚至主動向良牙裸身……\n",
+      "platform": {
+        "kobo": {
+          "id": "rj6OZieAuDyYnp7hhJkCZA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53056,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104006000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040048",
+          "date": "2005-02-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153179,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 80
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "(24)",
+      "isbn": "9786263015296",
+      "cover": "/ranma-1-2/ranma-1-2-24.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "亂馬就算泡了熱水，還是女人模樣，恢復不了原形。這是麝香王朝的王位繼承人哈峬帶來的止水桶害的。這樣下去，永遠當女人？為了治癒，亂馬必須拿到開水壺。亂馬和良牙、沐絲結伴追趕哈峬，展開苦難之旅…！",
+      "platform": {
+        "kobo": {
+          "id": "GiXqwbfmCDS9gIqjh4v4qg",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53057,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104007000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040049",
+          "date": "2005-02-23",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153180,
+          "date": "2019-03-11",
+          "type": [
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "(25)",
+      "isbn": "9786263015258",
+      "cover": "/ranma-1-2/ranma-1-2-25.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "二之宮雛子以新老師身分來到風林館高中。雛子外形像個孩子，但使出無差別格鬥派的終極秘功「八寶五元殺」時，會一口氣變為成熟女人。奇妙的女人。「八寶五元殺」竟是八寶齊教給年幼雛子的絕活。如今，八寶齊、右京、小太刀都輸了。究竟亂馬能不能獲勝？",
+      "platform": {
+        "kobo": {
+          "id": "TZXJ_Pzalz6Jf0iXCfrTDQ",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53058,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104008000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040050",
+          "date": "2005-03-08",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153181,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 77
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "(26)",
+      "isbn": "9786263015166",
+      "cover": "/ranma-1-2/ranma-1-2-26.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "真之介是小茜的救命恩人。倘若巨大生物棲息的流幻澤的生命之水沒了，他就無法活下去。小茜不顧亂馬趕來，說要和真之介在一起。小茜和亂馬的關係將會有何變化？\n他們和堵住生命之水水源的八頭大龍之戰，將會有何結果？",
+      "platform": {
+        "kobo": {
+          "id": "nPWdHPFpgTOKTQFEPClREA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53059,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104009000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040051",
+          "date": "2005-03-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153183,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 86
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "(27)",
+      "isbn": "9786263015456",
+      "cover": "/ranma-1-2/ranma-1-2-27.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "亂馬哭著向沐絲磕頭道歉？怎麼可能？秘密是沐絲得到女傑族的秘寶─「無敵鏡」。在驚人的強大威力之下，束手無策的亂馬下了一大決心，他向沐絲送出挑戰書。亂馬有對策嗎？",
+      "platform": {
+        "kobo": {
+          "id": "BinVzoaHYDad79dIP0zhRg",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53060,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104010000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040052",
+          "date": "2005-03-23",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153189,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 80
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "(28)",
+      "isbn": "9786263015388",
+      "cover": "/ranma-1-2/ranma-1-2-28.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "由於父親亂發毒誓，亂馬在母親面前死也不能說自己變身成女人（因為說了就得切腹）。\n可是，有一天，有個男人公紋龍出現在亂馬的母親面前，並自稱是亂馬。而且，公紋龍提到了早乙女派的山千拳。亂馬，怎麼辦？",
+      "platform": {
+        "kobo": {
+          "id": "8mZTPWQXazulzdgCQAaz4Q",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53061,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104011000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040053",
+          "date": "2005-04-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153191,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 84
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "(29)",
+      "isbn": "9786263015364",
+      "cover": "/ranma-1-2/ranma-1-2-29.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "雙胞胎毒藥師玭珂和琳珂從中國來了。她們的目的是殺掉珊璞和她的「丈夫」亂馬。恐怖之花─母性花能使人人變成賢妻良母。所以，人會因此喪失攻擊性。亂馬，危險囉！",
+      "platform": {
+        "kobo": {
+          "id": "rZtkWk6S7DGDb_OFgbvvaw",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53062,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104012000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040054",
+          "date": "2005-04-26",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153192,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 85
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "(30)",
+      "isbn": "9786263015203",
+      "cover": "/ranma-1-2/ranma-1-2-30.webp",
+      "pages": 183,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "響良牙的「春天」來了！可是，對方不是小茜，而是愛豬成痴的少女─雲龍明麗。這對變身為黑豬小Ｐ的響良牙來說，難以承受！但是，亂馬努力想辦法撮合他們二人…！",
+      "platform": {
+        "kobo": {
+          "id": "Lw_4GAYw_zujwvtimN6yTA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53063,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104013000101",
+          "date": "2019-03-03",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050040055",
+          "date": "2005-04-30",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153194,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-24",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "(31)",
+      "isbn": "9786263015272",
+      "cover": "/ranma-1-2/ranma-1-2-31.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "樂京齋曾是八寶齊的摰友，他的曾孫是樂太郎。\n樂太郎巧妙地討好性喜漁色的八寶齊，而樂太郎有個秘密目的。\n他目的是取得八寶齊秘藏的「錦之蝶」，並完成「雷神猛筆拳」…。樂太郎的真面目是…？",
+      "platform": {
+        "kobo": {
+          "id": "vqTdlecfyD2HqaMYoHrGvg",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53064,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104014000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040056",
+          "date": "2005-05-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153196,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "(32)",
+      "isbn": "9786263015142",
+      "cover": "/ranma-1-2/ranma-1-2-32.webp",
+      "pages": 183,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "來自中國的美少女將變身為史上最兇狠的猛獸「褲襪太郎」打得遍體鱗傷。\n這少女就是蕗珠，她能變成最厲害的戰神─阿修羅。\n她的目的是取回太郎搶走的「力量之源」。\n亂馬和太郎聯手向阿修羅挑戰！",
+      "platform": {
+        "kobo": {
+          "id": "TEHAW4B0sz-9rv0HDdYeWg",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53065,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104015000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040057",
+          "date": "2005-05-14",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153201,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 33,
+      "volName": "(33)",
+      "isbn": "061436874X",
+      "cover": "/ranma-1-2/ranma-1-2-33.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "若吃五公分的蘑菇，就變五歲。若吃十公分，就會變身為十歲大。\n良牙吃了這種「歲數蘑菇」，變成小小孩。良牙也讓亂馬吃下蘑菇來洩憤，結果誕生了兩個壞小孩。事情究竟會如何發展？",
+      "platform": {
+        "kobo": {
+          "id": "PY_Pi8dZLjiztmmzUIjbdw",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53066,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104016000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040058",
+          "date": "2005-05-25",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153202,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 88
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 34,
+      "volName": "(34)",
+      "isbn": "9786263015173",
+      "cover": "/ranma-1-2/ranma-1-2-34.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "小茜的胸部變大了一點……！可是，亂馬的胸部變更大！小茜的少女心受到傷害。這時，亂馬的媽媽─閑來了，情況往奇怪方向轉變！亂馬的真面目終於被閑發覺？",
+      "platform": {
+        "kobo": {
+          "id": "y-EooPanBjOJaVTDFGgFyA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53067,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104017000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040059",
+          "date": "2005-06-18",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153204,
+          "date": "2019-03-07",
+          "type": [
+            "epub"
+          ],
+          "size": 82
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-01-29",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 35,
+      "volName": "(35)",
+      "isbn": "9786263015241",
+      "cover": "/ranma-1-2/ranma-1-2-35.webp",
+      "pages": 183,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "亂馬遭到天才女忍者─小夏襲擊。\n可是，小夏過著悲慘生活，受盡壞心繼母和兩位姊姊的使喚。\n因此，亂馬挺身而出，想幫小夏得到自由…！",
+      "platform": {
+        "kobo": {
+          "id": "j6CqjcnW1z2hHp_TDMqPWA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53068,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104018000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040060",
+          "date": "2005-06-23",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153206,
+          "date": "2019-03-06",
+          "type": [
+            "epub"
+          ],
+          "size": 91
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 36,
+      "volName": "(36)",
+      "isbn": "9786263015340",
+      "cover": "/ranma-1-2/ranma-1-2-36.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 67,
+      "description": "亂馬和老爸去掃墓，值得嘉許？但他們做的事卻是破壞墳墓！亂馬起疑，方知墓中有早乙女家的傳家寶！這時，亂馬的媽也來掃墓。亂馬的秘密終於要被揭穿了？",
+      "platform": {
+        "kobo": {
+          "id": "9MGLa3LMAzCrZXf8QNbrWQ",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53069,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104019000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040061",
+          "date": "2005-06-23",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153208,
+          "date": "2019-03-07",
+          "type": [
+            "epub"
+          ],
+          "size": 79
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 37,
+      "volName": "(37)",
+      "isbn": "9786263015401",
+      "cover": "/ranma-1-2/ranma-1-2-37.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "中國青海省咒泉鄉產生大異變？泉水居然乾了！\n亂馬他們的變身體質永遠治不好了嗎？\n亂馬一行人慌忙趕往咒泉鄉。\n他們在目的地和百般阻撓的鳥人展開壯烈之戰。混戰是必然的！",
+      "platform": {
+        "kobo": {
+          "id": "pbIGyQuYHz-eOBUikqgDGA",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53070,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104020000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040062",
+          "date": "2005-07-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153211,
+          "date": "2019-03-07",
+          "type": [
+            "epub"
+          ],
+          "size": 87
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2018-12-07",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 38,
+      "volName": "(38)",
+      "isbn": "9786263015111",
+      "cover": "/ranma-1-2/ranma-1-2-38.webp",
+      "pages": 181,
+      "authors": [
+        "高橋留美子"
+      ],
+      "translators": [
+        "陳美幸"
+      ],
+      "nsfw": false,
+      "price": 69,
+      "description": "是什麼理由，連小茜都「參戰」了，那咒泉鄉之戰持續不休！\n勝利者是亂馬，還是薩夫郎？\n雖然亂馬希望時光停止，但還是想看看小茜穿新娘禮服的模樣。\n光明照進了這混亂的場景，結局會是大團圓嗎？",
+      "platform": {
+        "kobo": {
+          "id": "Ox9yymEL8zyIxrf_ih9ZJQ",
+          "date": "2018-12-13"
+        },
+        "bw": {
+          "id": 53071,
+          "date": "2018-12-13"
+        },
+        "readmoo": {
+          "id": "210104021000101",
+          "date": "2019-03-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050040063",
+          "date": "2005-07-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 153215,
+          "date": "2019-03-07",
+          "type": [
+            "epub"
+          ],
+          "size": 89
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-01-29",
+          "width": 1297,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1297,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}
