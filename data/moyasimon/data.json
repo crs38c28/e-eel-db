@@ -1,0 +1,609 @@
+{
+  "lastModifiedDate": "2023-06-15",
+  "detail": {
+    "slug": "moyasimon",
+    "series": {
+      "kobo": "-6Sk9pQsM1--gEALnKqtlQ",
+      "readmoo": 7188,
+      "bw": 15345,
+      "books": "A00000038405",
+      "pubu": {
+        "store": 29038,
+        "id": "農大菌物語"
+      }
+    },
+    "title": "農大菌物語",
+    "originalTitle": "",
+    "authors": [
+      "石川雅之"
+    ],
+    "publisher": "尖端出版",
+    "finished": false,
+    "tags": [
+      "校園",
+      "生物",
+      "動畫化",
+      "真人化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "(01)",
+      "isbn": "4717702216955",
+      "cover": "/moyasimon/moyasimon-1.webp",
+      "pages": 226,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "來自日本的「菌」風潮！\n\n動畫席捲亞洲地區的最夯原著漫畫正式登台！\n\n\n\n澤木惣右衛門直保是個擁特殊能力的農大一年級生，\n\n而他的特殊能力就是能\"看見\"病毒跟細菌，\n\n甚至還能對話，不過，\n\n卻也因此引發了一連串的趣事！\n\n\n\n席捲全亞洲的萌菌風潮，準備發酵！",
+      "platform": {
+        "kobo": {
+          "id": "4c7vAlh1XDm37LFmUKwRrQ",
+          "date": "2021-03-26",
+          "productId": "bb885cca-d8fe-49df-9e8d-ca1bef6ddcca"
+        },
+        "bw": {
+          "id": 110575,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175989000101",
+          "date": "2021-03-21",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050089834",
+          "date": "2013-08-16",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 227467,
+          "date": "2021-07-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 196
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-01",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1418,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "(02)",
+      "isbn": "4717702219864",
+      "cover": "/moyasimon/moyasimon-2.webp",
+      "pages": 225,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "來自日本的「菌」風潮！\n\n動畫席捲亞洲地區的最夯原著漫畫正式登台！\n\n\n\n剛進入農大就讀的澤木直保，\n\n天生就擁有看見細菌的能力。\n\n但是，這個能力卻讓他捲入一連串的騷動中，\n\n大學新鮮人的美夢轉眼變成悽慘的惡夢…\n\n\n\n席捲全亞洲的萌菌風潮，準備發酵！",
+      "platform": {
+        "kobo": {
+          "id": "-sydDDhzbzy8mHVIHFwZgA",
+          "date": "2021-03-26",
+          "productId": "cec25dd6-91f8-403e-8feb-68694724eaf4"
+        },
+        "bw": {
+          "id": 110576,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175990000101",
+          "date": "2021-03-21",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050089835",
+          "date": "2013-12-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 227470,
+          "date": "2021-07-01",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 182
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-01",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1421,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "(03)",
+      "isbn": "4717702258634",
+      "cover": "/moyasimon/moyasimon-3.webp",
+      "pages": 226,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 98,
+      "description": "來自日本的「菌」風潮！\n\n動畫席捲亞洲地區的最夯原著漫畫正式登台！\n\n\n\n剛進入農大就讀的澤木直保，\n\n天生就擁有看見細菌的能力。\n\n但是，這個能力卻讓他捲入一連串的騷動中，\n\n大學新鮮人的美夢轉眼變成悽慘的惡夢…\n\n\n\n席捲全亞洲的萌菌風潮，準備發酵！",
+      "platform": {
+        "kobo": {
+          "id": "BmFm_OcbhzGzKt-jCiepEg",
+          "date": "2021-03-26",
+          "productId": "ca49205d-5e56-4d7d-8a5c-46be6925febe"
+        },
+        "bw": {
+          "id": 110577,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175991000101",
+          "date": "2021-03-21",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050089836",
+          "date": "2014-02-10",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 227472,
+          "date": "2021-03-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 172
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-19",
+          "width": 1443,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1443,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "(04)",
+      "isbn": "4717702261078",
+      "cover": "/moyasimon/moyasimon-4.webp",
+      "pages": 193,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "細菌細菌，滿滿的細菌！這一集細菌們連交響情人夢的野田妹也不放過，準備開始發酵？日吉酒店出了一名身穿哥德蘿莉裝的神秘女孩，其真實身分究竟是？\n一致熱烈回響！",
+      "platform": {
+        "kobo": {
+          "id": "ogGym-CzETCwKlDHrpZeYg",
+          "date": "2021-03-26",
+          "productId": "c6048696-5bd8-4c73-9d1b-91c5da0ba433"
+        },
+        "bw": {
+          "id": 110578,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175992000101",
+          "date": "2021-03-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050089840",
+          "date": "2014-08-13",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 227477,
+          "date": "2021-03-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-18",
+          "width": 1440,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1418,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "(05)",
+      "isbn": "4717702264420",
+      "cover": "/moyasimon/moyasimon-5.webp",
+      "pages": 195,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "洪子喬"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "這次農大因為豐年祭，引發了一連串的爆笑事件，\n當然，細菌們也絕不缺席！\n口碑延燒，錯過不再！",
+      "platform": {
+        "kobo": {
+          "id": "Z5FVlZzRMjqwGpINx5_tgQ",
+          "date": "2021-03-26",
+          "productId": "ebaf60d9-8676-411c-b02c-db6758a6d147"
+        },
+        "bw": {
+          "id": 110579,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175993000101",
+          "date": "2021-03-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050089841",
+          "date": "2015-03-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 227478,
+          "date": "2021-03-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-18",
+          "width": 1388,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1388,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "(06)",
+      "isbn": "9789571062716",
+      "cover": "/moyasimon/moyasimon-6.webp",
+      "pages": 223,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "蔡德襄"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "前往法國勃艮地的直保一行人，\n會在當地引發什麼樣的事件呢？\n這一集細菌們將會教你一籮筐的紅酒知識，\n讓你躍身成為紅酒達人！",
+      "platform": {
+        "kobo": {
+          "id": "ZMMQWgKlqDyI0lsbURKyyA",
+          "date": "2021-03-26",
+          "productId": "ba3da51c-e66e-44a3-93a1-abf0088247f5"
+        },
+        "bw": {
+          "id": 110580,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175994000101",
+          "date": "2021-03-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050089837",
+          "date": "2015-12-22",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 227479,
+          "date": "2021-03-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 175
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-18",
+          "width": 1404,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1404,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "(07)",
+      "isbn": "9789571065458",
+      "cover": "/moyasimon/moyasimon-7.webp",
+      "pages": 195,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "蔡德襄"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "發酵工廠開工，為了釀製日本酒、醬油與味噌，研究室裡的學生被分成了米班與大豆班，在樹教授的指示下，準備大顯身手！這一集將會讓你深入了解日本發酵食品的秘密！",
+      "platform": {
+        "kobo": {
+          "id": "8xyT0jB3UjWee3-7Lut8_A",
+          "date": "2021-03-26",
+          "productId": "a230a0fd-1d73-454c-ac9f-968bb52ba94d"
+        },
+        "bw": {
+          "id": 110581,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175995000101",
+          "date": "2021-03-21",
+          "version": "1.004"
+        },
+        "books": {
+          "id": "E050089838",
+          "date": "2016-08-09",
+          "version": "V001.0004"
+        },
+        "pubu": {
+          "id": 227480,
+          "date": "2023-03-05",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 151
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-07",
+          "width": 1415,
+          "height": 2048
+        },
+        "img": {
+          "modified": "2021-03-12",
+          "width": 1415,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "(08)",
+      "isbn": "9789571070995",
+      "cover": "/moyasimon/moyasimon-8.webp",
+      "pages": 201,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "蔡德襄"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "農大準備迎接10月慶典！\n本集將帶領大家深入了解啤酒、暢飲啤酒，\n除了收錄各種不為人知的啤酒知識，\n故事發展也絕對出乎意料！",
+      "platform": {
+        "kobo": {
+          "id": "kJP7R1Eobz-B3u-POfhNEg",
+          "date": "2021-03-26",
+          "productId": "ac13c9d8-faad-4ec2-a206-049d1944a46d"
+        },
+        "bw": {
+          "id": 110582,
+          "date": "2021-03-21"
+        },
+        "readmoo": {
+          "id": "210175996000101",
+          "date": "2021-03-21",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050089839",
+          "date": "2017-06-20",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 227481,
+          "date": "2021-03-22",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-18",
+          "width": 1404,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1404,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "(09)",
+      "isbn": "9789571079455",
+      "cover": "/moyasimon/moyasimon-9.webp",
+      "pages": 207,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "蔡德襄"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "何謂糧食自給率？自給率低就必須要有危機感？\n食品添加物都是不好的嗎？100%純天然才是王道？\n打破所有既定印象的農業知識漫畫最新一集堂堂上市！\n要發酵囉！",
+      "platform": {
+        "kobo": {
+          "id": "xJlxfZdNNTOL3haoZD_i0w",
+          "date": "2021-10-27",
+          "productId": "3ca087c1-abcc-4078-aa4f-01e6d2a81766"
+        },
+        "bw": {
+          "id": 126177,
+          "date": "2021-10-27"
+        },
+        "readmoo": {
+          "id": "210202694000101",
+          "date": "2021-10-26",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050111467",
+          "date": "2021-10-27",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 261885,
+          "date": "2021-10-27",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-10-21",
+          "width": 1408,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1408,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "(10)",
+      "isbn": "9786263383357",
+      "cover": "/moyasimon/moyasimon-10.webp",
+      "pages": 211,
+      "authors": [
+        "石川雅之"
+      ],
+      "translators": [
+        "蔡德襄"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "為了瑪利，直保一行人包機前往神秘國度，一路上奔波轉運，目的地究竟是？\n等在前方的，還有直保的大哥直繼，兄弟兩人的多年的心結，又將如何化解？\n\n異國風情濃厚的農業知識漫畫！準備啟程！",
+      "platform": {
+        "kobo": {
+          "id": "BqWkku5p1DCmk9x5EsAFww",
+          "date": "2022-09-20",
+          "productId": "e29be80f-f998-4825-9a4a-c032dd8ad5ea"
+        },
+        "bw": {
+          "id": 147807,
+          "date": "2022-09-20"
+        },
+        "readmoo": {
+          "id": "210246429000101",
+          "date": "2022-09-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050142429",
+          "date": "2022-09-16",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 320882,
+          "date": "2022-09-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 182
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-15",
+          "width": 1420,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1420,
+          "height": 2048
+        }
+      }
+    }
+  ]
+}

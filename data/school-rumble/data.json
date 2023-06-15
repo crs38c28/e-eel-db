@@ -1,0 +1,1174 @@
+{
+  "lastModifiedDate": "2023-06-15",
+  "detail": {
+    "slug": "school-rumble",
+    "series": {
+      "tongli": "5b35132c-6a96-e811-a947-00155d020a17",
+      "kobo": "QFGrIP_0AFqu552oY7_xFg",
+      "readmoo": 1980,
+      "bw": 433,
+      "books": "A00000059750"
+    },
+    "title": "校園迷糊大王",
+    "originalTitle": "",
+    "authors": [
+      "小林尽"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "戀愛",
+      "青春",
+      "校園",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861151731",
+      "cover": "/school-rumble/school-rumble-1.webp",
+      "pages": 166,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "張芳馨"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「喜歡…真是不可思議的一句話…」塚本天滿是一個迷糊可愛的高中生。某天，她突然得知心儀的對象．烏丸大路要轉學了！天滿要怎麼辦才好？輕鬆活潑的校園喜劇就此展開！今年最具爆發力的喜劇漫畫，新少年快報全員搞笑連載中。",
+      "platform": {
+        "tongli": {
+          "id": "f823d69f-9c74-4990-5173-08d601bfd2d1",
+          "date": "2014-05-25"
+        },
+        "kobo": {
+          "id": "7frLSxLTwjyt3ob-HOOXrA",
+          "date": "2020-09-21",
+          "productId": "9b8bf125-305b-409e-9855-6f5cc4a1967e"
+        },
+        "bw": {
+          "id": 2517,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126611000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159225",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-05-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-21",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861151748",
+      "cover": "/school-rumble/school-rumble-2.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "張芳馨"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "播磨拳兒對塚本天滿的一片痴心到底會不會得到回應…？他是怎麼迷上小滿的呢…？烏丸大路原來還有一個不為人知的秘密…！爆笑滿點的校園喜劇就在這裡！",
+      "platform": {
+        "tongli": {
+          "id": "29621105-dcd7-4ce1-5174-08d601bfd2d1",
+          "date": "2014-05-26"
+        },
+        "kobo": {
+          "id": "inYiXTA_EzyNOxfPquJ87w",
+          "date": "2020-09-21",
+          "productId": "da73f75b-e4b6-49d4-b84f-151facfffdec"
+        },
+        "bw": {
+          "id": 2518,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126613000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159226",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-05-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-05-21",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861151755",
+      "cover": "/school-rumble/school-rumble-3.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "卻無法讓同班同學─烏丸大路感覺到。而喜歡天滿的播磨拳兒，但是他的想法卻無法讓天滿感覺到。看見天滿與烏丸一起吃中飯，播磨變得不願意來上學，甚至還出外流浪……！",
+      "platform": {
+        "tongli": {
+          "id": "0c3050a0-701d-41d5-5175-08d601bfd2d1",
+          "date": "2014-07-18"
+        },
+        "kobo": {
+          "id": "z9cI4LiKazOjV_iHnf2PEw",
+          "date": "2020-09-21",
+          "productId": "d8edc21f-7079-40c3-a3c6-fa10bfc1fc90"
+        },
+        "bw": {
+          "id": 2519,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126615000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159227",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861151762",
+      "cover": "/school-rumble/school-rumble-4.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "班上的八位同學決定要一起到海邊去旅行。播磨認為這是增進兩人感情的大好機會，但是因為天滿少根筋的關係，想法還是無法讓天滿感覺到。甚至天滿還以為「播磨喜歡美琴」……！",
+      "platform": {
+        "tongli": {
+          "id": "a812365f-8d71-4321-5176-08d601bfd2d1",
+          "date": "2014-07-29"
+        },
+        "kobo": {
+          "id": "w-W_w-ZnyjC-G4fGJHM17Q",
+          "date": "2020-09-21",
+          "productId": "ef14842e-e034-46b3-ab19-c7a81aa01899"
+        },
+        "bw": {
+          "id": 2520,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126617000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159228",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861151779",
+      "cover": "/school-rumble/school-rumble-5.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "塚本天滿就讀高中二年級，跟許多女孩子一樣，她也在談戀愛但她的想法卻無法讓同班同學烏丸大路感覺到……。而與今鳥恭介這位輕浮男子約會的美琴將會遇到什麼樣的趣事呢……？",
+      "platform": {
+        "tongli": {
+          "id": "598e0106-bcff-45a4-5177-08d601bfd2d1",
+          "date": "2014-08-06"
+        },
+        "kobo": {
+          "id": "x3N2pVmeMDiy7OAW3iSh3A",
+          "date": "2020-09-21",
+          "productId": "419e57bb-79df-4a7b-91c9-b0f3cc8087f1"
+        },
+        "bw": {
+          "id": 2521,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126619000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159229",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861158693",
+      "cover": "/school-rumble/school-rumble-6.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "女主角塚本天滿就讀高中二年級。就跟許多女孩子一樣，她也在談戀愛。但是她的想法，卻無法讓同班同學─烏丸大路感覺到…這個設定根本早就不見了嘛！天滿使出飛踢、播磨的鬍子不見…而且烏丸根本就沒有在第五集之中出現！充滿許多可以吐槽之事情的校園迷糊大王也進入第六集了！當然我們也沒有忘記這是一部愛情喜劇漫畫，所以請各位繼續跟隨我們吧！加油！",
+      "platform": {
+        "tongli": {
+          "id": "2aa40e0a-15ea-462d-5178-08d601bfd2d1",
+          "date": "2014-08-06"
+        },
+        "kobo": {
+          "id": "m2TkrkL8LTqvAC5g3Q24Zg",
+          "date": "2017-02-15",
+          "productId": "f2257fb4-fe22-4e9a-b483-fb6b7152afa8"
+        },
+        "bw": {
+          "id": 2522,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126621000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159230",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861158709",
+      "cover": "/school-rumble/school-rumble-7.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一日，播磨的桌上被人畫上自己與澤近的愛情記號。同班的男同學起鬨，自己完全被小滿誤會，而苦惱不已！另一方面，澤近卻在家中煩惱，自己與播磨兩人的事……？",
+      "platform": {
+        "tongli": {
+          "id": "035b89b4-1aa6-402b-5179-08d601bfd2d1",
+          "date": "2014-09-12"
+        },
+        "kobo": {
+          "id": "aqiT2g7sqzCYLIsG0aiisw",
+          "date": "2020-09-21",
+          "productId": "d42d0376-1b83-464c-95e1-3e9a41e51a61"
+        },
+        "bw": {
+          "id": 2523,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126623000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159231",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861162225",
+      "cover": "/school-rumble/school-rumble-8.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一日，小滿將八雲叫到學校屋頂上，得知此消息的播磨為了解釋也隨後到屋頂上。但是播磨越描越黑，讓小滿誤會加深，更確定他與八雲兩人正在交往。由誤會產生的三角關係完全成立？",
+      "platform": {
+        "tongli": {
+          "id": "c70bad1c-94ad-4dce-517a-08d601bfd2d1",
+          "date": "2014-09-26"
+        },
+        "kobo": {
+          "id": "k6gChqC3RzK6oKU1eqQTqg",
+          "date": "2020-09-21",
+          "productId": "0f03dec2-6671-40d6-b5af-dce5141b041d"
+        },
+        "bw": {
+          "id": 2524,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126625000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159232",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861166322",
+      "cover": "/school-rumble/school-rumble-9.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "文化祭即將要展開，為了準備文化祭，大家互相合作，而愛情的幼苗也偷偷滋長。經過生存遊戲之後天滿與烏丸倆人之間的話也漸漸變多……。充滿活力的第九集登場囉！",
+      "platform": {
+        "tongli": {
+          "id": "d89290c0-2a90-4410-517b-08d601bfd2d1",
+          "date": "2014-10-03"
+        },
+        "kobo": {
+          "id": "yhtGeusiczSwBJltAf557A",
+          "date": "2020-09-21",
+          "productId": "02daddf3-c9b3-424a-8997-f0dfdd6e767c"
+        },
+        "bw": {
+          "id": 2525,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126627000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159233",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861172774",
+      "cover": "/school-rumble/school-rumble-10.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "班上要舉行慶功宴，恰好烏丸生日快到了。天滿滿心期待的準備生日蛋糕，但沒想到卻被播磨不小心給弄壞了！這下子播磨該如何是好呢？天滿是否能順利將蛋糕交給烏丸呢？",
+      "platform": {
+        "tongli": {
+          "id": "4c794e21-b3bd-485e-517c-08d601bfd2d1",
+          "date": "2014-10-27"
+        },
+        "kobo": {
+          "id": "B2bbPhNNCjengJJrNF3g7A",
+          "date": "2020-09-21",
+          "productId": "580bbe46-d456-4f87-bb1a-4b9c082b83ea"
+        },
+        "bw": {
+          "id": 2526,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126629000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159234",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-17",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861172781",
+      "cover": "/school-rumble/school-rumble-11.webp",
+      "pages": 163,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "美琴等人組成女子籃球隊，在麻生的訓練之下，有了明顯的進步。但是被排除在外的天滿竟然與東鄉、播磨等人聯手，前來挑戰女子籃球隊，女子籃球隊因為少了主將五月的關係，戰力差了一截。這場比賽，到底會有什麼樣的結果？",
+      "platform": {
+        "tongli": {
+          "id": "e4b68bfc-5d87-4b65-517d-08d601bfd2d1",
+          "date": "2014-11-14"
+        },
+        "kobo": {
+          "id": "4_JUjwyfqzSyD-Y3_OJiSw",
+          "date": "2020-09-21",
+          "productId": "788eacf5-1b34-4674-b1e5-9312c396f600"
+        },
+        "bw": {
+          "id": 2527,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126631000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159235",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861179025",
+      "cover": "/school-rumble/school-rumble-12.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "考試也順利（？）結束，塚本天滿，11月30日的17歲慶生會終於開始了！沒想到居然有人提案來玩「國王遊戲」？今天天滿是女王，她擁有對每一個人下一道命令的權利。咦？真的可以嗎？那第一個就是…",
+      "platform": {
+        "tongli": {
+          "id": "eabd10b1-804c-4d96-517e-08d601bfd2d1",
+          "date": "2014-12-15"
+        },
+        "kobo": {
+          "id": "f0hU0JhNZTqrlhp_NNPAMw",
+          "date": "2020-09-21",
+          "productId": "2c32c830-7739-4708-b723-083a3f8b43c6"
+        },
+        "bw": {
+          "id": 2528,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126633000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159236",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861179032",
+      "cover": "/school-rumble/school-rumble-13.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "愛理終於發現幫助自己的人居然就是播磨！雖然這讓她很吃驚，但也讓兩人之間的距離，又稍微拉近了一點...",
+      "platform": {
+        "tongli": {
+          "id": "1641d768-3bfe-43fc-517f-08d601bfd2d1",
+          "date": "2015-01-12"
+        },
+        "kobo": {
+          "id": "VPL_bBWoDT62JER6XdwSlw",
+          "date": "2020-09-21",
+          "productId": "910027e9-5d50-4079-8590-5dd75384358a"
+        },
+        "bw": {
+          "id": 2529,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126634000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159237",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861187518",
+      "cover": "/school-rumble/school-rumble-14.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "矢神高中二年C班到京都去畢業旅行，沒想到同行的一群來自英國的留學生卻目中無人的亂搞。更令人意外的是，愛理居然認識這些留學生的頭頭馬克斯。但是這次的事件，卻又意外的拉近愛理與播磨的距離…",
+      "platform": {
+        "tongli": {
+          "id": "f132ca88-3b92-402b-5180-08d601bfd2d1",
+          "date": "2015-01-23"
+        },
+        "kobo": {
+          "id": "Ynr52E88IDeL_E7MBP3jzA",
+          "date": "2020-09-21",
+          "productId": "7aa48d19-a969-427b-868f-00b5c6ddd75c"
+        },
+        "bw": {
+          "id": 2530,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126637000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159238",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861187525",
+      "cover": "/school-rumble/school-rumble-15.webp",
+      "pages": 162,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "播磨終於成功的打敗馬克斯，搶回了符咒。但是在一連串的陰錯陽差與誤會之下，大家都真的以為播磨與愛理正在交往…",
+      "platform": {
+        "tongli": {
+          "id": "11f82644-7ebd-4581-5181-08d601bfd2d1",
+          "date": "2015-02-06"
+        },
+        "kobo": {
+          "id": "MbTt4bX8pj-87F0qEjYmhQ",
+          "date": "2017-02-15",
+          "productId": "892ecbb7-aa67-4df0-8750-7859ed4ce5eb"
+        },
+        "bw": {
+          "id": 2531,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126638000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159239",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861197890",
+      "cover": "/school-rumble/school-rumble-16.webp",
+      "pages": 164,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "愛理與播磨為了製作畢業紀念冊，而一起到愛理的家去工作。愛理為了想讓自己更接近播磨，居然不經意的說出「今天就住下來吧」這句話！兩人的距離要變得更進了嗎？",
+      "platform": {
+        "tongli": {
+          "id": "1d59c9c9-5fc0-43fd-5182-08d601bfd2d1",
+          "date": "2015-02-13"
+        },
+        "kobo": {
+          "id": "nC2WVeUO-zaRZKnIxbAu2Q",
+          "date": "2017-02-15",
+          "productId": "e633438a-4d05-4af1-92f4-1c3f224dd3d3"
+        },
+        "bw": {
+          "id": 2532,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126640000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159240",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861197906",
+      "cover": "/school-rumble/school-rumble-17.webp",
+      "pages": 163,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [
+        "方郁仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "愛理看到播磨與天滿的關係非常好，顯得非常生氣，最後終於發脾氣了。雖然天滿馬上來跟愛理道歉，但沒辦法坦率表示自己心情的愛理，卻只能說出一些挖苦的話，讓疼愛姊姊的八雲一氣之下打了愛理一巴掌…三人之間的關係面臨的最重大的危機！",
+      "platform": {
+        "tongli": {
+          "id": "58da1d57-40df-48a2-5183-08d601bfd2d1",
+          "date": "2015-02-27"
+        },
+        "kobo": {
+          "id": "Zx_ylMrBxjGr8uLpYg2zUg",
+          "date": "2017-02-15",
+          "productId": "cd9808c6-d6a8-4e15-a306-0125a6f81db0"
+        },
+        "bw": {
+          "id": 2533,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126643000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159241",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861002606",
+      "cover": "/school-rumble/school-rumble-18.webp",
+      "pages": 162,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "播磨終於從八雲口中得知愛理喜歡自己的事實！但是播磨喜歡的對象是天滿，在經過一番掙扎之後，播磨決定勸愛理放棄自己，於是就找愛理出來談。沒想到自尊心很重的愛理，並不承認這件事情，完全撲了個空的播磨因為丟臉到了極點，又跑去到處流浪，沒想到最後居然被自己的情敵─烏丸收留了！",
+      "platform": {
+        "tongli": {
+          "id": "da814fa7-d0fd-4e0a-5184-08d601bfd2d1",
+          "date": "2015-03-24"
+        },
+        "kobo": {
+          "id": "8cuI8MbI8TKskoZBd3jMMw",
+          "date": "2017-02-15",
+          "productId": "b883b6e3-5f17-4177-9c5e-b405b429f666"
+        },
+        "bw": {
+          "id": 2534,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126645000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159242",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861007182",
+      "cover": "/school-rumble/school-rumble-19.webp",
+      "pages": 160,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了在二年級最後的日子裡，讓大家留下曾經在一起過的回憶，天滿提議舉辦步行祭典。男同學們個個把這個祭典視為與女同學增進感情的好機會，因而摩拳擦掌的期待祭典的來臨，天滿當然也期待能夠在烏丸轉學之前，與他留下美好的回憶，但沒想到烏丸根本就不會參加祭典…",
+      "platform": {
+        "tongli": {
+          "id": "c97e87bf-7646-49a5-5185-08d601bfd2d1",
+          "date": "2015-03-31"
+        },
+        "kobo": {
+          "id": "1gTwtBUoEzOTRwrhQGeAIg",
+          "date": "2017-02-15",
+          "productId": "1dacff3e-9934-4243-b66a-fd5ca9e1111e"
+        },
+        "bw": {
+          "id": 2535,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126647000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159243",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861011837",
+      "cover": "/school-rumble/school-rumble-20.webp",
+      "pages": 167,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "在高野的提議之下，步行祭典加上了「得知真相門」的活動。只要透過這個活動，就能知道每個人到底有沒有心上人。這時候，跟八雲用手銬銬在一起的播磨登場了！理所當然的…這也造成了很大的誤會！花井以為八雲已經在跟播磨交往，天滿更是誤會播磨與愛理交往之後，又對八雲下手…",
+      "platform": {
+        "tongli": {
+          "id": "21d995ea-2b80-4cba-5186-08d601bfd2d1",
+          "date": "2015-04-07"
+        },
+        "kobo": {
+          "id": "pB9VtpFxuTSnYr4HfTTaag",
+          "date": "2017-02-15",
+          "productId": "d734cab1-0f8f-44e4-8db0-c4243a1e9d81"
+        },
+        "bw": {
+          "id": 2536,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126649000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159244",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861016047",
+      "cover": "/school-rumble/school-rumble-21.webp",
+      "pages": 162,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "讓彼此的戀情變得更錯綜複雜的步行祭典結束了。雖然最後天滿與烏丸如願走在一起，並且對烏丸告白了，但是結果卻並非是天滿想聽到的。當然天滿就顯得很傷心。可是就在播磨與天滿的好友們及老師的協助之下，天滿為了再見烏丸一面而前往美國了！",
+      "platform": {
+        "tongli": {
+          "id": "bbb8c8a7-b54b-443b-5187-08d601bfd2d1",
+          "date": "2015-04-14"
+        },
+        "kobo": {
+          "id": "iG7S079nRTG7cQ6tvtNy5g",
+          "date": "2017-02-15",
+          "productId": "71b21048-0c92-448a-9890-f58c95ec1e18"
+        },
+        "bw": {
+          "id": 2537,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126651000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159245",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-17",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861025759",
+      "cover": "/school-rumble/school-rumble-22.webp",
+      "pages": 180,
+      "authors": [
+        "小林尽"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)<br>烏丸離開日本了！感到不捨的天滿立刻跟著烏丸到美國去，沒想到卻發現烏丸是為了養病前往美國，而且烏丸生的病會讓他失去記憶與思考能力。天滿雖然與烏丸重逢，但是烏丸卻不記得與自己及班上同學渡過的快樂時光。失意的天滿，為了醫治烏丸，決定要在美國成為醫生。校園迷糊大王，在此完結！",
+      "platform": {
+        "tongli": {
+          "id": "61bde365-f98b-4976-5188-08d601bfd2d1",
+          "date": "2015-04-21"
+        },
+        "kobo": {
+          "id": "pj42Q0aDRTOLy9rjEHyQSA",
+          "date": "2017-02-15",
+          "productId": "75705eaf-8c43-4316-98ca-5b15697763a5"
+        },
+        "bw": {
+          "id": 2538,
+          "date": "2016-07-20"
+        },
+        "readmoo": {
+          "id": "210126653000101",
+          "date": "2020-01-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050159246",
+          "date": "2023-05-04",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-04-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2020-04-08",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

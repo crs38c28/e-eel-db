@@ -1,0 +1,14 @@
+{
+    "slug": "real",
+    "title": "REAL",
+    "series": {
+        "kobo": "real-2",
+        "readmoo": 2390,
+        "bw": 13055,
+        "books": "A00000030179",
+        "pubu": {
+            "store": 29038,
+            "id": "REAL"
+        }
+    }
+}

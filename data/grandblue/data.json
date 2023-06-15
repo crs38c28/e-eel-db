@@ -1,0 +1,1212 @@
+{
+  "lastModifiedDate": "2023-06-15",
+  "detail": {
+    "slug": "grandblue",
+    "series": {
+      "tongli": "0637132c-6a96-e811-a947-00155d020a17",
+      "kobo": "grandblue",
+      "readmoo": 2072,
+      "bw": 12134,
+      "books": "A00000042411",
+      "pubu": {
+        "store": 4538213,
+        "id": "GRANDBLUE 碧藍之海"
+      }
+    },
+    "title": "GRANDBLUE 碧藍之海",
+    "originalTitle": "",
+    "authors": [
+      "吉岡公威",
+      "井上堅二"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "校園",
+      "搞笑",
+      "運動",
+      "青春",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789864620111",
+      "cover": "/grandblue/grandblue-1.webp",
+      "pages": 198,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "以上大學為契機，北原伊織開始在沿海城鎮居住。他在那裡遇見的是美貌出眾的女孩、以及喜愛喝酒與水肺潛水的強壯男人們。最棒的校園生活在等待著他嗎！？無止境爆笑生動青春喜劇、就此開幕！\r\n笨蛋測驗召喚獸作者井上堅二初次執筆的原創漫畫！！大學生活！可愛女孩！而且還穿泳裝！這不就肯定會有色色的發展嗎！？（其實沒有）",
+      "platform": {
+        "tongli": {
+          "id": "3f209515-9fb1-4110-71ab-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-1",
+          "date": "2019-11-20",
+          "productId": "34f44aab-0792-47c2-b8bd-e63b4391890d"
+        },
+        "bw": {
+          "id": 78858,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129581000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108107",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354501,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789864620128",
+      "cover": "/grandblue/grandblue-2.webp",
+      "pages": 198,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "北原伊織明明是個旱鴨子卻加入了潛水社團。雖然參加酒會時是個鬼神一般的新人、但在海邊卻是個…此外眾所期待、毫不做作的煽情女學姊終於登場了！而鬧翻天的學園祭也即將到來！來吧、初次體驗的新世界正在等待著你。",
+      "platform": {
+        "tongli": {
+          "id": "7364997d-27f3-44d2-71ac-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-2",
+          "date": "2019-11-20",
+          "productId": "25375eb8-ca82-41fb-ae5e-fad4cd9339df"
+        },
+        "bw": {
+          "id": 78859,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129582000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108108",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354502,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789864620135",
+      "cover": "/grandblue/grandblue-3.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了獎金而參加「男女性選美比賽」的伊織等人漂亮地在比賽中大顯身手。沒想到不悅的千紗卻當眾表示伊織是她的男友，藉此防止男同學們搭訕。\r\n這招使得男同學們殺氣騰騰。但偏偏當時醉倒的伊織和耕平就是不曉得這件事…",
+      "platform": {
+        "tongli": {
+          "id": "36a26de6-88d6-40ef-71ad-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-3",
+          "date": "2019-11-20",
+          "productId": "145b31e5-ab14-4b12-be32-d2c8e17aea71"
+        },
+        "bw": {
+          "id": 78860,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129583000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108109",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354503,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789864621989",
+      "cover": "/grandblue/grandblue-4.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "笨蛋支持率排行Ｎｏ﹒１！快樂大學生活的最佳參考書！！銷售量突破６５萬冊！！伊織一行人這次將會在開放的沖繩集訓當中解放自己的黑暗本性！？目標是肉多的高中生、太太和大叔！？這根本是完全出局的犯罪行為吧！？\r\n",
+      "platform": {
+        "tongli": {
+          "id": "f8867d27-5889-4117-71ae-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-4",
+          "date": "2019-11-20",
+          "productId": "b6b4fcba-3e98-4f68-a2e7-7d0896e0d1b9"
+        },
+        "bw": {
+          "id": 78861,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129584000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108110",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354504,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789863321330",
+      "cover": "/grandblue/grandblue-5.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "笨蛋支持率排行Ｎｏ﹒１！快樂大學生活的最佳參考書！！銷售量突破６５萬冊！！伊織一行人這次將會在開放的沖繩集訓當中解放自己的黑暗本性！？目標是肉多的高中生、太太和大叔！？這根本是完全出局的犯罪行為吧！？",
+      "platform": {
+        "tongli": {
+          "id": "7a54e4f3-fcee-48c2-71af-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-5",
+          "date": "2019-11-20",
+          "productId": "34426c8e-5630-4c66-bc02-dbae8a6c9d51"
+        },
+        "bw": {
+          "id": 78862,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129165000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108111",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354505,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789864708581",
+      "cover": "/grandblue/grandblue-6.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "燃燒吧友情！展現男子漢的靈魂！這次要潛進的是女子大學！！！這些沒有女人緣的男孩們能否成功呢！？全裸系潛水喜劇漫畫最新刊！此外女生們還跑去千紗的房間舉辦女子會（女生們的聚會）！這次連女孩子也玩得很嗨喲?",
+      "platform": {
+        "tongli": {
+          "id": "8cb67e89-182d-42da-71b0-08d751ed0667",
+          "date": "2019-10-28"
+        },
+        "kobo": {
+          "id": "grandblue-6",
+          "date": "2019-11-20",
+          "productId": "d93675e5-758f-410a-b549-91bbcdf12159"
+        },
+        "bw": {
+          "id": 78863,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129585000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108112",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354506,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789864825486",
+      "cover": "/grandblue/grandblue-7.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "伊織等人其實根本就是男同性戀吧…？不僅拒絕了美女學姊的大膽追求，明明是為了搭訕而潛入女子大學的學園祭，卻在只差一步的緊要關頭選擇了友情而不是異性！？最慘的是現在伊織被黑心的妹妹小栞給盯上了卻還不知情…",
+      "platform": {
+        "tongli": {
+          "id": "779014a8-b6f3-452f-1956-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-7",
+          "date": "2019-11-20",
+          "productId": "87934572-c941-4989-98f6-18bf694607f6"
+        },
+        "bw": {
+          "id": 78864,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129586000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108113",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354507,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 156
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789864861392",
+      "cover": "/grandblue/grandblue-8.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了妨礙伊織與千紗被硬湊成一對，伊織的妹妹前來突襲，並在達到目的後撤退了。沒想到最後伊織的舅舅居然講出令人震驚的新事實！「即使是實際上沒有血緣關係的表親也還是令人擔心呢」該不會是純情故事篇要開始了吧？",
+      "platform": {
+        "tongli": {
+          "id": "18105b52-664f-4cf5-1957-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-8",
+          "date": "2019-11-20",
+          "productId": "e65c1e60-5e9b-4b30-8666-ca38d6a3fd98"
+        },
+        "bw": {
+          "id": 78865,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129587000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108114",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354508,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789579652933",
+      "cover": "/grandblue/grandblue-9.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "呃…什麼？累計銷售量居然突破２００萬冊了！？全裸系青春潛水喜劇！戀愛與地獄的ＷＯＲＫＩＮＧ篇就此開幕！外場的惡魔與廚房的天使！？新的邂逅又會掀起一陣風波嗎？去家庭餐廳打工讓新的三角關係（＋α）爆發了！",
+      "platform": {
+        "tongli": {
+          "id": "8f032b67-0dae-4df8-1958-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-9",
+          "date": "2019-11-20",
+          "productId": "c2442e01-bd0c-4e56-99b2-e083305a9b81"
+        },
+        "bw": {
+          "id": 78866,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129166000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108115",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354509,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789572609064",
+      "cover": "/grandblue/grandblue-10.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "抱歉！本作品要改編成動畫了！\r\n健全的全裸系青春潛水喜劇！這個夏天即將英明果斷地開始播出！\r\n\r\n說到約會的基本款，當然是去看電影啊！看了學長的研究室之後會發現什麼…？有無人島的話當然得去！\r\n大學生的暑假是無敵的！",
+      "platform": {
+        "tongli": {
+          "id": "f11283ca-630d-4485-1959-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-10",
+          "date": "2019-11-20",
+          "productId": "63c3d28f-f7de-4c1a-ba0a-f622154772a0"
+        },
+        "bw": {
+          "id": 78867,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129167000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108116",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354510,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 155
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789572616734",
+      "cover": "/grandblue/grandblue-11.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "動畫開播！全裸系青春潛水喜劇，飛吧！\r\n放暑假！北原伊織跟每次都會登場的成員們前往無人島遊玩！本來以為會變成一次快樂的露營｜但沒想到，比他們早一步來到這島上的居然是有過節的網球社團和性格惡劣的女子三人組！\r\n",
+      "platform": {
+        "tongli": {
+          "id": "b9601d6c-f733-44d8-195a-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-11",
+          "date": "2019-11-20",
+          "productId": "339227e2-51d2-45b8-ac83-8f1435b93f53"
+        },
+        "bw": {
+          "id": 78868,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129588000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108117",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354511,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 158
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789572622087",
+      "cover": "/grandblue/grandblue-12.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "全裸系青春潛水喜劇，熱血沸騰！！\r\n暑假剩下的時間要出國去玩！想要回老家拿護照的伊織所面對的，居然是想阻止他去帛琉的妹妹和看上他妹妹的變態外國人！這次還會進行世界級的拼酒！賭上ＰａＢ的名號！！絕對不能輸！",
+      "platform": {
+        "tongli": {
+          "id": "28cc24e7-d951-4774-195b-08d758faa352",
+          "date": "2019-10-29"
+        },
+        "kobo": {
+          "id": "grandblue-12",
+          "date": "2019-11-20",
+          "productId": "23935d95-61b0-4685-9ef5-b67e8fb88d7c"
+        },
+        "bw": {
+          "id": 78869,
+          "date": "2019-11-21"
+        },
+        "readmoo": {
+          "id": "210129589000101",
+          "date": "2020-01-22",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108118",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354512,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2019-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789572638033",
+      "cover": "/grandblue/grandblue-13.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "濃妝子復活！風雲變色的度假勝地打工篇！這次終於來到潛水聖地帛琉！出乎意料地與愛菜會合後，１年級生久違地齊聚一堂。此外連千紗的母親也有登場，這度假勝地的打工肯定動亂重重！全裸系青春貼身實境秀，就此開幕！",
+      "platform": {
+        "tongli": {
+          "id": "d7d4bdfa-4375-459d-d8d0-08d80208f4f0",
+          "date": "2020-06-09"
+        },
+        "kobo": {
+          "id": "grandblue-13",
+          "date": "2020-07-01",
+          "productId": "e1a6a1b4-f70a-40d9-a7cc-5b4317a363e9"
+        },
+        "bw": {
+          "id": 91353,
+          "date": "2020-07-02"
+        },
+        "readmoo": {
+          "id": "210150088000101",
+          "date": "2020-07-08",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108119",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354513,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-06-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789572645345",
+      "cover": "/grandblue/grandblue-14.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一年級生們大老遠跑到了南方國度帛琉！這一趟是為了要支援Ｄｉｖｉｎｇ　ｓｈｏｐ「ＤＯＬＰＨＩＮ」新店舖的開張。濃妝子喜歡北原的事情被耕平發現了，耕平因此自作聰明地試圖用各種辦法撮合兩人。然而那些方法實在拙劣老套到極點，把濃妝子氣得火冒三丈……",
+      "platform": {
+        "tongli": {
+          "id": "eecf999d-ee4a-4ebd-56de-08d82d2d0f99",
+          "date": "2020-08-05"
+        },
+        "kobo": {
+          "id": "grandblue-14",
+          "date": "2020-08-19",
+          "productId": "0d22da2c-f5a1-47d4-b6e2-6c70708edbd7"
+        },
+        "bw": {
+          "id": 94801,
+          "date": "2020-08-20"
+        },
+        "readmoo": {
+          "id": "210156434000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108120",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354514,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 142
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-07-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789572653357",
+      "cover": "/grandblue/grandblue-15.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "暑假過去了，許多人都因為暑假的體驗而有所改變，其中也包括了親愛的學長…原來是因為學長要開始找工作而改頭換面了！因此伊織等人決定幫學長進行一次模擬面試｜此外，這次伊織的損友們居然要跟奈奈華等人進行聯誼…",
+      "platform": {
+        "tongli": {
+          "id": "5660e971-542e-4c44-7adc-08d890f7411d",
+          "date": "2020-12-02"
+        },
+        "kobo": {
+          "id": "grandblue-15",
+          "date": "2020-12-23",
+          "productId": "f14c0dc3-ee0b-4208-a546-88be10c20f3d"
+        },
+        "bw": {
+          "id": 104722,
+          "date": "2020-12-24"
+        },
+        "readmoo": {
+          "id": "210171549000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108121",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354515,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 146
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-11-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789572661253",
+      "cover": "/grandblue/grandblue-16.webp",
+      "pages": 210,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "由於伊織的彩券中了一大筆錢，因此他打算與千紗兩個人再次去沖繩旅行…但知道了這件事的愛菜卻與耕平聯手起來想要妨礙他們。此時居然還出現了意料之外的伏兵…全裸系青春潛水喜劇漫畫，即將爆發戀愛的多人混戰嗎！？",
+      "platform": {
+        "tongli": {
+          "id": "cf9b23a6-a932-461e-6435-08d905439a50",
+          "date": "2021-05-07"
+        },
+        "kobo": {
+          "id": "grandblue-16",
+          "date": "2021-05-19",
+          "productId": "83f5496b-ddd1-45f2-b0ba-bb814b9d2dd5"
+        },
+        "bw": {
+          "id": 115357,
+          "date": "2021-05-20"
+        },
+        "readmoo": {
+          "id": "210184052000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050108203",
+          "date": "2021-10-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354516,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 159
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-04-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789572676677",
+      "cover": "/grandblue/grandblue-17.webp",
+      "pages": 210,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "櫻子誤以為伊織中了彩券成為億萬富翁，因此開始對他展開猛烈攻勢！愛菜則是拼死命地試圖阻止！卻想不到那些好朋友們也都跑來參一腳！讓賭上戀情與性命的沖繩之夜變得更加熱烈！青春潛水喜劇漫畫，桃花期將有何去向？",
+      "platform": {
+        "tongli": {
+          "id": "e857c1b3-5380-4e9f-3186-08da05813e68",
+          "date": "2022-04-04"
+        },
+        "kobo": {
+          "id": "grandblue-17",
+          "date": "2022-04-21",
+          "productId": "ff5c4d1e-e0b6-44d5-b4c4-fee79e0db967"
+        },
+        "bw": {
+          "id": 137888,
+          "date": "2022-04-21"
+        },
+        "readmoo": {
+          "id": "210226410000101",
+          "date": "2022-04-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129721",
+          "date": "2022-04-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354517,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-03-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789572690215",
+      "cover": "/grandblue/grandblue-18.webp",
+      "pages": 210,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "從沖繩回來後，伊織被人懷疑與千紗擁有了親密的關係。這不僅使得可怕的奈奈華表姊對他產生殺意，他的損友們也都開始想要他的命！此外連櫻子也開始對伊織發動積極攻勢…\r\n全裸系青春喜劇漫畫，一大意就會沒命的日常篇！",
+      "platform": {
+        "tongli": {
+          "id": "e8db9d61-3231-42e1-13af-08dab593bd2b",
+          "date": "2022-11-14"
+        },
+        "kobo": {
+          "id": "grandblue-18",
+          "date": "2022-12-01",
+          "productId": "ad21615e-85f0-49b4-b271-b235d487d748"
+        },
+        "bw": {
+          "id": 152989,
+          "date": "2022-12-01"
+        },
+        "readmoo": {
+          "id": "210256096000101",
+          "date": "2022-11-30",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050148379",
+          "date": "2022-12-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 354518,
+          "date": "2023-05-20",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-11-02",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9786263470439",
+      "cover": "/grandblue/grandblue-19.webp",
+      "pages": 194,
+      "authors": [
+        "吉岡公威",
+        "井上堅二"
+      ],
+      "translators": [
+        "江昱霖"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "由於催眠術真的有效而導致千紗把對海的喜歡轉移到伊織身上、變得開始整天黏著伊織不放。這個狀況看在伊織的損友們眼裡當然是非常的不爽！但沒想到這些人渣卻又因為對處死伊織的方式意見分歧而分裂成了不同的派系…？",
+      "platform": {
+        "tongli": {
+          "id": "30ace9bd-1bb0-480c-2706-08db3eebbe52",
+          "date": "2023-05-15"
+        },
+        "kobo": {
+          "id": "grandblue-19",
+          "date": "2023-06-01",
+          "productId": "8cbd5efc-16aa-4eac-ae4b-a2b9e9e9ae1e"
+        },
+        "bw": {
+          "id": 164182,
+          "date": "2023-06-01"
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "E050162530",
+          "date": "2023-06-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357854,
+          "date": "2023-06-01",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-05-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-04-28",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

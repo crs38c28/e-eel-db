@@ -1,0 +1,1718 @@
+{
+  "lastModifiedDate": "2023-06-15",
+  "detail": {
+    "slug": "sket-dance",
+    "series": {
+      "tongli": "032c132c-6a96-e811-a947-00155d020a17",
+      "kobo": "sket-dance",
+      "readmoo": 2307,
+      "bw": 1515,
+      "books": "A00000048873"
+    },
+    "title": "SKET DANCE 學園救援團",
+    "originalTitle": "",
+    "authors": [
+      "篠原健太"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "校園",
+      "青春",
+      "動畫化",
+      "友情"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861043876",
+      "cover": "/sket-dance/sket-dance-1.webp",
+      "pages": 202,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "由BOSSUN、SWITCH、姬子三個人組成的學園救援團，是接受同學委託，幫忙處理麻煩事的社團。平常生意很差，為了充實團員，轉學生哲平一來，三人就拼命用怪招拉他入團。哲平沒答應加入，卻在某日被潑了一身紅漆，前來要求幫忙…事件結束後，接著糟糕澤、結城澪呼等人紛紛上門委託案件，生意似乎開始興隆…",
+      "platform": {
+        "tongli": {
+          "id": "0b758198-1ef4-4c22-4e73-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-1",
+          "date": "2017-04-27",
+          "productId": "5422a9ac-6bbf-404c-9c56-d4f88a59334c"
+        },
+        "bw": {
+          "id": 11406,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135215000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124894",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861043883",
+      "cover": "/sket-dance/sket-dance-2.webp",
+      "pages": 210,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "學園救援團又有生意上門了！委託人阿鐵因為關心搬到遠方、身體孱弱的兒時玩伴美咲，用假名「光太郎」跟美咲成為電子筆友。但阿鐵沒想到，美咲竟突然要求見面！？",
+      "platform": {
+        "tongli": {
+          "id": "86cbeed6-b33f-447b-4e74-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-2",
+          "date": "2017-04-27",
+          "productId": "ae6389dc-9ac8-44c5-8ad6-fb61870bb7a4"
+        },
+        "bw": {
+          "id": 11407,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135217000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124895",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861044378",
+      "cover": "/sket-dance/sket-dance-3.webp",
+      "pages": 202,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "連學生會幹部也親自參與的電玩遊戲真人對決大賽，學園救援團在糟糕澤的委託下，也決定參加。但有沒有受委託，已經不是重點。賭一口氣的宿命對決，才是接下來要爆發的！另外，以助人為宗旨的“正義俠盜團”、以及謎樣運動“傑奈西斯”的社團，也在此時組成！？",
+      "platform": {
+        "tongli": {
+          "id": "32642388-191b-4c95-4e75-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-3",
+          "date": "2017-04-27",
+          "productId": "7c000ede-d037-43dd-8fc6-306237fbe764"
+        },
+        "bw": {
+          "id": 11408,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135219000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124896",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861044385",
+      "cover": "/sket-dance/sket-dance-4.webp",
+      "pages": 194,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "ＧＶＢ終於開戰了！姬子＆振藏展現令人意外的一面、SWITCH罕見動怒、BOSSUN發揮集中模式本領…等等好戲，充滿精彩的超激烈對決。接著，緊要關頭到來，登場的竟是那個人。學生會的成員們也燃起鬥志。比賽結果究竟鹿死誰手!?<br>",
+      "platform": {
+        "tongli": {
+          "id": "1a6043d3-ffc5-4f75-4e76-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-4",
+          "date": "2017-04-27",
+          "productId": "855e5fa2-337f-4ea8-8035-629ed7e0fe63"
+        },
+        "bw": {
+          "id": 11409,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135221000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124897",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861044392",
+      "cover": "/sket-dance/sket-dance-5.webp",
+      "pages": 202,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "某個性格超麻煩、超愛視覺系樂團的男同學上門尋求協助、上回吃錯的藥，再度造成「人體縮小化」現象、學園救援團獨創的「桃太郎故事」等等，睽違好久的學園生活陸續熱鬧登場。而SWITCH一直包著一層神祕面紗的過去，這回也終於要揭開了!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "14396d19-aa67-4c2a-4e77-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-5",
+          "date": "2017-04-27",
+          "productId": "6e5ac481-810b-40dd-9c86-01ff462a269a"
+        },
+        "bw": {
+          "id": 11410,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135216000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124898",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861044408",
+      "cover": "/sket-dance/sket-dance-6.webp",
+      "pages": 194,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BOSSUN的頭髮被笨手笨腳的姬子弄得慘不忍睹…。如此鬆懈的學園救援團竟然要組成搖滾樂團，而且是玩真的！麻煩的委託人DANTE、超像某個殺人魔的老師，還有令人看了就火大的猜謎研究社社長等超糟糕角色陸續熱鬧登場!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "68e7608d-c6e5-491d-4e78-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-6",
+          "date": "2017-04-27",
+          "productId": "1ff50c24-a66c-4597-a062-9d091032f31c"
+        },
+        "bw": {
+          "id": 11411,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135218000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124899",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861044415",
+      "cover": "/sket-dance/sket-dance-7.webp",
+      "pages": 194,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "繼傑耐西斯之後，另一種謎樣遊戲「海柏利昂棋」又登場了。浪漫仿傚週刊少年Jump的人氣單元，也來畫「漫畫教室Ｒ」，她會畫成…!?此外，姬子從前被稱為「鬼姬」的那段轟轟烈烈的過去…。即將全面揭開！",
+      "platform": {
+        "tongli": {
+          "id": "1822f536-bb71-411a-4e79-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-7",
+          "date": "2017-04-27",
+          "productId": "69a4b25e-c323-4a35-8957-24f5a198d17b"
+        },
+        "bw": {
+          "id": 11412,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135220000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124900",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861044422",
+      "cover": "/sket-dance/sket-dance-8.webp",
+      "pages": 202,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "必將引起狂瀾的第一回角色人氣票選結果，用實況報導的形式向大家發表!!BOSSUN會排名第幾!?SWITCH埋在社室角落的發明品，發揮真正價值的時刻終於來臨…!?久違不見的學生會成員，這回惡搞起來！必看不可的第８集!!",
+      "platform": {
+        "tongli": {
+          "id": "7fd91626-dcf4-4fae-4e7a-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-8",
+          "date": "2017-04-27",
+          "productId": "914859d7-48f1-4ea8-befa-30e8b1add28f"
+        },
+        "bw": {
+          "id": 11413,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135222000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124901",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861044439",
+      "cover": "/sket-dance/sket-dance-9.webp",
+      "pages": 194,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "振藏的時尚啟蒙、千秋不為人知的祕密、浪漫出乎意料的漫畫家出道…本集配角大活躍！另一方面，學園救援團穿著玩偶裝被關在某處，陷入大危機!!更勁爆的是，姬子與BOSSUN第一次約會了!?<br>",
+      "platform": {
+        "tongli": {
+          "id": "4b056bb8-c717-4c92-4e7b-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-9",
+          "date": "2017-04-27",
+          "productId": "57632a7f-45e3-41bf-a073-d59968aa939d"
+        },
+        "bw": {
+          "id": 11414,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135224000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124902",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861048284",
+      "cover": "/sket-dance/sket-dance-10.webp",
+      "pages": 210,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "所有的故事都由一支錄影帶開始──。14歲的BOSSUN得知了有關自己身世、以及父母親的震撼真相…。接著，時光來到了現在。想不到還有更大的秘密即將揭曉…!?BOSSUN過去篇，完全收錄!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "0443a02f-2351-406c-4e7c-08d601bfd2d1",
+          "date": "2017-05-02"
+        },
+        "kobo": {
+          "id": "sket-dance-10",
+          "date": "2017-04-27",
+          "productId": "49206c8f-1d84-4f82-8d46-2b755c520cb3"
+        },
+        "bw": {
+          "id": 11415,
+          "date": "2017-04-28"
+        },
+        "readmoo": {
+          "id": "210135226000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124903",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861051710",
+      "cover": "/sket-dance/sket-dance-11.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "謎樣KUSO電玩令大家震驚不已！如此開場白的第11集裡，有姊姊去約會、姬子要減肥、身體各部位都超大的女孩上門諮詢，女性陣容大活躍!!另一方面，男性陣容這邊則是…椿終於要去BOSSUN家中拜訪了!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "eb22cd52-a855-4b4e-4e7d-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-11",
+          "date": "2017-07-24",
+          "productId": "5188b654-b158-4c7a-8231-efa2cf59df92"
+        },
+        "bw": {
+          "id": 14399,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135228000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124904",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861055367",
+      "cover": "/sket-dance/sket-dance-12.webp",
+      "pages": 195,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "牛●便有極活躍表現（？）的學園救援團版「螃蟹大戰猴子」、好久不見的Ｊ孫老師再度登場…篇篇精彩，絕無冷場！與占卜師的戰鬥和BOSSUN的摺紙故事也一定要看!!另外，隊長這回的委託會是什麼事呢…!?",
+      "platform": {
+        "tongli": {
+          "id": "3373078d-594a-49a7-4e7e-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-12",
+          "date": "2017-07-24",
+          "productId": "b3fb39d2-4671-4d3e-88ba-5a7093ad0992"
+        },
+        "bw": {
+          "id": 14400,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135230000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124905",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861060811",
+      "cover": "/sket-dance/sket-dance-13.webp",
+      "pages": 188,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BOSSUN拚命憋大便、讓他萌發戀愛心（？）的電子筆友，真實身分竟然是○○○、吃了中先生的藥，才剛變成隱形人（全裸），藥效就開始消失...簡直是充滿悲劇的BOSSUN大祭典!!另一方面，Daisy慘遭不良少年糾纏...!?<br>",
+      "platform": {
+        "tongli": {
+          "id": "1bbfb4d6-3937-4453-4e7f-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-13",
+          "date": "2017-07-24",
+          "productId": "5ce660b8-2a18-4638-8228-b551fc0a42ec"
+        },
+        "bw": {
+          "id": 14401,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135232000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124906",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789861066110",
+      "cover": "/sket-dance/sket-dance-14.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "椿跟傷害了Daisy的不良份子對峙！會有怎樣的結果...!?正經劇情過後氣氛立刻轉變，有學園救援團參加傑奈西斯世界大賽、姬子去拍舔舔棒棒糖的電視廣告等超精彩劇情！而且，謎團王要以素顏示人了!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "4b32f74a-6aac-47d4-4e80-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-14",
+          "date": "2017-07-24",
+          "productId": "87371a6f-ee09-49ff-95ee-8c46e8bffc98"
+        },
+        "bw": {
+          "id": 14402,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135234000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124907",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789861064765",
+      "cover": "/sket-dance/sket-dance-15.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "新登場的傲嬌女孩，不但是天然系女孩＆超棒身材，還對BOSSUN有感覺…!?本集還有椿令人意想不到的興趣、波濤洶湧的修學旅行，更有與「露點犬丸」（暫譯）大石老師的合作漫畫也是非看不可！誰要是漏看了，我可不管喔!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "d62581c5-c2e1-4f85-4e81-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-15",
+          "date": "2017-07-24",
+          "productId": "102b870f-0117-4344-a02a-26984d76c4fb"
+        },
+        "bw": {
+          "id": 14403,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135236000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124908",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789861070445",
+      "cover": "/sket-dance/sket-dance-16.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "修學旅行篇要進入完結篇了！在這季節再度啟動的第16集中，有BOSSUN的緊張網聚、椿與學園救援團的過度嶄新合作漫畫，內容非常充實！以及，謎團王終於達成心願，跟那個女孩展開心跳加速(愛心)的初次約會!!",
+      "platform": {
+        "tongli": {
+          "id": "abe827e4-8e02-42bc-4e82-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-16",
+          "date": "2017-07-24",
+          "productId": "117cbd8d-88e1-4df3-8040-025a2f65fc73"
+        },
+        "bw": {
+          "id": 14404,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135238000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124909",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789861074627",
+      "cover": "/sket-dance/sket-dance-17.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "安形引退、椿升任會長、有一、兩種怪癖的新角色加入學生會…總之，學生會即將迎接一個激烈的季節。另一方面，學園救援團客串起Dante，還有姊姊老師的愛情丘比特，搞得手忙腳亂！另外收錄RPG風的番外篇唷!!",
+      "platform": {
+        "tongli": {
+          "id": "8a0940b8-7603-44b0-4e83-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-17",
+          "date": "2017-07-24",
+          "productId": "5437f8ab-5b74-4e92-9594-49ac5e8d1354"
+        },
+        "bw": {
+          "id": 14405,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135240000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124910",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789861078267",
+      "cover": "/sket-dance/sket-dance-18.webp",
+      "pages": 193,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "姬子有男朋友了？BOSSUN的反應，當然是坐立不安、心神不寧、外加大暴走！另外…山野邊老師的新遊戲、浪漫的競爭對手，也將在本集登場；還有SWITCH久違了的發明品…內容超豐富！還有還有…學園救援團這回，竟然面臨被退學的危機！",
+      "platform": {
+        "tongli": {
+          "id": "0a5ce89b-b275-48d9-4e84-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-18",
+          "date": "2017-07-24",
+          "productId": "f133dca9-daf0-42c0-bf12-ea1b89c83d02"
+        },
+        "bw": {
+          "id": 14406,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135243000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124911",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789861084008",
+      "cover": "/sket-dance/sket-dance-19.webp",
+      "pages": 193,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "第二回角色人氣票選結果，竟然在猜謎的形式下變為題目本身！答題者就是學園救援團的三個成員！輸了的人，將接受意想不到的處罰…。裝配了一堆多餘設置的新社團教室、地獄酷刑般的考前溫書也是必看的情節!!另一方面，紗綾終於向BOSSUN說了……!?",
+      "platform": {
+        "tongli": {
+          "id": "2cddcfc9-6e62-46a7-4e85-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-19",
+          "date": "2017-07-24",
+          "productId": "c7f8d3ac-a8e1-41bd-9aa9-485d40cceb22"
+        },
+        "bw": {
+          "id": 14407,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135245000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124912",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789861088631",
+      "cover": "/sket-dance/sket-dance-20.webp",
+      "pages": 193,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "希里跟最痛恨的爛老師重逢，心中怒火不禁熊熊燃起。校園也因此即將掀起巨大波瀾！另一方面，Dante不知為何突然轉性，變成熱愛演歌，BOSSUN電玩打到差點成了廢人，然後BOSSUN又吃下中先生的藥，臉上產生了奇妙的變化!?與「銀魂」的夢幻合作漫畫，也是值得注目的一話!!",
+      "platform": {
+        "tongli": {
+          "id": "aa0f4bac-552b-47e6-4e86-08d601bfd2d1",
+          "date": "2017-07-26"
+        },
+        "kobo": {
+          "id": "sket-dance-20",
+          "date": "2017-07-24",
+          "productId": "a8a1e1aa-a5b3-4c45-ba31-ee010057c275"
+        },
+        "bw": {
+          "id": 14408,
+          "date": "2017-07-25"
+        },
+        "readmoo": {
+          "id": "210135247000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124913",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789861091693",
+      "cover": "/sket-dance/sket-dance-21.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "情人節…這個可以向暗戀的人告白的日子，終於快到了！包括姬子在內的女孩子們，似乎都很重視這個日子唷……在必然造成大混亂的這個重要節日，大家會怎麼度過呢？另外還有安形的暴走、SWITCH對恐怖電影的熱愛等，內容超豐富喔！",
+      "platform": {
+        "tongli": {
+          "id": "b887216e-668b-4269-4e87-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-21",
+          "date": "2017-08-27",
+          "productId": "877e363a-04b8-46a8-b292-c80f901d832b"
+        },
+        "bw": {
+          "id": 15473,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135249000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124914",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789861096865",
+      "cover": "/sket-dance/sket-dance-22.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "低級可愛的好色人物，登場！由於第22集才第一次出現這種狀況，使得學園救援團成員們，也都束手無策！接著，美森家的大豪宅，即將現出全貌！此外還有理事長的過去、BOSSUN的人偶製作路。就連番外篇也有收錄在內喔！",
+      "platform": {
+        "tongli": {
+          "id": "7e7bd3ff-e3d2-4334-4e88-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-22",
+          "date": "2017-08-27",
+          "productId": "25d78fac-182d-4763-9d1a-6ca9f4cbf634"
+        },
+        "bw": {
+          "id": 15474,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135251000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124915",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789861099576",
+      "cover": "/sket-dance/sket-dance-23.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "安形擔心妹妹戀情，自己反而成了暴走火車頭。為了幫助安形，眾人忙到團團轉。另一方面，學園救援團還去挑戰話劇演出、實演販賣，簡直是超級大忙碌。甚至BOSSUN還上電視露臉呢!?然後，３年級生他們畢業的日子，終於就要來臨…!!",
+      "platform": {
+        "tongli": {
+          "id": "88afdaac-ec91-427c-4e89-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-23",
+          "date": "2017-08-27",
+          "productId": "5292100c-4524-4648-b04a-4855b7b5cf51"
+        },
+        "bw": {
+          "id": 15475,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135253000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124916",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789861099583",
+      "cover": "/sket-dance/sket-dance-24.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "新學期開始了，Bossun等人都升上三年級了。既要換班級、選班長，又要向新生介紹社團，活動超多、超忙碌！接著，新角色登場，他們的出現嚴重威脅到學園救援團，造成大混亂!?另外還有中馬老師的怪藥梗，這回照常出包唷!!",
+      "platform": {
+        "tongli": {
+          "id": "36011604-8cfc-49e3-4e8a-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-24",
+          "date": "2017-08-27",
+          "productId": "5d4e6d75-0bfe-4219-9572-64ab020ce35c"
+        },
+        "bw": {
+          "id": 15476,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135255000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124917",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789863177524",
+      "cover": "/sket-dance/sket-dance-25.webp",
+      "pages": 201,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "Cherry第一次約會，有學園救援團幫忙，結果會是…？再來就是，希里全力保護生命受到威脅的椿！另外還有瑠海去參觀社團、教育實習生登場，千萬不可錯過不看唷！再加上…中先生終於要結婚了！？",
+      "platform": {
+        "tongli": {
+          "id": "e5a1e67f-d7e7-49fc-4e8b-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-25",
+          "date": "2017-08-27",
+          "productId": "e3144df5-dcbb-4c73-b3b4-f88193a070a8"
+        },
+        "bw": {
+          "id": 15477,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135257000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124918",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789863241683",
+      "cover": "/sket-dance/sket-dance-26.webp",
+      "pages": 191,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "學園救援團趁著黃金週到大阪旅行，姬子竟被流氓抓走了！發生這麼大的危機，BOSSUN拚了命地要去救姬子，結果…!?此外還有，浪漫的競爭對手登場、TAKUTO令人意想不到的素顏曝光…等劇情，內容超充實!!",
+      "platform": {
+        "tongli": {
+          "id": "89d80046-5c29-4043-4e8c-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-26",
+          "date": "2017-08-27",
+          "productId": "4a3f44cd-e3f8-4a77-9f43-aa19f7e08bbd"
+        },
+        "bw": {
+          "id": 15478,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135259000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124919",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789863246213",
+      "cover": "/sket-dance/sket-dance-27.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BOSSUN和Cherry因為某種緣故，要去小麻的家裡了！還有，充滿個性的那些人成立了一日學園救援團、樁變成小孩子等等充滿了混亂預感的第27集。此外，具有衝擊性的SWITCH過去篇終於再度開始了!!",
+      "platform": {
+        "tongli": {
+          "id": "7494a346-640b-45ce-4e8d-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-27",
+          "date": "2017-08-27",
+          "productId": "617724f7-74cb-4d95-9586-25e215de1454"
+        },
+        "bw": {
+          "id": 15479,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135261000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124920",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789863249672",
+      "cover": "/sket-dance/sket-dance-28.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "BOSSUN和姬子在追查開盟學園的地下網站，終於查到管理人的真實身分了。但是，事情卻往意料之外的方向展開…。為同伴著想的心情，讓光芒照進了SWITCH心底的黑暗之處！SWITCH過去篇，完結!!",
+      "platform": {
+        "tongli": {
+          "id": "ef970641-dafa-4808-4e8e-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-28",
+          "date": "2017-08-27",
+          "productId": "4a7ab8e1-86d1-4aa9-b5fd-1a1edf2ca79e"
+        },
+        "bw": {
+          "id": 15480,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135263000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124921",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 29,
+      "volName": "第29集",
+      "isbn": "9789863323877",
+      "cover": "/sket-dance/sket-dance-29.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "中老師的藥讓BOSSUN變成大帥哥，他想在姬子的生日給她一個驚喜，結果卻搞砸了。另外，他還去找希里的父親做忍者修行，BOSSUN非常拚命！新角色教師和番外篇也很引人注目！然後，某個抱持著遠大志向的青年向救援團委託了一件事，是…！",
+      "platform": {
+        "tongli": {
+          "id": "c10905e9-5317-498e-4e8f-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-29",
+          "date": "2017-08-27",
+          "productId": "b3f07c02-0d54-4d01-967f-4acd1cdfbf83"
+        },
+        "bw": {
+          "id": 15481,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135265000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124922",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 30,
+      "volName": "第30集",
+      "isbn": "9789863326762",
+      "cover": "/sket-dance/sket-dance-30.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "柯明鈺"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "高３的暑假是考試前的重要時刻，不過BOSSUN還是去了海水浴場、幫忙漫畫家、還有一個人騎腳踏車旅行等等，忙著做準備考試以外的事！此外，還有不起眼的時間旅行及搞笑搭檔「VIKING」的出場也不可不看！",
+      "platform": {
+        "tongli": {
+          "id": "a42163ce-d255-41ef-4e90-08d601bfd2d1",
+          "date": "2017-08-25"
+        },
+        "kobo": {
+          "id": "sket-dance-30",
+          "date": "2017-08-27",
+          "productId": "e38745b4-2a32-405f-abbf-0b0b97aec083"
+        },
+        "bw": {
+          "id": 15482,
+          "date": "2017-08-28"
+        },
+        "readmoo": {
+          "id": "210135267000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124923",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 31,
+      "volName": "第31集",
+      "isbn": "9789863374961",
+      "cover": "/sket-dance/sket-dance-31.webp",
+      "pages": 189,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "張紹仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "第２學期要到了，學園救援團也差不多到了該引退的季節…。在這種時候，Pocket團卻提出了令人意外的要求？其他還收錄了學生會波瀾萬丈的交接，以及中先生的結婚典禮！然後，姬子終於要對BOSSUN……！",
+      "platform": {
+        "tongli": {
+          "id": "26230106-2ac1-46e7-4e91-08d601bfd2d1",
+          "date": "2017-09-29"
+        },
+        "kobo": {
+          "id": "sket-dance-31",
+          "date": "2017-09-24",
+          "productId": "b81696e4-9eb3-465b-9e9b-19ceb956a3fb"
+        },
+        "bw": {
+          "id": 16759,
+          "date": "2017-09-24"
+        },
+        "readmoo": {
+          "id": "210135269000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124924",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    },
+    {
+      "vol": 32,
+      "volName": "第32集",
+      "isbn": "9789863374978",
+      "cover": "/sket-dance/sket-dance-32.webp",
+      "pages": 194,
+      "authors": [
+        "篠原健太"
+      ],
+      "translators": [
+        "張紹仁"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)<br>新任理事長打算以嚴格的校規束縛學生，BOSSUN便起身反抗。他以自請退學和學園的命運為賭注，開始企劃學園祭的活動。學園救援團最後一件工作的結果是…!?新潮的學園喜劇，終於來到了最後一集──!!<br>",
+      "platform": {
+        "tongli": {
+          "id": "82b43e06-bfd8-41ed-4e92-08d601bfd2d1",
+          "date": "2017-09-29"
+        },
+        "kobo": {
+          "id": "sket-dance-32",
+          "date": "2017-09-24",
+          "productId": "8605ce9e-8479-4a91-a30c-23762e55af04"
+        },
+        "bw": {
+          "id": 16760,
+          "date": "2017-09-24"
+        },
+        "readmoo": {
+          "id": "210135271000101",
+          "date": "2020-03-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050124925",
+          "date": "2022-03-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-02-09",
+          "width": 774,
+          "height": 1200
+        },
+        "img": {
+          "modified": "",
+          "width": 774,
+          "height": 1200
+        }
+      }
+    }
+  ]
+}

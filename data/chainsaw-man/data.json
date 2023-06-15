@@ -1,0 +1,765 @@
+{
+  "lastModifiedDate": "2023-06-15",
+  "detail": {
+    "slug": "chainsaw-man",
+    "series": {
+      "tongli": "52ffcfe8-e56a-e911-90ce-00155d020a17",
+      "kobo": "gDwkdvWEIViseu_wKWb6qA",
+      "readmoo": 2799,
+      "bw": 13291,
+      "books": "A00000029330",
+      "pubu": {
+        "store": 4538213,
+        "id": "鏈鋸人"
+      }
+    },
+    "title": "鏈鋸人",
+    "originalTitle": "",
+    "authors": [
+      "藤本樹"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "search": "電鋸",
+    "tags": [
+      "奇幻",
+      "熱血",
+      "戰鬥",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572637388",
+      "cover": "/chainsaw-man/chainsaw-man-1.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "淀治是個背負了父親遺留下的龐大債務，因此過著極端負窮生活的少年，他救了惡魔波奇塔，並與牠一起以惡魔獵人的身分斬殺低階惡魔來換取酬勞。有一天，流氓騙了淀治，讓他成為一堆惡魔的祭品，淀治在臨死之際，波奇塔犧牲自己，把心臟給了他，讓他復活並擁有了惡魔的力量，只要一拉位在心臟那邊的鏈子就能發動。之後淀治被公安人員看上，因此成為公安的惡魔獵人…",
+      "platform": {
+        "tongli": {
+          "id": "b25d9fc5-2134-4c01-d8ac-08d80208f4f0",
+          "date": "2020-06-01"
+        },
+        "kobo": {
+          "id": "A_VXj2gQYjiXW9r13IpnJA",
+          "date": "2020-06-17",
+          "productId": "b6ce0675-d852-454c-8c6f-860543af11c9"
+        },
+        "bw": {
+          "id": 90519,
+          "date": "2020-06-18"
+        },
+        "readmoo": {
+          "id": "210149922000101",
+          "date": "2020-06-25",
+          "version": "1.003"
+        },
+        "books": {
+          "id": "E050102848",
+          "date": "2021-09-02",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 340005,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 151
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572637395",
+      "cover": "/chainsaw-man/chainsaw-man-2.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「揉胸部！」\r\n以這個壓倒性的慾望為動力，淀治與蝙蝠惡魔展開了激戰！\r\n在戰鬥結束後他所摸到的是胸部嗎？或者是…？\r\n然後，真紀真告訴他人類的敵人「鎗之惡魔」是？\r\n公安之犬淀治的戰鬥邁向新的局面！",
+      "platform": {
+        "tongli": {
+          "id": "75b514ac-665f-4407-dc5e-08d81bdc4f53",
+          "date": "2020-07-06"
+        },
+        "kobo": {
+          "id": "4Xi-PrGTpjCwG6p2jSGsUQ",
+          "date": "2020-08-05",
+          "productId": "083b819c-d6f5-4bf5-b872-ae3b2a7dbf90"
+        },
+        "bw": {
+          "id": 93828,
+          "date": "2020-08-06"
+        },
+        "readmoo": {
+          "id": "210156527000101",
+          "date": "2020-09-09",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102849",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340006,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 147
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-06-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572639306",
+      "cover": "/chainsaw-man/chainsaw-man-3.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳯"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "神秘的惡魔封鎖空間，逼大家「殺死淀治」！\r\n特異４課的成員被逼入絕境，逐漸四分五裂。\r\n即使是在極限的狀態下，淀治也不肯放棄接吻的獎賞，他所想到的如地獄般的作戰計劃是…？\r\n人與惡魔的特異點，圍繞著淀治的大對抗爆發！",
+      "platform": {
+        "tongli": {
+          "id": "9aab79f3-2961-4fa8-56cf-08d82d2d0f99",
+          "date": "2020-08-10"
+        },
+        "kobo": {
+          "id": "P--tkL9zKTquCkInj9Jyvg",
+          "date": "2020-09-02",
+          "productId": "9024ae05-6367-4eae-99a0-194f47684ca4"
+        },
+        "bw": {
+          "id": 95922,
+          "date": "2020-09-03"
+        },
+        "readmoo": {
+          "id": "210160812000101",
+          "date": "2020-11-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102850",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340007,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-07-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572642979",
+      "cover": "/chainsaw-man/chainsaw-man-4.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳯"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "想要淀治心臟的神秘集團展開襲擊，公安特異課因此遭受嚴重打擊，內部瀰漫著緊張的氣氛。另一方面，淀治與帕瓦來到最強的惡魔獵人身邊，脫離常軌的「死亡」特訓開始了…！嚴肅與瘋狂交錯，反擊的烽火燃起了！",
+      "platform": {
+        "tongli": {
+          "id": "8c8406e4-04c2-4909-4200-08d8403a4acd",
+          "date": "2020-09-02"
+        },
+        "kobo": {
+          "id": "rxLhFApstju6qdMnU73alQ",
+          "date": "2020-09-16",
+          "productId": "b2edbe88-582b-4e9c-ab95-9840e9b94f26"
+        },
+        "bw": {
+          "id": 97111,
+          "date": "2020-09-17"
+        },
+        "readmoo": {
+          "id": "210160813000101",
+          "date": "2020-11-15",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050102851",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340008,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 143
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572647493",
+      "cover": "/chainsaw-man/chainsaw-man-5.webp",
+      "pages": 200,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "秋和以前由姬野使喚的惡魔對峙。為復仇火焰而焦慮的男人，腦裡想到的是…？另一方面，淀治再度與武士刀激戰！鏈鋸ｖｓ刀，血肉橫飛的激戰會有什麼結果？淀治的心臟爭奪戰，往預料之外的方向加速！",
+      "platform": {
+        "tongli": {
+          "id": "a0c48af9-b3a1-4cbd-4201-08d8403a4acd",
+          "date": "2020-09-02"
+        },
+        "kobo": {
+          "id": "Jg2hxIn4hTeCQmxMjot8Sw",
+          "date": "2020-09-16",
+          "productId": "132ea9b7-0743-4bcd-acbf-fbee07ee31d8"
+        },
+        "bw": {
+          "id": 97112,
+          "date": "2020-09-17"
+        },
+        "readmoo": {
+          "id": "210160814000101",
+          "date": "2020-11-15",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050102852",
+          "date": "2021-09-02",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 340009,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572650509",
+      "cover": "/chainsaw-man/chainsaw-man-6.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「逃到遙遠的地方吧。」…蕾潔出乎意料的一句話，讓淀治的心動搖了，他的純情會有什麼結果麯？從甜蜜的時刻突然轉變成狂風呼嘯的爆殺風暴！戀愛與欲望、人類與惡魔全部都被捲入，在華麗的血戰中，淀治和蕾潔見證了什麼？",
+      "platform": {
+        "tongli": {
+          "id": "8cbca5f7-7399-424e-2c68-08d870a2c2b1",
+          "date": "2020-10-19"
+        },
+        "kobo": {
+          "id": "uHdM5F3XyDmDIvQmGa6lZQ",
+          "date": "2020-11-18",
+          "productId": "adeb759d-44e3-4485-886a-b716c13a937c"
+        },
+        "bw": {
+          "id": 101670,
+          "date": "2020-11-19"
+        },
+        "readmoo": {
+          "id": "210171371000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102853",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340010,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-15",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572654668",
+      "cover": "/chainsaw-man/chainsaw-man-7.webp",
+      "pages": 200,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "淀治的姿態被以「可怕！電鋸惡魔！！」為題在電視節目裡被報導，因此被全世界得知他的存在！各種不正常的厲害刺客，從世界各地聚集到東京，特異課動員了所有的戰力，準備要保護淀治！規則沒有作用、互相殺戮，地獄的混亂捲起了漩渦！",
+      "platform": {
+        "tongli": {
+          "id": "7f33434c-36f2-440d-6f8d-08d8966ad9f7",
+          "date": "2020-12-07"
+        },
+        "kobo": {
+          "id": "bAGDhg4QKTuBhe-U-c4ZDA",
+          "date": "2021-01-06",
+          "productId": "33b3d492-259a-47b0-95fc-915d589c3346"
+        },
+        "bw": {
+          "id": 105675,
+          "date": "2021-01-07"
+        },
+        "readmoo": {
+          "id": "210171372000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102854",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340011,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 140
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-12-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572656969",
+      "cover": "/chainsaw-man/chainsaw-man-8.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "當光星與特異課為了淀治展開攻防戰時，令人毛骨悚然的聖誕老人開始為真正的目的行動！當締結了充滿兇氣與惡意的契約時，連惡魔也會害怕、通往絕望世界的大門開啟－－在一片漆黑的闇夜裡，響起了電鋸惡魔的尖叫！",
+      "platform": {
+        "tongli": {
+          "id": "fb96894f-2f2b-4c4b-3fdd-08d8deb3b4f1",
+          "date": "2021-03-08"
+        },
+        "kobo": {
+          "id": "kYamQ6wJqjOHQPkEwdUr_g",
+          "date": "2021-03-31",
+          "productId": "935c9cf8-8458-4c3d-a53e-c91aa081adeb"
+        },
+        "bw": {
+          "id": 111083,
+          "date": "2021-04-01"
+        },
+        "readmoo": {
+          "id": "210176675000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102855",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340012,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 160
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-05",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789572661109",
+      "cover": "/chainsaw-man/chainsaw-man-9.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在之前的戰役裡，有很多夥伴受傷、失去性命。與鎗之惡魔的決戰逼近，秋的心動搖了。當真紀真揭曉的鎗之惡魔令人驚愕的真相、與秋見到的「最慘的未來」全部重疊在一起一時，惡夢般的命運蹂躙等人…！",
+      "platform": {
+        "tongli": {
+          "id": "209d8b48-8a97-4e0c-5bb8-08d8fa56ecf7",
+          "date": "2021-04-19"
+        },
+        "kobo": {
+          "id": "EhTqRZOyfzSreC2dvgN2Xg",
+          "date": "2021-05-19",
+          "productId": "7431fc1c-5b03-4729-a12a-eda81eefae0e"
+        },
+        "bw": {
+          "id": 115379,
+          "date": "2021-05-20"
+        },
+        "readmoo": {
+          "id": "210184038000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102856",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340013,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 145
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-04-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789572663783",
+      "cover": "/chainsaw-man/chainsaw-man-10.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "我把秋給－－因為無法拭去的絕望而失去了思考能力的淀治，向真紀真尋求救贖。然而一時的平靜就只是更悲慘之惡夢的開始…\r\n當淀治心裡的禁忌之「門」打開時，真紀真的真正意圖與鏈鋸惡魔的秘密交錯，化為了染滿鮮血的地獄！",
+      "platform": {
+        "tongli": {
+          "id": "0d615e47-9e7a-4622-93b3-08d93d022707",
+          "date": "2021-07-05"
+        },
+        "kobo": {
+          "id": "xpld_L2FxDiCmhc7Ug_VXA",
+          "date": "2021-08-04",
+          "productId": "0feebaac-2bc1-4683-bb23-639642e2f0df"
+        },
+        "bw": {
+          "id": 120599,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190288000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050102857",
+          "date": "2021-09-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340014,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 158
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789572667613",
+      "cover": "/chainsaw-man/chainsaw-man-11.webp",
+      "pages": 192,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "真紀真殘酷無情的支配，把淀治逼入谷絕境！重要的東西通通被奪走，也內心漸漸被堵塞住了。此時在淀治耳邊響起的是呼喚「鏈鋸人」的聲音…！就這樣淀治與真紀真在沾滿鮮血的荒野互相殘殺，沒有交集的「感情」到了盡頭、衝擊性的結果爆炸了！",
+      "platform": {
+        "tongli": {
+          "id": "504303a8-f20f-41f7-0140-08d96df10aff",
+          "date": "2021-09-06"
+        },
+        "kobo": {
+          "id": "9yx467v-2DyYhxP-Jut4FQ",
+          "date": "2021-10-06",
+          "productId": "95d7cba0-01fe-4e6c-8e8b-240c5f64d28d"
+        },
+        "bw": {
+          "id": 124688,
+          "date": "2021-10-07"
+        },
+        "readmoo": {
+          "id": "210200525000101",
+          "date": "2021-10-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050110041",
+          "date": "2021-10-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 340015,
+          "date": "2023-02-23",
+          "type": [
+            "epub"
+          ],
+          "size": 167
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9786263474673",
+      "cover": "/chainsaw-man/chainsaw-man-12.webp",
+      "pages": 194,
+      "authors": [
+        "藤本樹"
+      ],
+      "translators": [
+        "趙秋鳳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "三鷹朝是個不適應高中生活，在班上也被孤立的少女。\r\n她的日常生活在遇到一位「惡魔」後出現了急劇的變化！\r\n將為這個世界帶來新災難的「惡魔」有什麼目的呢？\r\n然後，神出鬼沒的鏈鋸人的去向為何…？\r\n血淋淋的青春爆炸，\r\n衝擊性的第二部開幕！",
+      "platform": {
+        "tongli": {
+          "id": "894f77e2-35c9-41d1-0cf1-08db13109de9",
+          "date": "2023-03-06"
+        },
+        "kobo": {
+          "id": "ky1UT8-brTCgjzyE_1FWpg",
+          "date": "2023-04-06",
+          "productId": "28d46747-275d-460c-8824-35f35adbc69d"
+        },
+        "bw": {
+          "id": 159831,
+          "date": "2023-04-06"
+        },
+        "readmoo": {
+          "id": "210268800000101",
+          "date": "2023-04-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050156737",
+          "date": "2023-04-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 347116,
+          "date": "2023-04-06",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-02-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}
