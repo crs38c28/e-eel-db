@@ -50,7 +50,8 @@
         },
         "kobo": {
           "id": "spy-family-1",
-          "date": "2020-05-20"
+          "date": "2020-05-20",
+          "productId": "c9561b35-626b-43d9-833f-10b130acc2a4"
         },
         "bw": {
           "id": 88699,
@@ -110,7 +111,8 @@
         },
         "kobo": {
           "id": "spy-family-2",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "e3f6f178-7cad-4eec-84f0-8be4ced17751"
         },
         "bw": {
           "id": 90520,
@@ -170,7 +172,8 @@
         },
         "kobo": {
           "id": "spy-family-3",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "4b95cea6-e527-487a-8658-d93e5327ab08"
         },
         "bw": {
           "id": 93910,
@@ -230,7 +233,8 @@
         },
         "kobo": {
           "id": "spy-family-4",
-          "date": "2021-01-06"
+          "date": "2021-01-06",
+          "productId": "55f02310-c87e-4a7e-a110-8c02f2c575a9"
         },
         "bw": {
           "id": 105656,
@@ -290,7 +294,8 @@
         },
         "kobo": {
           "id": "spy-family-5",
-          "date": "2021-02-03"
+          "date": "2021-02-03",
+          "productId": "854d6a4c-ae15-49d7-a600-a9929bbfd4e0"
         },
         "bw": {
           "id": 108221,
@@ -350,7 +355,8 @@
         },
         "kobo": {
           "id": "spy-family-6",
-          "date": "2021-06-30"
+          "date": "2021-06-30",
+          "productId": "114572b2-5e13-4ac7-aca4-eb3c9749d735"
         },
         "bw": {
           "id": 118585,
@@ -410,7 +416,8 @@
         },
         "kobo": {
           "id": "spy-family-7",
-          "date": "2022-07-07"
+          "date": "2022-07-07",
+          "productId": "61420135-1837-4863-96f0-24b9a307e052"
         },
         "bw": {
           "id": 142797,
@@ -470,7 +477,8 @@
         },
         "kobo": {
           "id": "spy-family-8",
-          "date": "2022-07-07"
+          "date": "2022-07-07",
+          "productId": "1c995c7c-f5ed-4ca9-8152-2a7ddb0adf70"
         },
         "bw": {
           "id": 142798,
@@ -530,7 +538,8 @@
         },
         "kobo": {
           "id": "spy-family-9",
-          "date": "2022-08-18"
+          "date": "2022-08-18",
+          "productId": "8842b12d-81ac-4c61-ade0-a85323069a0c"
         },
         "bw": {
           "id": 145649,
@@ -590,7 +599,8 @@
         },
         "kobo": {
           "id": "spy-family-10",
-          "date": "2023-04-06"
+          "date": "2023-04-06",
+          "productId": "73f14206-c8fa-42dd-8eb3-2508aeeacd1f"
         },
         "bw": {
           "id": 159832,

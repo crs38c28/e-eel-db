@@ -46,7 +46,8 @@
       "platform": {
         "kobo": {
           "id": "PN5q0mli8Te-Jn6N2oG_mg",
-          "date": "2019-01-19"
+          "date": "2019-01-19",
+          "productId": "f681d66b-5f7b-4be8-8a71-1b3375716486"
         },
         "bw": {
           "id": 55061,
@@ -102,7 +103,8 @@
       "platform": {
         "kobo": {
           "id": "RZCjIixUHDGurMyY62P3sA",
-          "date": "2019-01-19"
+          "date": "2019-01-19",
+          "productId": "4ea756aa-9b08-4fab-9875-d868d68b9403"
         },
         "bw": {
           "id": 55062,

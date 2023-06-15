@@ -50,7 +50,8 @@
         },
         "kobo": {
           "id": "fire-punch-1",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "b8e36a9d-0a70-4536-a3d6-e4e5b9c20c1a"
         },
         "bw": {
           "id": 58200,
@@ -110,7 +111,8 @@
         },
         "kobo": {
           "id": "fire-punch-2",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "e69f46d9-5fca-485e-a3b1-bbcfcc08f99c"
         },
         "bw": {
           "id": 58201,
@@ -170,7 +172,8 @@
         },
         "kobo": {
           "id": "fire-punch-3",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "07343ec9-6597-43b4-af3d-c859d44f3d31"
         },
         "bw": {
           "id": 58202,
@@ -230,7 +233,8 @@
         },
         "kobo": {
           "id": "fire-punch-4",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "97eb0cbb-d647-424c-9539-e2a7b4291ecd"
         },
         "bw": {
           "id": 58203,
@@ -290,7 +294,8 @@
         },
         "kobo": {
           "id": "fire-punch-5",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "aab8551c-ac85-4409-bc2e-da450ee5aee8"
         },
         "bw": {
           "id": 58204,
@@ -350,7 +355,8 @@
         },
         "kobo": {
           "id": "fire-punch-6",
-          "date": "2019-03-27"
+          "date": "2019-03-27",
+          "productId": "55d8af3b-ac34-4bb6-9bf1-6167aa85bf63"
         },
         "bw": {
           "id": 58205,
@@ -410,7 +416,8 @@
         },
         "kobo": {
           "id": "fire-punch-7",
-          "date": "2019-06-26"
+          "date": "2019-06-26",
+          "productId": "55fb861a-7650-4885-826c-05c1f694dff6"
         },
         "bw": {
           "id": 65774,
@@ -470,7 +477,8 @@
         },
         "kobo": {
           "id": "fire-punch-8",
-          "date": "2019-12-04"
+          "date": "2019-12-04",
+          "productId": "e0b2f567-914e-46c2-9329-4ce1be24e453"
         },
         "bw": {
           "id": 79428,

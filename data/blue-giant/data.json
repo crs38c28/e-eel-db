@@ -45,7 +45,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-01",
-          "date": "2022-08-19"
+          "date": "2022-08-19",
+          "productId": "0e916727-937b-4cc1-8b80-a50561dd5e55"
         },
         "bw": {
           "id": 145841,
@@ -102,7 +103,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-02",
-          "date": "2022-08-19"
+          "date": "2022-08-19",
+          "productId": "2092c716-0cd9-4253-9d83-1932a92abd35"
         },
         "bw": {
           "id": 145842,
@@ -159,7 +161,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-03",
-          "date": "2022-09-21"
+          "date": "2022-09-21",
+          "productId": "0c00baba-c066-4141-8fd1-36368331128c"
         },
         "bw": {
           "id": 147920,
@@ -216,7 +219,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-04",
-          "date": "2022-10-27"
+          "date": "2022-10-27",
+          "productId": "3ca24fa1-a4f9-4a70-a0dd-3b9ae17d04d5"
         },
         "bw": {
           "id": 150592,
@@ -273,7 +277,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-05",
-          "date": "2022-11-24"
+          "date": "2022-11-24",
+          "productId": "0815b752-221a-4814-a552-8985881c3ebc"
         },
         "bw": {
           "id": 152873,
@@ -330,7 +335,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-06",
-          "date": "2022-12-26"
+          "date": "2022-12-26",
+          "productId": "f22996dc-611b-427a-b7bb-fad3763ceacc"
         },
         "bw": {
           "id": 154650,
@@ -387,7 +393,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-07",
-          "date": "2023-01-13"
+          "date": "2023-01-13",
+          "productId": "5864a0b5-d2d4-4913-a796-a70e91b29fed"
         },
         "bw": {
           "id": 155695,
@@ -444,7 +451,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-08",
-          "date": "2023-03-14"
+          "date": "2023-03-14",
+          "productId": "6af3e75d-de93-4cb6-b70c-e06e36187ba4"
         },
         "bw": {
           "id": 158925,
@@ -501,7 +509,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-09",
-          "date": "2023-04-10"
+          "date": "2023-04-10",
+          "productId": "a606d184-a467-421f-9354-24c299ecea7f"
         },
         "bw": {
           "id": 160577,
@@ -558,7 +567,8 @@
       "platform": {
         "kobo": {
           "id": "blue-giant-10",
-          "date": "2023-04-13"
+          "date": "2023-04-13",
+          "productId": "ec9fcb21-03f7-4eb5-8224-a056b3ff08d5"
         },
         "bw": {
           "id": 160783,

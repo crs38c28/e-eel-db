@@ -44,7 +44,8 @@
       "platform": {
         "kobo": {
           "id": "real-01",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "24c03ed0-bdec-4be5-b2a1-70418c173ed5"
         },
         "bw": {
           "id": 88450,
@@ -100,7 +101,8 @@
       "platform": {
         "kobo": {
           "id": "real-02",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "1e534dab-74c7-4f51-85d8-a4c869f973b2"
         },
         "bw": {
           "id": 88451,
@@ -156,7 +158,8 @@
       "platform": {
         "kobo": {
           "id": "real-03",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "fb2b6ce4-1f91-4db2-9e0e-c53768e9b5df"
         },
         "bw": {
           "id": 88452,
@@ -212,7 +215,8 @@
       "platform": {
         "kobo": {
           "id": "real-04",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "231c4eb4-28d7-4943-a66e-f4d46b9154d0"
         },
         "bw": {
           "id": 88453,
@@ -269,7 +273,8 @@
       "platform": {
         "kobo": {
           "id": "real-05",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "2c9c361b-9260-4217-ae46-abd2189835a0"
         },
         "bw": {
           "id": 88454,
@@ -326,7 +331,8 @@
       "platform": {
         "kobo": {
           "id": "real-06",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "0db7b5ef-8000-4903-96d4-0afdd394c09c"
         },
         "bw": {
           "id": 88456,
@@ -383,7 +389,8 @@
       "platform": {
         "kobo": {
           "id": "real-07",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "f0c4f2aa-6342-414f-99ae-869eeb69871b"
         },
         "bw": {
           "id": 88457,
@@ -440,7 +447,8 @@
       "platform": {
         "kobo": {
           "id": "real-08",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "35abd709-c984-4267-8e96-fe028fc0b12a"
         },
         "bw": {
           "id": 88994,
@@ -497,7 +505,8 @@
       "platform": {
         "kobo": {
           "id": "real-09",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "b21f790d-09fb-4f15-9bf0-75dc53c6ba3c"
         },
         "bw": {
           "id": 88954,
@@ -554,7 +563,8 @@
       "platform": {
         "kobo": {
           "id": "real-10-1",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "41389f80-b7f7-464f-9295-5fc86171a8ab"
         },
         "bw": {
           "id": 88955,
@@ -610,7 +620,8 @@
       "platform": {
         "kobo": {
           "id": "real-11-1",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "bf71dde6-8aee-4b5a-8584-091b64da2fca"
         },
         "bw": {
           "id": 88956,
@@ -667,7 +678,8 @@
       "platform": {
         "kobo": {
           "id": "real-12-1",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "275c8bca-e07b-425d-a755-e5031864add8"
         },
         "bw": {
           "id": 88957,
@@ -724,7 +736,8 @@
       "platform": {
         "kobo": {
           "id": "real-13-1",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "639885a0-609a-43b4-9426-8997fca2e17f"
         },
         "bw": {
           "id": 88958,
@@ -780,7 +793,8 @@
       "platform": {
         "kobo": {
           "id": "real-14-1",
-          "date": "2020-05-25"
+          "date": "2020-05-25",
+          "productId": "6f16bd17-6453-4d87-a865-4293fd05e47e"
         },
         "bw": {
           "id": 88959,
@@ -837,7 +851,8 @@
       "platform": {
         "kobo": {
           "id": "real-15-1",
-          "date": "2020-11-26"
+          "date": "2020-11-26",
+          "productId": "715b3234-ae47-40c3-a383-e58c8e67525c"
         },
         "bw": {
           "id": 102643,

@@ -43,7 +43,8 @@
         },
         "kobo": {
           "id": "HUi1d-MfzzWv5y0gX3ELkw",
-          "date": "2020-04-15"
+          "date": "2020-04-15",
+          "productId": "0304e498-4cfe-4129-ba42-894a15080873"
         },
         "bw": {
           "id": 86232,
@@ -88,7 +89,8 @@
         },
         "kobo": {
           "id": "1CiIn51yZTub6S_qByg1MQ",
-          "date": "2020-05-20"
+          "date": "2020-05-20",
+          "productId": "9e6579d3-eba9-4126-819b-8d9c5d6de7d2"
         },
         "bw": {
           "id": 88716,
@@ -133,7 +135,8 @@
         },
         "kobo": {
           "id": "AVbSzJK6hzyhEa9ztoeteQ",
-          "date": "2020-06-17"
+          "date": "2020-06-17",
+          "productId": "19796659-3c7f-4415-a363-cb59235fd7c4"
         },
         "bw": {
           "id": 90524,
@@ -178,7 +181,8 @@
         },
         "kobo": {
           "id": "pDkuuLuOpT6SSuXdxhrOFA",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "d7f3dd07-7b58-4760-8272-d9dcf307a910"
         },
         "bw": {
           "id": 93895,
@@ -223,7 +227,8 @@
         },
         "kobo": {
           "id": "ciw9ki6dajK6xCYikjDx9w",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "50d0c957-ae22-44f4-b71a-2ef4a798970c"
         },
         "bw": {
           "id": 93896,
@@ -268,7 +273,8 @@
         },
         "kobo": {
           "id": "oCoMS-SVrDGCGrwnL-SZig",
-          "date": "2020-09-02"
+          "date": "2020-09-02",
+          "productId": "b608ac25-cdc5-4dc0-ae5f-4cf77602cd7c"
         },
         "bw": {
           "id": 96074,
@@ -313,7 +319,8 @@
         },
         "kobo": {
           "id": "z30pZwLtljKZBrfq67wC8Q",
-          "date": "2021-01-06"
+          "date": "2021-01-06",
+          "productId": "1ca57b1f-f55f-4c82-89b9-f1269914387d"
         },
         "bw": {
           "id": 105648,
@@ -358,7 +365,8 @@
         },
         "kobo": {
           "id": "YHwNBawQRDmG8ohckumSbA",
-          "date": "2021-08-04"
+          "date": "2021-08-04",
+          "productId": "dace1d2a-86d3-4d66-bce0-e37d40c7775a"
         },
         "bw": {
           "id": 120584,

@@ -44,7 +44,8 @@
       "platform": {
         "kobo": {
           "id": "Pbze620HRj-zmo9o9aiV7w",
-          "date": "2022-08-04"
+          "date": "2022-08-04",
+          "productId": "439529bd-e1a0-4054-b5c5-507799440d07"
         },
         "bw": {
           "id": 144940,
@@ -101,7 +102,8 @@
       "platform": {
         "kobo": {
           "id": "lV1Xu3Cs_TiXvTeHw-gwRg",
-          "date": "2022-08-04"
+          "date": "2022-08-04",
+          "productId": "45c73edf-4fd1-4aac-88a9-eeadb2d62589"
         },
         "bw": {
           "id": 144941,
@@ -158,7 +160,8 @@
       "platform": {
         "kobo": {
           "id": "roW_0ncLHj63LzeKF9ogyg",
-          "date": "2022-12-27"
+          "date": "2022-12-27",
+          "productId": "c502d755-93b8-4676-bb7e-74f7a3646cd3"
         },
         "bw": {
           "id": 154651,

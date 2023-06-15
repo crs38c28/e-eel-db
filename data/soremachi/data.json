@@ -61,7 +61,8 @@
       "platform": {
         "kobo": {
           "id": "EQ68G4FRpD6W_oIx5zigBQ",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "2734463a-555e-475d-b508-c6321de95d0a"
         },
         "bw": {
           "id": 6924,
@@ -115,7 +116,8 @@
       "platform": {
         "kobo": {
           "id": "NnZm6wo45TWhOZLeWiFE9Q",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "3d9af465-3ef8-41fb-9163-1293f608df43"
         },
         "bw": {
           "id": 6925,
@@ -169,7 +171,8 @@
       "platform": {
         "kobo": {
           "id": "hN5purj4IjG_RdNua2P25w",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "1bfebeab-d616-41d0-a321-5442fb0b961f"
         },
         "bw": {
           "id": 48248,
@@ -224,7 +227,8 @@
       "platform": {
         "kobo": {
           "id": "XfmmlVng7DekMOkmnxs2ew",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "0aca613e-3878-4dfc-9761-e1631b2814c8"
         },
         "bw": {
           "id": 48249,
@@ -279,7 +283,8 @@
       "platform": {
         "kobo": {
           "id": "MbrVn7JaSTG8Ug2OqZ43cg",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "d0fa6d18-d808-44f7-936b-0eda3c88884d"
         },
         "bw": {
           "id": 48250,
@@ -334,7 +339,8 @@
       "platform": {
         "kobo": {
           "id": "Jp3DXwYcUTmJJo-1tQV1zw",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "e3500e3c-e3f1-4f9f-b930-190f44a970b3"
         },
         "bw": {
           "id": 48251,
@@ -391,7 +397,8 @@
       "platform": {
         "kobo": {
           "id": "BMG9wWrzHzCvjRB7Uwgy-Q",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "4b1218e4-f7ec-4494-bcca-8af089328eab"
         },
         "bw": {
           "id": 48252,
@@ -448,7 +455,8 @@
       "platform": {
         "kobo": {
           "id": "BpfQWyWiBz6bYySMIf0Gbg",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "fa6bc9ae-2e21-44ef-8b5d-108ee624fcaf"
         },
         "bw": {
           "id": 48253,
@@ -505,7 +513,8 @@
       "platform": {
         "kobo": {
           "id": "cd3CnzMvgzmARb7_Q7MgIw",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "00374c20-9adf-4239-8f08-de63ff19cf60"
         },
         "bw": {
           "id": 48254,
@@ -562,7 +571,8 @@
       "platform": {
         "kobo": {
           "id": "y8-X5cYOzzuMbCVsDS47sw",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "7e644608-7623-4ad6-95be-832942d93ae3"
         },
         "bw": {
           "id": 48255,
@@ -619,7 +629,8 @@
       "platform": {
         "kobo": {
           "id": "FqfLcHW01DOQEP6zbqYLXg",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "d33ee5c3-88dc-486b-b905-cb33b74a2a99"
         },
         "bw": {
           "id": 48256,
@@ -674,7 +685,8 @@
       "platform": {
         "kobo": {
           "id": "oNLablrYhTyklUgcbTFaYg",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "3edf8713-2683-46d5-acc1-8b3397efda0c"
         },
         "bw": {
           "id": 76498,
@@ -731,7 +743,8 @@
       "platform": {
         "kobo": {
           "id": "iZazqudXTT6FPN2hEmHu6Q",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "2353e3db-f943-4c0d-9089-396febfa6cbd"
         },
         "bw": {
           "id": 102221,
@@ -787,7 +800,8 @@
       "platform": {
         "kobo": {
           "id": "cUymQGB02TGZsONcd3MyBQ",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "05b1f9b6-9555-42cc-8940-32aa4e6bacbc"
         },
         "bw": {
           "id": 102222,
@@ -843,7 +857,8 @@
       "platform": {
         "kobo": {
           "id": "sxPzYZjrnz6ECIvoz7h7MA",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "e8e5cc17-5f84-4c19-ad66-01a05f9e831d"
         },
         "bw": {
           "id": 104496,
@@ -899,7 +914,8 @@
       "platform": {
         "kobo": {
           "id": "T7D_hjpwADKMelYixrYrwg",
-          "date": "2009-12-15"
+          "date": "2009-12-15",
+          "productId": "9a8f2e38-db79-4c4c-8406-7a87ddd0d775"
         },
         "bw": {
           "id": 104497,

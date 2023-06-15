@@ -45,7 +45,8 @@
       "platform": {
         "kobo": {
           "id": "1bdQnFUrATuyEv0AQouxQQ",
-          "date": "2022-08-31"
+          "date": "2022-08-31",
+          "productId": "6d8646dc-a8f4-4400-aaf3-f75594b3ed7b"
         },
         "bw": {
           "id": 146674,
@@ -102,7 +103,8 @@
       "platform": {
         "kobo": {
           "id": "f8m-cxLkWz2Z1O4L6qP8zQ",
-          "date": "2022-08-31"
+          "date": "2022-08-31",
+          "productId": "3170ff57-0567-49bc-8022-5c28c5465835"
         },
         "bw": {
           "id": 146675,
@@ -159,7 +161,8 @@
       "platform": {
         "kobo": {
           "id": "u8ZoN2j86TOpl59LMw5WrQ",
-          "date": "2022-08-31"
+          "date": "2022-08-31",
+          "productId": "491e360e-c330-42fb-a1c4-30a391685708"
         },
         "bw": {
           "id": 146676,
@@ -216,7 +219,8 @@
       "platform": {
         "kobo": {
           "id": "QISavooolzetI_ssqFqCSw",
-          "date": "2022-08-31"
+          "date": "2022-08-31",
+          "productId": "ec1f9c66-df8a-46ce-9c7e-a4266b411105"
         },
         "bw": {
           "id": 146677,
@@ -273,7 +277,8 @@
       "platform": {
         "kobo": {
           "id": "JlQd81707jO9yaFrMYQiyw",
-          "date": "2022-08-31"
+          "date": "2022-08-31",
+          "productId": "b685c5f7-f59f-46b1-9ce9-7874f77edc4f"
         },
         "bw": {
           "id": 146678,
@@ -330,7 +335,8 @@
       "platform": {
         "kobo": {
           "id": "mDRygzT6FDam-kk4IAnuJA",
-          "date": "2022-11-22"
+          "date": "2022-11-22",
+          "productId": "08df8c80-90f5-40c8-92eb-b60d6f332eab"
         },
         "bw": {
           "id": 152751,
@@ -387,7 +393,8 @@
       "platform": {
         "kobo": {
           "id": "uZ4kxg1O-jOWcUhrene1Nw",
-          "date": "2022-11-22"
+          "date": "2022-11-22",
+          "productId": "601012dc-0a40-4d28-8f10-7e2196cc8814"
         },
         "bw": {
           "id": 152752,
@@ -444,7 +451,8 @@
       "platform": {
         "kobo": {
           "id": "6QV2cDySXTOs-3ceRb7mzQ",
-          "date": "2022-11-22"
+          "date": "2022-11-22",
+          "productId": "bb3bfc0a-0b55-4468-9b1d-3eec0da70b5e"
         },
         "bw": {
           "id": 152753,
@@ -501,7 +509,8 @@
       "platform": {
         "kobo": {
           "id": "nVIv7wEznjOXI7i5YGTgTw",
-          "date": "2022-11-22"
+          "date": "2022-11-22",
+          "productId": "e97d0477-5d45-4bd8-89bd-0549823f9a14"
         },
         "bw": {
           "id": 152754,
@@ -558,7 +567,8 @@
       "platform": {
         "kobo": {
           "id": "qGq2JU-NxjymjUmx4fxTxQ",
-          "date": "2022-11-22"
+          "date": "2022-11-22",
+          "productId": "0c14d4f2-bb4d-4aef-9925-8a7018fa5219"
         },
         "bw": {
           "id": 152755,

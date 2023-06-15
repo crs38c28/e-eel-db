@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-08",
+  "lastModifiedDate": "2023-06-15",
   "detail": {
     "slug": "dorohedoro",
     "series": {
@@ -91,7 +91,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-1",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "8732ca3f-de5e-452f-a524-60081218469b"
         },
         "bw": {
           "id": 127274,
@@ -146,7 +147,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-2",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "b90d901d-f20d-47c5-aa6f-4501f6c116d4"
         },
         "bw": {
           "id": 127275,
@@ -201,7 +203,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-3",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "e55aa3d6-4a21-415e-bc49-370768591732"
         },
         "bw": {
           "id": 127276,
@@ -256,7 +259,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-4",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "b5746375-b195-4cb1-a6d0-e9eb2d926b9c"
         },
         "bw": {
           "id": 127277,
@@ -311,7 +315,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-5",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "9b02b257-0cbb-4e14-900f-c60cfe780420"
         },
         "bw": {
           "id": 127278,
@@ -366,7 +371,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-6",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "5f024d06-8da2-4550-82c5-c1666ca35700"
         },
         "bw": {
           "id": 127279,
@@ -421,7 +427,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-7",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "ae534706-7e21-4ab5-9871-642e97f0b9d3"
         },
         "bw": {
           "id": 127280,
@@ -476,7 +483,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-8",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "0ca38f5d-4c57-490e-9b10-c315eb93b4fa"
         },
         "bw": {
           "id": 127281,
@@ -531,7 +539,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-9",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "eaedde9d-ff25-4cce-ba88-7b7efedc4ec9"
         },
         "bw": {
           "id": 127282,
@@ -586,7 +595,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-10",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "85b35b16-6e29-495e-a59e-e3d564f62f67"
         },
         "bw": {
           "id": 127283,
@@ -641,7 +651,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-11",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "e865b96f-2569-4e32-8df9-147b984bbd6c"
         },
         "bw": {
           "id": 127284,
@@ -696,7 +707,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-12",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "f7c071fa-ecfd-4417-95bd-cc4a9ef8a4cf"
         },
         "bw": {
           "id": 127285,
@@ -751,7 +763,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-13",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "6f8fcb57-03af-4bf4-873f-210e932bc049"
         },
         "bw": {
           "id": 127287,
@@ -806,7 +819,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-14",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "0414490a-6471-492b-b1e1-85a7ca8b0bc4"
         },
         "bw": {
           "id": 127286,
@@ -861,7 +875,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-15",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "5d82f679-474e-4e5a-b928-058fe95997ba"
         },
         "bw": {
           "id": 127288,
@@ -916,7 +931,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-16",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "92581089-60d2-47d3-9c25-394cffa18d5f"
         },
         "bw": {
           "id": 127290,
@@ -971,7 +987,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-17",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "46a60e25-cc7c-4325-b158-5dde40c9073b"
         },
         "bw": {
           "id": 127289,
@@ -1026,7 +1043,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-18",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "0a2f8f93-d7c9-46cc-a0df-65d36859a59b"
         },
         "bw": {
           "id": 127291,
@@ -1081,7 +1099,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-19",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "dfcd2a97-f385-4e94-a4ac-6fbea958c901"
         },
         "bw": {
           "id": 127292,
@@ -1136,7 +1155,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-20",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "2e92549d-511c-4b31-80ab-e995108eb560"
         },
         "bw": {
           "id": 127293,
@@ -1191,7 +1211,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-21",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "faa66155-b66d-4a22-96b3-79554cc8ac68"
         },
         "bw": {
           "id": 127294,
@@ -1246,7 +1267,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-22",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "0f20d197-9dc5-4586-bb5d-a279f833e64f"
         },
         "bw": {
           "id": 127295,
@@ -1301,7 +1323,8 @@
       "platform": {
         "kobo": {
           "id": "dorohedoro-23",
-          "date": "2020-08-05"
+          "date": "2020-08-05",
+          "productId": "7b15dd9a-31e5-4459-b9d1-0022f497b535"
         },
         "bw": {
           "id": 127296,
