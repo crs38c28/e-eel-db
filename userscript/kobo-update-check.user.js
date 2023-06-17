@@ -24,6 +24,8 @@
       const previewLink = bookElement.querySelector('.item-image a').href;
       const storelink = bookElement.querySelector('.item-info.main-meta a').href;
       const productId = previewLink.match(idRegex)?.[1] || '';
+      const statusElement = bookElement.querySelector('.product-field.item-status');
+      statusElement.innerHTML = '取得資訊中...';
       try {
         const data = await fetch(storelink).then((response) => {
           if (!response.ok) {
@@ -35,23 +37,23 @@
         if ((latestProductId === '') || (productId === '')) {
           throw new Error('找不到商品編號(Kobo網頁改版?)');
         }
-        const imgElement = bookElement.querySelector('.image-container');
         const checkText = document.createElement('div');
         checkText.innerHTML = (latestProductId === productId) ? '書本已是最新狀態' : '書本須聯絡客服更新';
         checkText.style.backgroundColor = (latestProductId === productId) ? '#EDEDED' : '#fca5a5';
-        imgElement.append(checkText);
+        statusElement.innerHTML = '';
+        statusElement.append(checkText);
       } catch (error) {
-        const imgElement = bookElement.querySelector('.image-container');
         const checkText = document.createElement('div');
         checkText.innerHTML = error.message;
         checkText.style.backgroundColor = '#fef08a';
-        imgElement.append(checkText);
+        statusElement.innerHTML = '';
+        statusElement.append(checkText);
       }
       await waitForSecs();
     }
     checkButton.disabled = false;
   };
-  const toolbar = document.querySelector('.secondary-controls.grid');
+  const toolbar = document.querySelector('.library-controls .secondary-controls');
   toolbar.insertBefore(checkButton, toolbar.firstChild);
   checkButton.addEventListener('click', bookUpdateCheck);
 }());
