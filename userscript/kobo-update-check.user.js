@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kobo Book Update Check
 // @namespace    https://e-eel.pages.dev
-// @version      0.1
+// @version      0.2
 // @description  Check kobo book update from your library.
 // @author       Crs
 // @match        https://www.kobo.com/*/*/library*
