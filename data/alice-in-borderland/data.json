@@ -1,0 +1,984 @@
+{
+  "lastModifiedDate": "2023-06-17",
+  "detail": {
+    "slug": "alice-in-borderland",
+    "series": {
+      "tongli": "ca041f2c-6a96-e811-a947-00155d020a17",
+      "kobo": "3Lfdz8LL11WBn1QSVmfrcQ",
+      "readmoo": 7202,
+      "bw": 15297,
+      "books": "A00000051183"
+    },
+    "title": "今際之國的闖關者",
+    "originalTitle": "",
+    "authors": [
+      "麻生羽呂"
+    ],
+    "publisher": "東立出版社",
+    "finished": true,
+    "search": "彌留",
+    "tags": [
+      "恐怖",
+      "戰鬥",
+      "懸疑解謎",
+      "生存遊戲",
+      "真人化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789863179726",
+      "cover": "/alice-in-borderland/alice-in-borderland-1.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "一事無成的高三學生有栖良平，因為永遠比不贏優秀的弟弟，心中常想著逃離這討厭的現實。有一天，他與死黨苅部與張太一同鬼混時，目睹一顆極大的煙火，卻沒想到從此踏入了詭異的世界，還莫名其妙加入了一場「遊戲」。卻沒想到失敗的結果大得驚人……為了在這個世界生存下來，他們必須陸續參加遊戲，贏取「今際之國」的「簽證」！",
+      "platform": {
+        "tongli": {
+          "id": "29508199-d1ab-4812-46b2-08d8d4a7aaca",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "QjDNgF1lvTagOo89XsBtGg",
+          "date": "2021-03-17",
+          "productId": "e1938d70-cca6-482e-8616-724f0f4c2fbb"
+        },
+        "bw": {
+          "id": 109931,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175611000101",
+          "date": "2021-03-19",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050133730",
+          "date": "2022-06-02",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-14",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789863179733",
+      "cover": "/alice-in-borderland/alice-in-borderland-2.webp",
+      "pages": 168,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "邊緣高中生有栖良平與死黨苅部、張太，莫名其妙誤入一個奇異的國度，在這裡必須不斷參加「遊戲」獲得「簽證」否則就會被強制遣送出境──也就是死！好不容易得到第一張簽證，喘口氣後，苅部與有栖又決定要參加第二天的遊戲……",
+      "platform": {
+        "tongli": {
+          "id": "fdd8cbc4-ba2d-4f8a-bbc3-08d8dd159224",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "4wZif_kVPjKXW_zr03v6fw",
+          "date": "2021-03-17",
+          "productId": "0bcb148a-5989-4d1d-8c66-6710dfc41c96"
+        },
+        "bw": {
+          "id": 109932,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175612000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133731",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789863179740",
+      "cover": "/alice-in-borderland/alice-in-borderland-3.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "順利通過第二次「遊戲」後，有栖享受著難得一天的悠閒，卻沒有發現４個朋友之間已經開始出現裂痕……就在張太與紫吹小姐的簽證到期當天，他們決定參加位在植物園內的「遊戲」，難度「紅心７」的「捉迷藏」！究竟這場遊戲有什麼驚人的真相……？",
+      "platform": {
+        "tongli": {
+          "id": "5515ff1f-1c4d-4f1f-bbc4-08d8dd159224",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "-U8iV6VXBD6s8Zr9bz8W7A",
+          "date": "2021-03-17",
+          "productId": "4a116b55-f097-45e5-86b8-99bfdaff3779"
+        },
+        "bw": {
+          "id": 109933,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175613000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133732",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789863179757",
+      "cover": "/alice-in-borderland/alice-in-borderland-4.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在殘忍的遊戲「捉迷藏」中，有栖良平不得不與３個好朋友為敵。然而就在他宣告要放棄遊戲時，好朋友們卻又決意犧牲自己讓他活下來……絕望的有栖，得到宇佐木的支持，終於重新站起來。他決定去尋找自己好朋友苅部死前遺言提到的「海灘」……！",
+      "platform": {
+        "tongli": {
+          "id": "1b497a94-ebf6-46af-bbc5-08d8dd159224",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "LDbRao7D8TOMXN0BHPLDFg",
+          "date": "2021-03-17",
+          "productId": "73e1942e-6bbe-4096-80f7-b3803609dc85"
+        },
+        "bw": {
+          "id": 109934,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175614000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133733",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789863244998",
+      "cover": "/alice-in-borderland/alice-in-borderland-5.webp",
+      "pages": 166,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "來到「海灘」的有栖，答應幫助苣屋的計畫，潛入頂樓的總統套房卻事跡敗露，有栖被抓到，痛扁一頓後關在不見天日的房間，而他的簽證就在今天到期！……但更令人意外的是，人間樂土「海灘」竟在日落之後，成為「遊戲」的場地！",
+      "platform": {
+        "tongli": {
+          "id": "e9352705-6cc6-4851-0739-08d8de2b5a32",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "IYEV03bqhjmCL8cHJP9wDw",
+          "date": "2021-03-17",
+          "productId": "d5f685ca-236a-42aa-9bd5-7ea8c71fe447"
+        },
+        "bw": {
+          "id": 109935,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175615000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133734",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789863248866",
+      "cover": "/alice-in-borderland/alice-in-borderland-6.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "宇佐木終於找到被監禁起來的有栖，居留期限只剩最後一天的有栖開始絞盡腦汁要破解這個「遊戲」！此時武鬥派的人四處殺戮，倖存的其他人，諸如苣屋、安與水雞等人也竭力與他們周旋……在混戰當中，每個人的過去都逐漸浮現！",
+      "platform": {
+        "tongli": {
+          "id": "c4cff861-b106-403d-073a-08d8de2b5a32",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "y9HCXTNUNjStryQCYBHp6Q",
+          "date": "2021-03-17",
+          "productId": "d6e0ce6b-edac-4b48-a571-83ad68ab94c3"
+        },
+        "bw": {
+          "id": 109936,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175616000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133735",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789863328872",
+      "cover": "/alice-in-borderland/alice-in-borderland-7.webp",
+      "pages": 164,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在粟國的逼近下，有栖明白了一個事實──那就是粟國的眼神，與自己痛失兩個至親好友時的眼神一樣。因此他做出大膽的推測：粟國與他殺死的帽匠，過去曾是好朋友！同時這場「遊戲」中的「魔女」，其真實身分其實也隱藏了一段可怕的故事……遊戲即將進入下一階段！",
+      "platform": {
+        "tongli": {
+          "id": "08cde9b2-65ae-4f61-073b-08d8de2b5a32",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "tPr2lhNyDD2AgJFduqR5KA",
+          "date": "2021-03-17",
+          "productId": "d12943db-2db1-4e45-9aaa-2cfb5b36c979"
+        },
+        "bw": {
+          "id": 109937,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175617000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133736",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789863375319",
+      "cover": "/alice-in-borderland/alice-in-borderland-8.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在「海灘」的「狩獵魔女」慘劇過後，所有螢幕突然出現「中場休息」的字樣，所有人就在不知道摸不著頭腦之中過了幾天閒適的日子。然而突然的煙火與轉播卻宣告，在「玩家」攻破了人頭牌外的所有「遊戲」後，遊戲即將正式進入「下一階段」……！",
+      "platform": {
+        "tongli": {
+          "id": "217fb4ea-9303-4e41-073c-08d8de2b5a32",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "WV8YiuyQUz2YwFe-kDgZWg",
+          "date": "2021-03-17",
+          "productId": "15c74cf8-3bc5-4fd5-bf63-30f90c7c86f1"
+        },
+        "bw": {
+          "id": 109938,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210175618000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133737",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789863483236",
+      "cover": "/alice-in-borderland/alice-in-borderland-9.webp",
+      "pages": 168,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "「下一階段」正式開始！好不容易逃過「黑桃K」狙擊的有栖等人，雖然與安失散，卻也成功地找到了「梅花K」的「遊戲」會場。然而因為人數限制，他們不得不與惡棍韮木聯手參加。究竟看似單純的「梅花K」遊戲，藏了什麼樣的玄機……？",
+      "platform": {
+        "tongli": {
+          "id": "23a23e20-641c-4d92-91a5-08d9086458a0",
+          "date": "2021-05-03"
+        },
+        "kobo": {
+          "id": "8Kb7IDxPjTK5xjeQAMrnaQ",
+          "date": "2021-05-19",
+          "productId": "28a29125-8d9c-485d-87ca-00b7760691ed"
+        },
+        "bw": {
+          "id": 115361,
+          "date": "2021-05-20"
+        },
+        "readmoo": {
+          "id": "210184061000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133738",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-04-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789863489559",
+      "cover": "/alice-in-borderland/alice-in-borderland-10.webp",
+      "pages": 168,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "本來以為一切都很順利的有栖隊，想不到卻突然被梅花K隊逆轉……面對這幾乎不可能翻盤的局面，試圖反擊的有栖隊卻接連遭到久間的反制，萬念俱灰之際，有栖決定將自己當成久間……本集同時收錄特別篇，新角色塀谷的特別篇「黑桃7」。",
+      "platform": {
+        "tongli": {
+          "id": "ccf1f7e0-7945-418a-006e-08d925b4ce75",
+          "date": "2021-06-03"
+        },
+        "kobo": {
+          "id": "pq4NRBqwxDe8ed4JVTowcw",
+          "date": "2021-06-16",
+          "productId": "29a012ed-0b94-48c6-989a-03694ef95e4b"
+        },
+        "bw": {
+          "id": 117655,
+          "date": "2021-06-17"
+        },
+        "readmoo": {
+          "id": "210184083000101",
+          "date": "2021-06-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133739",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789863655411",
+      "cover": "/alice-in-borderland/alice-in-borderland-11.webp",
+      "pages": 168,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為求起死回生，有栖率領隊友發動最後一波攻打敵方「陣地」的計畫，在宇佐木拚了命地衝出了一條活路後，有栖等人終於看到攻下「陣地」的曙光，然而等著他們的卻是殘酷的事實……！究竟「今際之國」的國民隱藏著什麼秘密？",
+      "platform": {
+        "tongli": {
+          "id": "73bd2e81-4a9e-431c-ed2d-08d9e9ffeb80",
+          "date": "2022-02-18"
+        },
+        "kobo": {
+          "id": "xOfYyeBLuDW47IN4HiByNQ",
+          "date": "2022-03-02",
+          "productId": "f98aa8c1-e4b3-4e8f-b755-a74dd03562fc"
+        },
+        "bw": {
+          "id": 134171,
+          "date": "2022-03-03"
+        },
+        "readmoo": {
+          "id": "210218023000101",
+          "date": "2022-03-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133740",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-02-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789863823438",
+      "cover": "/alice-in-borderland/alice-in-borderland-12.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "目睹久間隊的死亡，龍田也因為失血過多而死，大受打擊的有栖決定再也不參加遊戲，而在與宇佐木一起過著逍遙的生活之中，他漸漸找到生命的意義，一股危機的預感卻也同時湧現心頭……！與此同時，「紅心J」的「遊戲」正準備在監獄裡展開……！",
+      "platform": {
+        "tongli": {
+          "id": "4003c7c9-d999-46e0-ed2e-08d9e9ffeb80",
+          "date": "2022-02-18"
+        },
+        "kobo": {
+          "id": "UPM5hKB51Dy5PlK3czRyBA",
+          "date": "2022-03-02",
+          "productId": "86d0b967-57e7-438f-8227-191d9c1b0b50"
+        },
+        "bw": {
+          "id": 134172,
+          "date": "2022-03-03"
+        },
+        "readmoo": {
+          "id": "210218024000101",
+          "date": "2022-03-02",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050133741",
+          "date": "2022-06-02",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-20",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-01-10",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789863827443",
+      "cover": "/alice-in-borderland/alice-in-borderland-13.webp",
+      "pages": 174,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在有栖決定與宇佐木平靜過完「簽證」到期前的日子的同時，在23區另一個角落的監獄中，上演著殘酷的「遊戲」──「紅心J」的「單人房」。20名參加者已經死了超過一半，究竟有什麼方法能揪出躲在眾人之中的「紅心J」？",
+      "platform": {
+        "tongli": {
+          "id": "cedb6539-bece-4964-ed2f-08d9e9ffeb80",
+          "date": "2022-02-18"
+        },
+        "kobo": {
+          "id": "Q56lM9v4VzmEcfRvLJbsAw",
+          "date": "2022-03-02",
+          "productId": "3781a48e-8571-4c4a-980c-c39d64bc7ea6"
+        },
+        "bw": {
+          "id": 134173,
+          "date": "2022-03-03"
+        },
+        "readmoo": {
+          "id": "210218025000101",
+          "date": "2022-03-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133742",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-02-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789863829874",
+      "cover": "/alice-in-borderland/alice-in-borderland-14.webp",
+      "pages": 170,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在「黑桃K」的襲擊下逃到森林中的堂道，碰到了一心尋死的粟國。而粟國認為「黑桃K」是唯一能殺死自己的人，因此抱持著同歸於盡的心態積極備戰。但在半夜突然遭遇「黑桃K」的火攻，兩人將如何逃脫？同時堂道又發現了什麼秘密？",
+      "platform": {
+        "tongli": {
+          "id": "b28dc2e5-400e-4401-d97c-08d9fcfcff4f",
+          "date": "2022-03-07"
+        },
+        "kobo": {
+          "id": "0NSN4P_V5ja1celEaG_pig",
+          "date": "2022-04-07",
+          "productId": "8921e1f1-92f5-4193-a5e8-06a5950b7d8e"
+        },
+        "bw": {
+          "id": 137029,
+          "date": "2022-04-07"
+        },
+        "readmoo": {
+          "id": "210224071000101",
+          "date": "2022-04-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133743",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-03-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789864624744",
+      "cover": "/alice-in-borderland/alice-in-borderland-15.webp",
+      "pages": 174,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在這次的「遊戲」開始的同時進入「今際之國」的龜山海斗，決定要用自己的報導之眼記錄下「今際之國」所發生的一切，並且找出真相。究竟他透過攝影機拍到的「真相」將是什麼……？而在「黑桃K」被攻克後，人頭牌的「遊戲」終於只剩下最後幾項了……！",
+      "platform": {
+        "tongli": {
+          "id": "5ae2cd88-8a3d-4b0e-94fa-08da2cab3ba0",
+          "date": "2022-05-10"
+        },
+        "kobo": {
+          "id": "o1ptIk-jhjmpDq-MFTGpMg",
+          "date": "2022-06-02",
+          "productId": "cea169f5-3eab-4866-9ecf-450173a37179"
+        },
+        "bw": {
+          "id": 140594,
+          "date": "2022-06-02"
+        },
+        "readmoo": {
+          "id": "210231278000101",
+          "date": "2022-06-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050133744",
+          "date": "2022-06-02",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-05-04",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789864624751",
+      "cover": "/alice-in-borderland/alice-in-borderland-16.webp",
+      "pages": 182,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在「方塊K」的「遊戲」會場──最高法院內，僅剩的兩名參加者，苣屋駿太郎與「方塊K」九頭龍慧一，展開了針對「生命價值」的對話……究竟這場「遊戲」的贏家會是誰？「下一階段」開始第7天，即將面臨最後「遊戲」的有栖，也將與意外的人重逢……",
+      "platform": {
+        "tongli": {
+          "id": "9516407a-fa5d-4c92-fa89-08da4864d5ad",
+          "date": "2022-06-13"
+        },
+        "kobo": {
+          "id": "FBgUJa14lDGWsB_Ck8ciDg",
+          "date": "2022-07-07",
+          "productId": "2f8ae660-e143-41b1-85ae-94043640063e"
+        },
+        "bw": {
+          "id": 142771,
+          "date": "2022-07-07"
+        },
+        "readmoo": {
+          "id": "210236507000101",
+          "date": "2022-07-06",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050136447",
+          "date": "2022-07-07",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-07",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789572686775",
+      "cover": "/alice-in-borderland/alice-in-borderland-17.webp",
+      "pages": 188,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在暴風雨來襲之中，有栖、苣屋與韮木三個冤家偶然碰頭，從而爆發了不在計畫之中的「表演賽」……「大逃殺」。究竟苣屋想跟有栖吐露的心聲是什麼？而在「下一階段」開始第7天後，人頭牌終於只剩下最後一個「遊戲」了……！",
+      "platform": {
+        "tongli": {
+          "id": "919d2378-188e-4500-7e7e-08da608175d8",
+          "date": "2022-08-02"
+        },
+        "kobo": {
+          "id": "1wvMyunZZTyOtGFIIBkoUg",
+          "date": "2022-08-18",
+          "productId": "290c35c3-1066-4d7d-9c44-581103799a22"
+        },
+        "bw": {
+          "id": 145627,
+          "date": "2022-08-18"
+        },
+        "readmoo": {
+          "id": "210242818000101",
+          "date": "2022-08-17",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050140034",
+          "date": "2022-08-18",
+          "version": "V001.0002"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-20",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-07-18",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789572686782",
+      "cover": "/alice-in-borderland/alice-in-borderland-18.webp",
+      "pages": 208,
+      "authors": [
+        "麻生羽呂"
+      ],
+      "translators": [
+        "吳勵誠"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "(完結篇)與紅心Q的決戰「遊戲」──「槌球」已經打到最後階段的第３場，有栖也看透未來的企圖。就在未來終於認輸的瞬間，有栖卻開始出現異狀……究竟他能不能順利打完比賽，贏得這場「遊戲」？「今際之國」的存在之謎終於要揭曉了……！",
+      "platform": {
+        "tongli": {
+          "id": "bce3765e-c435-49e2-4e69-08da895fe379",
+          "date": "2022-09-12"
+        },
+        "kobo": {
+          "id": "Lt_KemPaGDa5i0ja0_1VdQ",
+          "date": "2022-10-06",
+          "productId": "9334ee45-9097-4fe2-bc2f-7a15a997c00c"
+        },
+        "bw": {
+          "id": 148718,
+          "date": "2022-10-06"
+        },
+        "readmoo": {
+          "id": "210248060000101",
+          "date": "2022-10-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050143446",
+          "date": "2022-10-06",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-08-31",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

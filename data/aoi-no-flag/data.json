@@ -1,0 +1,187 @@
+{
+  "lastModifiedDate": "2023-06-17",
+  "detail": {
+    "slug": "aoi-no-flag",
+    "series": {
+      "tongli": "cb2e132c-6a96-e811-a947-00155d020a17",
+      "kobo": "1AvhFBQA012C5o7WNCqGXQ",
+      "readmoo": 5833,
+      "bw": 13890,
+      "books": "A00000050115"
+    },
+    "title": "青旗",
+    "originalTitle": "",
+    "authors": [
+      "KAITO"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "校園",
+      "青春",
+      "戀愛",
+      "斷尾"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572607992",
+      "cover": "/aoi-no-flag/aoi-no-flag-1.webp",
+      "pages": 224,
+      "authors": [
+        "KAITO"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "高三的春天，一之瀨太一和兒時玩伴桃真再度同班，笨手笨腳的空勢二葉拜託太一協助她接近桃真。太一製造了巧遇進而一起看電影的計劃，不料二葉的好友伊達也在場…太一在協助的過程中，漸漸對二葉產生好感，看到她為了桃真的事而臉紅開心，心裡很不是滋味，甚至希望二葉失戀…二葉的好友伊達，觀察出桃真喜歡的對象，還說桃真跟她是一樣的…",
+      "platform": {
+        "tongli": {
+          "id": "7626dad0-bcd1-4786-571d-08d82d2d0f99",
+          "date": "2020-08-11"
+        },
+        "kobo": {
+          "id": "D80gVCVXdTOrAfx8aRMkrw",
+          "date": "2020-09-02",
+          "productId": "38958d68-1956-48de-85fa-f50ac7f05ed6"
+        },
+        "bw": {
+          "id": 96076,
+          "date": "2020-09-03"
+        },
+        "readmoo": {
+          "id": "210160821000101",
+          "date": "2020-11-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129931",
+          "date": "2022-04-29",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-08-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572608005",
+      "cover": "/aoi-no-flag/aoi-no-flag-2.webp",
+      "pages": 224,
+      "authors": [
+        "KAITO"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "換成夏季制服的初夏──。體育祭在即，班上決定參加項目時，應援團團長桃長推薦太一和二葉擔任副團長。為了回應桃真的期待，２人拚命地反覆練習。但是體育祭當天正式上台時，二葉出狀況了！？以體育祭為分界，３人的關係產生風波！",
+      "platform": {
+        "tongli": {
+          "id": "1a37fde1-893e-42d9-b0f2-08d84e1a2fa7",
+          "date": "2020-09-07"
+        },
+        "kobo": {
+          "id": "PQK86ytKGz-m7UAajtcHMQ",
+          "date": "2020-09-30",
+          "productId": "de0039cd-6b94-40f1-b000-e4327e65ff88"
+        },
+        "bw": {
+          "id": 98294,
+          "date": "2020-10-01"
+        },
+        "readmoo": {
+          "id": "210160822000101",
+          "date": "2020-11-15",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129932",
+          "date": "2022-04-29",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-09-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572608012",
+      "cover": "/aoi-no-flag/aoi-no-flag-3.webp",
+      "pages": 208,
+      "authors": [
+        "KAITO"
+      ],
+      "translators": [
+        "蔡夢芳"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "藍天和積雨雲亮得刺眼的盛夏──。為了保護太一而受傷的桃真。立志打進甲子園的桃真因此無法上場比賽，深感內疚而自責的太一。兩人都在為對方著想，因而產生爭執。在一旁擔心的二葉，邀太一去某個場所，要轉換心情…！？",
+      "platform": {
+        "tongli": {
+          "id": "fc45b86a-ee95-4abe-f5dc-08d87417e82e",
+          "date": "2020-10-20"
+        },
+        "kobo": {
+          "id": "yF1DnGpW2TGA2FkIN0fIDQ",
+          "date": "2020-11-18",
+          "productId": "32c9d0fe-8f37-44d6-9457-22c0341d3926"
+        },
+        "bw": {
+          "id": 101824,
+          "date": "2020-11-19"
+        },
+        "readmoo": {
+          "id": "210171375000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129933",
+          "date": "2022-04-29",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-10-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

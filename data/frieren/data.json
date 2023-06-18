@@ -1,0 +1,515 @@
+{
+  "lastModifiedDate": "2023-06-17",
+  "detail": {
+    "slug": "frieren",
+    "series": {
+      "tongli": "1cec58c3-8da1-eb11-ae24-00155d020a17",
+      "kobo": "F02zk2yHrF2CcBpReSMBjQ",
+      "readmoo": 8725,
+      "bw": 16229,
+      "books": "A00000043446"
+    },
+    "title": "葬送的芙莉蓮",
+    "originalTitle": "",
+    "authors": [
+      "阿部司",
+      "山田鐘人"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "冒險",
+      "戰鬥",
+      "特殊能力"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572666029",
+      "cover": "/frieren/frieren-1.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "身為精靈族的芙莉蓮與同伴欣梅爾、艾冉、海塔花了10年打倒了魔王凱旋回到王都，眾人接受了國王接見與表揚。正值每隔50年出現一次的半世紀流星雨，芙莉蓮還天真地說下次要帶大家去一個很棒的地方欣賞流星。然而50年對於身為精靈的她根本不算什麼，然而下次見面時欣梅爾已經成了老頭子，還自嘲這是最後一次跟大家相聚。後來欣梅爾的離世讓芙莉蓮開始思考時間與生命的意義…。\r\n\r\n身為精靈的主角‧芙莉蓮對於時間的概念有別於常人，透過老友的相繼離世讓她反省過去的自己，開始試著去關心身邊的人事物。藉由她的冒險之旅來探討生命的意義。",
+      "platform": {
+        "tongli": {
+          "id": "175a228e-bb5f-46c5-06d1-08d93a09f664",
+          "date": "2021-07-05"
+        },
+        "kobo": {
+          "id": "2E7YRNPzuTqcyOQzPbvZEg",
+          "date": "2021-08-04",
+          "productId": "c0b80f46-4933-42a6-9c83-0454c509ace6"
+        },
+        "bw": {
+          "id": 120580,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190324000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050110039",
+          "date": "2021-10-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-06-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572666036",
+      "cover": "/frieren/frieren-2.webp",
+      "pages": 200,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "壽命很長的精靈魔法使‧芙莉蓮，帶著魔法使弟子‧費倫一起出發，旅行的目的地又是魔王城。那裡是勇者們靈魂的長眠之地。這趟旅程，也是沿著她與勇者〈欣梅爾〉們冒險的足跡前進。途中，遇上了戰士〈艾冉〉的弟子‧修塔爾克──故事跟著追憶進入全新的局面。由英雄們的「族譜」所編織而成後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "9ae4b7a5-1c08-44ef-31e1-08d984abe640",
+          "date": "2021-10-04"
+        },
+        "kobo": {
+          "id": "pvgyV2iWwzejpixBtrq1og",
+          "date": "2021-10-20",
+          "productId": "06c9bacb-5dcc-43d2-8439-fb76c56f1037"
+        },
+        "bw": {
+          "id": 125760,
+          "date": "2021-10-21"
+        },
+        "readmoo": {
+          "id": "210203222000101",
+          "date": "2021-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050110040",
+          "date": "2021-10-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572666043",
+      "cover": "/frieren/frieren-3.webp",
+      "pages": 200,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "精靈魔法使‧芙莉蓮曾是勇者一行人的成員。她與魔王軍餘黨也是大魔族的七崩賢‧斷頭台阿烏拉爆發衝突。在過程中，芙莉蓮的歷史逐漸揭曉。歷經悠久漫長的時光，她抱持的感情是──故事由現在跟過去逐漸交織而成。由英雄們的「真實」所編織而成後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "b1387faf-b6cd-4b0b-5745-08d99cd745e3",
+          "date": "2021-11-02"
+        },
+        "kobo": {
+          "id": "z0HWQAYN_jqAUiuXmPRXkQ",
+          "date": "2021-11-17",
+          "productId": "188bc106-e38d-4a0c-a91c-475645f57696"
+        },
+        "bw": {
+          "id": 127512,
+          "date": "2021-11-18"
+        },
+        "readmoo": {
+          "id": "210205831000101",
+          "date": "2021-11-17",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050114000",
+          "date": "2021-11-18",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-01",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572675625",
+      "cover": "/frieren/frieren-4.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "精靈魔法使‧芙莉蓮在勇者死後仍舊持續活著。她再次沿著過去與勇者們一起冒險的旅途前進。替過去與現在旅程增添色彩的是，諸多無法取代的邂逅跟活動──。故事描述她陸續想起與勇者們的日常生活。由英雄們的「記憶」所編織而成後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "cb333dc8-fb03-437c-39e1-08d9e0835df3",
+          "date": "2022-02-04"
+        },
+        "kobo": {
+          "id": "EBcEenQwgz-K5izrQENhUA",
+          "date": "2022-02-17",
+          "productId": "f7266ce9-27bf-4c88-8172-d4fa325dc8d6"
+        },
+        "bw": {
+          "id": 133182,
+          "date": "2022-02-17"
+        },
+        "readmoo": {
+          "id": "210216476000101",
+          "date": "2022-02-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050122565",
+          "date": "2022-02-17",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572674826",
+      "cover": "/frieren/frieren-5.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "打敗魔王，在歷史上留名的魔法使‧芙莉蓮。為了讓前往靈魂長眠之地的旅程順利進行，她參加了魔法使測驗。全新的邂逅，都是一些不好對付的魔法使──故事中，各自的信念與決心逐漸顯現出來。解開英雄們「歷史」的後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "b4c7793e-21b1-4203-318a-08da05813e68",
+          "date": "2022-04-05"
+        },
+        "kobo": {
+          "id": "GsT_7zjwmDW0-MZML6rQ2w",
+          "date": "2022-04-21",
+          "productId": "be3f7472-2396-499e-80ba-712cdbfdf9fe"
+        },
+        "bw": {
+          "id": 137891,
+          "date": "2022-04-21"
+        },
+        "readmoo": {
+          "id": "210226432000101",
+          "date": "2022-04-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129730",
+          "date": "2022-04-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-03-23",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572682487",
+      "cover": "/frieren/frieren-6.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "打敗魔王，在歷史上留名的魔法使‧芙莉蓮。魔法使測驗的第二次測驗是攻略迷宮。跟著各有特色的魔法使們，芙莉蓮逐漸施展個人的本領──故事中，師徒的羈絆逐漸加深。闡述英雄們「真意」的後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "b77dae9d-82de-480d-c68e-08da4d06a5c9",
+          "date": "2022-07-01"
+        },
+        "kobo": {
+          "id": "5ODCEoiWrz2eZPHNr1r1bw",
+          "date": "2022-07-21",
+          "productId": "8474a66e-530d-430f-a2b4-d3c961dc489e"
+        },
+        "bw": {
+          "id": 143704,
+          "date": "2022-07-21"
+        },
+        "readmoo": {
+          "id": "210239827000101",
+          "date": "2022-07-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050137815",
+          "date": "2022-07-21",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-06-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572691175",
+      "cover": "/frieren/frieren-7.webp",
+      "pages": 188,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "與勇者們的過去帶往未來的魔法使‧芙莉蓮。通過魔法使測驗之後，踏上前往靈魂長眠之地〈AUREOLE〉的旅程。歷經邂逅與別離，回想起勇者們說過的話──透過故事可以窺見魔王死後的世界。闡述英雄們「內心」的後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "82f6a5ad-cc52-4b6e-8ccb-08da9f5e586d",
+          "date": "2022-10-10"
+        },
+        "kobo": {
+          "id": "sVc1tDYH5j2imEYY80FOJA",
+          "date": "2022-11-03",
+          "productId": "898c2673-e8ad-4057-99e5-1e7a92c29311"
+        },
+        "bw": {
+          "id": 150824,
+          "date": "2022-11-03"
+        },
+        "readmoo": {
+          "id": "210253349000101",
+          "date": "2022-11-02",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050145986",
+          "date": "2022-11-03",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-09-26",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-09-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572697528",
+      "cover": "/frieren/frieren-8.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "如今魔法使‧芙莉蓮再次踏上與過往勇者們一起走過的旅程。前往沒有一級魔法使陪同就很難前進的嚴苛北部高原。途中，與魔法使們重逢，還跟魔族進行戰鬥──故事，讓人想起難吃麵包的味道。讓英雄們的「鄉愁」不斷滲出的後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "a816679d-6bc9-4d58-029b-08db2e9f7c6a",
+          "date": "2023-04-07"
+        },
+        "kobo": {
+          "id": "im215trVqDimXN-fnVvmpA",
+          "date": "2023-04-20",
+          "productId": "4d9fd80b-3d64-4b43-a18a-8a422382b911"
+        },
+        "bw": {
+          "id": 160553,
+          "date": "2023-04-20"
+        },
+        "readmoo": {
+          "id": "210270099000101",
+          "date": "2023-04-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050157710",
+          "date": "2023-04-20",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-14",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9786263473713",
+      "cover": "/frieren/frieren-9.webp",
+      "pages": 192,
+      "authors": [
+        "阿部司",
+        "山田鐘人"
+      ],
+      "translators": [
+        "里歐貝萊"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "勇者欣梅爾的死，讓魔法使‧芙莉蓮展開了一段「認識人類」的旅程。目的地是「靈魂長眠之地〈AUREOLE〉」──魔王城的所在地。朝著北部高原前進，遇上了七崩賢‧黃金鄉的馬哈特。故事投射出殘留在黃金都市的記憶。持續描繪出英雄們「往日」後日譚奇幻故事！",
+      "platform": {
+        "tongli": {
+          "id": "87f499ff-956c-45ff-029c-08db2e9f7c6a",
+          "date": "2023-04-07"
+        },
+        "kobo": {
+          "id": "lrvMkNDp_DqIYlTwIVMbMw",
+          "date": "2023-04-20",
+          "productId": "d6d26074-915e-41c8-83ef-359d4a66dcbc"
+        },
+        "bw": {
+          "id": 160554,
+          "date": "2023-04-20"
+        },
+        "readmoo": {
+          "id": "210270100000101",
+          "date": "2023-04-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050157711",
+          "date": "2023-04-20",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-03-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-14",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}

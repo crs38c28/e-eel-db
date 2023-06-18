@@ -1,0 +1,584 @@
+{
+  "lastModifiedDate": "2023-06-17",
+  "detail": {
+    "slug": "mabotai",
+    "series": {
+      "tongli": "2488457c-3d22-ea11-bd8b-00155d020a17",
+      "kobo": "RruzFFoGiFyl7SQd07iTYw",
+      "readmoo": 11534,
+      "bw": 158743,
+      "books": "A00000058550",
+      "pubu": {
+        "store": 4538213,
+        "id": "魔都精兵的奴隸"
+      }
+    },
+    "collection": {
+      "kobo": [
+        "V8pVprYd1jCHKz0XR-J9SQ",
+        "QGpO-0puQzCDYLc15pxkyg"
+      ]
+    },
+    "title": "魔都精兵的奴隸",
+    "originalTitle": "",
+    "authors": [
+      "竹村洋平",
+      "タカヒロ"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "特殊能力",
+      "戰鬥"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572641040",
+      "cover": "/mabotai/mabotai-1.webp",
+      "pages": 202,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "日本各地出現了異空間「魔都」──由於只有女性能從魔都的「桃」得到特異的能力，因此便由女兵組成了「魔防隊」。某一天，過著抑鬱生活的男高中生──和倉優希不小心闖進了突發性產生的魔都入口，在那裡，遇到了「魔防隊」第七組的美麗隊長──羽前京香，而她竟向優希宣言：「我要你當我的奴隸。」",
+      "platform": {
+        "tongli": {
+          "id": "1e4a8808-9451-47a8-5960-08db02729332",
+          "date": "2023-02-21"
+        },
+        "kobo": {
+          "id": "V8pVprYd1jCHKz0XR-J9SQ",
+          "date": "2023-03-16",
+          "productId": "89c32862-d476-4ddc-9bc6-186565b37069"
+        },
+        "readmoo": {
+          "id": "210266320000101",
+          "date": "2023-03-15",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050155357",
+          "date": "2023-03-16",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 345801,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 152
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-01-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572641057",
+      "cover": "/mabotai/mabotai-2.webp",
+      "pages": 196,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "不慎闖入魔都的男高中生‧和倉優希，身為魔防隊第七組　組長‧羽前京香的奴隸　兼　魔防隊管理人，過著喧鬧不已的生活。驚動醜鬼巢穴的第七組，與消滅京香故鄉的宿敵「一根角」對峙。優希看著跨坐在那隻異形背上的身影，似乎有些印象──？",
+      "platform": {
+        "tongli": {
+          "id": "755aec1f-d6bb-48b5-5961-08db02729332",
+          "date": "2023-02-21"
+        },
+        "kobo": {
+          "id": "nt68Sd1vozaXuq044FSCtQ",
+          "date": "2023-03-16",
+          "productId": "1bf29b80-82b6-45e0-8abe-f3c2e6544a03"
+        },
+        "readmoo": {
+          "id": "210266321000101",
+          "date": "2023-03-15",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050155358",
+          "date": "2023-03-16",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 345802,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 106
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572644744",
+      "cover": "/mabotai/mabotai-3.webp",
+      "pages": 196,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "第七組對第六組的魔都交流戰。被姊姊的大招逼到走投無路的日万凜，可以成功展現與優希特訓的成果嗎？另外，交流戰進入朱朱ＶＳ佐原的第二戰──力量對決。在白熱化的戰鬥中，突然，未知的敵人來襲──？",
+      "platform": {
+        "tongli": {
+          "id": "d4e214c1-b333-4994-5962-08db02729332",
+          "date": "2023-02-21"
+        },
+        "kobo": {
+          "id": "L3avyUv7aTeDdamwTpS1JQ",
+          "date": "2023-03-16",
+          "productId": "1c922c81-42b2-4fd7-8606-a60442bc8e78"
+        },
+        "readmoo": {
+          "id": "210266322000101",
+          "date": "2023-03-15",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050155359",
+          "date": "2023-03-16",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 345803,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572668085",
+      "cover": "/mabotai/mabotai-4.webp",
+      "pages": 204,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "第六組組長‧天花向優希告白，希望和他交往。面對天花的熱烈追求，優希感到不知所措！？而第七組正嘗試擴張優希的能力，以備日後與逐漸激進的醜鬼戰鬥。除了京香和日万凜，朱朱和寧也騎在優希身上，摸索形態的變化，但此時，新的強敵即將來襲……？",
+      "platform": {
+        "tongli": {
+          "id": "0dd9d19f-d5ff-43e8-69a5-08db0fe3c828",
+          "date": "2023-02-21"
+        },
+        "kobo": {
+          "id": "ktAjU7jN-D-YgUQhpmuMtw",
+          "date": "2023-03-16",
+          "productId": "0d8a9e46-d73d-4bbd-968a-14da70ce20d9"
+        },
+        "readmoo": {
+          "id": "210266323000101",
+          "date": "2023-03-15",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050155360",
+          "date": "2023-03-16",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 345804,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 162
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572681244",
+      "cover": "/mabotai/mabotai-5.webp",
+      "pages": 204,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "為了救援被擄走的優希，第七組和第六組互相結盟，潛入敵方陣營。另一方面，優希與變成人型醜鬼的姊姊重逢，理解姊姊她們懷抱的想法，並打算在不起衝突的狀況下試著說服魔防隊……！？雙方的想法互相碰撞，激鬥將揭開序幕──！",
+      "platform": {
+        "tongli": {
+          "id": "e12c0240-9eaa-49eb-5963-08db02729332",
+          "date": "2023-02-21"
+        },
+        "kobo": {
+          "id": "TbkRKmDB9DWjibF3dbfYeA",
+          "date": "2023-03-16",
+          "productId": "31447d71-49e3-4d25-9bd0-36a03995e2f6"
+        },
+        "readmoo": {
+          "id": "210266324000101",
+          "date": "2023-03-15",
+          "version": "1.002"
+        },
+        "books": {
+          "id": "E050155361",
+          "date": "2023-03-16",
+          "version": "V001.0003"
+        },
+        "pubu": {
+          "id": 345805,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 156
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-01-13",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572684467",
+      "cover": "/mabotai/mabotai-6.webp",
+      "pages": 200,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "優希的姊姊青羽是人型醜鬼，天花與青羽經過一陣激鬥，天花倒下──。此時，第六組和第七組的成員們趕到現場，形勢逆轉！京香勸青羽投降，但青羽仍固執己見，眼看戰鬥即將再次展開。但，自稱「八雷神」的新刺客卻突然出現……！？",
+      "platform": {
+        "tongli": {
+          "id": "bb959724-6c95-4c0f-0d0e-08db13109de9",
+          "date": "2023-03-17"
+        },
+        "kobo": {
+          "id": "ccWDKDV9pDqmlqMnpL93nw",
+          "date": "2023-04-06",
+          "productId": "8921c24c-7f3c-4627-a292-42b719d823da"
+        },
+        "readmoo": {
+          "id": "210268801000101",
+          "date": "2023-04-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050156739",
+          "date": "2023-04-06",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 347117,
+          "date": "2023-04-06",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-02-24",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572684474",
+      "cover": "/mabotai/mabotai-7.webp",
+      "pages": 200,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "陳楷錞"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "「組長會議」當下有大群醜鬼襲來。統帥魔防隊的山城戀總組長，其壓倒性的能力終於揭曉！看到戀的強悍，優希難掩驚訝，而戀卻對優希莫名欣賞……？再來，八雷神也有動作了，魔防隊為強化團隊合作，實施聯合訓練。而「無窮之鎖（SLAVE）」的出借，則讓優希多了新的主人──？",
+      "platform": {
+        "tongli": {
+          "id": "7a967d2e-cd7e-4340-f27c-08db1ea60ef2",
+          "date": "2023-03-17"
+        },
+        "kobo": {
+          "id": "344YcL996TaHip0UNb1kcA",
+          "date": "2023-04-06",
+          "productId": "df895fc0-8dd2-4723-a49e-c8b8ccd85d37"
+        },
+        "readmoo": {
+          "id": "210268802000101",
+          "date": "2023-04-05",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050156740",
+          "date": "2023-04-06",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 347118,
+          "date": "2023-04-06",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-03-16",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572684481",
+      "cover": "/mabotai/mabotai-8.webp",
+      "pages": 204,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [
+        "杜信彰"
+      ],
+      "nsfw": true,
+      "price": 55,
+      "description": "由於京香將自身能力『無窮之鎖』借出的緣故，而成了魔防隊總組長．山城戀的奴隸的優希，卻因她的力量太過強大而失控…受到了需要花費一段時間才能恢復的傷害。\r\n\r\n就在此時，名門．東家宣佈要舉辦決定下屆當家的「東之晚餐」。日万凜為了向母親．風舞希，以及東家展現自己的實力，決定參加這場盛會。\r\n賭上尊嚴之戰的結果會是如何呢──？",
+      "platform": {
+        "tongli": {
+          "id": "343b77db-d49b-48a9-2701-08db3eebbe52",
+          "date": "2023-05-22"
+        },
+        "kobo": {
+          "id": "QGpO-0puQzCDYLc15pxkyg",
+          "date": "2023-06-15",
+          "productId": "d7d03e21-292f-4272-87f8-c4df207de59f"
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "E050166012",
+          "date": "2023-06-15",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-28",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-04-28",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "",
+      "cover": "/mabotai/mabotai-9.webp",
+      "pages": 190,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [],
+      "nsfw": true,
+      "price": 55,
+      "description": "在決定下屆當家的「東之晚餐」當中表現活躍的優希，由於借出給日万凜的母親．風舞希，使得『無窮之鎖（奴隸）』發動了全新的形態，結果導致母女倆同時給他“獎勵”…！\r\n\r\n當京香與優希的羈絆透過借出而日漸加深之際，在現世的橫濱卻陸續發生年輕女性憑空消失的事件。為了追緝監視器拍到的『八雷神』空折，優希與京香及第二組組長．上運天美羅一同趕赴現世，但──？",
+      "platform": {
+        "tongli": {
+          "id": "c4fa72b5-e8c6-4624-007f-08db5fe34292",
+          "date": "2023-06-12"
+        },
+        "kobo": {
+          "id": "",
+          "date": "",
+          "productId": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "",
+      "cover": "/mabotai/mabotai-10.webp",
+      "pages": 192,
+      "authors": [
+        "竹村洋平",
+        "タカヒロ"
+      ],
+      "translators": [],
+      "nsfw": true,
+      "price": 55,
+      "description": "在橫濱不斷誘拐年輕女性的『八雷神』之一．空折。優希等人雖成功救出人質，空折卻趁京香不在的時候襲擊優希…！\r\n\r\n面對被散佈至橫濱各地的大量醜鬼，第二組組長美羅發動分身絕技．『緋色連隊（ALL KILLING）』應戰。就在戰鬥進入熾烈的白熱化階段之際，空折也隨著轉變成全新的形態──？",
+      "platform": {
+        "tongli": {
+          "id": "b8fb776f-c7e7-4c5d-0080-08db5fe34292",
+          "date": "2023-06-12"
+        },
+        "kobo": {
+          "id": "",
+          "date": "",
+          "productId": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      }
+    }
+  ]
+}

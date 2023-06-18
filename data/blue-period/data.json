@@ -1,0 +1,762 @@
+{
+  "lastModifiedDate": "2023-06-17",
+  "detail": {
+    "slug": "blue-period",
+    "series": {
+      "tongli": "fee649ea-2f30-e911-8d3a-00155d020a17",
+      "kobo": "E8I2CJ3_TVSuvIIPIcsaaw",
+      "readmoo": 6068,
+      "bw": 13076,
+      "books": "A00000029335",
+      "pubu": {
+        "store": 4538213,
+        "id": "藍色時期"
+      }
+    },
+    "title": "藍色時期",
+    "originalTitle": "",
+    "authors": [
+      "山口飛翔"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "校園",
+      "勵志"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572622780",
+      "cover": "/blue-period/blue-period-1.webp",
+      "pages": 226,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "矢口八虎雖然像個不良少年，愛喝酒抽菸和朋友打混，但在學校卻是個成績優異、深受歡迎的學生，然而他卻對這種空虛無趣的生活感到焦躁。某一天在美術社中，看見學姊美麗的油畫，以及美術老師那番建言，讓他決心想嘗試畫畫這條路。在作畫的過程中，也重新發現自我，從中找到人生的意義與目標，就此開啟了考美術大學的努力之路。",
+      "platform": {
+        "tongli": {
+          "id": "ceda11f4-72a6-4d83-0324-08d7ea955e5c",
+          "date": "2020-05-08"
+        },
+        "kobo": {
+          "id": "NDZ5UcYgOTSAZWQDWi_ZeQ",
+          "date": "2020-05-20",
+          "productId": "7fcd70f0-90df-4aec-85e5-2feee7d31629"
+        },
+        "bw": {
+          "id": 88713,
+          "date": "2020-05-21"
+        },
+        "readmoo": {
+          "id": "210150157000101",
+          "date": "2020-07-08",
+          "version": "1.001"
+        },
+        "books": {
+          "id": "E050104838",
+          "date": "2021-09-07",
+          "version": "V001.0002"
+        },
+        "pubu": {
+          "id": 336019,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 207
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-11-18",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572622797",
+      "cover": "/blue-period/blue-period-2.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "高中生矢口八虎迷上繪畫的樂趣，決心要考美大。這輩子都享受著社交與念書達標通關的現充男生，內心初次萌生的渴望，改變了他的人生。\r\n不畫畫的人也深受震撼，洋溢著熱血毅力的美大應考故事，世界充滿著試煉與喜悅！",
+      "platform": {
+        "tongli": {
+          "id": "32fedfb6-269b-4b51-4227-08d8403a4acd",
+          "date": "2020-09-01"
+        },
+        "kobo": {
+          "id": "Ma4KPLas-jSXFe_tSywHag",
+          "date": "2020-09-16",
+          "productId": "adf93acd-4448-4ab6-aef5-59e9e9a1e681"
+        },
+        "bw": {
+          "id": 97118,
+          "date": "2020-09-17"
+        },
+        "readmoo": {
+          "id": "210171586000101",
+          "date": "2021-02-03",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104839",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336020,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 161
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2020-08-31",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572622803",
+      "cover": "/blue-period/blue-period-3.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "迷上繪畫的樂趣，並立志考進美術大學的高中生．矢口八虎。考期將至，卻遇上新的瓶頸！\r\n目標是考上美術大學，燃燒青春並充滿熱血與毅力的藝術題材應考故事！",
+      "platform": {
+        "tongli": {
+          "id": "ab9bc164-3fba-48db-beed-08d8b7ad0da0",
+          "date": "2021-02-03"
+        },
+        "kobo": {
+          "id": "4OTwmbIr4zCB685GQ4JDGg",
+          "date": "2021-02-17",
+          "productId": "877f6e2f-e846-4c55-a08e-d7a3accef82a"
+        },
+        "bw": {
+          "id": 108838,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210175601000101",
+          "date": "2021-03-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104840",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336021,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 148
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-02-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572629796",
+      "cover": "/blue-period/blue-period-4.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Ｎｉｖａ"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "術科考試當前，八虎被補習班講師大葉指出欠缺的事物！而讓他茅塞頓開的人居然是好友阿戀？緊接著，術科初試終將拉開序幕－－！不畫畫的人也會熱血不已，火熱話題的藝術系奮發向上漫畫！",
+      "platform": {
+        "tongli": {
+          "id": "1a3c28ca-cfb2-481a-d1a0-08d8e77ccd16",
+          "date": "2021-04-01"
+        },
+        "kobo": {
+          "id": "WGLTKh997DmulIpSHnD5-A",
+          "date": "2021-04-14",
+          "productId": "510438cd-b422-446e-8882-90089a731fc5"
+        },
+        "bw": {
+          "id": 111812,
+          "date": "2021-04-15"
+        },
+        "readmoo": {
+          "id": "210179246000101",
+          "date": "2021-05-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104841",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336022,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789572642566",
+      "cover": "/blue-period/blue-period-5.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "八虎雖然經歷一場突發狀況，但總算通過了初試。然而得知龍二放棄考試的消息後，卻越來越無法專心準備接下來的複試……。\r\n只要讀過就會燃起幹勁！討論度超高的感染式青春漫畫！",
+      "platform": {
+        "tongli": {
+          "id": "e1f3fe82-cf43-409b-d1a1-08d8e77ccd16",
+          "date": "2021-04-01"
+        },
+        "kobo": {
+          "id": "kQm67NNHkTy9fpdTDtTSHw",
+          "date": "2021-04-14",
+          "productId": "473bd67d-63ad-4920-abaa-a4b6b8fbc9d6"
+        },
+        "bw": {
+          "id": 111813,
+          "date": "2021-04-15"
+        },
+        "readmoo": {
+          "id": "210179247000101",
+          "date": "2021-05-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104842",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336023,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 163
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789572664025",
+      "cover": "/blue-period/blue-period-6.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "總覺得日常生活中欠缺某些事物的少年，在邂逅一幅畫作後，一腳踏入了繪畫的世界。初次對自身懷抱熱切的渴望，持續苦戰下去。藝大應考篇迎來最高潮！",
+      "platform": {
+        "tongli": {
+          "id": "0389d567-05fd-4a1d-93b4-08d93d022707",
+          "date": "2021-07-06"
+        },
+        "kobo": {
+          "id": "BfhiPd4hiTa6wf49gooMpg",
+          "date": "2021-08-04",
+          "productId": "6cb45ff3-eaff-4152-80be-a865cfbef5e5"
+        },
+        "bw": {
+          "id": 120576,
+          "date": "2021-08-05"
+        },
+        "readmoo": {
+          "id": "210190301000101",
+          "date": "2021-08-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050104843",
+          "date": "2021-09-07",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336024,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 170
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-07-02",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789572664032",
+      "cover": "/blue-period/blue-period-7.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "應屆考上東京藝大的矢口八虎。懷著不安與期待迎來入學典禮，一個嶄新的邂逅正等待著他！現充男生走向美術的世界－－！激發動力去付諸行動的藝術系青春漫畫！",
+      "platform": {
+        "tongli": {
+          "id": "749ca40b-286e-498c-31e2-08d984abe640",
+          "date": "2021-10-04"
+        },
+        "kobo": {
+          "id": "MJa659UmZTWkNqyzg_DpuA",
+          "date": "2021-10-20",
+          "productId": "00711336-b2b7-450c-906a-e23ecf52f4d2"
+        },
+        "bw": {
+          "id": 125734,
+          "date": "2021-10-21"
+        },
+        "readmoo": {
+          "id": "210203184000101",
+          "date": "2021-10-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050110038",
+          "date": "2021-10-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336025,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 164
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-09-30",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789572664049",
+      "cover": "/blue-period/blue-period-8.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "高二開始畫畫，考上美大的最高學府「東京藝大」的矢口八虎。下一道課題是「東京的風景」。動力下滑的八虎，將面臨更高難度的課題！緊接著暑假突然到來！藝大首場大型活動「藝祭」的準備，正等待著他……！",
+      "platform": {
+        "tongli": {
+          "id": "dba5a1ce-0dac-4914-ba0b-08d9b637472b",
+          "date": "2021-12-07"
+        },
+        "kobo": {
+          "id": "GQaIsbUm1jCP_eslbqT5Rg",
+          "date": "2022-01-06",
+          "productId": "f61d1b12-6472-4e83-a28a-8123cc679182"
+        },
+        "bw": {
+          "id": 130695,
+          "date": "2022-01-06"
+        },
+        "readmoo": {
+          "id": "210213012000101",
+          "date": "2022-01-05",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050119248",
+          "date": "2022-01-06",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336026,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 168
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-12-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789572664056",
+      "cover": "/blue-period/blue-period-9.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了製作藝祭的名物「神轎」，八虎和神轎隊每天都趕工到很晚。然而這場看不見終點的工程和盛夏的暑氣，使他們的體力到達極限。就在此時，法被隊的村井來到他們眼前……。之後究竟能否順利迎接藝祭的到來呢。緊接著，令人苦惱的藝大生活即將邁入新學期－－！",
+      "platform": {
+        "tongli": {
+          "id": "5165410d-5561-4b66-39df-08d9e0835df3",
+          "date": "2022-02-01"
+        },
+        "kobo": {
+          "id": "NnItvb1U2T2Iwj8xcW8Rcg",
+          "date": "2022-02-17",
+          "productId": "2643fc9f-2d76-48c9-be5f-5bf6605c6629"
+        },
+        "bw": {
+          "id": 133179,
+          "date": "2022-02-17"
+        },
+        "readmoo": {
+          "id": "210216456000101",
+          "date": "2022-02-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050122564",
+          "date": "2022-02-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336027,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 166
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-01-24",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789572671467",
+      "cover": "/blue-period/blue-period-10.webp",
+      "pages": 210,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "世田介近期災厄不斷。八虎不希望他喪失自信，於是說出「世田介同學很有天分」來鼓勵他，卻因為彼此對天分與努力的看法不同，導致雙方關係緊繃。深切了解自身視野狹隘的八虎，為了和世田介同學坦誠相對，便問他「你喜歡畫畫嗎」－－",
+      "platform": {
+        "tongli": {
+          "id": "92a60910-0e12-469f-6816-08d9f6b23053",
+          "date": "2022-03-01"
+        },
+        "kobo": {
+          "id": "JadCnbffhjy72JAy-Fl09w",
+          "date": "2022-03-17",
+          "productId": "c57096e2-d5fd-4bb6-8c21-e5f2ccc8a249"
+        },
+        "bw": {
+          "id": 134874,
+          "date": "2022-03-17"
+        },
+        "readmoo": {
+          "id": "210220672000101",
+          "date": "2022-03-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050125746",
+          "date": "2022-03-17",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336028,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 177
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-02-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789572679531",
+      "cover": "/blue-period/blue-period-11.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為課題與評價所苦的藝大第１年。一籌莫展的八虎依然勇敢面對自我，透過升班創作展體會成長的滋味。然而對自己和藝大都感到懷疑與不安的八虎，決定將目光轉向校外，致電應徵繪畫教室的工讀生。想不到接起電話的人竟是美術社的恩師．佐伯老師！",
+      "platform": {
+        "tongli": {
+          "id": "4868757d-892e-4c3e-31a0-08da05813e68",
+          "date": "2022-04-05"
+        },
+        "kobo": {
+          "id": "e2DVqsjzaDKK_LIW4x0MLA",
+          "date": "2022-04-21",
+          "productId": "175eefb0-ac10-41a5-a26d-4af3f878386a"
+        },
+        "bw": {
+          "id": 137889,
+          "date": "2022-04-21"
+        },
+        "readmoo": {
+          "id": "210226413000101",
+          "date": "2022-04-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050129722",
+          "date": "2022-04-21",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336029,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 165
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-03-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789572695081",
+      "cover": "/blue-period/blue-period-12.webp",
+      "pages": 194,
+      "authors": [
+        "山口飛翔"
+      ],
+      "translators": [
+        "Niva"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "對自己的才能、以及對大學抱持的疑問與不安，讓八虎對美術的熱情蒙上一層陰影，並帶著這股鬱悶度過每一天。升上大二，遇見新的講師和教授，甚至和補習班時期的同班同學重逢，八虎是否能找回對美術的熱情呢？",
+      "platform": {
+        "tongli": {
+          "id": "4d97ad5f-cd1a-49fe-a890-08dad1e2fcc1",
+          "date": "2022-12-05"
+        },
+        "kobo": {
+          "id": "BetMi2j5uzWElVXbilvR3A",
+          "date": "2023-01-05",
+          "productId": "101fa66c-ea7f-441e-ba32-0aa89296fd4e"
+        },
+        "bw": {
+          "id": 154755,
+          "date": "2023-01-05"
+        },
+        "readmoo": {
+          "id": "210259441000101",
+          "date": "2023-01-04",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050150636",
+          "date": "2023-01-05",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 336030,
+          "date": "2023-01-27",
+          "type": [
+            "epub"
+          ],
+          "size": 179
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-11-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-11-29",
+          "width": 1126,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}
