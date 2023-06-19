@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-10",
+  "lastModifiedDate": "2023-06-19",
   "detail": {
     "slug": "munakata-ikouroku",
     "series": {
@@ -745,7 +745,7 @@
         "kobo": {
           "id": "LgO3YVks-DmnlWwmp0ISnQ",
           "date": "2009-12-15",
-          "productId": "b6c56269-5671-4a43-9a60-1be41a30ec17"
+          "productId": "8a591e33-c5d1-4273-818a-872f8b87b722"
         },
         "bw": {
           "id": 17729,
@@ -754,7 +754,7 @@
         "readmoo": {
           "id": "210108621000101",
           "date": "2019-04-24",
-          "version": "1.001"
+          "version": "1.002"
         },
         "books": {
           "id": "E050027317",
@@ -773,8 +773,8 @@
       "epub": {
         "opf": {
           "modified": "2015-10-20",
-          "width": 841,
-          "height": 1200
+          "width": 1366,
+          "height": 2048
         },
         "img": {
           "modified": "2023-05-29",
@@ -802,7 +802,7 @@
         "kobo": {
           "id": "zRl1qnKYzjeshaor6y3hMA",
           "date": "2009-12-15",
-          "productId": "398b9cf3-d843-457c-9428-b203cd89851a"
+          "productId": "c3f29b7e-b41f-4276-8a2b-9e573770c9dd"
         },
         "bw": {
           "id": 17730,
@@ -811,7 +811,7 @@
         "readmoo": {
           "id": "210108622000101",
           "date": "2019-04-24",
-          "version": "1.001"
+          "version": "1.002"
         },
         "books": {
           "id": "E050027328",
@@ -830,8 +830,8 @@
       "epub": {
         "opf": {
           "modified": "2015-10-20",
-          "width": 839,
-          "height": 1200
+          "width": 1436,
+          "height": 2048
         },
         "img": {
           "modified": "2023-05-29",
