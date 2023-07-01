@@ -1,0 +1,371 @@
+{
+  "lastModifiedDate": "2023-06-20",
+  "detail": {
+    "slug": "sakamoto-days",
+    "series": {
+      "tongli": "66ab53a9-17ba-ec11-80ba-40f2e9cd029b",
+      "kobo": "sakamoto-days-4",
+      "bw": 19959,
+      "books": "A00000058246",
+      "pubu": {
+        "store": 4538213,
+        "id": "SAKAMOTO DAYS 坂本日常"
+      }
+    },
+    "collection": {
+      "readmoo": [
+        210264181000101,
+        210264182000101,
+        210275213000101,
+        210275214000101
+      ]
+    },
+    "title": "SAKAMOTO DAYS 坂本日常",
+    "originalTitle": "",
+    "authors": [
+      "鈴木祐斗"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "搞笑",
+      "熱血戰鬥"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789572686997",
+      "cover": "/sakamoto-days/sakamoto-days-1.webp",
+      "pages": 192,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "在悠閒小鎮開設商店的發福男子‧坂本太郎，真實身分竟是在遇見真命天女後隱退數年的傳奇殺手！昔日搭檔兼小弟阿新捎來消息，有人在殺手界重金懸賞要坂本太郎的命，從那一刻起，平靜的生活一去不復返……但是坂本太郎不允許！於是，為了保衛家人和美好的日常生活，坂本帶領小弟和許多新、舊朋友，抵抗接連來襲的敵人，卻慢慢發現幕後黑手似乎沒那麼簡單……？",
+      "platform": {
+        "tongli": {
+          "id": "6f0bbb92-e805-4268-0c84-08daf51e70da",
+          "date": "2023-02-09"
+        },
+        "kobo": {
+          "id": "sakamoto-days-1-2",
+          "date": "2023-03-02",
+          "productId": "10da3687-90bd-40b4-8d59-7494c7f553d9"
+        },
+        "bw": {
+          "id": 157540,
+          "date": "2023-03-02"
+        },
+        "readmoo": {
+          "id": "210264181000101",
+          "date": "2023-03-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050154074",
+          "date": "2023-03-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 345806,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 149
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-01-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-01-11",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789572687000",
+      "cover": "/sakamoto-days/sakamoto-days-2.webp",
+      "pages": 194,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "阿新與想取坂本性命的奇特殺手對峙，他該怎麼對抗讀不到想法的敵人…？坂本等人想盡辦法守住遊樂園裡和平的假日時光，但是高強殺手搭檔的魔爪正在逼近！必須瞞著家人的超艱難任務將有何結果？",
+      "platform": {
+        "tongli": {
+          "id": "4b236b2c-1826-455e-0c85-08daf51e70da",
+          "date": "2023-02-09"
+        },
+        "kobo": {
+          "id": "sakamoto-days-2-2",
+          "date": "2023-03-02",
+          "productId": "5f1b0281-2816-4a4d-bd2a-60c49fe1e0c1"
+        },
+        "bw": {
+          "id": 157541,
+          "date": "2023-03-02"
+        },
+        "readmoo": {
+          "id": "210264182000101",
+          "date": "2023-03-01",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050154075",
+          "date": "2023-03-02",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 345807,
+          "date": "2023-03-23",
+          "type": [
+            "epub"
+          ],
+          "size": 154
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-01-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-01-12",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789572687017",
+      "cover": "/sakamoto-days/sakamoto-days-3.webp",
+      "pages": 192,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "坂本等人參加了商店街主辦的生存遊戲大賽，目標是獲得獎金100萬圓，不料必須和想要坂本小命的一級品笨蛋狙擊手‧平助組隊？除此之外，以前養育阿新的地下組織，竟然將魔爪伸向坂本商店…？",
+      "platform": {
+        "tongli": {
+          "id": "28fe3ec0-be54-4532-26dc-08db3eebbe52",
+          "date": "2023-05-08"
+        },
+        "kobo": {
+          "id": "sakamoto-days-3-2",
+          "date": "2023-06-01",
+          "productId": "22ec73e9-0189-4b86-8834-c898db6ef91a"
+        },
+        "bw": {
+          "id": 164164,
+          "date": "2023-06-01"
+        },
+        "readmoo": {
+          "id": "210275213000101",
+          "date": "2023-05-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050162532",
+          "date": "2023-06-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357845,
+          "date": "2023-06-01",
+          "type": [
+            "epub"
+          ],
+          "size": 142
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-04-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789572687024",
+      "cover": "/sakamoto-days/sakamoto-days-4.webp",
+      "pages": 198,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [
+        "陳姿君"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "坂本商店、殺手軍團、ORDER等三方勢力，在研究所的地下深處狹路相逢！由於暗中蠢動的「那個男人」之存在，使現場氣氛十分緊繃，此時鹿島和勢羽對試圖奪回小陸的坂本商店發動攻擊！救人行動的結果將會如何…？",
+      "platform": {
+        "tongli": {
+          "id": "022da027-a51e-4696-26dd-08db3eebbe52",
+          "date": "2023-05-08"
+        },
+        "kobo": {
+          "id": "sakamoto-days-4-2",
+          "date": "2023-06-01",
+          "productId": "8380b46e-9e01-4df3-94f7-ea4463cfc60a"
+        },
+        "bw": {
+          "id": 164165,
+          "date": "2023-06-01"
+        },
+        "readmoo": {
+          "id": "210275214000101",
+          "date": "2023-05-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050162533",
+          "date": "2023-06-01",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 357846,
+          "date": "2023-06-01",
+          "type": [
+            "epub"
+          ],
+          "size": 157
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-04-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2023-04-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "",
+      "cover": "/sakamoto-days/sakamoto-days-5.webp",
+      "pages": 192,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "「任憑運氣左右生死的傢伙死得最快」──坂本商店vs.中國黑手黨‧無糖的賭場對決越發緊張！坂本商店是否能保護小陸、獲得懸賞的情報？除此之外，最兇惡的刺客們即將跨海來找坂本！",
+      "platform": {
+        "tongli": {
+          "id": "21e08120-01e6-4bb8-fd6d-08db61763308",
+          "date": "2023-06-05"
+        },
+        "kobo": {
+          "id": "",
+          "date": "",
+          "productId": ""
+        },
+        "bw": {
+          "id": "",
+          "date": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "",
+      "cover": "/sakamoto-days/sakamoto-days-6.webp",
+      "pages": 198,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "兇惡死刑犯、ORDER、坂本商店，廝殺在三方人馬遇見的瞬間開始！緊張的戰鬥在各處展開，此時坂本的身體出現異狀…？在背後操弄一切的「✕」真正的目標揭曉時，殺手圈將為之震盪！",
+      "platform": {
+        "tongli": {
+          "id": "173ab222-a035-40ad-fd6e-08db61763308",
+          "date": "2023-06-05"
+        },
+        "kobo": {
+          "id": "",
+          "date": "",
+          "productId": ""
+        },
+        "bw": {
+          "id": "",
+          "date": ""
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      }
+    }
+  ]
+}

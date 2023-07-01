@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-13",
+  "lastModifiedDate": "2023-06-28",
   "detail": {
     "slug": "uchu-kyodai",
     "series": {
@@ -453,7 +453,7 @@
         "kobo": {
           "id": "wcHFin-F3zC_h43WT6ukXA",
           "date": "2023-02-13",
-          "productId": "7642c20e-376f-4bd3-b621-dd075dd14514"
+          "productId": "51a6c53c-1501-48b6-ba90-452cb33ca0a5"
         },
         "bw": {
           "id": 156967,
@@ -467,7 +467,7 @@
         "books": {
           "id": "E050153171",
           "date": "2020-02-14",
-          "version": "V001.0001"
+          "version": "V001.0002"
         },
         "pubu": {
           "id": 338996,
@@ -2103,7 +2103,7 @@
       },
       "epub": {
         "opf": {
-          "modified": "2023-02-21",
+          "modified": "2023-01-18",
           "width": 1422,
           "height": 2048
         },

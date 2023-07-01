@@ -1,0 +1,1495 @@
+{
+  "lastModifiedDate": "2023-06-20",
+  "detail": {
+    "slug": "natsume",
+    "series": {
+      "tongli": "f628132c-6a96-e811-a947-00155d020a17",
+      "kobo": "l1Xc0gmqUVy2X0p3tIAE0Q",
+      "readmoo": 2525,
+      "bw": 809,
+      "books": "A00000051997"
+    },
+    "title": "妖怪連絡簿",
+    "originalTitle": "",
+    "authors": [
+      "綠川 幸(綠川ゆき)"
+    ],
+    "publisher": "東立出版社",
+    "finished": false,
+    "tags": [
+      "奇幻",
+      "校園",
+      "動畫化"
+    ]
+  },
+  "vols": [
+    {
+      "vol": 1,
+      "volName": "第1集",
+      "isbn": "9789861182568",
+      "cover": "/natsume/natsume-1.webp",
+      "pages": 199,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "孤獨的少年‧夏目擁有看得見妖怪的這項秘密。有一天，他得到了外婆鈴子留下的，和妖怪們之間的契約書「聯絡簿」。從此以後，就陷入被妖怪們追趕的窘境！於是夏目展開了和保鏢（自稱）貓咪老師一同將名字還給妖怪們的日子──？",
+      "platform": {
+        "tongli": {
+          "id": "45be7985-a54a-43fe-b791-08d603da9a33",
+          "date": "2016-04-27"
+        },
+        "kobo": {
+          "id": "5EkglEZrITCK_0zzgw-YtQ",
+          "date": "2017-10-30",
+          "productId": "8016fb75-21e4-4671-bbfb-a7c79485cb71"
+        },
+        "bw": {
+          "id": 5307,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146105000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135760",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-04-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 2,
+      "volName": "第2集",
+      "isbn": "9789861182575",
+      "cover": "/natsume/natsume-2.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "少年夏目在繼承了外婆鈴子的遺物──統率妖怪們的契約書「連絡簿」之後，就過著將名字歸還給妖怪們的日子。有一天，他和同學一起去參加試膽大會，結果在那裡發現妖怪的氣息！夏目和保鏢貓咪老師一同前去追查真相，不過…？妖怪契約奇譚第2集登場。",
+      "platform": {
+        "tongli": {
+          "id": "cc2fd0ac-8a82-4228-b792-08d603da9a33",
+          "date": "2016-05-10"
+        },
+        "kobo": {
+          "id": "U-N74tsDsjGF7Wp6jXW_yg",
+          "date": "2017-10-30",
+          "productId": "2ac162db-7743-404c-80cc-bf50c649b2a0"
+        },
+        "bw": {
+          "id": 5308,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146107000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135761",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-04-27",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 3,
+      "volName": "第3集",
+      "isbn": "9789861197319",
+      "cover": "/natsume/natsume-3.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "從外婆鈴子那裡繼承了可以統率妖怪們的契約書「連絡簿」之後，少年夏目就一直在將名字歸還給妖怪們。有一天，出現和保鏢‧貓咪老師一模一樣的黑貓咪老師，他從夏目的手中奪走了「連絡簿」！慌忙追上去的夏目和貓咪老師所見到的景象居然是…？",
+      "platform": {
+        "tongli": {
+          "id": "60d047b1-5941-47ce-b793-08d603da9a33",
+          "date": "2016-06-10"
+        },
+        "kobo": {
+          "id": "bHGSF2UMWjuT2jmYfYDQeA",
+          "date": "2017-10-30",
+          "productId": "f85d2246-19af-4cfc-a362-13596a9e924b"
+        },
+        "bw": {
+          "id": 5309,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146109000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135762",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-06-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 4,
+      "volName": "第4集",
+      "isbn": "9789861005874",
+      "cover": "/natsume/natsume-4.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "擁有強大妖力的外婆‧鈴子的遺物「連絡簿」，是能夠統率眾多妖怪的契約書。繼承之後，決定歸還名字的少年夏目每天都被妖怪攻擊，忙得不可開交。就在這時候，在他和妖怪保鏢貓咪老師一同前去的積雪空地上，前來要求他幫忙的是？",
+      "platform": {
+        "tongli": {
+          "id": "9a07cffd-e5e2-4543-b794-08d603da9a33",
+          "date": "2016-07-13"
+        },
+        "kobo": {
+          "id": "HbhnU6KmBjm8damaNJ9OUw",
+          "date": "2017-10-30",
+          "productId": "94fe60fb-e573-43d9-baea-08ef241474c6"
+        },
+        "bw": {
+          "id": 5310,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146112000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135763",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-07-12",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 5,
+      "volName": "第5集",
+      "isbn": "9789861016238",
+      "cover": "/natsume/natsume-5.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目每天都過著將受到外婆的遺物‧「連絡簿」所支配的妖怪們的名字還給他們的日子。有一天，他邂逅了在地面上畫下魔法陣的少女‧多軌。多軌為了解除從前妖怪施加在自己身上的咒術而四處奔走，於是夏目決定助她一臂之力。不過，夏目本身也受到了詛咒？妖怪契約奇譚第５集！",
+      "platform": {
+        "tongli": {
+          "id": "39819e2c-5942-4091-b795-08d603da9a33",
+          "date": "2016-07-20"
+        },
+        "kobo": {
+          "id": "vvgAa2_GHDy8KHoBE-VtLg",
+          "date": "2017-10-30",
+          "productId": "ae8ffbb4-1b88-48d3-999f-117cbe2990f2"
+        },
+        "bw": {
+          "id": 5311,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146114000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135764",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-07-19",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 6,
+      "volName": "第6集",
+      "isbn": "9789861022352",
+      "cover": "/natsume/natsume-6.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "外婆的遺物「連絡簿」是統率許多妖怪的契約書。繼承它之後，每天都忙著歸還妖怪名字的夏目在廢屋當中，解救了被關在箱子裡的少年‧介。雖然擊退了攻擊他的妖怪，不過還有其他人也盯上了他？妖怪契約奇譚第６集！除了標題作品外，還收錄短篇「校園一隅」！",
+      "platform": {
+        "tongli": {
+          "id": "ac8a5f5b-96bf-4bc5-b796-08d603da9a33",
+          "date": "2016-08-23"
+        },
+        "kobo": {
+          "id": "1-0viWkx-ja5oJbkI09MIw",
+          "date": "2017-10-30",
+          "productId": "3fa68a09-525a-4e6b-8765-159aaf37d409"
+        },
+        "bw": {
+          "id": 5312,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146116000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135765",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-08-16",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "9789861031873",
+      "cover": "/natsume/natsume-7.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "外婆的遺物「連絡簿」是統率許多妖怪的契約書。繼承這項遺物，每天都在歸還名字的夏目，有一天在附近森林裡遭遇奪取妖怪鮮血的事件。在與名取共同追查事件的期間，遇上除妖師‧的場一門的首領的場…？同時收錄短篇「夏日嘆息」！",
+      "platform": {
+        "tongli": {
+          "id": "eab1c459-212e-47f3-b797-08d603da9a33",
+          "date": "2016-09-12"
+        },
+        "kobo": {
+          "id": "rJfTVJMcVDOJaD5V6HhYjA",
+          "date": "2017-10-30",
+          "productId": "06551049-4e20-4eb6-b491-35e822454772"
+        },
+        "bw": {
+          "id": 5313,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146118000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135766",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-09-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 8,
+      "volName": "第8集",
+      "isbn": "9789861041360",
+      "cover": "/natsume/natsume-8.webp",
+      "pages": 190,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "有一天，像鏡子碎片般的東西掉進夏目眼裡。為了保護這樣的夏目，田沼被妖怪附身。只要協助那個妖怪收集鏡子的碎片，他就願意離開身體。夏目等人決定去找鏡子，但其他妖怪也想得到鏡子？大受歡迎！妖怪契約奇譚第8集！",
+      "platform": {
+        "tongli": {
+          "id": "a7d0d52d-48c0-4816-b798-08d603da9a33",
+          "date": "2016-09-26"
+        },
+        "kobo": {
+          "id": "JumvosJ2VjKIfK-qa3MqFQ",
+          "date": "2017-10-30",
+          "productId": "0abe9e7b-b208-43fc-8b6f-079b00dfea2e"
+        },
+        "bw": {
+          "id": 5314,
+          "date": "2016-10-09"
+        },
+        "readmoo": {
+          "id": "210146120000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135767",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-09-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 9,
+      "volName": "第9集",
+      "isbn": "9789861051840",
+      "cover": "/natsume/natsume-9.webp",
+      "pages": 190,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目繼承外婆的遺物──保留許多妖怪名字的「連絡簿」後，過著歸還名字的日子。有一天，被前來取回名字時遺失戒指的妖怪‧天名襲擊──？此外，夏目眼前出現想要搶走連絡簿的妖怪集團…？大受歡迎！妖怪契約奇譚第９集！",
+      "platform": {
+        "tongli": {
+          "id": "aa44b78d-6432-425e-b799-08d603da9a33",
+          "date": "2016-10-17"
+        },
+        "kobo": {
+          "id": "7aZrZ4F6UTO8dq1Fzk_VRA",
+          "date": "2017-10-30",
+          "productId": "98991eda-7345-4c4e-b2e2-0c0cbdd29e2d"
+        },
+        "bw": {
+          "id": 7431,
+          "date": "2016-12-18"
+        },
+        "readmoo": {
+          "id": "210146122000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135768",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-10-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1008
+        }
+      }
+    },
+    {
+      "vol": 10,
+      "volName": "第10集",
+      "isbn": "9789861060712",
+      "cover": "/natsume/natsume-10.webp",
+      "pages": 188,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目繼承外婆的遺物──保留許多妖怪名字的「連絡簿」後，便過著歸還名字的日子。有一天，被突然出現的老同學‧柴田硬是拉去見高中女生‧村崎。日後感到不安的夏目在趕去後，在那裡見到的她的真面目是…？妖怪契約奇譚第10集！",
+      "platform": {
+        "tongli": {
+          "id": "3debe37b-4c4a-4eb6-b79a-08d603da9a33",
+          "date": "2016-10-17"
+        },
+        "kobo": {
+          "id": "KnT6DjdQuDCaz_Ogq3EmCw",
+          "date": "2017-10-30",
+          "productId": "b993a543-e3bc-4971-a6f6-d553025623d1"
+        },
+        "bw": {
+          "id": 7432,
+          "date": "2016-12-18"
+        },
+        "readmoo": {
+          "id": "210146124000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135769",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-10-13",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 11,
+      "volName": "第11集",
+      "isbn": "9789861075662",
+      "cover": "/natsume/natsume-11.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在繼承了外婆與妖怪交換的契約書「連絡簿」後，便過著歸還名字的日子。有一天，在協助朋友‧多軌打掃家裡的倉庫時，解放了多軌的祖父封印的壞妖怪。為了阻止他變強，妖怪們協助夏目等人…？妖怪契約奇譚第11集！",
+      "platform": {
+        "tongli": {
+          "id": "d66d941a-8715-42bd-b79b-08d603da9a33",
+          "date": "2016-11-17"
+        },
+        "kobo": {
+          "id": "F4yfQIZfYjKtCMN4aqJDgQ",
+          "date": "2017-10-30",
+          "productId": "7dd2f059-a1be-4c26-b758-7e6aa60b370b"
+        },
+        "bw": {
+          "id": 7433,
+          "date": "2016-12-18"
+        },
+        "readmoo": {
+          "id": "210146125000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135770",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-11-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1010
+        }
+      }
+    },
+    {
+      "vol": 12,
+      "volName": "第12集",
+      "isbn": "9789861081748",
+      "cover": "/natsume/natsume-12.webp",
+      "pages": 188,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在繼承了外婆的遺物──寫著許多妖怪名字的契約書「連絡簿」後，便過著歸還名字的日子。有一天，被擅長模仿聲音的妖怪‧呼子欺騙，讓他進入家中。根據他的說法，是希望夏目能用連絡簿替他叫出一隻妖怪。當中的理由是──？妖怪契約奇譚第12集！",
+      "platform": {
+        "tongli": {
+          "id": "524cf3f7-1b83-4d79-b79c-08d603da9a33",
+          "date": "2016-11-17"
+        },
+        "kobo": {
+          "id": "tdAY0LlmfTGAt89xz0jTpw",
+          "date": "2017-10-30",
+          "productId": "6419a78e-11af-45b7-9270-be9e724b072f"
+        },
+        "bw": {
+          "id": 7434,
+          "date": "2016-12-18"
+        },
+        "readmoo": {
+          "id": "210146128000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135771",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-11-11",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1008
+        }
+      }
+    },
+    {
+      "vol": 13,
+      "volName": "第13集",
+      "isbn": "9789861093338",
+      "cover": "/natsume/natsume-13.webp",
+      "pages": 186,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "有一天，夏目收到除妖師一門的首領‧的場寄來的信。不過他還沒有看，就把信給弄丟了。在因不知內容而感到不安之際，的場本人出現！他的目的是？同時收錄描繪夏目與與友人‧西村&北本邂逅及交流的兩篇特別篇。妖怪契約奇譚第13集！",
+      "platform": {
+        "tongli": {
+          "id": "f496f441-9dd3-48ae-b79d-08d603da9a33",
+          "date": "2016-12-13"
+        },
+        "kobo": {
+          "id": "UTnCpsVcWzam5WvUjNuVAg",
+          "date": "2017-10-30",
+          "productId": "bedaf8ef-d9ad-4404-ad4a-f9f65898855a"
+        },
+        "bw": {
+          "id": 8045,
+          "date": "2017-01-15"
+        },
+        "readmoo": {
+          "id": "210152074000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135772",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-12-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 14,
+      "volName": "第14集",
+      "isbn": "9789863175216",
+      "cover": "/natsume/natsume-14.webp",
+      "pages": 186,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在跑腿途中被小妖怪捉走。在喉嚨受傷無法出聲時，出現另一隻認識他外婆‧鈴子的妖怪！夏目也因此獲救脫臉。不過，接著卻被帶往那隻妖怪的住處…？同時收錄以中級妖怪搭檔為主角的特別篇。妖怪契約奇譚第14集！",
+      "platform": {
+        "tongli": {
+          "id": "347a29f8-b0e9-4ae7-b79e-08d603da9a33",
+          "date": "2016-12-13"
+        },
+        "kobo": {
+          "id": "SMJ9_Ahb6z-83R7_sQQiYA",
+          "date": "2017-10-30",
+          "productId": "d95c16f1-3864-40ba-bc57-13fb93138cbb"
+        },
+        "bw": {
+          "id": 8046,
+          "date": "2017-01-15"
+        },
+        "readmoo": {
+          "id": "210146131000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135773",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2016-12-08",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 15,
+      "volName": "第15集",
+      "isbn": "9789863248897",
+      "cover": "/natsume/natsume-15.webp",
+      "pages": 186,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在街上拾獲名取的紙人，造訪上頭記載的地點。那裡有個跟前任除妖人父親同住的少女。之後，夏目與名取一同調查發生在她家中的怪事…？同時收錄描寫領養夏目前的藤原夫婦的特別篇。妖怪契約奇譚第15集！",
+      "platform": {
+        "tongli": {
+          "id": "af7cadfc-da7d-4b6a-b79f-08d603da9a33",
+          "date": "2017-01-24"
+        },
+        "kobo": {
+          "id": "xYa_sf36czmAyKdchXjO9Q",
+          "date": "2017-10-30",
+          "productId": "25105f6f-eec5-40b0-9737-a58d6b21d55a"
+        },
+        "bw": {
+          "id": 8819,
+          "date": "2017-02-22"
+        },
+        "readmoo": {
+          "id": "210146133000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135774",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-01-20",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1010
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "第16集",
+      "isbn": "9789863370215",
+      "cover": "/natsume/natsume-16.webp",
+      "pages": 186,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在學校的黑板上發現妖怪的塗鴉。正當他提高警覺時，聽說了多軌最近使用魔法陣，救出迷路走進她家的妖怪的事。夏目想要告訴多軌，她的魔法陣在除妖人當中被視為禁術…！同時收錄有小妖怪們登場的特別篇。妖怪契約奇譚第16集！",
+      "platform": {
+        "tongli": {
+          "id": "5d9db61e-df07-466e-b7a0-08d603da9a33",
+          "date": "2017-01-24"
+        },
+        "kobo": {
+          "id": "mxlJ72_04jSbIpAV1FQpSQ",
+          "date": "2017-10-30",
+          "productId": "0714c24b-65ed-465f-9f1f-964037d22d69"
+        },
+        "bw": {
+          "id": 8820,
+          "date": "2017-02-22"
+        },
+        "readmoo": {
+          "id": "210146136000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135775",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-01-20",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 17,
+      "volName": "第17集",
+      "isbn": "9789863482383",
+      "cover": "/natsume/natsume-17.webp",
+      "pages": 184,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在辦完事回家的路上，遇到一個不可思議的少年‧葵，他正在尋找兒時玩伴的少女。由於葵就連她就讀哪所學校都不知道，因此夏目帶領他到自己就讀的學校去尋找線索，接著得知了某項秘密…？同時收錄揭曉名取及的場過去的特別篇。妖怪契約奇譚第17集！",
+      "platform": {
+        "tongli": {
+          "id": "2e1aee4b-0cc2-46dc-b7a1-08d603da9a33",
+          "date": "2017-02-10"
+        },
+        "kobo": {
+          "id": "Gi4LMSEdCzeCdSTtf-EMqg",
+          "date": "2017-10-30",
+          "productId": "fff05484-f07f-481f-8f51-2a3c67021fc0"
+        },
+        "bw": {
+          "id": 8821,
+          "date": "2017-02-22"
+        },
+        "readmoo": {
+          "id": "210146138000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135776",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-02-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1009
+        }
+      }
+    },
+    {
+      "vol": 18,
+      "volName": "第18集",
+      "isbn": "9789863658610",
+      "cover": "/natsume/natsume-18.webp",
+      "pages": 188,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目遇到在師傅手下學習的妖怪‧白，突然被要求擔任裁判。根據他的說法，是想賭上繼承人寶座，和另外一名徒弟‧朱一決勝負。不過不知為何，朱四處躲藏…？同時收錄描繪夏目＆貓咪老師及少女一日的特別篇。妖怪契約奇譚第18集！",
+      "platform": {
+        "tongli": {
+          "id": "8d6bac94-209c-4a53-b7a2-08d603da9a33",
+          "date": "2017-02-10"
+        },
+        "kobo": {
+          "id": "vxhVAR5uoz2RgvH3oTBt5Q",
+          "date": "2017-10-30",
+          "productId": "873bbbba-112a-416f-9474-5f76bb57a6f1"
+        },
+        "bw": {
+          "id": 8822,
+          "date": "2017-02-22"
+        },
+        "readmoo": {
+          "id": "210146140000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135777",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-02-06",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1019
+        }
+      }
+    },
+    {
+      "vol": 19,
+      "volName": "第19集",
+      "isbn": "9789864315321",
+      "cover": "/natsume/natsume-19.webp",
+      "pages": 190,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目接到以前的同學‧柴田打來的電話後，帶著田沼前去見他。在久違重逢的聚會中，聽到「外木的人偶屋」的傳聞。聽說附近有一間應該是空屋的房子，每天晚上都傳出某種東西四處移動的聲音。前往當地的夏目在那裡見到的景象是？妖怪契約奇譚第19集！",
+      "platform": {
+        "tongli": {
+          "id": "728ef91c-28bc-48a9-b7a3-08d603da9a33",
+          "date": "2017-06-12"
+        },
+        "kobo": {
+          "id": "Usw4Uk19WTeKv9AA5pia2g",
+          "date": "2017-10-30",
+          "productId": "72528281-8085-41fa-a7bc-9f67298d78f5"
+        },
+        "bw": {
+          "id": 13781,
+          "date": "2017-07-08"
+        },
+        "readmoo": {
+          "id": "210146142000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135778",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-06-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1029
+        }
+      }
+    },
+    {
+      "vol": 20,
+      "volName": "第20集",
+      "isbn": "9789864702268",
+      "cover": "/natsume/natsume-20.webp",
+      "pages": 190,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "有一天，夏目遇到頭被卡在壺裡的妖怪。為了答謝夏目幫他把壺拿下來，那隻妖怪‧月日食讓夏目變回小孩的模樣！年紀變小後，記憶也跟著變得模糊不清的夏目就連貓咪老師都不認得了…？妖怪契約奇譚第20集！",
+      "platform": {
+        "tongli": {
+          "id": "39e14c43-0685-4027-b7a4-08d603da9a33",
+          "date": "2017-06-12"
+        },
+        "kobo": {
+          "id": "bO-bsMF5DzSKRuYCudnL2w",
+          "date": "2017-10-30",
+          "productId": "990663a2-0082-4647-8c54-d7f14d1f2280"
+        },
+        "bw": {
+          "id": 13782,
+          "date": "2017-07-08"
+        },
+        "readmoo": {
+          "id": "210146144000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135779",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-06-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1014
+        }
+      }
+    },
+    {
+      "vol": 21,
+      "volName": "第21集",
+      "isbn": "9789864821624",
+      "cover": "/natsume/natsume-21.webp",
+      "pages": 188,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目在森林裡遇見小妖怪，對方表示他受託擔任喚醒大妖怪的「喚石」一職。不過為了爭取作為謝禮的美酒，妖怪們企圖搶奪喚醒的工作！此時貓咪老師也加入戰局？同時收錄了描寫名取在遇見式神妖怪們之前的特別篇。妖怪契約奇譚第21集！",
+      "platform": {
+        "tongli": {
+          "id": "973cad4d-6f58-4523-b7a5-08d603da9a33",
+          "date": "2017-06-12"
+        },
+        "kobo": {
+          "id": "5iakL4rxbDyvZRuKS2Hnww",
+          "date": "2017-10-30",
+          "productId": "c7cbfc48-04ea-4e32-a17f-3b8dc4eb2a0c"
+        },
+        "bw": {
+          "id": 13783,
+          "date": "2017-07-08"
+        },
+        "readmoo": {
+          "id": "210146146000101",
+          "date": "2020-05-20",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135780",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2017-06-09",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 672,
+          "height": 1015
+        }
+      }
+    },
+    {
+      "vol": 22,
+      "volName": "第22集",
+      "isbn": "9789864868919",
+      "cover": "/natsume/natsume-22.webp",
+      "pages": 194,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "為了觀賞和妖怪有關的展示，夏目和田沼、多軌一同前往鄰市的某間旅館。由於天氣突然變壞而決定在旅館當中過夜，不過傳說妖怪也會到那裡來投宿…？接著，終於說出的「連絡簿」的原點是？同時收錄了兩篇特別篇！妖怪契約奇譚第22集！",
+      "platform": {
+        "tongli": {
+          "id": "67bd3227-3f7f-4653-becd-08d8b7ad0da0",
+          "date": "2021-02-07"
+        },
+        "kobo": {
+          "id": "wxCmPrjV2D29WJoJ432iTw",
+          "date": "2021-02-17",
+          "productId": "f484f8a7-5113-475f-a1af-af8d9d644103"
+        },
+        "bw": {
+          "id": 108825,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210173428000101",
+          "date": "2021-02-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135781",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 23,
+      "volName": "第23集",
+      "isbn": "9789572620106",
+      "cover": "/natsume/natsume-23.webp",
+      "pages": 190,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目等人從三隅高中的冰室學長那裡，聽說了一幅被稱為「天花板先生」的畫的傳聞。對那幅畫很感興趣的西村、北本、田沼、夏目決定組成調查隊，分頭尋找！不過冰室學長對他們說「就算找到了畫，最好也不要看。」…？妖怪契約奇譚第２３集！",
+      "platform": {
+        "tongli": {
+          "id": "c7d8d4ab-2040-4528-bece-08d8b7ad0da0",
+          "date": "2021-02-04"
+        },
+        "kobo": {
+          "id": "iWB0ir_I-DefMSd-uCZUOQ",
+          "date": "2021-02-17",
+          "productId": "85ea224c-0e9b-438a-a687-339fe4aab220"
+        },
+        "bw": {
+          "id": 108826,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210173429000101",
+          "date": "2021-02-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135782",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 24,
+      "volName": "第24集",
+      "isbn": "9789572634707",
+      "cover": "/natsume/natsume-24.webp",
+      "pages": 192,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目等人聽說了「多軌有男友」的傳聞。在驚訝的同時，也好奇男友是個怎樣的人…不過，多軌似乎真心地在為某事煩惱的樣子。夏目在問了她之後，得知意外的事實？同時收錄了和田沼等人一同去觀賞名取主演的電影的特別篇「幕間偵探」！妖怪契約奇譚第２４集！",
+      "platform": {
+        "tongli": {
+          "id": "f9f5fac5-4ae2-4342-becf-08d8b7ad0da0",
+          "date": "2021-02-04"
+        },
+        "kobo": {
+          "id": "vEw8AWEd2Tyz2sQhCD_IIQ",
+          "date": "2021-02-17",
+          "productId": "4c0f7c18-0ed4-4ce5-979b-faab111108c7"
+        },
+        "bw": {
+          "id": 108827,
+          "date": "2021-02-18"
+        },
+        "readmoo": {
+          "id": "210173430000101",
+          "date": "2021-02-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135783",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-01-29",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 25,
+      "volName": "第25集",
+      "isbn": "9789572654873",
+      "cover": "/natsume/natsume-25.webp",
+      "pages": 160,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目擔心在買完東西回家的路上分開，便再也沒有回來的貓咪老師。就在此時，表示「我撿到有趣的東西」的田沼拿出來的，居然是和貓咪老師的花紋一模一樣的陶器碎片…？除了描寫中級和小妖怪邂逅的特別篇外，還收錄了其他一篇！奇幻契約奇譚第２５集！",
+      "platform": {
+        "tongli": {
+          "id": "4fd7c786-990e-456b-073d-08d8de2b5a32",
+          "date": "2021-03-04"
+        },
+        "kobo": {
+          "id": "lU5GaqAkZz-EC_2ucbkY4w",
+          "date": "2021-03-17",
+          "productId": "e1a58633-f220-44fb-9de4-91060c7eebc6"
+        },
+        "bw": {
+          "id": 109941,
+          "date": "2021-03-18"
+        },
+        "readmoo": {
+          "id": "210176721000101",
+          "date": "2021-03-31",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135784",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2021-03-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 26,
+      "volName": "第26集",
+      "isbn": "9789572664070",
+      "cover": "/natsume/natsume-26.webp",
+      "pages": 170,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "想要取得貓型容器的收藏家‧伴，來到製作夢幻術具的村子‧燈邑。夏目為了要對抗伴，和的場一同前去取出被封印在村子裡的術具，不過箱中早已空無一物…？另一方面，在基地守護貓咪們的名取和貓咪老師，遭到陶器人偶前來攻擊？奇幻契約奇譚第２６集！",
+      "platform": {
+        "tongli": {
+          "id": "be8bfcfb-2631-4cfe-94ed-08da2cab3ba0",
+          "date": "2022-05-05"
+        },
+        "kobo": {
+          "id": "d1IDRMh83zy_9G6X-eddmg",
+          "date": "2022-05-19",
+          "productId": "557603ee-7b04-4357-8f81-dc089ab008ab"
+        },
+        "bw": {
+          "id": 139810,
+          "date": "2022-05-19"
+        },
+        "readmoo": {
+          "id": "210231172000101",
+          "date": "2022-05-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050135785",
+          "date": "2022-06-30",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-05-03",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 27,
+      "volName": "第27集",
+      "isbn": "9789572679586",
+      "cover": "/natsume/natsume-27.webp",
+      "pages": 166,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "夏目見到在天空飛舞的美麗白龍。和表示「想要看看」的貓咪老師一起尋找白龍時，見到看來無精打采的泥鰍鬍子？貓咪老師接受小妖怪的請託，調查「每次經過，地面的洞都會增加」一事。那片土地另有玄機？妖怪契約奇譚第２７集！",
+      "platform": {
+        "tongli": {
+          "id": "fa152a55-ed86-46c1-1367-08dab593bd2b",
+          "date": "2022-11-03"
+        },
+        "kobo": {
+          "id": "cUgeZIfZrTuM6_netswODw",
+          "date": "2022-11-17",
+          "productId": "34b25e3a-b785-4efd-aa08-5e00be3d309b"
+        },
+        "bw": {
+          "id": 151633,
+          "date": "2022-11-17"
+        },
+        "readmoo": {
+          "id": "210255080000101",
+          "date": "2022-11-16",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050147329",
+          "date": "2022-11-17",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-10-25",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-10-25",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    },
+    {
+      "vol": 28,
+      "volName": "第28集",
+      "isbn": "9789572695142",
+      "cover": "/natsume/natsume-28.webp",
+      "pages": 168,
+      "authors": [
+        "綠川 幸(綠川ゆき)"
+      ],
+      "translators": [
+        "尤靜慧"
+      ],
+      "nsfw": false,
+      "price": 55,
+      "description": "多軌找夏目商量，對於哥哥‧勇寄來的照片，該怎麼回信才好？兩人在喫茶店裡傷腦筋時，出現了一名意外的人物？同時還收錄了為某項「約定」，造訪的屋子裡發生的事件的「堂妹」！暢銷妖怪契約奇譚第２８集！",
+      "platform": {
+        "tongli": {
+          "id": "a7bda491-8497-4aa7-28b7-08dadca548d6",
+          "date": "2023-01-05"
+        },
+        "kobo": {
+          "id": "YgQa7Y3LyTS8Ioc9JGaiLA",
+          "date": "2023-01-19",
+          "productId": "63d26645-2723-42ff-b3f6-b79a1795fceb"
+        },
+        "bw": {
+          "id": 155839,
+          "date": "2023-01-19"
+        },
+        "readmoo": {
+          "id": "210260979000101",
+          "date": "2023-01-18",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050151994",
+          "date": "2023-01-19",
+          "version": "V001.0001"
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2022-12-22",
+          "width": 0,
+          "height": 0
+        },
+        "img": {
+          "modified": "2022-12-22",
+          "width": 1066,
+          "height": 1600
+        }
+      }
+    }
+  ]
+}
