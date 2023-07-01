@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-13",
+  "lastModifiedDate": "2023-07-02",
   "detail": {
     "slug": "real",
     "series": {
@@ -102,7 +102,7 @@
         "kobo": {
           "id": "real-02",
           "date": "2020-05-25",
-          "productId": "1e534dab-74c7-4f51-85d8-a4c869f973b2"
+          "productId": "63e795e3-076d-4c87-bef9-797198868734"
         },
         "bw": {
           "id": 88451,
@@ -111,31 +111,32 @@
         "readmoo": {
           "id": "210142007000101",
           "date": "2020-05-24",
-          "version": "1.002"
+          "version": "1.003"
         },
         "books": {
           "id": "E050068262",
           "date": "2020-05-25",
-          "version": "V001.0002"
+          "version": "V001.0003"
         },
         "pubu": {
           "id": 195664,
           "date": "2020-05-25",
           "type": [
+            "pdf",
             "epub"
           ],
-          "size": 192
+          "size": 222
         }
       },
       "epub": {
         "opf": {
           "modified": "2022-08-24",
-          "width": 1405,
+          "width": 1414,
           "height": 2048
         },
         "img": {
-          "modified": "2022-08-24",
-          "width": 1405,
+          "modified": "",
+          "width": 1414,
           "height": 2048
         }
       }
