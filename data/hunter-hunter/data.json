@@ -68,7 +68,7 @@
         "books": {
           "id": "E050113949",
           "date": "2021-11-18",
-          "version": "V001.0001"
+          "version": "V001.0002"
         },
         "pubu": {
           "id": 343303,
@@ -81,12 +81,12 @@
       },
       "epub": {
         "opf": {
-          "modified": "2020-09-18",
+          "modified": "2023-07-04",
           "width": 0,
           "height": 0
         },
         "img": {
-          "modified": "",
+          "modified": "2023-06-29",
           "width": 1066,
           "height": 1600
         }
