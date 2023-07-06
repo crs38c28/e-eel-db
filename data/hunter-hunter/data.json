@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-11",
+  "lastModifiedDate": "2023-07-07",
   "detail": {
     "slug": "hunter-hunter",
     "series": {
@@ -54,7 +54,7 @@
         "kobo": {
           "id": "39dGtSt0QzabUOqVCnJU0g",
           "date": "2018-11-21",
-          "productId": "6b1c4086-edf4-44c9-995b-1c929c34d028"
+          "productId": "cf39c004-bb4a-4d77-8a60-0dca18c18074"
         },
         "bw": {
           "id": 51591,
@@ -63,7 +63,7 @@
         "readmoo": {
           "id": "210121888000101",
           "date": "2019-12-12",
-          "version": "1.000"
+          "version": "1.001"
         },
         "books": {
           "id": "E050113949",
