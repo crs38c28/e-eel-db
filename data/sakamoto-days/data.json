@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-20",
+  "lastModifiedDate": "2023-07-06",
   "detail": {
     "slug": "sakamoto-days",
     "series": {
@@ -280,7 +280,7 @@
     {
       "vol": 5,
       "volName": "第5集",
-      "isbn": "",
+      "isbn": "9786263720022",
       "cover": "/sakamoto-days/sakamoto-days-5.webp",
       "pages": 192,
       "authors": [
@@ -296,13 +296,13 @@
           "date": "2023-06-05"
         },
         "kobo": {
-          "id": "",
-          "date": "",
-          "productId": ""
+          "id": "sakamoto-days-5-2",
+          "date": "2023-07-06",
+          "productId": "0a3e378c-ba23-40f5-90a5-c7184b3a3db4"
         },
         "bw": {
-          "id": "",
-          "date": ""
+          "id": 168499,
+          "date": "2023-07-06"
         },
         "readmoo": {
           "id": "",
@@ -325,7 +325,7 @@
     {
       "vol": 6,
       "volName": "第6集",
-      "isbn": "",
+      "isbn": "9786263720039",
       "cover": "/sakamoto-days/sakamoto-days-6.webp",
       "pages": 198,
       "authors": [
@@ -339,6 +339,51 @@
         "tongli": {
           "id": "173ab222-a035-40ad-fd6e-08db61763308",
           "date": "2023-06-05"
+        },
+        "kobo": {
+          "id": "sakamoto-days-6-2",
+          "date": "2023-07-06",
+          "productId": "95b067d9-98cb-4c44-9327-46b7e0572ba9"
+        },
+        "bw": {
+          "id": 168500,
+          "date": "2023-07-06"
+        },
+        "readmoo": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "books": {
+          "id": "",
+          "date": "",
+          "version": ""
+        },
+        "pubu": {
+          "id": "",
+          "date": "",
+          "type": [],
+          "size": 0
+        }
+      }
+    },
+    {
+      "vol": 7,
+      "volName": "第7集",
+      "isbn": "",
+      "cover": "/sakamoto-days/sakamoto-days-7.webp",
+      "pages": 194,
+      "authors": [
+        "鈴木祐斗"
+      ],
+      "translators": [],
+      "nsfw": false,
+      "price": 55,
+      "description": "坂本與「✕」終於正面對峙！面對立下不殺誓言的坂本，「✕」以坂本的家人為擋箭牌，動搖他的意志！被即將爆發的殺意吞噬的坂本會…？過去的恩怨交織糾纏，殺聯攻擊事件發展出意想不到的狀況！",
+      "platform": {
+        "tongli": {
+          "id": "c7392ff8-8138-415b-8fdc-08db76193b07",
+          "date": "2023-07-10"
         },
         "kobo": {
           "id": "",
