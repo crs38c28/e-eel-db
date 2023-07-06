@@ -29,7 +29,7 @@
       try {
         const data = await fetch(storelink).then((response) => {
           if (!response.ok) {
-            throw new Error('無法取得書本資料(已下架)');
+            throw new Error('無法取得書本資料');
           }
           return response.text();
         });

@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-13",
+  "lastModifiedDate": "2023-07-06",
   "detail": {
     "slug": "fable",
     "series": {
@@ -11,12 +11,6 @@
         "store": 29038,
         "id": "殺手寓言"
       }
-    },
-    "collection": {
-      "kobo": [
-        "iDlzapkTXjyH-PTzX_juqA",
-        "3Bvw7qaRtj2953nBobzciA"
-      ]
     },
     "title": "殺手寓言",
     "originalTitle": "",
@@ -894,6 +888,64 @@
       "epub": {
         "opf": {
           "modified": "2023-05-31",
+          "width": 1422,
+          "height": 2048
+        },
+        "img": {
+          "modified": "",
+          "width": 1422,
+          "height": 2048
+        }
+      }
+    },
+    {
+      "vol": 16,
+      "volName": "(16)",
+      "isbn": "9786263560314",
+      "cover": "/fable/fable-16.webp",
+      "pages": 211,
+      "authors": [
+        "南勝久"
+      ],
+      "translators": [
+        "平川遊佐"
+      ],
+      "nsfw": false,
+      "price": 98,
+      "description": "\\\\野蠻//\\\\滑稽//\\\\大阪日常// \n\n「我只是一個擅長殺人的專家。」　　\n　　　　　　　　　　　——寓言 / 佐藤明 (假名) \n\n\\\\六秒殺人的傳奇殺手，弱點卻是超怕燙的舌頭//\n\\\\殺手工作留職停薪中，普通人的生活意外樂趣多多//\n\n「看來扮演普通人的我也是專家呢！」　　\n　　　　　　　　　　　——寓言 / 佐藤明 (假名) \n\n\\\\硬派寫實動作片+笑中帶淚的搞笑日常=看盡人生百態的黑色喜劇//\n\n☆榮獲第41回講談社漫畫賞一般部門受賞\n★2021年日本累積銷售1200萬冊，超高人氣第二部好評連載中\n☆日本Amazon全系列 2000則5顆星評論\n★「日本奧斯卡影帝」岡田准一主演真人化電影好評熱播\n\n【內容簡介】\n在殺人倉庫，為了「毀滅真黑組」而出動。\n「新的寓言」從中國緊急回國───!!!",
+      "platform": {
+        "kobo": {
+          "id": "-5Qosp9YQjC45nPDCxTjSA",
+          "date": "2023-06-20",
+          "productId": "0b60204e-72a8-4f45-aabb-b9206e16efe4"
+        },
+        "bw": {
+          "id": 167170,
+          "date": "2023-06-20"
+        },
+        "readmoo": {
+          "id": "210278214000101",
+          "date": "2023-06-19",
+          "version": "1.000"
+        },
+        "books": {
+          "id": "E050166599",
+          "date": "2023-06-20",
+          "version": "V001.0001"
+        },
+        "pubu": {
+          "id": 364633,
+          "date": "2023-06-20",
+          "type": [
+            "pdf",
+            "epub"
+          ],
+          "size": 221
+        }
+      },
+      "epub": {
+        "opf": {
+          "modified": "2023-06-15",
           "width": 1422,
           "height": 2048
         },

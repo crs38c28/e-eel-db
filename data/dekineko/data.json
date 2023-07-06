@@ -1,5 +1,5 @@
 {
-  "lastModifiedDate": "2023-06-18",
+  "lastModifiedDate": "2023-07-06",
   "detail": {
     "slug": "dekineko",
     "series": {
@@ -223,7 +223,7 @@
         "kobo": {
           "id": "VFmfjQjVCDGDulc1udNrjA",
           "date": "2022-10-07",
-          "productId": "33adab5f-cc7c-4d2f-8adf-f4dae11d97d4"
+          "productId": "44d42671-bd51-4729-aade-5fa57b7b4076"
         },
         "bw": {
           "id": 148909,
@@ -232,12 +232,12 @@
         "readmoo": {
           "id": "210247851000101",
           "date": "2022-10-06",
-          "version": "1.000"
+          "version": "1.001"
         },
         "books": {
           "id": "E050143527",
           "date": "2022-10-07",
-          "version": "V001.0001"
+          "version": "V001.0002"
         },
         "pubu": {
           "id": 323052,
@@ -246,12 +246,12 @@
             "pdf",
             "epub"
           ],
-          "size": 127
+          "size": 126
         }
       },
       "epub": {
         "opf": {
-          "modified": "2022-09-29",
+          "modified": "2022-11-10",
           "width": 1414,
           "height": 2048
         },
