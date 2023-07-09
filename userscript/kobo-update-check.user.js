@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kobo Book Update Check
 // @namespace    https://e-eel.pages.dev
-// @version      0.2
+// @version      0.3
 // @description  Check kobo book update from your library.
 // @author       Crs
 // @match        https://www.kobo.com/*/*/library*
@@ -16,7 +16,8 @@
 
   const waitForSecs = async (ms = 3000) => new Promise((r) => setTimeout(r, ms));
   const idRegex = /readingservices\.kobo\.com\/ReadNow\/([0-9a-z-]{36})$/;
-  const storeProductIdRegex = /id="ratItemId" value="([0-9a-z-]{36})">/;
+  const twStoreProductIdRegex = /id="ratItemId"\s+value="([0-9a-z-]{36})">/;
+  const globalStoreProductIdRegex = /class="item-primary-metadata book-primary-metadata"\s+data-track-info='{&quot;productId&quot;:&quot;([0-9a-z-]{36})&quot;}'/;
   const bookUpdateCheck = async () => {
     checkButton.disabled = true;
     const allBooks = document.querySelectorAll('.library-items .item-wrapper.book');
@@ -33,7 +34,7 @@
           }
           return response.text();
         });
-        const latestProductId = data.match(storeProductIdRegex)?.[1] || '';
+        const latestProductId = data.match(twStoreProductIdRegex)?.[1] || data.match(globalStoreProductIdRegex)?.[1] || '';
         if ((latestProductId === '') || (productId === '')) {
           throw new Error('找不到商品編號(Kobo網頁改版?)');
         }
