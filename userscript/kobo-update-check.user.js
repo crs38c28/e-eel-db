@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kobo Book Update Check
 // @namespace    https://e-eel.pages.dev
-// @version      0.3
+// @version      0.4
 // @description  Check kobo book update from your library.
 // @author       Crs
 // @match        https://www.kobo.com/*/*/library*
@@ -15,7 +15,7 @@
   checkButton.style.backgroundColor = '#EDEDED';
 
   const waitForSecs = async (ms = 3000) => new Promise((r) => setTimeout(r, ms));
-  const idRegex = /readingservices\.kobo\.com\/ReadNow\/([0-9a-z-]{36})$/;
+  const idRegex = /readingservices\.kobo\.com\/ReadNow\/([0-9a-z-]{36})/;
   const twStoreProductIdRegex = /id="ratItemId"\s+value="([0-9a-z-]{36})">/;
   const globalStoreProductIdRegex = /class="item-primary-metadata book-primary-metadata"\s+data-track-info='{&quot;productId&quot;:&quot;([0-9a-z-]{36})&quot;}'/;
   const bookUpdateCheck = async () => {
